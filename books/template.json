@@ -1,9 +1,26 @@
 {
-    "": [
+    "people": [
         {
-            "title": "",
-            "author": "",
-            "link_amazon_book": ""
+            "person": "",
+            "books": [
+                {
+                    "title": "",
+                    "author": "",
+                    "link_amazon_book": "",
+                    "image": ""
+                }
+            ]
+        },
+        {
+            "person": "",
+            "books": [
+                {
+                    "title": "",
+                    "author": "",
+                    "link_amazon_book": "",
+                    "image": ""
+                }
+            ]
         }
     ]
 }

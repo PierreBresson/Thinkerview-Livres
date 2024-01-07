@@ -1,51 +1,68 @@
 {
-    "Julia Cagé": [
+    "people": [
         {
-            "title": "Une histoire du conflit politique",
-            "author": "Julia Cagé et Thomas Piketty",
-            "link_amazon_book": "https://amzn.to/4aMkAwf"
+            "person": "Julia Cagé",
+            "books": [
+                {
+                    "title": "Une histoire du conflit politique",
+                    "author": "Julia Cagé et Thomas Piketty",
+                    "link_amazon_book": "https://amzn.to/4aMkAwf",
+                    "image": "https://m.media-amazon.com/images/I/71f3oeekbsL._SY522_.jpg"
+                },
+                {
+                    "title": "Le vote FN au village",
+                    "author": "Violaine Girard",
+                    "link_amazon_book": "https://amzn.to/41Sv1KL",
+                    "image": "https://m.media-amazon.com/images/I/41sLMK+8fJL.jpg"
+                },
+                {
+                    "title": "Affluence and Influence",
+                    "author": "Martin Gilens",
+                    "link_amazon_book": "https://amzn.to/3S91Yyn",
+                    "image": "https://m.media-amazon.com/images/I/814V45p6NUL._SY522_.jpg"
+                },
+                {
+                    "title": "Democracy in America?",
+                    "author": "Benjamin I. Page et Martin Gilens",
+                    "link_amazon_book": "https://amzn.to/3vxxga9",
+                    "image": "https://m.media-amazon.com/images/I/71-SZNglDdL._SY522_.jpg"
+                },
+                {
+                    "title": "Oeuvre complete",
+                    "author": "Annie Ernaux",
+                    "link_amazon_book": "https://amzn.to/47ozOVt",
+                    "image": "https://m.media-amazon.com/images/I/71qjM7MGYXL._SY522_.jpg"
+                }
+            ]
         },
         {
-            "title": "Le vote FN au village",
-            "author": "Violaine Girard",
-            "link_amazon_book": "https://amzn.to/41Sv1KL"
-        },
-        {
-            "title": "Affluence and Influence",
-            "author": "Martin Gilens",
-            "link_amazon_book": "https://amzn.to/3S91Yyn"
-        },
-        {
-            "title": "Democracy in America?",
-            "author": "Benjamin I. Page et Martin Gilens",
-            "link_amazon_book": "https://amzn.to/3vxxga9"
-        },
-        {
-            "title": "Oeuvre complete",
-            "author": "Annie Ernaux",
-            "link_amazon_book": "https://amzn.to/47ozOVt"
-        }
-    ],
-    "Thomas Piketty": [
-        {
-            "title": "Une histoire du conflit politique",
-            "author": "Julia Cagé et Thomas Piketty",
-            "link_amazon_book": "https://amzn.to/4aMkAwf"
-        },
-        {
-            "title": "Le Père Goriot",
-            "author": "Honoré de Balzac",
-            "link_amazon_book": "https://amzn.to/3tIjPDQ"
-        },
-        {
-            "title": "La volonté et la fortune",
-            "author": "Carlos Fuentes",
-            "link_amazon_book": "https://amzn.to/48JxbyI"
-        },
-        {
-            "title": "Le Ministère du futur",
-            "author": "Kim Stanley Robinson",
-            "link_amazon_book": "https://amzn.to/3H70PSC"
+            "person": "Thomas Piketty",
+            "books": [
+                {
+                    "title": "Une histoire du conflit politique",
+                    "author": "Julia Cagé et Thomas Piketty",
+                    "link_amazon_book": "https://amzn.to/4aMkAwf",
+                    "image": "https://m.media-amazon.com/images/I/71f3oeekbsL._SY522_.jpg"
+                },
+                {
+                    "title": "Le Père Goriot",
+                    "author": "Honoré de Balzac",
+                    "link_amazon_book": "https://amzn.to/3tIjPDQ",
+                    "image": "https://m.media-amazon.com/images/I/81jmppwxtSL._SY522_.jpg"
+                },
+                {
+                    "title": "La volonté et la fortune",
+                    "author": "Carlos Fuentes",
+                    "link_amazon_book": "https://amzn.to/48JxbyI",
+                    "image": "https://m.media-amazon.com/images/I/61nt-SDXmLL._SY522_.jpg"
+                },
+                {
+                    "title": "Le Ministère du futur",
+                    "author": "Kim Stanley Robinson",
+                    "link_amazon_book": "https://amzn.to/3H70PSC",
+                    "image": "https://m.media-amazon.com/images/I/81-PfHBWXvL._SY522_.jpg"
+                }
+            ]
         }
     ]
 }

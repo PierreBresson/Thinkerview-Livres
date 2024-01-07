@@ -1,34 +1,45 @@
 {
-    "François Lenglet": [
+    "people": [
         {
-            "title": "Combien de temps ça va durer ?",
-            "author": "François Lenglet",
-            "link_amazon_book": "https://amzn.to/3TRgtJt"
-        },
-        {
-            "title": "Rien ne va, mais...",
-            "author": "François Lenglet",
-            "link_amazon_book": "https://amzn.to/3H72rvE"
-        },
-        {
-            "title": "Affluence and Influence",
-            "author": "François Lenglet",
-            "link_amazon_book": "https://amzn.to/3TSzdZ0"
-        },
-        {
-            "title": "The Fourth Turning: An American Prophecy",
-            "author": "William Strauss et Neil Howe",
-            "link_amazon_book": "https://amzn.to/3S88BSz"
-        },
-        {
-            "title": "Capitalisme et pulsion de mort",
-            "author": "Bernard Maris et Gilles Dostaler",
-            "link_amazon_book": "https://amzn.to/47ozOVt"
-        },
-        {
-            "title": "The Great Demographic Reversal",
-            "author": "Charles Goodhart et Manoj Pradhan",
-            "link_amazon_book": "https://amzn.to/48DvsL2"
+            "person": "François Lenglet",
+            "books": [
+                {
+                    "title": "Combien de temps ça va durer ?",
+                    "author": "François Lenglet",
+                    "link_amazon_book": "https://amzn.to/3TRgtJt",
+                    "image": "https://m.media-amazon.com/images/I/61hcEzXxH8L._SY522_.jpg"
+                },
+                {
+                    "title": "Rien ne va, mais...",
+                    "author": "François Lenglet",
+                    "link_amazon_book": "https://amzn.to/3H72rvE",
+                    "image": "https://m.media-amazon.com/images/I/61Onz-h2gvL._SY522_.jpg"
+                },
+                {
+                    "title": "La guerre des empires: Chine contre États-Unis",
+                    "author": "François Lenglet",
+                    "link_amazon_book": "https://amzn.to/3TSzdZ0",
+                    "image": "https://m.media-amazon.com/images/I/61RDLlrl1-L._SX679_.jpg"
+                },
+                {
+                    "title": "Le quatrième tournant: Ce que les cycles de l'histoire nous enseignent sur l'avenir de notre société",
+                    "author": "William Strauss et Neil Howe",
+                    "link_amazon_book": "https://amzn.to/3S88BSz",
+                    "image": "https://m.media-amazon.com/images/I/71-m0fnjj-L._SY522_.jpg"
+                },
+                {
+                    "title": "Capitalisme et pulsion de mort",
+                    "author": "Bernard Maris et Gilles Dostaler",
+                    "link_amazon_book": "https://amzn.to/3S9yIZh",
+                    "image": "https://m.media-amazon.com/images/I/81fVMy+FqxL._SY522_.jpg"
+                },
+                {
+                    "title": "The Great Demographic Reversal",
+                    "author": "Charles Goodhart et Manoj Pradhan",
+                    "link_amazon_book": "https://amzn.to/48DvsL2",
+                    "image": "https://m.media-amazon.com/images/I/61XydHkgs3L._SY522_.jpg"
+                }
+            ]
         }
     ]
 }

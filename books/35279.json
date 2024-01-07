@@ -1,41 +1,50 @@
 {
-    "Loïk Le Floch-Prigent": [
+    "people": [
         {
-            "title": "De Gaulle: Une certaine idée de la France",
-            "author": "Julian Jackson",
-            "link_amazon_book": "https://amzn.to/4aXqtqO"
+            "person": "Loïk Le Floch-Prigent",
+            "books": [
+                {
+                    "title": "De Gaulle: Une certaine idée de la France",
+                    "author": "Julian Jackson",
+                    "link_amazon_book": "https://amzn.to/4aXqtqO",
+                    "image": "https://m.media-amazon.com/images/I/613LPr33TcL._SY522_.jpg"
+                },
+                {
+                    "title": "Les livres sur la France",
+                    "author": "Franz-Olivier Giesbert",
+                    "link_amazon_book": "https://amzn.to/424soG5",
+                    "image": "https://m.media-amazon.com/images/I/41F1RsHX4HL.jpg"
+                },
+                {
+                    "title": "Plastique bashing",
+                    "author": "Joseph Tayefeh",
+                    "link_amazon_book": "https://amzn.to/47FVNaN",
+                    "image": "https://m.media-amazon.com/images/I/61-YZ+HAQOL._SY522_.jpg"
+                }
+            ]
         },
         {
-            "title": "Les livres sur la France",
-            "author": "Franz-Olivier Giesbert",
-            "link_amazon_book": "https://amzn.to/424soG5"
-        },
-        {
-            "title": "Se libérer de son moi toxique",
-            "author": "Marie-Estelle Dupont",
-            "link_amazon_book": "https://amzn.to/3S6rPrQ"
-        },
-        {
-            "title": "Plastique bashing",
-            "author": "Joseph Tayefeh",
-            "link_amazon_book": "https://amzn.to/47FVNaN"
-        }
-    ],
-    "Nicolas Meilhan": [
-        {
-            "title": "Guerre de l'énergie: Au coeur du nouveau conflit mondial",
-            "author": "Fabien Bouglé",
-            "link_amazon_book": "https://amzn.to/48oWw19"
-        },
-        {
-            "title": "L'Ukraine et le basculement du monde",
-            "author": "François Martin",
-            "link_amazon_book": "https://amzn.to/48JyX2Q"
-        },
-        {
-            "title": "Le Monde sans fin, miracle énergétique et dérive climatique",
-            "author": "Christophe Blain et Jean-Marc Jancovici",
-            "link_amazon_book": "https://amzn.to/48nZKSu"
+            "person": "Nicolas Meilhan",
+            "books": [
+                {
+                    "title": "Guerre de l'énergie: Au coeur du nouveau conflit mondial",
+                    "author": "Fabien Bouglé",
+                    "link_amazon_book": "https://amzn.to/48oWw19",
+                    "image": "https://m.media-amazon.com/images/I/71zbKAdRMML._SY522_.jpg"
+                },
+                {
+                    "title": "L'Ukraine et le basculement du monde",
+                    "author": "François Martin",
+                    "link_amazon_book": "https://amzn.to/48JyX2Q",
+                    "image": "https://m.media-amazon.com/images/I/41Wlbgp5ESL.jpg"
+                },
+                {
+                    "title": "Le Monde sans fin, miracle énergétique et dérive climatique",
+                    "author": "Christophe Blain et Jean-Marc Jancovici",
+                    "link_amazon_book": "https://amzn.to/48nZKSu",
+                    "image": "https://m.media-amazon.com/images/I/91ERPyvcONL._SY522_.jpg"
+                }
+            ]
         }
     ]
 }

@@ -1,24 +1,33 @@
 {
-    "Éric Sadin": [
+    "people": [
         {
-            "title": "L’Obsolescence de l’homme",
-            "author": "Günther Anders",
-            "link_amazon_book": "https://amzn.to/3S9dDhO"
-        },
-        {
-            "title": "L'homme révolté",
-            "author": "Albert Camus",
-            "link_amazon_book": "https://amzn.to/3H9x9Et"
-        },
-        {
-            "title": "Le Bilan de l'intelligence",
-            "author": "Paul Valéry",
-            "link_amazon_book": "https://amzn.to/3H74YGa"
-        },
-        {
-            "title": "Notre Jeunesse",
-            "author": "Charles Péguy",
-            "link_amazon_book": "https://amzn.to/3HaXu4W"
+            "person": "Éric Sadin",
+            "books": [
+                {
+                    "title": "L’Obsolescence de l’homme",
+                    "author": "Günther Anders",
+                    "link_amazon_book": "https://amzn.to/3S9dDhO",
+                    "image": "https://m.media-amazon.com/images/I/91HiSzTJpaL._SY522_.jpg"
+                },
+                {
+                    "title": "L'homme révolté",
+                    "author": "Albert Camus",
+                    "link_amazon_book": "https://amzn.to/3H9x9Et",
+                    "image": "https://m.media-amazon.com/images/I/81mGlfigybL._SY522_.jpg"
+                },
+                {
+                    "title": "Le Bilan de l'intelligence",
+                    "author": "Paul Valéry",
+                    "link_amazon_book": "https://amzn.to/3H74YGa",
+                    "image": "https://m.media-amazon.com/images/I/61Ww6rdXfML._SY522_.jpg"
+                },
+                {
+                    "title": "Notre Jeunesse",
+                    "author": "Charles Péguy",
+                    "link_amazon_book": "https://amzn.to/3HaXu4W",
+                    "image": "https://m.media-amazon.com/images/I/81lKApUtvvL._SY522_.jpg"
+                }
+            ]
         }
     ]
 }
