@@ -1,0 +1,33 @@
+{
+    "people": [
+        {
+            "person": "Alexandre Moatti",
+            "books": [
+                {
+                    "title": "Technocratisme : les grands corps à la dérive",
+                    "author": "Alexandre Moatti",
+                    "link_amazon_book": "https://amzn.to/4aUoR0L",
+                    "image": "https://m.media-amazon.com/images/I/81mcb2umjnL._SY522_.jpg"
+                },
+                {
+                    "title": "Les Elites en France. Grands corps et grandes écoles",
+                    "author": "Ezra Suleiman",
+                    "link_amazon_book": "https://amzn.to/3U2j0jU",
+                    "image": "https://m.media-amazon.com/images/I/71bTbNHH4-L._SY522_.jpg"
+                },
+                {
+                    "title": "Humain, posthumain",
+                    "author": "Dominique Lecourt",
+                    "link_amazon_book": "https://amzn.to/3NXbh35",
+                    "image": "https://m.media-amazon.com/images/I/511WONT3qhL._SY522_.jpg"
+                },
+                {
+                    "title": "Mémoires d'outre-tombe",
+                    "author": "François-Auguste-René de Chateaubriand",
+                    "link_amazon_book": "https://amzn.to/3NWSAwe",
+                    "image": "https://m.media-amazon.com/images/I/31lO1vK4n9L.jpg"
+                }
+            ]
+        }
+    ]
+}

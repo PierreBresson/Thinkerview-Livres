@@ -1,0 +1,67 @@
+{
+    "people": [
+        {
+            "person": "Tom Benoit",
+            "books": [
+                {
+                    "title": "Diplomatie",
+                    "author": "Henry Kissinger",
+                    "link_amazon_book": "https://amzn.to/41R566k",
+                    "image": "https://m.media-amazon.com/images/I/81IcoIaiR5L._SY522_.jpg"
+                },
+                {
+                    "title": "Dictionnaire amoureux de la géopolitique",
+                    "author": "Hubert Vedrine",
+                    "link_amazon_book": "https://amzn.to/3HeVMzy",
+                    "image": "https://m.media-amazon.com/images/I/61Ana2a30ML._SY522_.jpg"
+                },
+                {
+                    "title": "En finir avec le règne de l'illusion financière",
+                    "author": "Jacques de Larosière",
+                    "link_amazon_book": "https://amzn.to/3tNaydP",
+                    "image": "https://m.media-amazon.com/images/I/618Co6oP57L._SY522_.jpg"
+                }
+            ]
+        },
+        {
+            "person": "Jacques de Larosière",
+            "books": [
+                {
+                    "title": "En finir avec le règne de l'illusion financière",
+                    "author": "Jacques de Larosière",
+                    "link_amazon_book": "https://amzn.to/3tNaydP",
+                    "image": "https://m.media-amazon.com/images/I/618Co6oP57L._SY522_.jpg"
+                },
+                {
+                    "title": "Le Vol d'Icare",
+                    "author": "Raymond Queneau",
+                    "link_amazon_book": "https://amzn.to/48KBaek",
+                    "image": "https://m.media-amazon.com/images/I/81Kb7OHI0VL._SY522_.jpg"
+                },
+                {
+                    "title": "Nous étions seuls",
+                    "author": "Gérard Araud",
+                    "link_amazon_book": "https://amzn.to/3RRyeph",
+                    "image": "https://m.media-amazon.com/images/I/71F7NljIycL._SY522_.jpg"
+                },
+                {
+                    "title": "Andre Darrigade, le Landais volant",
+                    "author": "Jacques Olivier Boudon",
+                    "link_amazon_book": "https://amzn.to/41QauXj",
+                    "image": "https://m.media-amazon.com/images/I/41wRucq2oYL.jpg"
+                }
+            ]
+        },
+        {
+            "person": "Sky (Thinkerview)",
+            "books": [
+                {
+                    "title": "Les mémoires d'Herbert Hoover",
+                    "author": "Herbert Hoover",
+                    "link_amazon_book": "https://amzn.to/48PWMWS",
+                    "image": "https://m.media-amazon.com/images/I/61MzaXklPuL._SY522_.jpg"
+                }
+            ]
+        }
+    ]
+}
