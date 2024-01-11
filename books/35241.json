@@ -1,0 +1,50 @@
+{
+    "people": [
+        {
+            "person": "Esther Duflo",
+            "books": [
+                {
+                    "title": "Dans la dèche à Paris et à Londres",
+                    "author": "George Orwel",
+                    "link_amazon_book": "https://amzn.to/3vznHb2",
+                    "image": "https://m.media-amazon.com/images/I/71-U4khdzFL._SY522_.jpg"
+                },
+                {
+                    "title": "Œuvres complètes",
+                    "author": "René Char",
+                    "link_amazon_book": "https://m.media-amazon.com/images/I/51AB4N82IdL._SY522_.jpg",
+                    "image": "https://amzn.to/41WF3e7"
+                },
+                {
+                    "title": "Dans la Zone verte: les américains à Bagdad",
+                    "author": "Rajiv Chandrasekaran",
+                    "link_amazon_book": "https://amzn.to/4aQgm74",
+                    "image": "https://m.media-amazon.com/images/I/61De2RneWhL._SY522_.jpg"
+                },{
+                    "title": "Nous avons le plaisir de vous informer que, demain, nous serons tués avec nos familles",
+                    "author": "Philip Gourevitch",
+                    "link_amazon_book": "https://amzn.to/3RWB2l7",
+                    "image": "https://m.media-amazon.com/images/I/81HFozQ8JWL._SY522_.jpg"
+                },
+                {
+                    "title": "Thumpa À l'ombre des arbres",
+                    "author": "Esther Duflo",
+                    "link_amazon_book": "https://amzn.to/3HmzxYp",
+                    "image": "https://m.media-amazon.com/images/I/81uHlxqHtTL._SX679_.jpg"
+                },
+                {
+                    "title": "Imeuni et Tsongai La belle affaire !",
+                    "author": "Esther Duflo",
+                    "link_amazon_book": "https://amzn.to/3TSdlx1",
+                    "image": "https://m.media-amazon.com/images/I/717SjpZjj3L._SX679_.jpg"
+                },
+                {
+                    "title": "Seleni Pas touche au potager !",
+                    "author": "Esther Duflo",
+                    "link_amazon_book": "https://amzn.to/3TXfUhs",
+                    "image": "https://m.media-amazon.com/images/I/71UPHcg6MAL._SX679_.jpg"
+                }
+            ]
+        }
+    ]
+}

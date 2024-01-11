@@ -14,6 +14,18 @@
                     "author": "George Orwell",
                     "link_amazon_book": "https://amzn.to/3HeBWV7",
                     "image": "https://m.media-amazon.com/images/I/71Y9X7FYkcL._SY522_.jpg"
+                },
+                {
+                    "title": "La guerre des intelligences à l'heure de ChatGPT",
+                    "author": "Laurent Alexandre",
+                    "link_amazon_book": "https://amzn.to/47sAFV3",
+                    "image": "https://m.media-amazon.com/images/I/61uXX4rlO3L._SY522_.jpg"
+                },
+                {
+                    "title": "Si Rome n'avait pas chuté",
+                    "author": "Raphaël Doan",
+                    "link_amazon_book": "https://amzn.to/3HgaZjV",
+                    "image": "https://m.media-amazon.com/images/I/617EfiQ3R6L._SY522_.jpg"
                 }
             ]
         }
