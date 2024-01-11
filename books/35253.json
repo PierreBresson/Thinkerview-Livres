@@ -1,0 +1,21 @@
+{
+    "people": [
+        {
+            "person": "Laurent Alexandre",
+            "books": [
+                {
+                    "title": "Le meilleur des mondes",
+                    "author": "Aldous Huxley",
+                    "link_amazon_book": "https://amzn.to/48PZjAk",
+                    "image": "https://m.media-amazon.com/images/I/71iZzLwuZML._SY522_.jpg"
+                },
+                {
+                    "title": "1984",
+                    "author": "George Orwell",
+                    "link_amazon_book": "https://amzn.to/3HeBWV7",
+                    "image": "https://m.media-amazon.com/images/I/71Y9X7FYkcL._SY522_.jpg"
+                }
+            ]
+        }
+    ]
+}

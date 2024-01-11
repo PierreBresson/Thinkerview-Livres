@@ -1,0 +1,51 @@
+{
+    "people": [
+        {
+            "person": "Jean-Luc Mélenchon",
+            "books": [
+                {
+                    "title": "Faites mieux",
+                    "author": "Jean-Luc Mélenchon",
+                    "link_amazon_book": "https://amzn.to/47y0G5A",
+                    "image": "https://m.media-amazon.com/images/I/61PmbQRF7iL._SY522_.jpg"
+                },
+                {
+                    "title": "Vendredi ou les Limbes du Pacifique",
+                    "author": "Michel Tournier",
+                    "link_amazon_book": "https://amzn.to/3vx31Aj",
+                    "image": "https://m.media-amazon.com/images/I/91Qe9fet5zL._SY522_.jpg"
+                },
+                {
+                    "title": "L'Idéologie allemande",
+                    "author": "Friedrich Engels et Karl Marx",
+                    "link_amazon_book": "https://amzn.to/3tYMtRc",
+                    "image": "https://m.media-amazon.com/images/I/71SPMlJIBsL._SY522_.jpg"
+                },
+                {
+                    "title": "Le Berceau du chat",
+                    "author": "Kurt Vonnegut",
+                    "link_amazon_book": "https://amzn.to/3Sdxlsv",
+                    "image": "https://m.media-amazon.com/images/I/41MXnn2nToL.jpg"
+                },
+                {
+                    "title": "Abattoir 5: Ou la Croisade des enfants",
+                    "author": "Kurt Vonnegut",
+                    "link_amazon_book": "https://amzn.to/41SlnYI",
+                    "image": "https://m.media-amazon.com/images/I/71cMr9K1daL._SY522_.jpg"
+                },
+                {
+                    "title": "Cycle de Fondation",
+                    "author": "Isaac Asimov",
+                    "link_amazon_book": "https://amzn.to/3O09XMD",
+                    "image": "https://m.media-amazon.com/images/I/71hHEeSi48L._AC_UL320_.jpg"
+                },
+                {
+                    "title": "Blade Runner",
+                    "author": "Philip K. Dick",
+                    "link_amazon_book": "https://amzn.to/3RTbrJO",
+                    "image": "https://m.media-amazon.com/images/I/81Of1boLjFL._SY522_.jpg"
+                }
+            ]
+        }
+    ]
+}
