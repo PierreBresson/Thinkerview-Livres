@@ -1,0 +1,27 @@
+{
+    "people": [
+        {
+            "person": "Estelle Youssouffa",
+            "books": [
+                {
+                    "title": "Les Fleurs du Mal",
+                    "author": "Charles Baudelaire",
+                    "link_amazon_book": "https://amzn.to/4aWThPZ",
+                    "image": "https://m.media-amazon.com/images/I/61TsWlL-vBL._SY522_.jpg"
+                },
+                {
+                    "title": "Le Prince",
+                    "author": "Nicolas Machiavel",
+                    "link_amazon_book": "https://amzn.to/3vqLtpq",
+                    "image": "https://m.media-amazon.com/images/I/71rymI-m0mL._SY522_.jpg"
+                },
+                {
+                    "title": "Saint-Germain ou la Négociation",
+                    "author": "Francis Walder",
+                    "link_amazon_book": "https://amzn.to/48yvnZM",
+                    "image": "https://m.media-amazon.com/images/I/91Xnv0fa3vL._SY522_.jpg"
+                }
+            ]
+        }
+    ]
+}

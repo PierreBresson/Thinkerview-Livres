@@ -1,0 +1,33 @@
+{
+    "people": [
+        {
+            "person": "Henri Guaino",
+            "books": [
+                {
+                    "title": "Le Premier Homme",
+                    "author": "Albert Camus",
+                    "link_amazon_book": "https://amzn.to/48tZMIl",
+                    "image": "https://m.media-amazon.com/images/I/81rwEMFTvhL._SY522_.jpg"
+                },
+                {
+                    "title": "Civilisation matérielle, économie et capitalisme",
+                    "author": "Fernand Braudel",
+                    "link_amazon_book": "https://amzn.to/3Si89kV",
+                    "image": "https://m.media-amazon.com/images/I/91US1fjd3KL._SX679_.jpg"
+                },
+                {
+                    "title": "Mémoires d'outre-tombe",
+                    "author": "François-Auguste-René de Chateaubriand",
+                    "link_amazon_book": "https://amzn.to/3NWSAwe",
+                    "image": "https://m.media-amazon.com/images/I/31lO1vK4n9L.jpg"
+                },
+                {
+                    "title": "Le Mémorial de Sainte-Hélène",
+                    "author": "Emmanuel de Las Cases",
+                    "link_amazon_book": "https://amzn.to/48vsgle",
+                    "image": "https://m.media-amazon.com/images/I/71eeLN7PaVL._SY522_.jpg"
+                }
+            ]
+        }
+    ]
+}

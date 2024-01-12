@@ -1,0 +1,21 @@
+{
+    "people": [
+        {
+            "person": "Jean-Jacques Tyszler",
+            "books": [
+                {
+                    "title": "Pourquoi la guerre ?",
+                    "author": "Albert Einstein et Sigmund Freud",
+                    "link_amazon_book": "https://amzn.to/3Sgcwg8",
+                    "image": "https://m.media-amazon.com/images/I/71sPg5D8M2L._SY522_.jpg"
+                },
+                {
+                    "title": "La Métamorphose",
+                    "author": "Franz Kafka",
+                    "link_amazon_book": "https://amzn.to/48AeDkH",
+                    "image": "https://m.media-amazon.com/images/I/61TZhDqyulL._SY522_.jpg"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "people": [
+        {
+            "person": "Aurore Stéphant",
+            "books": [
+                {
+                    "title": "Le Quai de Wigan",
+                    "author": "George Orwell",
+                    "link_amazon_book": "https://amzn.to/3U1j4Az",
+                    "image": "https://m.media-amazon.com/images/I/91iDblR8OPL._SY522_.jpg"
+                },
+                {
+                    "title": "Paradis sous terre",
+                    "author": "Alain Deneault et William Sacher",
+                    "link_amazon_book": "https://amzn.to/3S3A9Ye",
+                    "image": "https://m.media-amazon.com/images/I/61gyic02iNL._SY522_.jpg"
+                },
+                {
+                    "title": "La Contamination du monde",
+                    "author": "François Jarrige et Thomas Le Roux",
+                    "link_amazon_book": "https://amzn.to/3HgT10J",
+                    "image": "https://m.media-amazon.com/images/I/71ik4cd4ZuL._SY522_.jpg"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "people": [
+        {
+            "person": "Yves Bréchet",
+            "books": [
+                {
+                    "title": "Pensées",
+                    "author": "Blaise Pascal",
+                    "link_amazon_book": "https://amzn.to/41THfD2",
+                    "image": "https://m.media-amazon.com/images/I/71AAqkieMaL._SY522_.jpg"
+                },
+                {
+                    "title": "De la démocratie en Amérique",
+                    "author": "Alexis De Tocqueville",
+                    "link_amazon_book": "https://amzn.to/3UfBCNR",
+                    "image": "https://m.media-amazon.com/images/I/41QqmXzD4RL.jpg"
+                },
+                {
+                    "title": "La Science au cœur de nos vies",
+                    "author": "Maurice Tubiana",
+                    "link_amazon_book": "https://amzn.to/3TUdsbd",
+                    "image": "https://m.media-amazon.com/images/I/81m5Nap+S6L._SY522_.jpg"
+                },
+                {
+                    "title": "L'énergie durable: Pas que du vent !",
+                    "author": "David J. C. MacKay",
+                    "link_amazon_book": "https://amzn.to/3tOUMiy",
+                    "image": "https://m.media-amazon.com/images/I/510C32gPHdL._SY522_.jpg"
+                },
+                {
+                    "title": "Une longue route pour m'unir au chant français",
+                    "author": "François Cheng",
+                    "link_amazon_book": "https://amzn.to/3tPiYRR",
+                    "image": "https://m.media-amazon.com/images/I/71TYESn0laL._SY522_.jpg"
+                }
+            ]
+        }
+    ]
+}

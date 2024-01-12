@@ -1,0 +1,33 @@
+{
+    "people": [
+        {
+            "person": "Jérôme Clech",
+            "books": [
+                {
+                    "title": "La prospective stratégique",
+                    "author": "Jérôme Clech",
+                    "link_amazon_book": "https://amzn.to/48wKOkZ",
+                    "image": "https://m.media-amazon.com/images/I/61K3K45HE+L._SY522_.jpg"
+                },
+                {
+                    "title": "La Crise de l'Esprit",
+                    "author": "Paul Valéry",
+                    "link_amazon_book": "https://amzn.to/48sDl6z",
+                    "image": "https://m.media-amazon.com/images/I/61nCt+dnXtL._SY522_.jpg"
+                },
+                {
+                    "title": "La liberté de l'esprit",
+                    "author": "Paul Valéry",
+                    "link_amazon_book": "https://amzn.to/3RYOIMA",
+                    "image": "https://m.media-amazon.com/images/I/51cYKX2vKEL._SY522_.jpg"
+                },
+                {
+                    "title": "Les mots et les choses",
+                    "author": "Michel Foucault",
+                    "link_amazon_book": "https://amzn.to/3vBRxvC",
+                    "image": "https://m.media-amazon.com/images/I/714fTnMCUQL._SY522_.jpg"
+                }
+            ]
+        }
+    ]
+}

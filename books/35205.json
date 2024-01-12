@@ -1,0 +1,21 @@
+{
+    "people": [
+        {
+            "person": "Wu Chih-chung",
+            "books": [
+                {
+                    "title": "Diplomatie",
+                    "author": "Henry Kissinger",
+                    "link_amazon_book": "https://amzn.to/3Hngopf",
+                    "image": "https://m.media-amazon.com/images/I/81IcoIaiR5L._SY522_.jpg"
+                },
+                {
+                    "title": "La terre est plate",
+                    "author": "Thomas Friedman",
+                    "link_amazon_book": "https://amzn.to/3HcJUyd",
+                    "image": "https://m.media-amazon.com/images/I/51Uk3bYFRhL.jpg"
+                }
+            ]
+        }
+    ]
+}

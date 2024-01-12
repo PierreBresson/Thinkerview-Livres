@@ -1,0 +1,27 @@
+{
+    "people": [
+        {
+            "person": "Christian Harbulot",
+            "books": [
+                {
+                    "title": "L'Homme en guerre",
+                    "author": "Philippe Masson",
+                    "link_amazon_book": "https://amzn.to/48tEbA4",
+                    "image": "https://m.media-amazon.com/images/I/51bsCapcSBS._SY522_.jpg"
+                },
+                {
+                    "title": "Combattre en dictature",
+                    "author": "Jean-Luc Leleu",
+                    "link_amazon_book": "https://amzn.to/3tMTWD3",
+                    "image": "https://m.media-amazon.com/images/I/61WMHgdacRL._SY522_.jpg"
+                },
+                {
+                    "title": "Les abeilles grises",
+                    "author": "Andreï Kourkov",
+                    "link_amazon_book": "https://amzn.to/4aR2olk",
+                    "image": "https://m.media-amazon.com/images/I/61d6IzuBCXL._SY522_.jpg"
+                }
+            ]
+        }
+    ]
+}

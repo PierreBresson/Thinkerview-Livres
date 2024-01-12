@@ -1,0 +1,61 @@
+{
+    "people": [
+        {
+            "person": "Lydia Bourguignon",
+            "books": [
+                {
+                    "title": "Le Grand Meaulnes",
+                    "author": "Alain-Fournier",
+                    "link_amazon_book": "https://amzn.to/3tGUJpb",
+                    "image": "https://m.media-amazon.com/images/I/81gmUjAdcrL._SY522_.jpg"
+                },
+                {
+                    "title": "Les Encycliques",
+                    "author": "Pape François",
+                    "link_amazon_book": "https://amzn.to/3TYu0yX",
+                    "image": "https://m.media-amazon.com/images/I/612kTZ3b1ML._SY522_.jpg"
+                },
+                {
+                    "title": "Livres sur la flore",
+                    "author": "Gaston Bonnier",
+                    "link_amazon_book": "https://amzn.to/3Sddnyf",
+                    "image": "https://m.media-amazon.com/images/I/61CN+PRqAZL._SY522_.jpg"
+                }
+            ]
+        },
+        {
+            "person": "Claude Bourguignon",
+            "books": [
+                {
+                    "title": "Avant que nature meure",
+                    "author": "Jean Dorst",
+                    "link_amazon_book": "https://amzn.to/48HiSuu",
+                    "image": "https://m.media-amazon.com/images/I/61celhXObTL._SY522_.jpg"
+                },
+                {
+                    "title": "Printemps silencieux",
+                    "author": "Rachel Carson",
+                    "link_amazon_book": "https://amzn.to/3vynmoT",
+                    "image": "https://m.media-amazon.com/images/I/81gMb02cfbL._SY522_.jpg"
+                },
+                {
+                    "title": "Les Racines du ciel",
+                    "author": "Romain Gary",
+                    "link_amazon_book": "https://amzn.to/4aR1dCu",
+                    "image": "https://m.media-amazon.com/images/I/81kmbuY1-EL._SY522_.jpg"
+                }
+            ]
+        },
+        {
+            "person": "Commun",
+            "books": [
+                {
+                    "title": "Pourquoi ne faisons-nous rien pendant que la maison brûle ?",
+                    "author": "Claude Bourguignon et Lydia Bourguignon",
+                    "link_amazon_book": "https://amzn.to/4aSgd2Y",
+                    "image": "https://m.media-amazon.com/images/I/711lAP6L+DL._SY522_.jpg"
+                }
+            ]
+        }
+    ]
+}

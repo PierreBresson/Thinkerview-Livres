@@ -1,0 +1,33 @@
+{
+    "people": [
+        {
+            "person": "Clémence Marque",
+            "books": [
+                {
+                    "title": "La Grande Extension",
+                    "author": "Jean-David Zeitoun",
+                    "link_amazon_book": "https://amzn.to/3HlVTJy",
+                    "image": "https://m.media-amazon.com/images/I/71RtvM0uGHL._SY522_.jpg"
+                },
+                {
+                    "title": "Le Suicide de l'espèce",
+                    "author": "Jean-David Zeitoun",
+                    "link_amazon_book": "https://amzn.to/3Hhb6Mg",
+                    "image": "https://m.media-amazon.com/images/I/71zSMmKxiUL._SY522_.jpg"
+                },
+                {
+                    "title": "L’Énergie du déni",
+                    "author": "Vincent Mignerot",
+                    "link_amazon_book": "https://amzn.to/41TMvq4",
+                    "image": "https://m.media-amazon.com/images/I/61xlxgQnWgL._SY522_.jpg"
+                },
+                {
+                    "title": "La maison",
+                    "author": "J. Patrick Lewis et Roberto Innocenti",
+                    "link_amazon_book": "https://amzn.to/3Hhbbj2",
+                    "image": "https://m.media-amazon.com/images/I/A1jnqLpLFRL._SY522_.jpg"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "people": [
+        {
+            "person": "Eva Sadoun",
+            "books": [
+                {
+                    "title": "Brutalisme",
+                    "author": "Achille Mbembe",
+                    "link_amazon_book": "https://amzn.to/3HiBLbi",
+                    "image": "https://m.media-amazon.com/images/I/61hl7wqV7gL._SY522_.jpg"
+                },
+                {
+                    "title": "Oeuvre complète",
+                    "author": "Vandana Shiva",
+                    "link_amazon_book": "https://amzn.to/3vEypwG",
+                    "image": "https://m.media-amazon.com/images/I/617Mmg+sx0L._SY522_.jpg"
+                },
+                {
+                    "title": "Nous, fils d'Eichmann",
+                    "author": "Günther Anders",
+                    "link_amazon_book": "https://amzn.to/41TNiaw",
+                    "image": "https://m.media-amazon.com/images/I/71uhGagRY3L._SY522_.jpg"
+                }
+            ]
+        }
+    ]
+}

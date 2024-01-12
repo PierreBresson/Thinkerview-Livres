@@ -1,0 +1,26 @@
+{
+    "people": [
+        {
+            "person": "Olivier Delamarche",
+            "books": [
+                {
+                    "title": "Les apprentis sorciers",
+                    "author": "Alexandra Henrion-Caude",
+                    "link_amazon_book": "https://amzn.to/3tZyx9D",
+                    "image": "https://m.media-amazon.com/images/I/71egWIzAtiL._SY522_.jpg"
+                }
+            ]
+        },
+        {
+            "person": "Pierre Sabatier",
+            "books": [
+                {
+                    "title": "Ménon",
+                    "author": "Platon",
+                    "link_amazon_book": "https://amzn.to/3RXcokb",
+                    "image": "https://m.media-amazon.com/images/I/71QK1OiUs3L._SY522_.jpg"
+                }
+            ]
+        }
+    ]
+}

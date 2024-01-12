@@ -1,0 +1,51 @@
+{
+    "people": [
+        {
+            "person": "Olivier De Schutter",
+            "books": [
+                {
+                    "title": "Ralentir ou périr",
+                    "author": "Timothée Parrique",
+                    "link_amazon_book": "https://amzn.to/48OFZU2",
+                    "image": "https://m.media-amazon.com/images/I/81S8rCRpvaL._SY522_.jpg"
+                },
+                {
+                    "title": "Homo confort",
+                    "author": "Stefano Boni",
+                    "link_amazon_book": "https://amzn.to/48SLocr",
+                    "image": "https://m.media-amazon.com/images/I/61tDDerVuTL._SY522_.jpg"
+                },
+                {
+                    "title": "Accélération",
+                    "author": "Hartmut Rosa",
+                    "link_amazon_book": "https://amzn.to/48tzvdu",
+                    "image": "https://m.media-amazon.com/images/I/61k6rDc6K6L._SY522_.jpg"
+                },
+                {
+                    "title": "Résonance",
+                    "author": "Hartmut Rosa",
+                    "link_amazon_book": "https://amzn.to/3RRTUBT",
+                    "image": "https://m.media-amazon.com/images/I/61RBwwq2JxL._SY522_.jpg"
+                },
+                {
+                    "title": "Oeuvre complète",
+                    "author": "René Dumont",
+                    "link_amazon_book": "https://amzn.to/3HegTlN",
+                    "image": "https://m.media-amazon.com/images/I/71abkZ7-zFL._SY522_.jpg"
+                },
+                {
+                    "title": "Oeuvre complète",
+                    "author": "Ivan Illich",
+                    "link_amazon_book": "https://amzn.to/48OJrhs",
+                    "image": "https://m.media-amazon.com/images/I/71Jm+SQwkxL._SY522_.jpg"
+                },
+                {
+                    "title": "Oeuvre complète",
+                    "author": "André Gorz",
+                    "link_amazon_book": "https://amzn.to/48Tw0wL",
+                    "image": "https://m.media-amazon.com/images/I/71L37D5kKnL._SY522_.jpg"
+                }
+            ]
+        }
+    ]
+}

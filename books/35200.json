@@ -1,0 +1,27 @@
+{
+    "people": [
+        {
+            "person": "Pierre Larrouturou",
+            "books": [
+                {
+                    "title": "Sois jeune et tais-toi",
+                    "author": "Salomé Saqué",
+                    "link_amazon_book": "https://amzn.to/41U9RvY",
+                    "image": "https://m.media-amazon.com/images/I/71JS5pf7wBL._SY522_.jpg"
+                },
+                {
+                    "title": "Perdre la Terre",
+                    "author": "Nathaniel Rich",
+                    "link_amazon_book": "https://amzn.to/47wWOlh",
+                    "image": "https://m.media-amazon.com/images/I/91uRUb5py7L._SY522_.jpg"
+                },
+                {
+                    "title": "Climat: Une enquête de la revue La Pensée écologique",
+                    "author": "Hervé Le Treut et Jean Jouzel",
+                    "link_amazon_book": "https://amzn.to/41XEyQS",
+                    "image": "https://m.media-amazon.com/images/I/61lH5eyP-rL._SY522_.jpg"
+                }
+            ]
+        }
+    ]
+}

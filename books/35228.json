@@ -1,0 +1,66 @@
+{
+    "people": [
+        {
+            "person": "Christophe Bonneuil",
+            "books": [
+                {
+                    "title": "Génocides tropicaux",
+                    "author": "Mike Davis",
+                    "link_amazon_book": "https://amzn.to/41VFK7i",
+                    "image": "https://m.media-amazon.com/images/I/61u6yu28nPS._SY522_.jpg"
+                },
+                {
+                    "title": "La société ingouvernable",
+                    "author": "Grégoire Chamayou",
+                    "link_amazon_book": "https://amzn.to/3RSBh0B",
+                    "image": "https://m.media-amazon.com/images/I/812FYQQ1DfL._SY522_.jpg"
+                }
+            ]
+        },
+        {
+            "person": "Marcelle Dulac",
+            "books": [
+                {
+                    "title": "Surveiller et punir",
+                    "author": "Michel Foucault",
+                    "link_amazon_book": "https://amzn.to/3HegrUD",
+                    "image": "https://m.media-amazon.com/images/I/71ypC53ohWL._SY522_.jpg"
+                },
+                {
+                    "title": "On ne dissout pas un soulèvement",
+                    "author": "Collectif",
+                    "link_amazon_book": "https://amzn.to/3HfMWl7",
+                    "image": "https://m.media-amazon.com/images/I/918tDiwKY1L._SY522_.jpg"
+                },
+                {
+                    "title": "Reprendre la terre aux machines",
+                    "author": "L'Atelier Paysan",
+                    "link_amazon_book": "https://amzn.to/3tPeRVV",
+                    "image": "https://m.media-amazon.com/images/I/81Bdg497YVL._SY522_.jpg"
+                }
+            ]
+        },
+        {
+            "person": "Adèle Planchard",
+            "books": [
+                {
+                    "title": "La guerre des pauvres",
+                    "author": "Éric Vuillard",
+                    "link_amazon_book": "https://amzn.to/3SjlklG",
+                    "image": "https://m.media-amazon.com/images/I/61CXXrvLvhL._SY522_.jpg"
+                }
+            ]
+        },
+        {
+            "person": "Sky (Thinkerview)",
+            "books": [
+                {
+                    "title": "Oeuvre complète",
+                    "author": "Carl von Clausewitz",
+                    "link_amazon_book": "https://amzn.to/499cWe7",
+                    "image": "https://m.media-amazon.com/images/I/61j80VQ4XZL._SY522_.jpg"
+                }
+            ]
+        }
+    ]
+}
