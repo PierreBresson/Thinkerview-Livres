@@ -1,0 +1,21 @@
+{
+    "people": [
+        {
+            "person": "Lionel Zinsou",
+            "books": [
+                {
+                    "title": "Histoire globale de la France coloniale",
+                    "author": "Collectif",
+                    "link_amazon_book": "https://amzn.to/3O1Fqy7",
+                    "image": "https://m.media-amazon.com/images/I/51N7ruKZ4XL._SY522_.jpg"
+                },
+                {
+                    "title": "Has the West Lost It?: A Provocation",
+                    "author": "Kishore Mahbubani",
+                    "link_amazon_book": "https://amzn.to/3tRa3PX",
+                    "image": "https://m.media-amazon.com/images/I/71iKzqqtgwL._SY522_.jpg"
+                }
+            ]
+        }
+    ]
+}

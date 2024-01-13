@@ -1,0 +1,39 @@
+{
+    "people": [
+        {
+            "person": "Hervé Machenaud",
+            "books": [
+                {
+                    "title": "La France dans le noir",
+                    "author": "Hervé Machenaud",
+                    "link_amazon_book": "https://amzn.to/48yd3zL",
+                    "image": "https://m.media-amazon.com/images/I/4189KPKxenL._SY522_.jpg"
+                },
+                {
+                    "title": "Lettres à un jeune poète",
+                    "author": "Rainer Maria Rilke",
+                    "link_amazon_book": "https://amzn.to/3TZpqRc",
+                    "image": "https://m.media-amazon.com/images/I/81wrRmpErpL._SY522_.jpg"
+                },
+                {
+                    "title": "Regards sur le monde actuel",
+                    "author": "Paul Valéry",
+                    "link_amazon_book": "https://amzn.to/47tW8Ny",
+                    "image": "https://m.media-amazon.com/images/I/91rnXbThfUL._SY522_.jpg"
+                },
+                {
+                    "title": "L'Enracinement",
+                    "author": "Simone Weil",
+                    "link_amazon_book": "https://amzn.to/48wQdIS",
+                    "image": "https://m.media-amazon.com/images/I/7188Ktkcn7L._SY522_.jpg"
+                },
+                {
+                    "title": "Le jour où la Chine va gagner",
+                    "author": "Kishore Mahbubani",
+                    "link_amazon_book": "https://amzn.to/3S0w4DU",
+                    "image": "https://m.media-amazon.com/images/I/51wbgJOQIVL._SY522_.jpg"
+                }
+            ]
+        }
+    ]
+}

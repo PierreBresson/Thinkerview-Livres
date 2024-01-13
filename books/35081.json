@@ -1,0 +1,27 @@
+{
+    "people": [
+        {
+            "person": "Renaud Van Ruymbeke",
+            "books": [
+                {
+                    "title": "Offshore",
+                    "author": "Renaud Van Ruymbeke",
+                    "link_amazon_book": "https://m.media-amazon.com/images/I/716G9AUtV2L._SY522_.jpg",
+                    "image": "https://amzn.to/47zHDYB"
+                },
+                {
+                    "title": "Le livre de l'intranquillité",
+                    "author": "Fernando Pessoa",
+                    "link_amazon_book": "https://amzn.to/3vzohFH",
+                    "image": "https://m.media-amazon.com/images/I/718FtTrwIKL._SY522_.jpg"
+                },
+                {
+                    "title": "Les Frères Karamazov",
+                    "author": "Fiodor Dostoïevski",
+                    "link_amazon_book": "https://amzn.to/3HCpAqh",
+                    "image": "https://m.media-amazon.com/images/I/81ITM7ECmRL._SY522_.jpg"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "people": [
+        {
+            "person": "Louis Gallois",
+            "books": [
+                {
+                    "title": "Belle du Seigneur",
+                    "author": "Albert Cohen",
+                    "link_amazon_book": "https://amzn.to/3tIxKdj",
+                    "image": "https://m.media-amazon.com/images/I/819SN3gLLPL._SY522_.jpg"
+                },
+                {
+                    "title": "Le Bateau ivre",
+                    "author": "Arthur Rimbaud",
+                    "link_amazon_book": "https://amzn.to/3vxLoR5",
+                    "image": "https://m.media-amazon.com/images/I/51fUTsUvQWL.jpg"
+                },
+                {
+                    "title": "Où atterrir ? Comment s'orienter en politique",
+                    "author": "Bruno Latour",
+                    "link_amazon_book": "https://amzn.to/3vxLqIH",
+                    "image": "https://m.media-amazon.com/images/I/51EIF0o+cvL._SY522_.jpg"
+                }
+            ]
+        },
+        {
+            "person": "Olivier Lluansi",
+            "books": [
+                {
+                    "title": "Vie et Destin",
+                    "author": "Vassili Grossman",
+                    "link_amazon_book": "https://amzn.to/3SfbIIw",
+                    "image": "https://m.media-amazon.com/images/I/61jW9Yt3LGL._SY522_.jpg"
+                },
+                {
+                    "title": "Quatrevingt-treize",
+                    "author": "Victor Hugo",
+                    "link_amazon_book": "https://amzn.to/3SeJsFV",
+                    "image": "https://m.media-amazon.com/images/I/81QX4Yw2ikL._SY522_.jpg"
+                },
+                {
+                    "title": "Crépuscule de la France d'en haut",
+                    "author": "Christophe Guilluy",
+                    "link_amazon_book": "https://amzn.to/48MBj0E",
+                    "image": "https://m.media-amazon.com/images/I/71oqlWhxbUL._SY522_.jpg"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "people": [
+        {
+            "person": "Philippe Bihouix",
+            "books": [
+                {
+                    "title": "Le Gang de la clef à molette",
+                    "author": "Edward Abbey",
+                    "link_amazon_book": "https://amzn.to/3SrjAqB",
+                    "image": "https://m.media-amazon.com/images/I/417Jn++5BvL.jpg"
+                },
+                {
+                    "title": "La terre demeure",
+                    "author": "George R. Stewart",
+                    "link_amazon_book": "https://amzn.to/48MBKYQ",
+                    "image": "https://m.media-amazon.com/images/I/81FuTV1N5JL._SY522_.jpg"
+                },
+                {
+                    "title": "La Guerre éternelle",
+                    "author": "Joe Haldeman",
+                    "link_amazon_book": "https://amzn.to/3NZkIPe",
+                    "image": "https://m.media-amazon.com/images/I/61sCtKgLd3L._SY522_.jpg"
+                }
+            ]
+        },
+        {
+            "person": "Nicolas Meilhan",
+            "books": [
+                {
+                    "title": "L'Âge des low tech",
+                    "author": "Philippe Bihouix",
+                    "link_amazon_book": "https://amzn.to/3vsjsxK",
+                    "image": "https://m.media-amazon.com/images/I/81rb-8EHM8L._SY522_.jpg"
+                },
+                {
+                    "title": "Le monde sans fin",
+                    "author": "Jean-Marc Jancovici & Christophe Blain",
+                    "link_amazon_book": "https://amzn.to/4aSsFQh",
+                    "image": "https://m.media-amazon.com/images/I/91ERPyvcONL._SY522_.jpg"
+                },
+                {
+                    "title": "Ravage",
+                    "author": "René Barjavel",
+                    "link_amazon_book": "https://amzn.to/4aYpEOy",
+                    "image": "https://m.media-amazon.com/images/I/81sL3Cjm3HL._SY522_.jpg"
+                }
+            ]
+        }
+    ]
+}

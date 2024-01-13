@@ -1,0 +1,27 @@
+{
+    "people": [
+        {
+            "person": "Jézabel Couppey-Soubeyran",
+            "books": [
+                {
+                    "title": "Deux siècles de rhétorique réactionnaire",
+                    "author": "Albert Hirschman",
+                    "link_amazon_book": "https://amzn.to/48QeCce",
+                    "image": "https://m.media-amazon.com/images/I/61aDJ3XpCHL._SY522_.jpg"
+                },
+                {
+                    "title": "Brève histoire de l'euphorie financière",
+                    "author": "Kenneth Galbraith",
+                    "link_amazon_book": "https://amzn.to/3TYHCKH",
+                    "image": "https://m.media-amazon.com/images/I/41pF3IsPZtL.jpg"
+                },
+                {
+                    "title": "Cher connard",
+                    "author": "Virginie Despentes",
+                    "link_amazon_book": "https://amzn.to/3TXd7EI",
+                    "image": "https://m.media-amazon.com/images/I/817C2n9uEqL._SY522_.jpg"
+                }
+            ]
+        }
+    ]
+}

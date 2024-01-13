@@ -1,0 +1,21 @@
+{
+    "people": [
+        {
+            "person": "Henri Proglio",
+            "books": [
+                {
+                    "title": "Oeuvre complète",
+                    "author": "Isaac Asimov",
+                    "link_amazon_book": "https://amzn.to/49aNQeT",
+                    "image": "https://m.media-amazon.com/images/I/71WqQIgV-TL._SY522_.jpg"
+                },
+                {
+                    "title": "Oeuvre complète",
+                    "author": "Ray Bradbury",
+                    "link_amazon_book": "https://amzn.to/48MBcCg",
+                    "image": "https://m.media-amazon.com/images/I/81XPB01nZ7L._SY522_.jpg"
+                }
+            ]
+        }
+    ]
+}
