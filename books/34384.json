@@ -1,0 +1,27 @@
+{
+    "people": [
+        {
+            "person": "Pierre Hazan",
+            "books": [
+                {
+                    "title": "Eichmann à Jérusalem",
+                    "author": "Hannah Arendt",
+                    "link_amazon_book": "https://amzn.to/3SiDuE4",
+                    "image": "https://m.media-amazon.com/images/I/81VaTEhm-gL._SY522_.jpg"
+                },
+                {
+                    "title": "La Mémoire, l'Histoire, l'Oubli",
+                    "author": "Paul Ricœur",
+                    "link_amazon_book": "https://amzn.to/3TUApLy",
+                    "image": "https://m.media-amazon.com/images/I/7169Djc3zcL._SY522_.jpg"
+                },
+                {
+                    "title": "Chroniques algeriennes 1939-1958",
+                    "author": "Albert Camus",
+                    "link_amazon_book": "https://amzn.to/3tRSJKF",
+                    "image": "https://m.media-amazon.com/images/I/91bVjj13zPL._SY522_.jpg"
+                }
+            ]
+        }
+    ]
+}

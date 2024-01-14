@@ -1,0 +1,27 @@
+{
+    "people": [
+        {
+            "person": "Général Didier Castres",
+            "books": [
+                {
+                    "title": "L'Atlantide",
+                    "author": "Pierre Benoit",
+                    "link_amazon_book": "https://amzn.to/3vrUzCj",
+                    "image": "https://m.media-amazon.com/images/I/61JvCQMpBdL._SY522_.jpg"
+                },
+                {
+                    "title": "L'escadron blanc",
+                    "author": "Joseph Peyré",
+                    "link_amazon_book": "https://amzn.to/49by4Ar",
+                    "image": "https://m.media-amazon.com/images/I/41CKkZbuNlL.jpg"
+                },
+                {
+                    "title": "La Piste oubliée",
+                    "author": "Roger Frison-Roche",
+                    "link_amazon_book": "https://amzn.to/3RUTKcV",
+                    "image": "https://m.media-amazon.com/images/I/51fxXtczTIL._SY522_.jpg"
+                }
+            ]
+        }
+    ]
+}

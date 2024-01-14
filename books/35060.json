@@ -1,0 +1,27 @@
+{
+    "people": [
+        {
+            "person": "Flore Vasseur",
+            "books": [
+                {
+                    "title": "Voyage au bout de la nuit",
+                    "author": "Louis-Ferdinand Céline",
+                    "link_amazon_book": "https://amzn.to/48P4S1N",
+                    "image": "https://m.media-amazon.com/images/I/818yQICGeNL._SY522_.jpg"
+                },
+                {
+                    "title": "What is the What",
+                    "author": "Dave Eggers",
+                    "link_amazon_book": "https://amzn.to/48U8jEi",
+                    "image": "https://m.media-amazon.com/images/I/81iPeqsSevL._SY522_.jpg"
+                },
+                {
+                    "title": "T.A.Z.: The Temporary Autonomous Zone",
+                    "author": "Hakim Bey",
+                    "link_amazon_book": "https://amzn.to/48Cqf6L",
+                    "image": "https://m.media-amazon.com/images/I/71XLCbLRGnL._SY522_.jpg"
+                }
+            ]
+        }
+    ]
+}

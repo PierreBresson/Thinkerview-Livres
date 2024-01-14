@@ -1,0 +1,97 @@
+{
+    "people": [
+        {
+            "person": "Gaël Giraud",
+            "books": [
+                {
+                    "title": "Composer un monde en commun. Une théologie politique de l'anthropocène",
+                    "author": "Gaël Giraud",
+                    "link_amazon_book": "https://amzn.to/4aTeOt0",
+                    "image": "https://m.media-amazon.com/images/I/718ZiFLH2zL._SY522_.jpg"
+                },
+                {
+                    "title": "La rivoluzione dolce della transizione ecologica",
+                    "author": "Gaël Giraud",
+                    "link_amazon_book": "https://amzn.to/48wdNWh",
+                    "image": "https://m.media-amazon.com/images/I/71B8JC2tIgL._SY522_.jpg"
+                },
+                {
+                    "title": "Au commencement était...",
+                    "author": "David Graeber & David Wengrow",
+                    "link_amazon_book": "https://amzn.to/41XRm9M",
+                    "image": "https://m.media-amazon.com/images/I/41+ZEkjBpsL._SY522_.jpg"
+                },
+                {
+                    "title": "The Age of Sustainability - Just Transitions in a Complex World",
+                    "author": "Mark Swilling",
+                    "link_amazon_book": "https://amzn.to/48weBKt",
+                    "image": "https://m.media-amazon.com/images/I/91gkauiwiNL._SY522_.jpg"
+                },
+                {
+                    "title": "Actifs fossiles, les nouveaux subprimes ?",
+                    "author": "Institut Rousseau",
+                    "link_amazon_book": "https://institut-rousseau.fr/actifs-fossiles-les-nouveaux-subprimes/",
+                    "image": "https://cdn-ikpnn.nitrocdn.com/wdkBNLqiKJVglMVGtADQVuqHLXEhlHdx/assets/images/optimized/rev-2d40058/institut-rousseau.fr/wp-content/uploads/2021/06/couv_fossiles-1.png"
+                }
+            ]
+        },
+        {
+            "person": "Raphaël Rossello",
+            "books": [
+                {
+                    "title": "Demain - La fin de l'insouciance ?",
+                    "author": "Raphaël Rossello",
+                    "link_amazon_book": "https://amzn.to/3SrZAnL",
+                    "image": "https://m.media-amazon.com/images/I/51uEsciLJYL._SY522_.jpg"
+                },
+                {
+                    "title": "La Fin de l'histoire et le dernier homme",
+                    "author": "Francis Fukuyama",
+                    "link_amazon_book": "https://amzn.to/3SjiWeG",
+                    "image": "https://m.media-amazon.com/images/I/71K2wYhNYsL._SY522_.jpg"
+                },
+                {
+                    "title": "Discours de la servitude volontaire",
+                    "author": "Étienne de La Boétie",
+                    "link_amazon_book": "https://amzn.to/3vE4qFu",
+                    "image": "https://m.media-amazon.com/images/I/71IxtPo1KtL._SY522_.jpg"
+                },
+                {
+                    "title": "L'histoire De Christophe Colomb Attribué À Son Fils Fernand",
+                    "author": " Henry Harrisse, Avezac",
+                    "link_amazon_book": "https://amzn.to/48yTkjl",
+                    "image": "https://m.media-amazon.com/images/I/61A2JER8YbL._SY522_.jpg"
+                }
+            ]
+        },
+        {
+            "person": "Gilles Raveaud",
+            "books": [
+                {
+                    "title": "Souriez, vous êtes Français !",
+                    "author": "Bernard Maris",
+                    "link_amazon_book": "https://amzn.to/3U0anXs",
+                    "image": "https://m.media-amazon.com/images/I/81LwDsjf7PL._SY522_.jpg"
+                },
+                {
+                    "title": "Adieu à la croissance",
+                    "author": "Jean Gadrey",
+                    "link_amazon_book": "https://amzn.to/47FLTWh",
+                    "image": "https://m.media-amazon.com/images/I/41V6BWyZMJL._SY522_.jpg"
+                },
+                {
+                    "title": "Energies, Fake or not ? Construire notre avenir et décarboner notre énergie sans fake new",
+                    "author": "Maxence Cordiez",
+                    "link_amazon_book": "https://amzn.to/3U6WjLs",
+                    "image": "https://m.media-amazon.com/images/I/713JYQKq-lL._SY522_.jpg"
+                },
+                {
+                    "title": "Relocaliser, Fake or not ? Penser la relocalisation de la production en France sans fake news",
+                    "author": "Jérôme Cuny",
+                    "link_amazon_book": "https://amzn.to/48RWFtB",
+                    "image": "https://m.media-amazon.com/images/I/714k9G-LLuL._SY522_.jpg"
+                }
+            ]
+        }
+    ]
+}

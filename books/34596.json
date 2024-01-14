@@ -1,0 +1,33 @@
+{
+    "people": [
+        {
+            "person": "Christophe Brusset",
+            "books": [
+                {
+                    "title": "NASH. La maladie de la malbouffe",
+                    "author": "Dominique Lannes",
+                    "link_amazon_book": "https://amzn.to/4aTeYk2",
+                    "image": "https://m.media-amazon.com/images/I/61QK6nA4EdS._SY522_.jpg"
+                },
+                {
+                    "title": "Cochonneries",
+                    "author": "Guillaume Coudray",
+                    "link_amazon_book": "https://amzn.to/48Jt9q2",
+                    "image": "https://m.media-amazon.com/images/I/61r11lrLehL._SY522_.jpg"
+                },
+                {
+                    "title": "Algues vertes, l'histoire interdite",
+                    "author": "Inès Léraud",
+                    "link_amazon_book": "https://amzn.to/47Ih2sw",
+                    "image": "https://m.media-amazon.com/images/I/71PHcztnADL._SY522_.jpg"
+                },
+                {
+                    "title": "La malbouffe contre-attaque",
+                    "author": "Christophe Brusset",
+                    "link_amazon_book": "https://amzn.to/48uq79x",
+                    "image": "https://m.media-amazon.com/images/I/61NQXP9ND7L._SY522_.jpg"
+                }
+            ]
+        }
+    ]
+}

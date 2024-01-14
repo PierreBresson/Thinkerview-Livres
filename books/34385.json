@@ -1,0 +1,21 @@
+{
+    "people": [
+        {
+            "person": "Frans de Waal",
+            "books": [
+                {
+                    "title": "Le Singe nu",
+                    "author": "Desmond Morris",
+                    "link_amazon_book": "https://amzn.to/3HjbNo5",
+                    "image": "https://m.media-amazon.com/images/I/714eehvPZgL._SY522_.jpg"
+                },
+                {
+                    "title": "Bitch: A Revolutionary Guide to Sex, Evolution and the Female Animal",
+                    "author": "Lucy Cooke",
+                    "link_amazon_book": "https://amzn.to/3Hjly5W",
+                    "image": "https://m.media-amazon.com/images/I/818gXmB50wL._SY522_.jpg"
+                }
+            ]
+        }
+    ]
+}

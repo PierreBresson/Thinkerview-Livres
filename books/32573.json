@@ -1,0 +1,44 @@
+{
+    "people": [
+        {
+            "person": "Gilles Babinet",
+            "books": [
+                {
+                    "title": "L'insurrection qui vient",
+                    "author": "Comité invisible",
+                    "link_amazon_book": "https://amzn.to/3S1pxZN",
+                    "image": "https://m.media-amazon.com/images/I/61ulFZIlEfL._SY522_.jpg"
+                },
+                {
+                    "title": "Le Monde d'hier, souvenirs d'un Européen",
+                    "author": "Stefan Zweig",
+                    "link_amazon_book": "https://amzn.to/3RWA5tc",
+                    "image": "https://m.media-amazon.com/images/I/91R+EOfbsOL._SY522_.jpg"
+                }
+            ]
+        },
+        {
+            "person": "Nicolas Nace",
+            "books": [
+                {
+                    "title": "Petit traité de sobriété énergétique",
+                    "author": "Barbara Nicoloso",
+                    "link_amazon_book": "https://amzn.to/3vGHaGA",
+                    "image": "https://m.media-amazon.com/images/I/91p2vhmOifL._SY522_.jpg"
+                },
+                {
+                    "title": "Et Si... le monde d'après ne ressemblait pas au monde d'avant",
+                    "author": "Alternatiba",
+                    "link_amazon_book": "https://amzn.to/3OpV9aD",
+                    "image": "https://m.media-amazon.com/images/I/71T9j1VHuRL._SY522_.jpg"
+                },
+                {
+                    "title": "La Fabrique du monstre",
+                    "author": "Philippe Pujol",
+                    "link_amazon_book": "https://amzn.to/3Hi2GnH",
+                    "image": "https://m.media-amazon.com/images/I/71zz2SLMhrL._SY522_.jpg"
+                }
+            ]
+        }
+    ]
+}
