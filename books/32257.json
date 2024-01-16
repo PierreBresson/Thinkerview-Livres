@@ -1,0 +1,39 @@
+{
+    "people": [
+        {
+            "person": "Michel Wieviorka",
+            "books": [
+                {
+                    "title": "Les Misérables",
+                    "author": "Victor Hugo",
+                    "link_amazon_book": "https://amzn.to/47F4dPv",
+                    "image": "https://m.media-amazon.com/images/I/71lxLN4vorL._SY522_.jpg"
+                },
+                {
+                    "title": "Le Comte de Monte-Cristo",
+                    "author": "Alexandre Dumas",
+                    "link_amazon_book": "https://amzn.to/3SjQ8m0",
+                    "image": "https://m.media-amazon.com/images/I/71GJr24eaBL._SY522_.jpg"
+                },
+                {
+                    "title": "Oeuvre complète",
+                    "author": "Jules Verne",
+                    "link_amazon_book": "https://amzn.to/3SkU5Hm",
+                    "image": "https://m.media-amazon.com/images/I/81ZkSSXIGTL._SY522_.jpg"
+                },
+                {
+                    "title": "Oeuvre complète",
+                    "author": "Honoré de Balzac",
+                    "link_amazon_book": "https://amzn.to/3SmE7wp",
+                    "image": "https://m.media-amazon.com/images/I/61o3yzl3t-L._SY522_.jpg"
+                },
+                {
+                    "title": "Alors monsieur Macron, heureux ?",
+                    "author": "Michel Wieviorka",
+                    "link_amazon_book": "https://amzn.to/3vAfJhH",
+                    "image": "https://m.media-amazon.com/images/I/41-h-ExdltL.jpg"
+                }
+            ]
+        }
+    ]
+}

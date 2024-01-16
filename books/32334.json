@@ -1,0 +1,57 @@
+{
+    "people": [
+        {
+            "person": "August Cole",
+            "books": [
+                {
+                    "title": "La flotte fantôme",
+                    "author": "P. W. Singer et August Cole",
+                    "link_amazon_book": "https://amzn.to/3TWHqeR",
+                    "image": "https://m.media-amazon.com/images/I/81JHk1ZjzEL._SY522_.jpg"
+                },
+                {
+                    "title": "Control",
+                    "author": "P. W. Singer et August Cole",
+                    "link_amazon_book": "https://amzn.to/4aUrjo1",
+                    "image": "https://m.media-amazon.com/images/I/71abXko6JVL._SY522_.jpg"
+                },
+                {
+                    "title": "Gravé sur chrome",
+                    "author": "William Gibson",
+                    "link_amazon_book": "https://amzn.to/4b19ELq",
+                    "image": "https://m.media-amazon.com/images/I/412wUoOKX5L.jpg"
+                },
+                {
+                    "title": "Trilogie neuromantique",
+                    "author": "William Gibson",
+                    "link_amazon_book": "https://amzn.to/3RWvnvv",
+                    "image": "https://m.media-amazon.com/images/I/41b8cEkj9IL.jpg"
+                },
+                {
+                    "title": "The Peripheral",
+                    "author": "William Gibson",
+                    "link_amazon_book": "https://amzn.to/3S3khoB",
+                    "image": "https://m.media-amazon.com/images/I/91HJV9vzbnL._SY522_.jpg"
+                },
+                {
+                    "title": "Fahrenheit 451",
+                    "author": "Ray Bradbury",
+                    "link_amazon_book": "https://amzn.to/3HlQZwo",
+                    "image": "https://m.media-amazon.com/images/I/71A7wpyXQOL._SY522_.jpg"
+                },
+                {
+                    "title": "La Griffe du chien",
+                    "author": "Don Winslow",
+                    "link_amazon_book": "https://amzn.to/4aRZA7D",
+                    "image": "https://m.media-amazon.com/images/I/711XJMjXKIL._SY522_.jpg"
+                },
+                {
+                    "title": "Tempête rouge",
+                    "author": "Tom Clancy",
+                    "link_amazon_book": "https://amzn.to/3O10c0T",
+                    "image": "https://m.media-amazon.com/images/I/71dzx1nQF2L._SY522_.jpg"
+                }
+            ]
+        }
+    ]
+}

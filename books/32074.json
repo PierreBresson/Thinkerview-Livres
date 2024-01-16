@@ -1,0 +1,45 @@
+{
+    "people": [
+        {
+            "person": "Emma Haziza",
+            "books": [
+                {
+                    "title": "L'Homme qui plantait des arbres",
+                    "author": "Jean Giono",
+                    "link_amazon_book": "https://amzn.to/3tVvNKw",
+                    "image": "https://m.media-amazon.com/images/I/81lYpqDipHL._SY522_.jpg"
+                },
+                {
+                    "title": "Le Bug humain: Pourquoi notre cerveau nous pousse à détruire la planète et comment l'en empêcher",
+                    "author": "Sébastien Bohler",
+                    "link_amazon_book": "https://amzn.to/4aZKFZa",
+                    "image": "https://m.media-amazon.com/images/I/71KrEu5bmoL._SY522_.jpg"
+                },
+                {
+                    "title": "L'empreinte eau - Les faces cachées d'une ressource vitale",
+                    "author": "Daniel Zimmer",
+                    "link_amazon_book": "https://amzn.to/427j6ck",
+                    "image": "https://m.media-amazon.com/images/I/61TFGddjROL._SY522_.jpg"
+                },
+                {
+                    "title": "Voyage aux pays du coton",
+                    "author": "Erik Orsenna",
+                    "link_amazon_book": "https://amzn.to/424DsCP",
+                    "image": "https://m.media-amazon.com/images/I/716prNqs2aL._SY522_.jpg"
+                },
+                {
+                    "title": "L'Avenir de l'eau",
+                    "author": "Erik Orsenna",
+                    "link_amazon_book": "https://amzn.to/3RSrx6w",
+                    "image": "https://m.media-amazon.com/images/I/813Kfr+oWOL._SY522_.jpg"
+                },
+                {
+                    "title": "Oeuvre complète",
+                    "author": "Marc-André Selosse",
+                    "link_amazon_book": "https://amzn.to/3SlEOGi",
+                    "image": "https://m.media-amazon.com/images/I/51ffg+RXjeL.jpg"
+                }
+            ]
+        }
+    ]
+}

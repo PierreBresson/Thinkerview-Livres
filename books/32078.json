@@ -1,0 +1,45 @@
+{
+    "people": [
+        {
+            "person": "Alain Chouet",
+            "books": [
+                {
+                    "title": "Sept pas vers l'enfer. Séparatisme islamique : les désarrois d'un officier de renseignement",
+                    "author": "Alain Chouet",
+                    "link_amazon_book": "https://amzn.to/47BmKMC",
+                    "image": "https://m.media-amazon.com/images/I/611rAwC7NFL._SY522_.jpg"
+                },
+                {
+                    "title": "L'interrogatoire",
+                    "author": "Vladimir Volkoff",
+                    "link_amazon_book": "https://amzn.to/427iwva",
+                    "image": "https://m.media-amazon.com/images/I/51PgOqEPfCL.jpg"
+                },
+                {
+                    "title": "Au coeur des services spéciaux",
+                    "author": "Alain Chouet, Jean Guisnel",
+                    "link_amazon_book": "https://amzn.to/3S3txc6",
+                    "image": "https://m.media-amazon.com/images/I/51UtxBd65cL._SY522_.jpg"
+                },
+                {
+                    "title": "Histoire politique des services secrets français",
+                    "author": "Jean Guisnel, Roger Faligot et Rémi Kauffer",
+                    "link_amazon_book": "https://amzn.to/48UTS2R",
+                    "image": "https://m.media-amazon.com/images/I/61jzOQW2+fL._SY522_.jpg"
+                },
+                {
+                    "title": "Histoire secrète de la DGSE",
+                    "author": "Jean Guisnel",
+                    "link_amazon_book": "https://amzn.to/48Sw9R1",
+                    "image": "https://m.media-amazon.com/images/I/615Pt+-QP1L._SY522_.jpg"
+                },
+                {
+                    "title": "Histoire secrète de la Ve République",
+                    "author": "Jean Guisnel, Roger Faligot et Rémi Kauffer",
+                    "link_amazon_book": "https://amzn.to/49dNB2H",
+                    "image": "https://m.media-amazon.com/images/I/7145jAikrcL._SY522_.jpg"
+                }
+            ]
+        }
+    ]
+}

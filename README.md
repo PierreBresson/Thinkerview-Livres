@@ -514,7 +514,6 @@ Dernier livre de l'invité :
 
 - Sept pas vers l'enfer. Séparatisme islamique : les désarrois d'un officier de renseignement - Alain Chouet
 - L'interrogatoire - Vladimir Volkoff
-- Les Carnets de Turner - William Luther Pierce
 - Au coeur des services spéciaux - Alain Chouet, Jean Guisnel
 - Histoire politique des services secrets français - Jean Guisnel, Roger Faligot et Rémi Kauffer
 - Histoire secrète de la DGSE - Jean Guisnel
