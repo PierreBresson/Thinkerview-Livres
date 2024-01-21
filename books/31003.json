@@ -1,0 +1,39 @@
+{
+    "people": [
+        {
+            "person": "Christophe Deloire",
+            "books": [
+                {
+                    "title": "La Matrice",
+                    "author": "Christophe Deloire",
+                    "link_amazon_book": "https://amzn.to/3vLvnHh",
+                    "image": "https://m.media-amazon.com/images/I/712yT9-Q-lL._SY466_.jpg"
+                },
+                {
+                    "title": "Sans blessures apparentes",
+                    "author": "Jean-Paul Mari",
+                    "link_amazon_book": "https://amzn.to/3HtZV2E",
+                    "image": "https://m.media-amazon.com/images/I/81sP2Tr7InL._SY466_.jpg"
+                },
+                {
+                    "title": "Retour à Lemberg",
+                    "author": "Philippe Sands",
+                    "link_amazon_book": "https://amzn.to/3HMmAHX",
+                    "image": "https://m.media-amazon.com/images/I/81KNuQSxOKL._SY466_.jpg"
+                },
+                {
+                    "title": "L'Âge du capitalisme de surveillance",
+                    "author": "Shoshana Zuboff",
+                    "link_amazon_book": "https://amzn.to/3vJfdhz",
+                    "image": "https://m.media-amazon.com/images/I/51WaaYgJsQL._SY466_.jpg"
+                },
+                {
+                    "title": "La Fin de l'homme rouge",
+                    "author": "Svetlana Alexievitch",
+                    "link_amazon_book": "https://amzn.to/3SafrG4",
+                    "image": "https://m.media-amazon.com/images/I/41v--UjGZ4L._SY466_.jpg"
+                }
+            ]
+        }
+    ]
+}

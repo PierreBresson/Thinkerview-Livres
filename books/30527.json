@@ -1,0 +1,45 @@
+{
+    "people": [
+        {
+            "person": "Marc Endeweld",
+            "books": [
+                {
+                    "title": "Requiem pour une République",
+                    "author": "Thomas Cantaloube",
+                    "link_amazon_book": "https://amzn.to/3U4SmXX",
+                    "image": "https://m.media-amazon.com/images/I/71DPamZQm7S._SY466_.jpg"
+                },
+                {
+                    "title": "Mémoires impubliables",
+                    "author": "Pierre Péan",
+                    "link_amazon_book": "https://amzn.to/3U9lFsu",
+                    "image": "https://m.media-amazon.com/images/I/716paoB-DGL._SY466_.jpg"
+                },
+                {
+                    "title": "L'enfer numérique: Voyage au bout d'un Like",
+                    "author": "Guillaume Pitron",
+                    "link_amazon_book": "https://amzn.to/42a651m",
+                    "image": "https://m.media-amazon.com/images/I/41vKdWZsq2L._SY466_.jpg"
+                },
+                {
+                    "title": "L'ambigu monsieur Macron",
+                    "author": "Marc Endeweld",
+                    "link_amazon_book": "https://amzn.to/3SoAPsq",
+                    "image": "https://m.media-amazon.com/images/I/61NvwouVzUL._SY466_.jpg"
+                },
+                {
+                    "title": "Le Grand Manipulateur : Les Réseaux secrets de Macron",
+                    "author": "Marc Endeweld",
+                    "link_amazon_book": "https://amzn.to/3vJUR7N",
+                    "image": "https://m.media-amazon.com/images/I/51q-T48lGhL._SY466_.jpg"
+                },
+                {
+                    "title": "L'Emprise : La France sous influence",
+                    "author": "Marc Endeweld",
+                    "link_amazon_book": "https://amzn.to/48BTjeC",
+                    "image": "https://m.media-amazon.com/images/I/818zEVZruBL._SY466_.jpg"
+                }
+            ]
+        }
+    ]
+}

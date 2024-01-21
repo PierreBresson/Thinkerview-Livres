@@ -1,0 +1,33 @@
+{
+    "people": [
+        {
+            "person": "Pierre Conesa",
+            "books": [
+                {
+                    "title": "La fabrication de l'ennemi",
+                    "author": "Pierre Conesa",
+                    "link_amazon_book": "https://amzn.to/3Sq52ap",
+                    "image": "https://m.media-amazon.com/images/I/514g1SWtLyL._SY466_.jpg"
+                },
+                {
+                    "title": "L'idée de guerre juste",
+                    "author": "Monique Canto-Sperber",
+                    "link_amazon_book": "https://amzn.to/3HpRd5N",
+                    "image": "https://m.media-amazon.com/images/I/61KR5NdP48L._SY466_.jpg"
+                },
+                {
+                    "title": "Oeuvre complète",
+                    "author": "Kamel Daoud",
+                    "link_amazon_book": "https://amzn.to/3Hv6lPf",
+                    "image": "https://m.media-amazon.com/images/I/91YuSoEyrvL._SY466_.jpg"
+                },
+                {
+                    "title": "Une Suisse au-dessus de tout soupçon",
+                    "author": "Jean Ziegler",
+                    "link_amazon_book": "https://amzn.to/3Sr3gG8",
+                    "image": "https://m.media-amazon.com/images/I/61tQ+m5K6HL._SY466_.jpg"
+                }
+            ]
+        }
+    ]
+}
