@@ -1,0 +1,57 @@
+{
+    "people": [
+        {
+            "person": "Sacha Filipenko",
+            "books": [
+                {
+                    "title": "Le Rivage des Syrtes",
+                    "author": "Julien Gracq",
+                    "link_amazon_book": "https://amzn.to/4b4gPm0",
+                    "image": "https://m.media-amazon.com/images/I/61QdDAllm8L._SY522_.jpg"
+                },
+                {
+                    "title": "Les Bienveillantes",
+                    "author": "Jonathan Littell",
+                    "link_amazon_book": "https://amzn.to/47Kh0A6",
+                    "image": "https://m.media-amazon.com/images/I/71k7Ff9VPsL._SY522_.jpg"
+                },
+                {
+                    "title": "Oeuvre complète",
+                    "author": "Proust",
+                    "link_amazon_book": "https://amzn.to/4958ehp",
+                    "image": "https://m.media-amazon.com/images/I/61oPc46FsSL._SY466_.jpg"
+                },
+                {
+                    "title": "Oeuvre complète",
+                    "author": "Georges Perec",
+                    "link_amazon_book": "https://amzn.to/490kT5c",
+                    "image": "https://m.media-amazon.com/images/I/81fVAiKSQeL._SY466_.jpg"
+                },
+                {
+                    "title": "Oeuvre complète",
+                    "author": "Céline Louis Ferdinand",
+                    "link_amazon_book": "https://amzn.to/494o1N9",
+                    "image": "https://m.media-amazon.com/images/I/716b9Jf6-zL._SY466_.jpg"
+                },
+                {
+                    "title": "La Traque",
+                    "author": "Sacha Filipenko",
+                    "link_amazon_book": "https://amzn.to/3SqJVVq",
+                    "image": "https://m.media-amazon.com/images/I/61btB5r9P5L._SY466_.jpg"
+                },
+                {
+                    "title": "Un fils perdu",
+                    "author": "Sacha Filipenko",
+                    "link_amazon_book": "https://amzn.to/3SqJWZu",
+                    "image": "https://m.media-amazon.com/images/I/51AiqkSjAiL._SY466_.jpg"
+                },
+                {
+                    "title": "Croix rouges",
+                    "author": "Sacha Filipenko",
+                    "link_amazon_book": "https://amzn.to/3O7YMSj",
+                    "image": "https://m.media-amazon.com/images/I/718VaMzollL._SY466_.jpg"
+                }
+            ]
+        }
+    ]
+}

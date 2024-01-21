@@ -1,0 +1,27 @@
+{
+    "people": [
+        {
+            "person": "Serge Zaka",
+            "books": [
+                {
+                    "title": "Le Livre Vert",
+                    "author": "Projet CLIMATOR",
+                    "link_amazon_book": "https://librairie.ademe.fr/changement-climatique-et-energie/3893-changement-climatique-agriculture-et-foret-en-france-simulations-d-impacts-sur-les-principales-especes.html",
+                    "image": "https://www.adaptation-changement-climatique.gouv.fr/sites/cracc/files/styles/l480/public/images/2021/03/86423_img-climator-150.png?itok=JHOR5TMA"
+                },
+                {
+                    "title": "Refonder l'agriculture à l'heure de l'Anthropocène",
+                    "author": "Bertrand Valiorgue",
+                    "link_amazon_book": "https://amzn.to/48IkIvm",
+                    "image": "https://m.media-amazon.com/images/I/81DPTaE3APL._SY466_.jpg"
+                },
+                {
+                    "title": "Géopolitique du blé",
+                    "author": "Sébastien Abis",
+                    "link_amazon_book": "https://amzn.to/42a4QPK",
+                    "image": "https://m.media-amazon.com/images/I/71Wpi0yX2hL._SY466_.jpg"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "people": [
+        {
+            "person": "Jean-Luc Mélenchon",
+            "books": [
+                {
+                    "title": "Le traître et le néant",
+                    "author": "Gérard Davet & Fabrice Lhomme",
+                    "link_amazon_book": "https://amzn.to/48EAY0p",
+                    "image": "https://m.media-amazon.com/images/I/61XKVFm+LgL._SY466_.jpg"
+                },
+                {
+                    "title": "L'Emprise: La France sous influence",
+                    "author": "Marc Endeweld",
+                    "link_amazon_book": "https://amzn.to/47GiDyN",
+                    "image": "https://m.media-amazon.com/images/I/818zEVZruBL._SY466_.jpg"
+                },
+                {
+                    "title": "La Véritable Histoire des Gracques",
+                    "author": "Christopher Bouix",
+                    "link_amazon_book": "https://amzn.to/47HkT9a",
+                    "image": "https://m.media-amazon.com/images/I/81dHwhbgTVL._SY466_.jpg"
+                }
+            ]
+        }
+    ]
+}

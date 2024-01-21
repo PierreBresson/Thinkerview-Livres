@@ -6,6 +6,15 @@
 
 Liste des recommandations lecture/films des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+### Serge Zaka : Souveraineté alimentaire face au dérèglement climatique ?
+> 7 décembre 2023
+> [youtube](https://www.youtube.com/watch?v=2PMDmICN5Kk)
+
+Serge Zaka
+- Le Livre Vert - Projet CLIMATOR
+- Refonder l'agriculture à l'heure de l'Anthropocène - Bertrand Valiorgue
+- Géopolitique du blé - Sébastien Abis
+
 ### Deux économistes sous stress-test ? Julia Cagé et Thomas Piketty
 > 28 novembre 2023
 > [youtube](https://www.youtube.com/watch?v=xWkQKFguMv0)
@@ -570,9 +579,6 @@ Derniers livres de l'invité :
 ### L'Europe à court d'énergie ? Nicolas Meilhan et Francis Perrin 
 > 29 mars 2022
 > [youtube](https://youtu.be/nGpkykPCbVU)
-
-- [Analyse des propositions des candidats sur le climat - Le Shift Project](https://theshiftproject.org/article/climat-energie-analyse-shift-presidentielles/)
-- La Face cachée du pétrole - Reportage Arte
 
 Nicolas Meilhan
 - The Limits to Growth (1972) - Meadows

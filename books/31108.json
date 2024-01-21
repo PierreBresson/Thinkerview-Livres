@@ -1,0 +1,50 @@
+{
+    "people": [
+        {
+            "person": "Nicolas Meilhan",
+            "books": [
+                {
+                    "title": "The Limits to Growth",
+                    "author": "Meadows",
+                    "link_amazon_book": "https://amzn.to/3SryPj2",
+                    "image": "https://m.media-amazon.com/images/I/51FWrUoBehL._SY466_.jpg"
+                },
+                {
+                    "title": "L'Âge des low tech",
+                    "author": "Philippe Bihouix",
+                    "link_amazon_book": "https://amzn.to/3vsjsxK",
+                    "image": "https://m.media-amazon.com/images/I/81rb-8EHM8L._SY522_.jpg"
+                },
+                {
+                    "title": "Les quatre accords toltèques",
+                    "author": "Miguel Ruiz",
+                    "link_amazon_book": "https://amzn.to/42bzsR1",
+                    "image": "https://m.media-amazon.com/images/I/615Hq44qv1L._SY466_.jpg"
+                }
+            ]
+        },
+        {
+            "person": "Francis Perrin",
+            "books": [
+                {
+                    "title": "La guerre du pétrole",
+                    "author": "Mosley Leonard",
+                    "link_amazon_book": "https://amzn.to/3tSjSxb",
+                    "image": "https://m.media-amazon.com/images/I/71pfUIQiKDL._SY466_.jpg"
+                },
+                {
+                    "title": "World Energy Outlook",
+                    "author": "IEA",
+                    "link_amazon_book": "https://www.iea.org/search?q=World%20Energy%20Outlook",
+                    "image": "https://iea.imgix.net/951a67ca-f0b9-46f5-87a1-821c75579dfa/WEO2023_shutterstock_1439121134.jpg?auto=compress%2Cformat&fit=min&q=80&rect=2021%2C0%2C2499%2C3400&w=348&h=473&fit=crop&fm=jpg&q=70&auto=format"
+                },
+                {
+                    "title": "Monthly Oil Market Report",
+                    "author": "OPEP",
+                    "link_amazon_book": "https://www.opec.org/opec_web/en/publications/338.htm",
+                    "image": "https://www.opec.org/opec_web/static_files_project/images/content/MOMR%20Jan%202024%20115x139.png"
+                }
+            ]
+        }
+    ]
+}
