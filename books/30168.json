@@ -1,0 +1,27 @@
+{
+    "people": [
+        {
+            "person": "Geoffroy Roux de Bézieux",
+            "books": [
+                {
+                    "title": "L'Intendance suivra ! De Gaulle et l'Économie",
+                    "author": "Geoffroy Roux de Bézieux",
+                    "link_amazon_book": "https://amzn.to/48HnTDw",
+                    "image": "https://m.media-amazon.com/images/I/61cQB1QxpPL._SY466_.jpg"
+                },
+                {
+                    "title": "Capitalisme et liberté",
+                    "author": "Milton Friedman",
+                    "link_amazon_book": "https://amzn.to/48BTyq2",
+                    "image": "https://m.media-amazon.com/images/I/61L7ZHzFsIL._SY466_.jpg"
+                },
+                {
+                    "title": "La Flotte fantôme: Le troisième conflit mondial est déjà là",
+                    "author": "Peter W. Singer",
+                    "link_amazon_book": "https://amzn.to/3S5Ifzm",
+                    "image": "https://m.media-amazon.com/images/I/71zVw9UqJTL._SY466_.jpg"
+                }
+            ]
+        }
+    ]
+}

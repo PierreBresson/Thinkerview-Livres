@@ -1,0 +1,27 @@
+{
+    "people": [
+        {
+            "person": "Aurore Stéphant",
+            "books": [
+                {
+                    "title": "Germinal",
+                    "author": "Emile Zola",
+                    "link_amazon_book": "https://m.media-amazon.com/images/I/81X-F1nE0IL._SY466_.jpg",
+                    "image": "https://amzn.to/429vatj"
+                },
+                {
+                    "title": "Minerais de sang",
+                    "author": "Christophe Boltanski",
+                    "link_amazon_book": "https://amzn.to/47IMHd1",
+                    "image": "https://m.media-amazon.com/images/I/81UR-dFaZ1L._SY466_.jpg"
+                },
+                {
+                    "title": "La Fin de la mégamachine: Sur les traces d'une civilisation en voie d'effondrement",
+                    "author": "Fabian Scheidler",
+                    "link_amazon_book": "https://amzn.to/491gyOX",
+                    "image": "https://m.media-amazon.com/images/I/716yVHAxNsL._SY466_.jpg"
+                }
+            ]
+        }
+    ]
+}

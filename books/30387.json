@@ -1,0 +1,50 @@
+{
+    "people": [
+        {
+            "person": "Laurent Morel",
+            "books": [
+                {
+                    "title": "L'Argent",
+                    "author": "Charles Péguy",
+                    "link_amazon_book": "https://amzn.to/48GXvKe",
+                    "image": "https://m.media-amazon.com/images/I/513eQVue7pL._SY466_.jpg"
+                },
+                {
+                    "title": "La Société de consommation",
+                    "author": "Jean Baudrillard",
+                    "link_amazon_book": "https://amzn.to/42b5Kfc",
+                    "image": "https://m.media-amazon.com/images/I/81sTmjatw0L._SY466_.jpg"
+                },
+                {
+                    "title": "La Chartreuse de Parme",
+                    "author": "Stendhal",
+                    "link_amazon_book": "https://amzn.to/3SrXFOP",
+                    "image": "https://m.media-amazon.com/images/I/818KmgROmYL._SY466_.jpg"
+                }
+            ]
+        },
+        {
+            "person": "Jean-Marc Jancovici",
+            "books": [
+                {
+                    "title": "The Limits to Growth",
+                    "author": "Meadows",
+                    "link_amazon_book": "https://amzn.to/3SryPj2",
+                    "image": "https://m.media-amazon.com/images/I/51FWrUoBehL._SY466_.jpg"
+                },
+                {
+                    "title": "De la démocratie en Amérique",
+                    "author": "Alexis de Tocqueville",
+                    "link_amazon_book": "https://amzn.to/3Sr3Mny",
+                    "image": "https://m.media-amazon.com/images/I/41QqmXzD4RL._SY466_.jpg"
+                },
+                {
+                    "title": "Malevil",
+                    "author": "Robert Merle",
+                    "link_amazon_book": "https://amzn.to/3ObDhjt",
+                    "image": "https://m.media-amazon.com/images/I/81QlARq-YiL._SY466_.jpg"
+                }
+            ]
+        }
+    ]
+}
