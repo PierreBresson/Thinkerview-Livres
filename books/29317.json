@@ -1,0 +1,39 @@
+{
+    "people": [
+        {
+            "person": "Étienne Klein",
+            "books": [
+                {
+                    "title": "Le Réel et son double",
+                    "author": "Clément Rosset",
+                    "link_amazon_book": "https://amzn.to/48InoJq",
+                    "image": "https://m.media-amazon.com/images/I/91yzcIY4PNL._SY466_.jpg"
+                },
+                {
+                    "title": "Le monde à la première personne",
+                    "author": "Francis Wolff",
+                    "link_amazon_book": "https://amzn.to/3Ht4U3N",
+                    "image": "https://m.media-amazon.com/images/I/61Bm2+YdKFL._SY466_.jpg"
+                },
+                {
+                    "title": "Le Mont Analogue",
+                    "author": "René Daumal",
+                    "link_amazon_book": "https://amzn.to/48Z4sGa",
+                    "image": "https://m.media-amazon.com/images/I/51iGRLpUNDL._SY466_.jpg"
+                },
+                {
+                    "title": "De la démocratie en Amérique",
+                    "author": "Alexis de Tocqueville",
+                    "link_amazon_book": "https://amzn.to/3Sr3Mny",
+                    "image": "https://m.media-amazon.com/images/I/41QqmXzD4RL._SY466_.jpg"
+                },
+                {
+                    "title": "Le pays qu'habitait Albert Einstein",
+                    "author": "Etienne Klein",
+                    "link_amazon_book": "https://amzn.to/47INWcb",
+                    "image": "https://m.media-amazon.com/images/I/716Of86bRaL._SY466_.jpg"
+                }
+            ]
+        }
+    ]
+}

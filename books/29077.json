@@ -1,0 +1,57 @@
+{
+    "people": [
+        {
+            "person": "Clément Viktorovitch",
+            "books": [
+                {
+                    "title": "Influence et manipulation",
+                    "author": "Robert Cialdini",
+                    "link_amazon_book": "https://amzn.to/3U4UL4V",
+                    "image": "https://m.media-amazon.com/images/I/61u5kXiO0xL._SY466_.jpg"
+                },
+                {
+                    "title": "Principes du gouvernement représentatif",
+                    "author": "Bernard Manin",
+                    "link_amazon_book": "https://amzn.to/3vHPDtp",
+                    "image": "https://m.media-amazon.com/images/I/71Z+QOZgLML._SY466_.jpg"
+                },
+                {
+                    "title": "La Zone du Dehors",
+                    "author": "Alain Damasio",
+                    "link_amazon_book": "https://amzn.to/3HtF0Nk",
+                    "image": "https://m.media-amazon.com/images/I/81ClXYWqZyL._SY466_.jpg"
+                },
+                {
+                    "title": "Petit cours d'autodéfense intellectuelle",
+                    "author": "Normand Baillargeon",
+                    "link_amazon_book": "https://amzn.to/3Hq7g3c",
+                    "image": "https://m.media-amazon.com/images/I/61rJmDazy4L._SY466_.jpg"
+                },
+                {
+                    "title": "L'Art d'avoir toujours raison",
+                    "author": "Arthur Schopenhauer",
+                    "link_amazon_book": "https://amzn.to/3SqQyXO",
+                    "image": "https://m.media-amazon.com/images/I/412GnrE7s+L._SY466_.jpg"
+                },
+                {
+                    "title": "Système 1 / Système 2 : Les deux vitesses de la pensée",
+                    "author": "Daniel Kahneman",
+                    "link_amazon_book": "https://amzn.to/3SqlWG1",
+                    "image": "https://m.media-amazon.com/images/I/61P9rCnogRL._SY466_.jpg"
+                },
+                {
+                    "title": "Petit traité de manipulation à l'usage des honnêtes gens",
+                    "author": "Jean-Léon Beauvois et Vincent Joule",
+                    "link_amazon_book": "https://amzn.to/3vJX2Z2",
+                    "image": "https://m.media-amazon.com/images/I/71xWYitlsYL._SY466_.jpg"
+                },
+                {
+                    "title": "Le Pouvoir rhétorique",
+                    "author": "Clément Viktorovitch",
+                    "link_amazon_book": "https://amzn.to/3OaWqSt",
+                    "image": "https://m.media-amazon.com/images/I/71+VbzsnYcL._SY466_.jpg"
+                }
+            ]
+        }
+    ]
+}
