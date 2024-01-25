@@ -1,0 +1,27 @@
+{
+    "people": [
+        {
+            "person": "Guillaume Bigot",
+            "books": [
+                {
+                    "title": "La culture du narcissisme : La vie américaine à un âge de déclin des espérances",
+                    "author": "Christopher Lasch",
+                    "link_amazon_book": "https://amzn.to/3SwuB9U",
+                    "image": "https://m.media-amazon.com/images/I/61UOQWpqccL._SY522_.jpg"
+                },
+                {
+                    "title": "Voyage au centre du malaise français: L'antiracisme et le roman national",
+                    "author": "Paul Yonnet",
+                    "link_amazon_book": "https://amzn.to/3vP9l6u",
+                    "image": "https://m.media-amazon.com/images/I/61YJpzF60VL._SY522_.jpg"
+                },
+                {
+                    "title": "Fascination du djihad: Fureurs islamistes et défaite de la paix",
+                    "author": "Gabriel Martinez-Gros",
+                    "link_amazon_book": "https://amzn.to/3Svxo2Z",
+                    "image": "https://m.media-amazon.com/images/I/51CjUHon6kL._SY522_.jpg"
+                }
+            ]
+        }
+    ]
+}

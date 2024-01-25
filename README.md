@@ -6,6 +6,15 @@
 
 Liste des recommandations lecture/films des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+###  Trahison des chefs, où va la France ? Guillaume Bigot
+> 8 décembre 2023
+> [youtube](https://www.youtube.com/watch?v=GeYs3k5Y-Rg)
+
+Guillaume Bigot
+- La culture du narcissisme : La vie américaine à un âge de déclin des espérances - Christopher Lasch
+- Voyage au centre du malaise français: L'antiracisme et le roman national - Paul Yonnet
+- Fascination du djihad: Fureurs islamistes et défaite de la paix - Gabriel Martinez-Gros
+
 ###  IA : notre futur assistant ou nouveau maître ? Justine Cassell et Cédric Villani
 > 8 décembre 2023
 > [youtube](https://www.youtube.com/watch?v=GeYs3k5Y-Rg)
