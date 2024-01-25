@@ -1,0 +1,38 @@
+{
+    "people": [
+        {
+            "person": "Cédric Villani",
+            "books": [
+                {
+                    "title": "Algorithmes : la bombe à retardement",
+                    "author": "Cathy O'Neil",
+                    "link_amazon_book": "https://amzn.to/3U6ZYsW",
+                    "image": "https://m.media-amazon.com/images/I/71jUOuEOmVL._SY522_.jpg"
+                },
+                {
+                    "title": "Toxic Data: Comment les réseaux manipulent nos opinions",
+                    "author": " David Chavalarias",
+                    "link_amazon_book": "https://amzn.to/3SdJCfj",
+                    "image": "https://m.media-amazon.com/images/I/61QGxbE8zcL._SY522_.jpg"
+                },
+                {
+                    "title": "Dream Machine: ou comment j'ai failli vendre mon âme à l'intelligence artificielle",
+                    "author": "Appupen et Laurent Daudet",
+                    "link_amazon_book": "https://amzn.to/3Saexct",
+                    "image": "https://m.media-amazon.com/images/I/71KHpOU0quL._SY522_.jpg"
+                }
+            ]
+        },
+        {
+            "person": "Justine Cassell",
+            "books": [
+                {
+                    "title": "L'âge de diamant ou le Manuel illustré d'éducation à l'usage de filles",
+                    "author": "Neal Stephenson",
+                    "link_amazon_book": "https://amzn.to/4b4nk8J",
+                    "image": "https://m.media-amazon.com/images/I/81goDtVcRhL._SY522_.jpg"
+                }
+            ]
+        }
+    ]
+}

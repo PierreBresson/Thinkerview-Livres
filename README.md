@@ -6,6 +6,18 @@
 
 Liste des recommandations lecture/films des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+###  IA : notre futur assistant ou nouveau maître ? Justine Cassell et Cédric Villani
+> 8 décembre 2023
+> [youtube](https://www.youtube.com/watch?v=GeYs3k5Y-Rg)
+
+Cédric Villani
+- Algorithmes : la bombe à retardement - Cathy O'Neil
+- Toxic Data: Comment les réseaux manipulent nos opinions - David Chavalarias
+- Dream Machine: ou comment j'ai failli vendre mon âme à l'intelligence artificielle - Appupen et Laurent Daudet
+
+Justine Cassell
+- L'âge de diamant ou le Manuel illustré d'éducation à l'usage de filles - Neal Stephenson
+
 ### Serge Zaka : Souveraineté alimentaire face au dérèglement climatique ?
 > 7 décembre 2023
 > [youtube](https://www.youtube.com/watch?v=2PMDmICN5Kk)
