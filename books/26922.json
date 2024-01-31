@@ -1,0 +1,27 @@
+{
+    "people": [
+        {
+            "person": "Valérie Masson-Delmotte",
+            "books": [
+                {
+                    "title": "Rapport du GIEC",
+                    "author": "IPCC",
+                    "link_amazon_book": "https://www.ipcc.ch/languages-2/francais/publications/",
+                    "image": "https://www.ipcc.ch/site/assets/uploads/2022/05/WGIII_AR6_cover-web-231x300.png"
+                },
+                {
+                    "title": "Abondance et liberté",
+                    "author": "Pierre Charbonnier",
+                    "link_amazon_book": "https://amzn.to/47WNbMQ",
+                    "image": "https://m.media-amazon.com/images/I/61pS8pZ+NlL._SY466_.jpg"
+                },
+                {
+                    "title": "Maitriser l'empreinte carbone de la France",
+                    "author": "Haut conseil pour le climat",
+                    "link_amazon_book": "https://www.hautconseilclimat.fr/publications/maitriser-lempreinte-carbone-de-la-france/",
+                    "image": "https://www.observatoireclimat-hautsdefrance.org/var/www/storage/images/mediatheque/observatoire-climat/images/couverture-ressources-docs/couv_rapport_hcc_empreinte_carbone/63562-1-fre-FR/Couv_rapport_HCC_empreinte_carbone.png"
+                }
+            ]
+        }
+    ]
+}

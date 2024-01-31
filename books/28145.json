@@ -1,0 +1,33 @@
+{
+    "people": [
+        {
+            "person": "Eric Zemmour",
+            "books": [
+                {
+                    "title": "Mémoires d'outre-tombe",
+                    "author": "François-Auguste-René de Chateaubriand",
+                    "link_amazon_book": "https://amzn.to/3NWSAwe",
+                    "image": "https://m.media-amazon.com/images/I/31lO1vK4n9L.jpg"
+                },
+                {
+                    "title": "Illusions perdues",
+                    "author": "Honoré de Balzac",
+                    "link_amazon_book": "https://amzn.to/49gAtK8",
+                    "image": "https://m.media-amazon.com/images/I/61tZft4jWcL._SY522_.jpg"
+                },
+                {
+                    "title": "Les origines de la France contemporaine",
+                    "author": "Hippolyte Taine",
+                    "link_amazon_book": "https://amzn.to/3OonXjr",
+                    "image": "https://m.media-amazon.com/images/I/61WrHoXbzTS._SY522_.jpg"
+                },
+                {
+                    "title": "La Semaine Sainte",
+                    "author": "Louis Aragon",
+                    "link_amazon_book": "https://amzn.to/4biHWKb",
+                    "image": "https://m.media-amazon.com/images/I/91dLbzZiJ1L._SY522_.jpg"
+                }
+            ]
+        }
+    ]
+}

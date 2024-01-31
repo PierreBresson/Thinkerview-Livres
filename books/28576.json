@@ -1,0 +1,50 @@
+{
+    "people": [
+        {
+            "person": "Owen Simonin",
+            "books": [
+                {
+                    "title": "Factfulness",
+                    "author": "Hans Rosling",
+                    "link_amazon_book": "https://amzn.to/4bm05qz",
+                    "image": "https://m.media-amazon.com/images/I/51KZw4ssbIL._SY522_.jpg"
+                },
+                {
+                    "title": "Outliers: The Story of Success",
+                    "author": "Malcolm Gladwell",
+                    "link_amazon_book": "https://amzn.to/3OMwBc3",
+                    "image": "https://m.media-amazon.com/images/I/51qObBGYrrL._SY522_.jpg"
+                }
+            ]
+        },
+        {
+            "person": "Raphaël Rossello",
+            "books": [
+                {
+                    "title": "L'opportunité du Covid 19",
+                    "author": "Raphaël Rossello",
+                    "link_amazon_book": "https://amzn.to/3Opdcxt",
+                    "image": "https://m.media-amazon.com/images/I/51sX2g2l8xL._SY522_.jpg"
+                },
+                {
+                    "title": "Discours de la servitude volontaire",
+                    "author": "Étienne de La Boétie",
+                    "link_amazon_book": "https://amzn.to/3vE4qFu",
+                    "image": "https://m.media-amazon.com/images/I/71IxtPo1KtL._SY522_.jpg"
+                },
+                {
+                    "title": "La Fin de l'histoire et le Dernier Homme",
+                    "author": "Francis Fukuyama",
+                    "link_amazon_book": "https://amzn.to/3udvE5m",
+                    "image": "https://m.media-amazon.com/images/I/71K2wYhNYsL._SY522_.jpg"
+                },
+                {
+                    "title": "Le Bug humain",
+                    "author": "Sébastien Bohler",
+                    "link_amazon_book": "https://amzn.to/42kpBIF",
+                    "image": "https://m.media-amazon.com/images/I/71KrEu5bmoL._SY522_.jpg"
+                }
+            ]
+        }
+    ]
+}

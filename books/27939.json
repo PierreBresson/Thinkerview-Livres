@@ -1,0 +1,33 @@
+{
+    "people": [
+        {
+            "person": "Régis Le Sommier",
+            "books": [
+                {
+                    "title": "Le Vieil Homme et la Mer",
+                    "author": "Ernest Hemingway",
+                    "link_amazon_book": "https://amzn.to/3uhfyI0",
+                    "image": "https://m.media-amazon.com/images/I/81WcA8f9DaL._SY522_.jpg"
+                },
+                {
+                    "title": "De la guerre",
+                    "author": "Carl von Clausewitz",
+                    "link_amazon_book": "https://amzn.to/4bcyBUt",
+                    "image": "https://m.media-amazon.com/images/I/61j80VQ4XZL._SY522_.jpg"
+                },
+                {
+                    "title": "The Bear Went Over the Mountain",
+                    "author": "Lester W. Grau",
+                    "link_amazon_book": "https://amzn.to/3vRu9Kq",
+                    "image": "https://m.media-amazon.com/images/I/91nFNHOoHXL._SY522_.jpg"
+                },
+                {
+                    "title": "The Other Side of the Mountain",
+                    "author": "Ali Jalali & Lester W. Grau",
+                    "link_amazon_book": "https://amzn.to/3UmmPRj",
+                    "image": "https://m.media-amazon.com/images/I/91R8zXtPslL._SY522_.jpg"
+                }
+            ]
+        }
+    ]
+}

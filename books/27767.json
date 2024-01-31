@@ -1,0 +1,45 @@
+{
+    "people": [
+        {
+            "person": "Georges Ugeux",
+            "books": [
+                {
+                    "title": "Wall Street à l’assaut de la démocratie",
+                    "author": "Georges Ugeux",
+                    "link_amazon_book": "https://amzn.to/3HHzJle",
+                    "image": "https://m.media-amazon.com/images/I/61lBJgJ937L._SY522_.jpg"
+                },
+                {
+                    "title": "La descente aux enfers de la finance",
+                    "author": "Georges Ugeux",
+                    "link_amazon_book": "https://amzn.to/3ubFF2Z",
+                    "image": "https://m.media-amazon.com/images/I/61s8Z3JXJDL._SY522_.jpg"
+                },
+                {
+                    "title": "La grande illusion",
+                    "author": "Michel Barnier",
+                    "link_amazon_book": "https://amzn.to/3SFqAPx",
+                    "image": "https://m.media-amazon.com/images/I/6119zfUNhXL._SY522_.jpg"
+                },
+                {
+                    "title": "L'anomalie",
+                    "author": "Hervé Le Tellier",
+                    "link_amazon_book": "https://amzn.to/3SEshOc",
+                    "image": "https://m.media-amazon.com/images/I/81vimU4GY3L._SY522_.jpg"
+                },
+                {
+                    "title": "La dernière chance du capitalisme",
+                    "author": "Patrick Artus",
+                    "link_amazon_book": "https://amzn.to/3UlVXAL",
+                    "image": "https://m.media-amazon.com/images/I/4152JnUvfOS._SY445_SX342_.jpg"
+                },
+                {
+                    "title": "The Code of Capital: How the Law Creates Wealth and Inequality",
+                    "author": "Katarina Pistor",
+                    "link_amazon_book": "https://amzn.to/48cW19D",
+                    "image": "https://m.media-amazon.com/images/I/819o9tAxqkL._SY466_.jpg"
+                }
+            ]
+        }
+    ]
+}

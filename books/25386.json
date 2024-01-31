@@ -1,0 +1,21 @@
+{
+    "people": [
+        {
+            "person": "Renaud Van Ruymbeke",
+            "books": [
+                {
+                    "title": "Le Livre de l'intranquillité",
+                    "author": "Fernando Pessoa",
+                    "link_amazon_book": "https://amzn.to/3HE8gRy",
+                    "image": "https://m.media-amazon.com/images/I/718FtTrwIKL._SY466_.jpg"
+                },
+                {
+                    "title": "Malicroix",
+                    "author": "Henri Bosco",
+                    "link_amazon_book": "https://amzn.to/3HMrxQF",
+                    "image": "https://m.media-amazon.com/images/I/8195BX1rINL._SY466_.jpg"
+                }
+            ]
+        }
+    ]
+}

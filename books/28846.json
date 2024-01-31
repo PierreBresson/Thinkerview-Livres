@@ -1,0 +1,39 @@
+{
+    "people": [
+        {
+            "person": "Eric Sadin",
+            "books": [
+                {
+                    "title": "L'Enracinement",
+                    "author": "Simone Weil",
+                    "link_amazon_book": "https://amzn.to/4bcwOPf",
+                    "image": "https://m.media-amazon.com/images/I/81I8vqFsEPL._SY522_.jpg"
+                },
+                {
+                    "title": "Communauté",
+                    "author": "Martin Buber",
+                    "link_amazon_book": "https://amzn.to/3HIw3jn",
+                    "image": "https://m.media-amazon.com/images/I/71Dqm7n2WZL._SY522_.jpg"
+                },
+                {
+                    "title": "Lti, la langue du IIIème Reich",
+                    "author": "Victor Klemperer",
+                    "link_amazon_book": "https://amzn.to/49f9XAD",
+                    "image": "https://m.media-amazon.com/images/I/71JRX2O28oL._SY522_.jpg"
+                },
+                {
+                    "title": "Oeuvre complète",
+                    "author": "William Morris",
+                    "link_amazon_book": "https://amzn.to/3vQaCdm",
+                    "image": "https://m.media-amazon.com/images/I/51uH2HTgJKL.jpg"
+                },
+                {
+                    "title": "Faire sécession : une politique de nous-mêmes",
+                    "author": "Eric Sadin",
+                    "link_amazon_book": "https://amzn.to/48UHqAI",
+                    "image": "https://m.media-amazon.com/images/I/61DapyNdm9L._SY522_.jpg"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "people": [
+        {
+            "person": "Alain Juillet",
+            "books": [
+                {
+                    "title": "Le Petit Prince",
+                    "author": "Antoine de Saint-Exupéry",
+                    "link_amazon_book": "https://amzn.to/42l4iH2",
+                    "image": "https://m.media-amazon.com/images/I/717xpibjvxL._SY466_.jpg"
+                },
+                {
+                    "title": "Déjeuners avec les talibans",
+                    "author": "Jean-yves Berthault",
+                    "link_amazon_book": "https://amzn.to/3vUwPqW",
+                    "image": "https://m.media-amazon.com/images/I/517V5sQ-wxL._SY466_.jpg"
+                },
+                {
+                    "title": "État du monde",
+                    "author": "La Découverte",
+                    "link_amazon_book": "https://www.cairn.info/collection-etat-du-monde.htm",
+                    "image": "https://www.cairn.info/cover/width-204/DEC_EDM/DEC_BADIE_2021_01.jpg"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "people": [
+        {
+            "person": "Anais Voy Gillis",
+            "books": [
+                {
+                    "title": "L'Immeuble Yacoubian",
+                    "author": "Alaa El Aswany",
+                    "link_amazon_book": "https://amzn.to/3SDwAsW",
+                    "image": "https://m.media-amazon.com/images/I/81FhLcBgFFL._SY522_.jpg"
+                },
+                {
+                    "title": "Sur le controle de nos vies",
+                    "author": "Noam Chomsky",
+                    "link_amazon_book": "https://amzn.to/3SE99Qg",
+                    "image": "https://m.media-amazon.com/images/I/81diItbQ01L._SY522_.jpg"
+                },
+                {
+                    "title": "La Guerre hors limites",
+                    "author": "Qiao Liang",
+                    "link_amazon_book": "https://amzn.to/3ul1Xza",
+                    "image": "https://m.media-amazon.com/images/I/81+pA9NNNNL._SY522_.jpg"
+                },
+                {
+                    "title": "L'âge productiviste. Hégémonie prométhéenne, brèches et alternatives écologiques",
+                    "author": "Serge Audier",
+                    "link_amazon_book": "https://amzn.to/4bf0Q4J",
+                    "image": "https://m.media-amazon.com/images/I/81ARlnz4TQL._SY522_.jpg"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "people": [
+        {
+            "person": "Benjamin Bayart",
+            "books": [
+                {
+                    "title": "Terremer",
+                    "author": "Ursula K. Le Guin",
+                    "link_amazon_book": "https://amzn.to/3SnBfOo",
+                    "image": "https://m.media-amazon.com/images/I/81u62lP7tuL._SY466_.jpg"
+                },
+                {
+                    "title": "Surveiller et punir",
+                    "author": "Michel Foucault",
+                    "link_amazon_book": "https://amzn.to/3vQtrx2",
+                    "image": "https://m.media-amazon.com/images/I/71ypC53ohWL._SY466_.jpg"
+                },
+                {
+                    "title": "Histoire d'un allemand ",
+                    "author": "Sébastian Haffner",
+                    "link_amazon_book": "https://amzn.to/482Cusa",
+                    "image": "https://m.media-amazon.com/images/I/61cdg8uiDvL._SY466_.jpg"
+                }
+            ]
+        },
+        {
+            "person": "Marc Rees",
+            "books": [
+                {
+                    "title": "Oeuvre complète",
+                    "author": "Jirô Taniguchi",
+                    "link_amazon_book": "https://amzn.to/4bmi7cy",
+                    "image": "https://m.media-amazon.com/images/I/716mEW8VG1L._SY466_.jpg"
+                }
+            ]
+        }
+    ]
+}

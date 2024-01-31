@@ -1,0 +1,38 @@
+{
+    "people": [
+        {
+            "person": "Brice Augras",
+            "books": [
+                {
+                    "title": "Metasploit: the penetration tester's guide",
+                    "author": "Devon Kearns, David Kennedy, Mati Aharoni, Jim O'Gorman",
+                    "link_amazon_book": "https://amzn.to/3Okxpog",
+                    "image": "https://m.media-amazon.com/images/I/91920apJNBL._SY466_.jpg"
+                },
+                {
+                    "title": "Petit traité de manipulation à l'usage des honnêtes gens",
+                    "author": "Jean-Léon Beauvois et Vincent Joule",
+                    "link_amazon_book": "https://amzn.to/3vJX2Z2",
+                    "image": "https://m.media-amazon.com/images/I/71xWYitlsYL._SY466_.jpg"
+                }
+            ]
+        },
+        {
+            "person": "Victor Poucheret",
+            "books": [
+                {
+                    "title": "Hacking: The Art of Exploitation",
+                    "author": "Jon Erickson",
+                    "link_amazon_book": "https://amzn.to/4bmluAb",
+                    "image": "https://m.media-amazon.com/images/I/91UlU666haL._SY466_.jpg"
+                },
+                {
+                    "title": "The Web Application Hacker's Handbook: Discovering and Exploiting Security Flaws",
+                    "author": "Dafydd Stuttard, Marcus Pinto",
+                    "link_amazon_book": "https://amzn.to/3ScVpKQ",
+                    "image": "https://m.media-amazon.com/images/I/614xwfIg1DL._SY466_.jpg"
+                }
+            ]
+        }
+    ]
+}

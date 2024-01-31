@@ -1,0 +1,15 @@
+{
+    "people": [
+        {
+            "person": "Lu Shaye",
+            "books": [
+                {
+                    "title": "Ouïghours, pour en finir avec les Fake News",
+                    "author": "Maxime Vivas",
+                    "link_amazon_book": "https://amzn.to/3Uq1FBN",
+                    "image": "https://m.media-amazon.com/images/I/51yLUt+lm6L._SY466_.jpg"
+                }
+            ]
+        }
+    ]
+}

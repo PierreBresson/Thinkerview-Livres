@@ -1,0 +1,39 @@
+{
+    "people": [
+        {
+            "person": "Philippe Corcuff",
+            "books": [
+                {
+                    "title": "De la certitude",
+                    "author": "Ludwig Wittgenstein",
+                    "link_amazon_book": "https://amzn.to/48W67N3",
+                    "image": "https://m.media-amazon.com/images/I/31jqWy3HCLL._SY466_.jpg"
+                },
+                {
+                    "title": "Martin Eden",
+                    "author": "Jack London",
+                    "link_amazon_book": "https://amzn.to/49gQH5W",
+                    "image": "https://m.media-amazon.com/images/I/61kWOJcHerL._SY466_.jpg"
+                },
+                {
+                    "title": "L'Imagination sociologique",
+                    "author": "Charles Wright Mills",
+                    "link_amazon_book": "https://amzn.to/4biYX71",
+                    "image": "https://m.media-amazon.com/images/I/61AWddowhwL._SY466_.jpg"
+                },
+                {
+                    "title": "Pour une spiritualité sans dieux",
+                    "author": "Philippe Corcuff",
+                    "link_amazon_book": "https://amzn.to/3SDNc3M",
+                    "image": "https://m.media-amazon.com/images/I/41Z1Yf0t+RL._SY466_.jpg"
+                },
+                {
+                    "title": "La grande confusion. Comment l'extrême-droite gagne la bataille des idées",
+                    "author": "Philippe Corcuff",
+                    "link_amazon_book": "https://amzn.to/42kYKfA",
+                    "image": "https://m.media-amazon.com/images/I/41CREsp4dOL._SY466_.jpg"
+                }
+            ]
+        }
+    ]
+}

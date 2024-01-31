@@ -58,6 +58,7 @@ Thomas Piketty
 > [youtube](https://www.youtube.com/watch?v=68ftth8wPK8)
 
 - État des lieux du salafisme en France - Pierre Conesa
+- La Tyrannie de la pénitence Poche – Pascal Bruckner
 
 ### Produire en France, au-delà de l'inquiétude ? Loïk Le Floch-Prigent et Nicolas Meilhan
 > 9 novembre 2023
