@@ -1,0 +1,27 @@
+{
+    "people": [
+        {
+            "person": "Hubert Védrine",
+            "books": [
+                {
+                    "title": "Le Plan Marshall",
+                    "author": "Benn Steil",
+                    "link_amazon_book": "https://amzn.to/49dbUO2",
+                    "image": "https://m.media-amazon.com/images/I/618bC3LWRqL._SY466_.jpg"
+                },
+                {
+                    "title": "Sortir de l'impasse postcoloniale",
+                    "author": "Philippe San Marco",
+                    "link_amazon_book": "https://amzn.to/483qV3P",
+                    "image": "https://m.media-amazon.com/images/I/81BVUfPIfyL._SY466_.jpg"
+                },
+                {
+                    "title": "Paul Morand",
+                    "author": "Pauline Dreyfus",
+                    "link_amazon_book": "https://amzn.to/49z0O6n",
+                    "image": "https://m.media-amazon.com/images/I/818rTfzhQWL._SY466_.jpg"
+                }
+            ]
+        }
+    ]
+}

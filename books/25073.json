@@ -1,0 +1,27 @@
+{
+    "people": [
+        {
+            "person": "Bruno Gaccio",
+            "books": [
+                {
+                    "title": "Pour une socioanalyse du journalisme",
+                    "author": "Alain Accardo",
+                    "link_amazon_book": "https://amzn.to/48RSO0j",
+                    "image": "https://m.media-amazon.com/images/I/61q0tWlVabL._SY466_.jpg"
+                },
+                {
+                    "title": "Un jour dans notre vie",
+                    "author": "David Fritz Goeppinger",
+                    "link_amazon_book": "https://amzn.to/3w0lN3l",
+                    "image": "https://m.media-amazon.com/images/I/61n1NhthMlL._SY466_.jpg"
+                },
+                {
+                    "title": "Vice",
+                    "author": "Laurent Chalumeau",
+                    "link_amazon_book": "https://amzn.to/3ueN2GM",
+                    "image": "https://m.media-amazon.com/images/I/51VGhRLIPIL._SY466_.jpg"
+                }
+            ]
+        }
+    ]
+}
