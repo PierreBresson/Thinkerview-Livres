@@ -1,0 +1,44 @@
+{
+    "people": [
+        {
+            "person": "Olivier Delamarche",
+            "books": [
+                {
+                    "title": "Nos grands défis du XXIe siècle : Énergie et immigration",
+                    "author": "Charles-henri Gallois",
+                    "link_amazon_book": "https://amzn.to/3OxoYpx",
+                    "image": "https://m.media-amazon.com/images/I/61SKr7edjBL._SY522_.jpg"
+                },
+                {
+                    "title": "La Vérité vous rendra libre",
+                    "author": "Charles Gave",
+                    "link_amazon_book": "https://amzn.to/3HH2i2v",
+                    "image": "https://m.media-amazon.com/images/I/513JpwgqAwL._SY522_.jpg"
+                }
+            ]
+        },
+        {
+            "person": "Charles-henri Gallois",
+            "books": [
+                {
+                    "title": "Les Frères Karamazov",
+                    "author": " Fedor Mikhaïlovitch Dostoïevski",
+                    "link_amazon_book": "https://amzn.to/3SJzb4A",
+                    "image": "https://m.media-amazon.com/images/I/81ITM7ECmRL._SY522_.jpg"
+                },
+                {
+                    "title": "Le Secret de l'Occident",
+                    "author": "David Cosandey",
+                    "link_amazon_book": "https://amzn.to/49gxvoO",
+                    "image": "https://m.media-amazon.com/images/I/613abunKi4L._SY522_.jpg"
+                },
+                {
+                    "title": "L'étrange suicide de l'Europe",
+                    "author": "Douglas Murray",
+                    "link_amazon_book": "https://amzn.to/3HPX7Nr",
+                    "image": "https://m.media-amazon.com/images/I/81ergnpqGKL._SY522_.jpg"
+                }
+            ]
+        }
+    ]
+}

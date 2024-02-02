@@ -1,0 +1,33 @@
+{
+    "people": [
+        {
+            "person": "Dominique Schelcher",
+            "books": [
+                {
+                    "title": "Les Essais",
+                    "author": "Michel de Montaigne",
+                    "link_amazon_book": "https://amzn.to/493a8PR",
+                    "image": "https://m.media-amazon.com/images/I/81hU7Ze-PuL._SY522_.jpg"
+                },
+                {
+                    "title": "La Côte sauvage",
+                    "author": "Jean-René Huguenin",
+                    "link_amazon_book": "https://amzn.to/48TwoeW",
+                    "image": "https://m.media-amazon.com/images/I/71QYVjnqmHL._SY522_.jpg"
+                },
+                {
+                    "title": "Journal",
+                    "author": "Jean-René Huguenin",
+                    "link_amazon_book": "https://amzn.to/49mGkh1",
+                    "image": "https://m.media-amazon.com/images/I/51QUHlM05AL.jpg"
+                },
+                {
+                    "title": "Dictionnaire amoureux",
+                    "author": "Plon (Éditeur)",
+                    "link_amazon_book": "https://amzn.to/3uoLSsg",
+                    "image": "https://m.media-amazon.com/images/I/51p3l1Cv5wL._SY522_.jpg"
+                }
+            ]
+        }
+    ]
+}
