@@ -6,7 +6,30 @@
 
 Liste des recommandations lecture/films des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
-###  Trahison des chefs, où va la France ? Guillaume Bigot
+### Dominique Schelcher : Inflation, bientôt la révolution ?
+> 17 janvier 2024
+> [youtube](https://www.youtube.com/watch?v=YJp0WCYe77c)
+
+Dominique Schelcher
+- Les Essais - Michel de Montaigne
+- La Côte sauvage - Jean-René Huguenin
+- Journal - Jean-René Huguenin
+- Dictionnaire amoureux - Plon (Éditeur)
+
+### Olivier Delamarche et Charles-Henri Gallois : Accueillir des migrants avec moins d’énergie ?
+> 11 Janvier 2024
+> [youtube](https://www.youtube.com/watch?v=wJwORz6RN2Y)
+
+Olivier Delamarche
+- Nos grands défis du XXIe siècle : Énergie et immigration - Charles-henri Gallois
+- La Vérité vous rendra libre - Charles Gave
+
+Charles-henri Gallois
+- Les Frères Karamazov - Fedor Mikhaïlovitch Dostoïevski
+- Le Secret de l'Occident - David Cosandey
+- L'étrange suicide de l'Europe - Douglas Murray
+
+### Trahison des chefs, où va la France ? Guillaume Bigot
 > 8 décembre 2023
 > [youtube](https://www.youtube.com/watch?v=GeYs3k5Y-Rg)
 
@@ -15,7 +38,7 @@ Guillaume Bigot
 - Voyage au centre du malaise français: L'antiracisme et le roman national - Paul Yonnet
 - Fascination du djihad: Fureurs islamistes et défaite de la paix - Gabriel Martinez-Gros
 
-###  IA : notre futur assistant ou nouveau maître ? Justine Cassell et Cédric Villani
+### IA : notre futur assistant ou nouveau maître ? Justine Cassell et Cédric Villani
 > 8 décembre 2023
 > [youtube](https://www.youtube.com/watch?v=GeYs3k5Y-Rg)
 
