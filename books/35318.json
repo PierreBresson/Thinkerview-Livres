@@ -1,0 +1,27 @@
+{
+    "people": [
+        {
+            "person": "Fabrice Éboué",
+            "books": [
+                {
+                    "title": "Les Rêveries du promeneur solitaire",
+                    "author": "Jean-Jacques Rousseau",
+                    "link_amazon_book": "https://amzn.to/3SnrnEu",
+                    "image": "https://m.media-amazon.com/images/I/61z1F2YXY7L._SY522_.jpg"
+                },
+                {
+                    "title": "Smonk: ou la ville des veuves",
+                    "author": "Tom Franklin",
+                    "link_amazon_book": "https://amzn.to/3OobSL5",
+                    "image": "https://m.media-amazon.com/images/I/41uczv6eW-L.jpg"
+                },
+                {
+                    "title": "Les Indes fourbes",
+                    "author": "Alain Ayroles",
+                    "link_amazon_book": "https://amzn.to/4biTFsh",
+                    "image": "https://m.media-amazon.com/images/I/81aeYl0TpDL._SY522_.jpg"
+                }
+            ]
+        }
+    ]
+}

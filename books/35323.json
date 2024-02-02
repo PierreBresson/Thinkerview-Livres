@@ -1,0 +1,27 @@
+{
+    "people": [
+        {
+            "person": "Bertrand Badré",
+            "books": [
+                {
+                    "title": "À la recherche du temps perdu",
+                    "author": "Marcel Proust",
+                    "link_amazon_book": "https://amzn.to/3UmDT9J",
+                    "image": "https://m.media-amazon.com/images/I/617QjWAWTHL._SY522_.jpg"
+                },
+                {
+                    "title": "Blueberry",
+                    "author": "Oeuvre complète",
+                    "link_amazon_book": "https://amzn.to/482CSXM",
+                    "image": "https://m.media-amazon.com/images/I/915c5bmQqML._SY522_.jpg"
+                },
+                {
+                    "title": "Mémoires d'Hadrien",
+                    "author": "Marguerite Yourcenar",
+                    "link_amazon_book": "https://amzn.to/48YZ9Xw",
+                    "image": "https://m.media-amazon.com/images/I/91dWQi-QWdL._SY522_.jpg"
+                }
+            ]
+        }
+    ]
+}

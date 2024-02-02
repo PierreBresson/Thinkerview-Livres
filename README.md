@@ -6,6 +6,24 @@
 
 Liste des recommandations lecture/films des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+### La Finance peut-elle arrêter de ruiner la planète ? Bertrand Badré
+> 31 janvier 2024
+> [youtube](https://www.youtube.com/watch?v=2ReimJnUQ8o)
+
+Bertrand Badré
+- À la recherche du temps perdu - Marcel Proust
+- Blueberry - Oeuvre complète
+- Mémoires d'Hadrien
+
+### Fabrice Éboué, plus rien à perdre ?
+> 22 janvier 2024
+> [youtube](https://www.youtube.com/watch?v=YJp0WCYe77c)
+
+Fabrice Éboué
+- Les Rêveries du promeneur solitaire - Jean-Jacques Rousseau
+- Smonk: ou la ville des veuves - Tom Franklin
+- Les Indes fourbes - Alain Ayroles
+
 ### Dominique Schelcher : Inflation, bientôt la révolution ?
 > 17 janvier 2024
 > [youtube](https://www.youtube.com/watch?v=YJp0WCYe77c)
