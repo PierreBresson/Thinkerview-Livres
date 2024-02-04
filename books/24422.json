@@ -1,0 +1,27 @@
+{
+    "people": [
+        {
+            "person": "Pierre Conesa",
+            "books": [
+                {
+                    "title": "L'Identité de la France",
+                    "author": "Fernand Braudel",
+                    "link_amazon_book": "https://amzn.to/3Uqrodi",
+                    "image": "https://m.media-amazon.com/images/I/41PRKYXJKNL.jpg"
+                },
+                {
+                    "title": "Le Licite et l'Illicite en islam",
+                    "author": "Youssef al-Qaradâwî",
+                    "link_amazon_book": "https://www.librairie-sana.com/fr/le-hadith-livre/3042-le-licite-et-l-illicite-en-islam-sur-librairie-sana-9782909469188.html",
+                    "image": "https://www.librairie-sana.com/1980-medium_default/le-licite-et-l-illicite-en-islam-sur-librairie-sana.jpg"
+                },
+                {
+                    "title": "La trahison des clercs",
+                    "author": "Julien Benda",
+                    "link_amazon_book": "https://amzn.to/3wauLed",
+                    "image": "https://m.media-amazon.com/images/I/61oVWUBtvRL._SY522_.jpg"
+                }
+            ]
+        }
+    ]
+}

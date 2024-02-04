@@ -1,0 +1,27 @@
+{
+    "people": [
+        {
+            "person": "Renaud Piarroux",
+            "books": [
+                {
+                    "title": "La peste",
+                    "author": "Albert Camus",
+                    "link_amazon_book": "https://amzn.to/3HSd6dT",
+                    "image": "https://m.media-amazon.com/images/I/61FqU895FsL._SY522_.jpg"
+                },
+                {
+                    "title": "Le Hussard sur le toit",
+                    "author": "Jean Giono",
+                    "link_amazon_book": "https://amzn.to/3ubmaaV",
+                    "image": "https://m.media-amazon.com/images/I/81M5pfiZnrL._SY522_.jpg"
+                },
+                {
+                    "title": "Deadly River: Cholera and Cover-up in Post-Earthquake Haiti",
+                    "author": "Ralph R. Frerichs",
+                    "link_amazon_book": "https://amzn.to/42teihj",
+                    "image": "https://m.media-amazon.com/images/I/61RwLFpO5tL._SY522_.jpg"
+                }
+            ]
+        }
+    ]
+}

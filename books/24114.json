@@ -1,0 +1,45 @@
+{
+    "people": [
+        {
+            "person": "Gilles Raveaud",
+            "books": [
+                {
+                    "title": "Adieu à la croissance",
+                    "author": "Jean Gadrey",
+                    "link_amazon_book": "https://amzn.to/3ucyNCz",
+                    "image": "https://m.media-amazon.com/images/I/41V6BWyZMJL._SY522_.jpg"
+                },
+                {
+                    "title": "Pour vivre heureux, vivons égaux !",
+                    "author": "Kate Pickett & Richard Wilkinson",
+                    "link_amazon_book": "https://amzn.to/3ur3BPO",
+                    "image": "https://m.media-amazon.com/images/I/51gsR9bDZpL._SY522_.jpg"
+                },
+                {
+                    "title": "La dispute des économistes",
+                    "author": "Gilles Raveaud",
+                    "link_amazon_book": "https://amzn.to/49gkzzT",
+                    "image": "https://m.media-amazon.com/images/I/61bPG+k6pkL._SY522_.jpg"
+                },
+                {
+                    "title": "Achille Talon et l'archipel de Sanzunron",
+                    "author": "Greg",
+                    "link_amazon_book": "https://amzn.to/4bm2DFj",
+                    "image": "https://m.media-amazon.com/images/I/71Z+W8f993L._SY522_.jpg"
+                },
+                {
+                    "title": "Souriez, vous êtes Français !",
+                    "author": "Bernard Maris",
+                    "link_amazon_book": "https://amzn.to/4bqktak",
+                    "image": "https://m.media-amazon.com/images/I/81LwDsjf7PL._SY522_.jpg"
+                },
+                {
+                    "title": "Lettre ouverte aux socialistes",
+                    "author": "Maurice Duverger",
+                    "link_amazon_book": "https://amzn.to/3SpvLTs",
+                    "image": "https://m.media-amazon.com/images/I/814THKRuzdL._SY522_.jpg"
+                }
+            ]
+        }
+    ]
+}

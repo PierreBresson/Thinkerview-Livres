@@ -1,0 +1,33 @@
+{
+    "people": [
+        {
+            "person": "Brice Perrier",
+            "books": [
+                {
+                    "title": "L’Avenir est notre affaire",
+                    "author": "Denis de Rougemont",
+                    "link_amazon_book": "https://amzn.to/3HM8zK4",
+                    "image": "https://m.media-amazon.com/images/I/41PYzPeNtaL.jpg"
+                },
+                {
+                    "title": "Hexis d'un soir",
+                    "author": "Rodolphe de Maistre",
+                    "link_amazon_book": "https://amzn.to/4bm8qut",
+                    "image": "https://m.media-amazon.com/images/I/81wcc2lznRL._SY522_.jpg"
+                },
+                {
+                    "title": "La civilisation du cocon",
+                    "author": "Vincent Coquebert",
+                    "link_amazon_book": "https://amzn.to/3Ort56D",
+                    "image": "https://m.media-amazon.com/images/I/61ATsrqmnCL._SY522_.jpg"
+                },
+                {
+                    "title": "Sars-CoV-2, aux origines du mal",
+                    "author": "Brice Perrier",
+                    "link_amazon_book": "https://amzn.to/3UrT29J",
+                    "image": "https://m.media-amazon.com/images/I/81bmaO3EZCS._SY522_.jpg"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "people": [
+        {
+            "person": "Barbara Stiegler",
+            "books": [
+                {
+                    "title": "Penser en Chine",
+                    "author": "Collectifs - Sous la direction d'Anne Cheng",
+                    "link_amazon_book": "https://amzn.to/3Sp4Sir",
+                    "image": "https://m.media-amazon.com/images/I/71f6z-jU9dL._SY522_.jpg"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "people": [
+        {
+            "person": "Gaspard Glanz",
+            "books": [
+                {
+                    "title": "La peste",
+                    "author": "Albert Camus",
+                    "link_amazon_book": "https://amzn.to/49jsGeh",
+                    "image": "https://m.media-amazon.com/images/I/61FqU895FsL._SY522_.jpg"
+                },
+                {
+                    "title": "Blouses blanches et Gwenn ha Du: La grève oubliée des étudiants en médecine de Rennes",
+                    "author": "Hugo Melchior",
+                    "link_amazon_book": "https://www.leslibraires.fr/livre/18433806-blouses-blanches-et-gwenn-ha-du-la-greve-oubli--hugo-melchior-auto-edition",
+                    "image": "https://cdn.leslibraires.fr/vKba-Vxn1BwVuW3-tL_jFaHGYf4NNqY5xOxi1rzWors/s:337:400/ODc5OTgxOA.webp"
+                },
+                {
+                    "title": "Etouffer la révolte : La psychiatrie contre les Civil rights, une histoire du contrôle social",
+                    "author": "Jonathan M. Metzl",
+                    "link_amazon_book": "https://amzn.to/3SsGUTh",
+                    "image": "https://m.media-amazon.com/images/I/71AEmpefr2L._SY522_.jpg"
+                }
+            ]
+        }
+    ]
+}

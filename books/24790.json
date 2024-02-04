@@ -1,0 +1,27 @@
+{
+    "people": [
+        {
+            "person": "Philippe de Villiers",
+            "books": [
+                {
+                    "title": "Œuvres poétiques complètes",
+                    "author": "Paul Verlaine",
+                    "link_amazon_book": "https://amzn.to/3SLHbT1",
+                    "image": "https://m.media-amazon.com/images/I/61KlqZ3E3zL._SY522_.jpg"
+                },
+                {
+                    "title": "Oeuvre complète",
+                    "author": "François-René de Chateaubriand",
+                    "link_amazon_book": "https://amzn.to/49lar8t",
+                    "image": "https://m.media-amazon.com/images/I/71sD27MTHWS._SY522_.jpg"
+                },
+                {
+                    "title": "Insoumission française",
+                    "author": "Sonia Mabrouk",
+                    "link_amazon_book": "https://amzn.to/3HM8bex",
+                    "image": "https://m.media-amazon.com/images/I/51i05nvkXZL._SY522_.jpg"
+                }
+            ]
+        }
+    ]
+}
