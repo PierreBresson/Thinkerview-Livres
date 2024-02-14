@@ -6,6 +6,28 @@
 
 Liste des recommandations lecture/films des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+### Mon Afrique va mal ? Tiken Jah Fakoly
+> 13 février 2024
+> [youtube](https://www.youtube.com/watch?v=f1xWvIaj-WE)
+
+Pierrick Horel
+- La longue route - Bernard Moitessier
+- Jours barbares: Une vie de surf - William Finnegan
+- Eric Tabarly - Oeuvre complète
+
+Quentin Le Guillous
+- Nourrir sans dévaster: Petit précis de mondialisation -  Julien Denormandie & Érik Orsenna 
+
+### Mon Afrique va mal ? Tiken Jah Fakoly
+> 7 février 2024
+> [youtube](https://www.youtube.com/watch?v=NNt4_lEbT8U)
+
+Tiken Jah Fakoly
+- Françafrique : Le plus long scandale de la République - François-Xavier Verschave
+- Soundjata, ou, L'épopée mandingue - Tamsir Niane Djibril
+- Histoire des Mandingues de l'Ouest : Le Royaume du Gabou - Djibril Tamsir Niane
+- Le Premier Rasta - Hélène Lee
+
 ### La Finance peut-elle arrêter de ruiner la planète ? Bertrand Badré
 > 31 janvier 2024
 > [youtube](https://www.youtube.com/watch?v=2ReimJnUQ8o)
