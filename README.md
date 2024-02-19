@@ -6,7 +6,17 @@
 
 Liste des recommandations lecture/films des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
-### Mon Afrique va mal ? Tiken Jah Fakoly
+### Fichage politique, où va la France ? Marion Maréchal
+> 16 février 2024
+> [youtube](https://www.youtube.com/watch?v=bJ1dmmGSssE)
+
+Marion Maréchal
+- Les fleurs d'Ulysse - Jacques Trémolet de Villers
+- Historiquement correct - Jean Sévillia
+- La philosophie devenue folle: Le genre, l'animal, la mort - Jean-François Braunstein
+- Climat, la part d'incertitude - Steven Koonin
+
+### La mort de l'agriculture française ? Pierrick Horel et Quentin Le Guillous
 > 13 février 2024
 > [youtube](https://www.youtube.com/watch?v=f1xWvIaj-WE)
 
