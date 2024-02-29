@@ -6,6 +6,15 @@
 
 Liste des recommandations lecture/films des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+### Économie : le mensonge face à la réalité ? Marc Touati
+> 22 février 2024
+> [youtube](https://www.youtube.com/watch?v=fWbFaXR3blc)
+
+Marc Touati
+- Théorie générale de l'emploi, de l'intérêt et de la monnaie - John Maynard Keynes
+- Le Père Goriot - Honoré de Balzac
+- Le Nom de la rose - Umberto Eco
+
 ### Fichage politique, où va la France ? Marion Maréchal
 > 16 février 2024
 > [youtube](https://www.youtube.com/watch?v=bJ1dmmGSssE)
