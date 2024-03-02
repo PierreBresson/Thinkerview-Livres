@@ -1,0 +1,33 @@
+{
+    "people": [
+        {
+            "person": "Tiken Jah Fakoly",
+            "books": [
+                {
+                    "title": "Françafrique : Le plus long scandale de la République",
+                    "author": "François-Xavier Verschave",
+                    "link_amazon_book": "https://amzn.to/3UZPfRk",
+                    "image": "https://m.media-amazon.com/images/I/81jhaydGwRL._SY522_.jpg"
+                },
+                {
+                    "title": "Soundjata, ou, L'épopée mandingue",
+                    "author": "Tamsir Niane Djibril",
+                    "link_amazon_book": "https://amzn.to/3T35eLQ",
+                    "image": "https://m.media-amazon.com/images/I/61bRLDPIhnL._SY522_.jpg"
+                },
+                {
+                    "title": "Histoire des Mandingues de l'Ouest : Le Royaume du Gabou",
+                    "author": "Djibril Tamsir Niane",
+                    "link_amazon_book": "https://amzn.to/3wvMz3K",
+                    "image": "https://m.media-amazon.com/images/I/41PL0Or-DKL.jpg"
+                },
+                {
+                    "title": "Le Premier Rasta",
+                    "author": "Hélène Lee",
+                    "link_amazon_book": "https://amzn.to/49MlSpY",
+                    "image": "https://m.media-amazon.com/images/I/51bK+kzwblL.jpg"
+                }
+            ]
+        }
+    ]
+}

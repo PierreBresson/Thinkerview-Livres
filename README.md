@@ -35,7 +35,7 @@ Pierrick Horel
 - Eric Tabarly - Oeuvre complète
 
 Quentin Le Guillous
-- Nourrir sans dévaster: Petit précis de mondialisation -  Julien Denormandie & Érik Orsenna 
+- Nourrir sans dévaster: Petit précis de mondialisation - Julien Denormandie & Érik Orsenna
 
 ### Mon Afrique va mal ? Tiken Jah Fakoly
 > 7 février 2024

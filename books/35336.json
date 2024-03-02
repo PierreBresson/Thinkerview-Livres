@@ -1,0 +1,33 @@
+{
+    "people": [
+        {
+            "person": "Marion Maréchal",
+            "books": [
+                {
+                    "title": "Les fleurs d'Ulysse",
+                    "author": "Jacques Trémolet de Villers",
+                    "link_amazon_book": "https://amzn.to/3v46xlL",
+                    "image": "https://m.media-amazon.com/images/I/41ymAe9ZIrL.jpg"
+                },
+                {
+                    "title": "Historiquement correct",
+                    "author": "Jean Sévillia",
+                    "link_amazon_book": "https://amzn.to/3wApo8y",
+                    "image": "https://m.media-amazon.com/images/I/61nm5ZaN2BL._SY522_.jpg"
+                },
+                {
+                    "title": "La philosophie devenue folle: Le genre, l'animal, la mort",
+                    "author": "Jean-François Braunstein",
+                    "link_amazon_book": "https://amzn.to/3SUp38a",
+                    "image": "https://m.media-amazon.com/images/I/7193KQTnwJL._SY522_.jpg"
+                },
+                {
+                    "title": "Climat, la part d'incertitude",
+                    "author": "Steven Koonin",
+                    "link_amazon_book": "https://amzn.to/3T1ITOR",
+                    "image": "https://m.media-amazon.com/images/I/71twzHXlxoL._SY522_.jpg"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "people": [
+        {
+            "person": "Marc Touati",
+            "books": [
+                {
+                    "title": "Théorie générale de l'emploi, de l'intérêt et de la monnaie",
+                    "author": "John Maynard Keynes",
+                    "link_amazon_book": "https://amzn.to/3wCiPlX",
+                    "image": "https://m.media-amazon.com/images/I/51R9pGOtMfL._SY522_.jpg"
+                },
+                {
+                    "title": "Le Père Goriot",
+                    "author": "Honoré de Balzac",
+                    "link_amazon_book": "https://amzn.to/3wKhYiV",
+                    "image": "https://m.media-amazon.com/images/I/81jmppwxtSL._SY522_.jpg"
+                },
+                {
+                    "title": "Le Nom de la rose",
+                    "author": "Umberto Eco",
+                    "link_amazon_book": "https://amzn.to/3IjEaTF",
+                    "image": "https://m.media-amazon.com/images/I/81W6mh0rv1L._SY522_.jpg"
+                }
+            ]
+        }
+    ]
+}

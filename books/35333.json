@@ -1,0 +1,38 @@
+{
+    "people": [
+        {
+            "person": "Pierrick Horel",
+            "books": [
+                {
+                    "title": "La longue route",
+                    "author": "Bernard Moitessier",
+                    "link_amazon_book": "https://amzn.to/3TtTdRn",
+                    "image": "https://m.media-amazon.com/images/I/610TK5kBguL._SY522_.jpg"
+                },
+                {
+                    "title": "Jours barbares: Une vie de surf",
+                    "author": "William Finnegan",
+                    "link_amazon_book": "https://amzn.to/3UUnJF0",
+                    "image": "https://m.media-amazon.com/images/I/81jPlzc4UIL._SY522_.jpg"
+                },
+                {
+                    "title": "Eric Tabarly",
+                    "author": "Oeuvre complète",
+                    "link_amazon_book": "https://amzn.to/3wEvSmZ",
+                    "image": "https://m.media-amazon.com/images/I/715dXa47T6L._SY522_.jpg"
+                }
+            ]
+        },
+        {
+            "person": "Quentin Le Guillous",
+            "books": [
+                {
+                    "title": "Nourrir sans dévaster: Petit précis de mondialisation",
+                    "author": "Julien Denormandie & Érik Orsenna",
+                    "link_amazon_book": "https://amzn.to/433bAQg",
+                    "image": "https://m.media-amazon.com/images/I/51cEHa1y6lL._SY522_.jpg"
+                }
+            ]
+        }
+    ]
+}
