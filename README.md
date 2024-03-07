@@ -6,6 +6,16 @@
 
 Liste des recommandations lecture/films des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+### Rendre compte des catastrophes énergétiques et humanitaires ? Quentin Müller
+> 5 Mars 2024
+> [youtube](https://www.youtube.com/watch?v=CGOyFYgKJks)
+
+Quentin Müller
+- Yemen 62-69 : De la révolution sauvage à la trêve des guerriers - Claude Deffarge & Gordian Troeller
+- La mouvance zaydite dans le Yémen contemporain: Une modernisation avortée - Samy Dorlian
+- Le Yémen: De l'Arabie heureuse à la guerre - Laurent Bonnefoy
+- Ward - Sonallah Ibrahim
+
 ### Économie : le mensonge face à la réalité ? Marc Touati
 > 22 février 2024
 > [youtube](https://www.youtube.com/watch?v=fWbFaXR3blc)
