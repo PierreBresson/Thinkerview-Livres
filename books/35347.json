@@ -1,0 +1,37 @@
+{
+    "people": [
+        {
+            "person": "Bluetouff",
+            "books": [
+                {
+                    "title": "White paper Bitcoin",
+                    "author": "Satoshi Nakamoto",
+                    "link_amazon_book": "https://bitcoin.org/files/bitcoin-paper/bitcoin_fr.pdf",
+                    "image": "https://m.media-amazon.com/images/I/51M5SKw943L.jpg"
+                }
+            ]
+        },
+        {
+            "person": "Fabrice Epelboin",
+            "books": [
+                {
+                    "title": "Les ingénieurs du chaos",
+                    "author": "Giuliano da Empoli",
+                    "link_amazon_book": "https://amzn.to/3IQ5WY6",
+                    "image": "https://m.media-amazon.com/images/I/61MPvEO7qqL._SY522_.jpg"
+                }
+            ]
+        },
+        {
+            "person": "Marc-Antoine Ledieu",
+            "books": [
+                {
+                    "title": "Saint-Elme",
+                    "author": "Serge Lehman",
+                    "link_amazon_book": "https://amzn.to/3PDrA5P",
+                    "image": "https://m.media-amazon.com/images/I/81WIHxLbzwL._SY522_.jpg"
+                }
+            ]
+        }
+    ]
+}

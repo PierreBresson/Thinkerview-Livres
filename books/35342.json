@@ -1,0 +1,33 @@
+{
+    "people": [
+        {
+            "person": "Quentin Müller",
+            "books": [
+                {
+                    "title": "Yemen 62-69 : De la révolution sauvage à la trêve des guerriers",
+                    "author": "Claude Deffarge & Gordian Troeller",
+                    "link_amazon_book": "https://amzn.to/4atwFFE",
+                    "image": "https://m.media-amazon.com/images/I/51oQkJV+IpL.jpg"
+                },
+                {
+                    "title": "La mouvance zaydite dans le Yémen contemporain: Une modernisation avortée",
+                    "author": "Samy Dorlian",
+                    "link_amazon_book": "https://amzn.to/43uCEYN",
+                    "image": "https://m.media-amazon.com/images/I/81-znOa5jZL._SY522_.jpg"
+                },
+                {
+                    "title": "Le Yémen: De l'Arabie heureuse à la guerre",
+                    "author": "Laurent Bonnefoy",
+                    "link_amazon_book": "https://amzn.to/3x9zdut",
+                    "image": "https://m.media-amazon.com/images/I/91+xYev9scL._SY522_.jpg"
+                },
+                {
+                    "title": "Ward",
+                    "author": "Sonallah Ibrahim",
+                    "link_amazon_book": "https://amzn.to/4cJzPYb",
+                    "image": "https://m.media-amazon.com/images/I/418+wFNV4DL.jpg"
+                }
+            ]
+        }
+    ]
+}

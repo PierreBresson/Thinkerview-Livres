@@ -21,3 +21,6 @@ https://www.thinkerview.com/john-shipton-julian-assange-torture-made-in-europe-v
 28672
 https://www.thinkerview.com/john-shipton-julian-assange-torture-made-in-europe-vo/
 
+35344
+No books?
+https://www.thinkerview.com/valerie-damidot-animateur-tele-et-show-business/
