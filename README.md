@@ -6,6 +6,16 @@
 
 Liste des recommandations lecture/films des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+### Comprendre la guerre qui vient ? Henri Guaino
+> 27 mars 2024
+> [youtube](https://www.youtube.com/watch?v=AZf1BACeoi8)
+
+Henri Guaino
+- L’homme révolté - Albert Camus
+- Le premier homme - Albert Camus
+- Les Grands cimetières sous la lune - Georges Bernanos
+- Mémoires d'Outre-tombe - François-René vicomte de Chateaubriand
+
 ### Bluetouff, Fabrice Epelboin et Marc-Antoine Ledieu : Les Hackers face aux cyberguerres ?
 > 5 Mars 2024
 > [youtube](https://www.youtube.com/watch?v=ri2GT4IDqb4)
