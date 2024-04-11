@@ -6,6 +6,28 @@
 
 Liste des recommandations lecture/films des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+### Pensée stratégique française, ils naviguent à vue ? Hubert Védrine
+> 10 Avril 2024
+> [youtube](https://www.youtube.com/watch?v=AZf1BACeoi8)
+
+Hubert Védrine
+- Camus, notre rempart - Hubert Védrine
+- Grands diplomates - Hubert Védrine
+- Dictionnaire amoureux de la géopolitique - Hubert Védrine
+- Le Procès Pétain: Vichy face à ses juges - Julian Jackson
+- Le Desastre De Pavie - Jean Giono
+
+### Intelligence artificielle, bullsh*t, pipotron ? Benjamin Bayart
+> 5 Avril 2024
+> [youtube](https://www.youtube.com/watch?v=tTb5wQw_8JE)
+
+Benjamin Bayart
+- Cycle de la Culture - Iain M. Banks
+- Le savant et le politque - Max Weber
+- Arca - Romain Benassaya
+- Pyramides - Romain Benassaya
+- La captive du temps perdu - Vernor Vinge
+
 ### Comprendre la guerre qui vient ? Henri Guaino
 > 27 mars 2024
 > [youtube](https://www.youtube.com/watch?v=AZf1BACeoi8)

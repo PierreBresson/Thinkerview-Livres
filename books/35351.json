@@ -1,0 +1,33 @@
+{
+    "people": [
+        {
+            "person": "Henri Guaino",
+            "books": [
+                {
+                    "title": "L’homme révolté",
+                    "author": "Albert Camus",
+                    "link_amazon_book": "https://amzn.to/49n057H",
+                    "image": "https://m.media-amazon.com/images/I/81mGlfigybL._SY522_.jpg"
+                },
+                {
+                    "title": "Le premier homme",
+                    "author": "Albert Camus",
+                    "link_amazon_book": "https://amzn.to/3vEMWci",
+                    "image": "https://m.media-amazon.com/images/I/81rwEMFTvhL._SY522_.jpg"
+                },
+                {
+                    "title": "Les Grands cimetières sous la lune",
+                    "author": "Georges Bernanos",
+                    "link_amazon_book": "https://amzn.to/3vDdIlc",
+                    "image": "https://m.media-amazon.com/images/I/61NZ8TleitL._SY522_.jpg"
+                },
+                {
+                    "title": "Mémoires d'Outre-tombe",
+                    "author": "François-René vicomte de Chateaubriand",
+                    "link_amazon_book": "https://amzn.to/4aISH7P",
+                    "image": "https://m.media-amazon.com/images/I/31lO1vK4n9L.jpg"
+                }
+            ]
+        }
+    ]
+}

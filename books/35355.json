@@ -1,0 +1,39 @@
+{
+    "people": [
+        {
+            "person": "Hubert Védrine",
+            "books": [
+                {
+                    "title": "Camus, notre rempart",
+                    "author": "Hubert Védrine",
+                    "link_amazon_book": "https://amzn.to/3xxMoWc",
+                    "image": "https://m.media-amazon.com/images/I/61fA30LsQWL._SY466_.jpg"
+                },
+                {
+                    "title": "Grands diplomates",
+                    "author": "Hubert Védrine",
+                    "link_amazon_book": "https://amzn.to/3UdPJ5B",
+                    "image": "https://m.media-amazon.com/images/I/613vke1UVKL._SY466_.jpg"
+                },
+                {
+                    "title": "Dictionnaire amoureux de la géopolitique",
+                    "author": "Hubert Védrine",
+                    "link_amazon_book": "https://amzn.to/3vRv4uP",
+                    "image": "https://m.media-amazon.com/images/I/61Ana2a30ML._SY466_.jpg"
+                },
+                {
+                    "title": "Le Procès Pétain: Vichy face à ses juges",
+                    "author": "Julian Jackson",
+                    "link_amazon_book": "https://amzn.to/3vNlvgq",
+                    "image": "https://m.media-amazon.com/images/I/714txXTmzZL._SY466_.jpg"
+                },
+                {
+                    "title": "Le Desastre De Pavie",
+                    "author": "Jean Giono",
+                    "link_amazon_book": "https://amzn.to/3W04DxT",
+                    "image": "https://m.media-amazon.com/images/I/81l-N5yAToL._SY466_.jpg"
+                }
+            ]
+        }
+    ]
+}

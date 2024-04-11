@@ -1,0 +1,33 @@
+{
+    "people": [
+        {
+            "person": "Benjamin Bayart",
+            "books": [
+                {
+                    "title": "Cycle de la Culture",
+                    "author": "Iain M. Banks",
+                    "link_amazon_book": "https://amzn.to/3TJVk2a",
+                    "image": "https://m.media-amazon.com/images/I/81fOhKH+yjL._SY522_.jpg"
+                },
+                {
+                    "title": "Le savant et le politque",
+                    "author": "Max Weber",
+                    "link_amazon_book": "https://amzn.to/3PUDWXc",
+                    "image": "https://m.media-amazon.com/images/I/61C5Gw07iqL._SY522_.jpg"
+                },
+                {
+                    "title": "Arca",
+                    "author": "Romain Benassaya",
+                    "link_amazon_book": "https://amzn.to/4anc8Dp",
+                    "image": "https://m.media-amazon.com/images/I/617EuS6PsTL._SY522_.jpg"
+                },
+                {
+                    "title": "La captive du temps perdu",
+                    "author": "Vernor Vinge",
+                    "link_amazon_book": "https://amzn.to/4cN3ek4",
+                    "image": "https://m.media-amazon.com/images/I/81yymJHO-gL._SY522_.jpg"
+                }
+            ]
+        }
+    ]
+}
