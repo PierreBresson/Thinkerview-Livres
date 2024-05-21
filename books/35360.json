@@ -1,0 +1,50 @@
+{
+    "people": [
+        {
+            "person": "Charles Gave",
+            "books": [
+                {
+                    "title": "L'écologiste sceptique",
+                    "author": "Bjørn Lomborg",
+                    "link_amazon_book": "https://amzn.to/44XMGm0",
+                    "image": "https://m.media-amazon.com/images/I/61g5qELuaCL._SY425_.jpg"
+                },
+                {
+                    "title": "The Population Explosion",
+                    "author": "Paul Ralph Ehrlich",
+                    "link_amazon_book": "https://amzn.to/3WRg6jI",
+                    "image": "https://m.media-amazon.com/images/I/91awNTIVboL._SY425_.jpg"
+                },
+                {
+                    "title": "La vérité vous rendra libre",
+                    "author": "Charles Gave",
+                    "link_amazon_book": "https://amzn.to/44T6Mxt",
+                    "image": "https://m.media-amazon.com/images/I/513JpwgqAwL._SY425_.jpg"
+                }
+            ]
+        },
+        {
+            "person": "Pierre Larrouturou",
+            "books": [
+                {
+                    "title": "Perdre la Terre",
+                    "author": "Nathaniel Rich",
+                    "link_amazon_book": "https://amzn.to/3UOvIBF",
+                    "image": "https://m.media-amazon.com/images/I/91uRUb5py7L._SY425_.jpg"
+                },
+                {
+                    "title": "Climat: Une enquête de la revue La Pensée écologique",
+                    "author": "Jean Jouzel & Hervé Le Treut",
+                    "link_amazon_book": "https://amzn.to/3UShe3F",
+                    "image": "https://m.media-amazon.com/images/I/61lH5eyP-rL._SY425_.jpg"
+                },
+                {
+                    "title": "32h ! La semaine de 4 jours, c'est possible",
+                    "author": "Pierre Larrouturou",
+                    "link_amazon_book": "https://amzn.to/3WJnKfU",
+                    "image": "https://m.media-amazon.com/images/I/51-B-RoTXbL._SY342_.jpg"
+                }
+            ]
+        }
+    ]
+}
