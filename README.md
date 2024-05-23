@@ -6,6 +6,21 @@
 
 Liste des recommandations lecture/films des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+### Israël/Palestine : fuir sous les bombes ? Alain Gresh et Rony Brauman
+> 15 Mai 2024
+> [youtube](https://www.youtube.com/watch?v=24feUlWPyIc)
+
+Rony Brauman
+- L'État d'Israël contre les Juifs - Sylvain Cypel
+- Une occupation civile - Rafi Segal & Eyal Weizman
+- L'Homme qui aimait les chiens - Leonardo Padura
+
+Alain Gresh
+- Palestine, un peuple qui ne veut pas mourir - Alain Gresh
+- Peuple juif ou problème juif ? - Maxime Rodinson
+- L’Orientalisme - Edward Said
+- Manifeste du Parti communiste - Karl Marx
+
 ### Charles Gave et Pierre Larrouturou : Économistes face à la réalité sans filtre.
 > 7 Mai 2024
 > [youtube](https://www.youtube.com/watch?v=MuPEZ9fyijc)
@@ -19,7 +34,6 @@ Pierre Larrouturou
 - Perdre la Terre - Nathaniel Rich
 - Climat: Une enquête de la revue La Pensée écologique - Jean Jouzel & Hervé Le Treut
 - 32h ! La semaine de 4 jours, c'est possible - Pierre Larrouturou
-
 
 ### Pensée stratégique française, ils naviguent à vue ? Hubert Védrine
 > 10 Avril 2024

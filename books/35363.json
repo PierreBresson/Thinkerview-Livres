@@ -1,0 +1,56 @@
+{
+    "people": [
+        {
+            "person": "Rony Brauman",
+            "books": [
+                {
+                    "title": "L'État d'Israël contre les Juifs",
+                    "author": "Sylvain Cypel",
+                    "link_amazon_book": "https://amzn.to/3Vb1vy7",
+                    "image": "https://m.media-amazon.com/images/I/71-GJVJFOZL._SY522_.jpg"
+                },
+                {
+                    "title": "Une occupation civile",
+                    "author": "Rafi Segal & Eyal Weizman",
+                    "link_amazon_book": "https://amzn.to/3yvtY90",
+                    "image": "https://m.media-amazon.com/images/I/51F2YV2H10L.jpg"
+                },
+                {
+                    "title": "L'Homme qui aimait les chiens",
+                    "author": "Leonardo Padura",
+                    "link_amazon_book": "https://amzn.to/3V7YVsO",
+                    "image": "https://m.media-amazon.com/images/I/61ev2qF9KYL._SY522_.jpg "
+                }
+            ]
+        },
+        {
+            "person": "Alain Gresh",
+            "books": [
+                {
+                    "title": "Palestine, un peuple qui ne veut pas mourir",
+                    "author": "Alain Gresh",
+                    "link_amazon_book": "https://amzn.to/3VbXQQT",
+                    "image": "https://m.media-amazon.com/images/I/41L088xFaXL.jpg"
+                },
+                {
+                    "title": "Peuple juif ou problème juif ?",
+                    "author": "Maxime Rodinson",
+                    "link_amazon_book": "https://amzn.to/4bqe0vx",
+                    "image": "https://m.media-amazon.com/images/I/711oCgDornL._SY522_.jpg"
+                },
+                {
+                    "title": "L’Orientalisme",
+                    "author": "Edward Said",
+                    "link_amazon_book": "https://amzn.to/3yutIr3 ",
+                    "image": "https://m.media-amazon.com/images/I/71hq1UAEikL._SY522_.jpg"
+                },
+                {
+                    "title": "Manifeste du Parti communiste",
+                    "author": "Karl Marx",
+                    "link_amazon_book": "https://amzn.to/44ODqR7",
+                    "image": "https://m.media-amazon.com/images/I/718PNdOJB4L._SY522_.jpg"
+                }
+            ]
+        }
+    ]
+}
