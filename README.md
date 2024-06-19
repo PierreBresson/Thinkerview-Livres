@@ -6,6 +6,29 @@
 
 Liste des recommandations lecture/films des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+### Willy et Jean tirent à vue : l'avenir de la France et de l'Europe
+> 29 Mai 2024
+> [youtube](https://www.youtube.com/watch?v=MI95Qv0FDb8)
+
+Willy Schraen
+- Cyrano de Bergerac - Edmond Rostand
+- Le Seigneur des Anneaux - John Ronald Reuel Tolkien
+- Madame Bovary - Gustave Flaubert
+
+Jean Lassalle
+- La parole donnée - Jean Lassalle
+- Aurore ou crépuscule Résistons ! - Jean Lassalle
+- La france authentique - Jean Lassalle
+
+### Haroun : l'humour comme miroir de la société ?
+> 29 Mai 2024
+> [youtube](https://www.youtube.com/watch?v=JZJqRqvkue8)
+
+Haroun
+- Les Identités meurtrières - Amin Maalouf
+- La vie devant soi - Romain Gary
+- Comment faire tomber un dictateur quand on est seul, tout petit, et sans armes - 
+
 ### Israël/Palestine : fuir sous les bombes ? Alain Gresh et Rony Brauman
 > 15 Mai 2024
 > [youtube](https://www.youtube.com/watch?v=24feUlWPyIc)

@@ -1,0 +1,27 @@
+{
+    "people": [
+        {
+            "person": "Haroun",
+            "books": [
+                {
+                    "title": "Les Identités meurtrières - Amin Maalouf",
+                    "author": "",
+                    "link_amazon_book": "https://amzn.to/4bdnDg6",
+                    "image": "https://m.media-amazon.com/images/I/81p74vi5jJL._SY522_.jpg"
+                },
+                {
+                    "title": "La vie devant soi",
+                    "author": "Romain Gary",
+                    "link_amazon_book": "https://amzn.to/3XqwIyU",
+                    "image": "https://m.media-amazon.com/images/I/81ZcBwoEwoL._SY522_.jpg"
+                },
+                {
+                    "title": "Comment faire tomber un dictateur quand on est seul, tout petit, et sans armes",
+                    "author": " Srdja Popovic",
+                    "link_amazon_book": "https://amzn.to/3XsmP3V",
+                    "image": "https://m.media-amazon.com/images/I/41R2+VhmCCL.jpg"
+                }
+            ]
+        }
+    ]
+}
