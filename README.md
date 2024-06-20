@@ -6,8 +6,34 @@
 
 Liste des recommandations lecture/films des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+### Géopolitique : fous de dieu, fous de guerre ? Farhad Khosrokhavar et Pierre Conesa
+> 13 Juin 2024
+> [youtube](https://www.youtube.com/watch?v=40SoVnHf5RQ)
+
+Farhad Khosrokhavar
+- Family and Jihadism: A Socio-Anthropological Approach to the French Experience - Farhad Khosrokhavar
+- Les formes élémentaires de la vie religieuse - Émile Durkheim
+- L'éthique protestante et l'esprit du capitalisme - Max Weber
+- Oeuvre complète - Martin Heidegger
+- Oeuvre complète - Marcel Proust
+- Oeuvre complète - Louis-Ferdinand Céline
+
+Pierre Conesa
+- Un silence religieux - Jean Birnbaum
+- La Tyrannie de la pénitence - Pascal Bruckner
+- Du mensonge à la violence - Anna Arendt
+
+### IA et transition écologique : les liaisons dangereuses ? Guillaume Pitron
+> 13 Juin 2024
+> [youtube](https://www.youtube.com/watch?v=qiJXoAzAKpo)
+
+Guillaume Pitron
+- Immigration : le grand déni - François Heran
+- La Formule de Dieu - José Rodrigues Dos Santos
+- L'enfer numérique - Guillaume Pitron
+
 ### Willy et Jean tirent à vue : l'avenir de la France et de l'Europe
-> 29 Mai 2024
+> 4 Juin 2024
 > [youtube](https://www.youtube.com/watch?v=MI95Qv0FDb8)
 
 Willy Schraen
@@ -30,7 +56,7 @@ Haroun
 - Comment faire tomber un dictateur quand on est seul, tout petit, et sans armes - 
 
 ### Israël/Palestine : fuir sous les bombes ? Alain Gresh et Rony Brauman
-> 15 Mai 2024
+> 14 Mai 2024
 > [youtube](https://www.youtube.com/watch?v=24feUlWPyIc)
 
 Rony Brauman
@@ -45,7 +71,7 @@ Alain Gresh
 - Manifeste du Parti communiste - Karl Marx
 
 ### Charles Gave et Pierre Larrouturou : Économistes face à la réalité sans filtre.
-> 7 Mai 2024
+> 30 Avril 2024
 > [youtube](https://www.youtube.com/watch?v=MuPEZ9fyijc)
 
 Charles Gave
