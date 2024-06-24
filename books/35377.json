@@ -1,0 +1,68 @@
+{
+    "people": [
+        {
+            "person": "Farhad Khosrokhavar",
+            "books": [
+                {
+                    "title": "Family and Jihadism",
+                    "author": "Farhad Khosrokhavar",
+                    "link_amazon_book": "https://amzn.to/4bentFo",
+                    "image": "https://m.media-amazon.com/images/I/917GP74FGgL._SY425_.jpg"
+                },
+                {
+                    "title": "Les formes élémentaires de la vie religieuse",
+                    "author": "Émile Durkheim",
+                    "link_amazon_book": "https://amzn.to/3XzrgtA",
+                    "image": "https://m.media-amazon.com/images/I/61bi7WI4-mL._SY425_.jpg"
+                },
+                {
+                    "title": "L'éthique protestante et l'esprit du capitalisme",
+                    "author": "Max Weber",
+                    "link_amazon_book": "https://amzn.to/3RDp5Bv",
+                    "image": "https://m.media-amazon.com/images/I/61bWt9ENgGL._SY466_.jpg"
+                },
+                {
+                    "title": "Oeuvre complète",
+                    "author": "Martin Heidegger",
+                    "link_amazon_book": "https://amzn.to/4cpyjcu",
+                    "image": "https://m.media-amazon.com/images/I/714ispFxNQL._AC_UL320_.jpg"
+                },
+                {
+                    "title": "Oeuvre complète",
+                    "author": "Marcel Proust",
+                    "link_amazon_book": "https://amzn.to/3zdb9rG",
+                    "image": "https://m.media-amazon.com/images/I/61oPc46FsSL._AC_UL320_.jpg"
+                },
+                {
+                    "title": "Oeuvre complète",
+                    "author": "Louis-Ferdinand Céline",
+                    "link_amazon_book": "https://amzn.to/4cwFX4L",
+                    "image": "https://m.media-amazon.com/images/I/61F2oi-FabL._AC_UL320_.jpg"
+                }
+            ]
+        },
+        {
+            "person": "Pierre Conesa",
+            "books": [
+                {
+                    "title": "Un silence religieux",
+                    "author": "Jean Birnbaum",
+                    "link_amazon_book": "https://amzn.to/4bbLrRt",
+                    "image": "https://m.media-amazon.com/images/I/51opWm1kFxL._SY425_.jpg"
+                },
+                {
+                    "title": "La Tyrannie de la pénitence",
+                    "author": "Pascal Bruckner",
+                    "link_amazon_book": "https://amzn.to/3VP3gRT",
+                    "image": "https://m.media-amazon.com/images/I/A1U6PumkTUL._SY466_.jpg"
+                },
+                {
+                    "title": "Du mensonge à la violence",
+                    "author": "Anna Arendt",
+                    "link_amazon_book": "https://amzn.to/4c8ON9g",
+                    "image": "https://m.media-amazon.com/images/I/71flDMhuhsL._SY466_.jpg"
+                }
+            ]
+        }
+    ]
+}
