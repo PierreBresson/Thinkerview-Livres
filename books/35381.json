@@ -1,0 +1,27 @@
+{
+    "people": [
+        {
+            "person": "Laurent Richard",
+            "books": [
+                {
+                    "title": "Hacks, Leaks, and Revelations",
+                    "author": "Micah Lee",
+                    "link_amazon_book": "https://amzn.to/4dWrd0v",
+                    "image": "https://f.media-amazon.com/images/I/81COy4dc7TL._SY522_.jpg"
+                },
+                {
+                    "title": "Black list",
+                    "author": "Kristina Borjesson",
+                    "link_amazon_book": "https://amzn.to/3Bafnkx",
+                    "image": "https://f.media-amazon.com/images/I/81XQhD0QzIL._SY522_.jpg"
+                },
+                {
+                    "title": "Informer n'est pas un délit",
+                    "author": "Collectif",
+                    "link_amazon_book": "https://amzn.to/3MIT6wY",
+                    "image": "https://f.media-amazon.com/images/I/81f9nqWc26L._SY522_.jpg"
+                }
+            ]
+        }
+    ]
+}
