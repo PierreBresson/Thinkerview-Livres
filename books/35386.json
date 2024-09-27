@@ -1,0 +1,27 @@
+{
+    "people": [
+        {
+            "person": "Juan Branco",
+            "books": [
+                {
+                    "title": "Crime et châtiment",
+                    "author": "Fédor Dostoïevski",
+                    "link_amazon_book": "https://amzn.to/3ZHhp6i",
+                    "image": "https://m.media-amazon.com/images/I/61k7CCTL6NL._SY522_.jpg"
+                },
+                {
+                    "title": "Les Misérables",
+                    "author": "Victor Hugo",
+                    "link_amazon_book": "https://amzn.to/4dhNTac",
+                    "image": "https://m.media-amazon.com/images/I/71Omg6rrbrL._SY522_.jpg"
+                },
+                {
+                    "title": "Voyage au bout de la nuit",
+                    "author": "Louis-Ferdinand Céline",
+                    "link_amazon_book": "https://amzn.to/47KZOfm",
+                    "image": "https://m.media-amazon.com/images/I/818yQICGeNL._SY522_.jpg"
+                }
+            ]
+        }
+    ]
+}
