@@ -1,0 +1,27 @@
+{
+    "people": [
+        {
+            "person": "Aymeric Caron",
+            "books": [
+                {
+                    "title": "Le Château",
+                    "author": "Franz Kafka",
+                    "link_amazon_book": "https://amzn.to/4eL6SeF",
+                    "image": "https://m.media-amazon.com/images/I/71RzJevnAnL._SY522_.jpg"
+                },
+                {
+                    "title": "Dracula",
+                    "author": "Bram Stoker",
+                    "link_amazon_book": "https://amzn.to/40c2hOj",
+                    "image": "https://m.media-amazon.com/images/I/61HIh69oXnL._SY522_.jpg"
+                },
+                {
+                    "title": "Oeuvre complète",
+                    "author": "Günther Anders",
+                    "link_amazon_book": "https://amzn.to/3NANC7H",
+                    "image": "https://m.media-amazon.com/images/I/91HiSzTJpaL._SY522_.jpg"
+                }
+            ]
+        }
+    ]
+}

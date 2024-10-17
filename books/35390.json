@@ -1,0 +1,78 @@
+{
+    "people": [
+        {
+            "person": "Alexandre Stachtchenko",
+            "books": [
+                {
+                    "title": "La route de la servitude",
+                    "author": "Friedrich Hayek",
+                    "link_amazon_book": "https://amzn.to/3NuamXe",
+                    "image": "https://m.media-amazon.com/images/I/5168S6fJSPL._SY522_.jpg"
+                },
+                {
+                    "title": "Broken Money",
+                    "author": "Lyn Alden",
+                    "link_amazon_book": "https://amzn.to/407y3vK",
+                    "image": "https://m.media-amazon.com/images/I/710ji5I+EiL._SY522_.jpg"
+                },
+                {
+                    "title": "Bitcoin & cryptomonnaies faciles",
+                    "author": "Alexandre Stachtchenko",
+                    "link_amazon_book": "https://amzn.to/4f3Y5o3",
+                    "image": "https://m.media-amazon.com/images/I/61VRfIjQtKL._SY522_.jpg"
+                }
+            ]
+        },
+        {
+            "person": "Tom Benoit",
+            "books": [
+                {
+                    "title": "La monnaie",
+                    "author": "Bruno Colmant",
+                    "link_amazon_book": "https://amzn.to/4dWiN8d",
+                    "image": "https://m.media-amazon.com/images/I/61e4djJLRLL._SY522_.jpg"
+                },
+                {
+                    "title": "Aphorismes sur la sagesse dans la vie",
+                    "author": "Arthur Schopenhauer",
+                    "link_amazon_book": "https://amzn.to/3Yptn38",
+                    "image": "https://m.media-amazon.com/images/I/716GgVDcyBL._SY522_.jpg"
+                },
+                {
+                    "title": "En finir avec le règne de l'illusion financière",
+                    "author": "Jacques de Larosière",
+                    "link_amazon_book": "https://amzn.to/4eSpZ6L",
+                    "image": "https://m.media-amazon.com/images/I/618Co6oP57L._SY522_.jpg"
+                }
+            ]
+        },
+        {
+            "person": "Sébastien Gouspillou",
+            "books": [
+                {
+                    "title": "Bitcoin, La monnaie acéphale",
+                    "author": "Jacques Favier & Adli Takkal Bataille",
+                    "link_amazon_book": "https://amzn.to/3YsRFth",
+                    "image": "https://m.media-amazon.com/images/I/51C-4P16UyL._SY522_.jpg"
+                },
+                {
+                    "title": "L’énergie, face cachée de la monnaie",
+                    "author": "Pierre Noizat",
+                    "link_amazon_book": "https://amzn.to/48dwj68",
+                    "image": "https://m.media-amazon.com/images/I/71XsoVMEw8L._SY522_.jpg"
+                }
+            ]
+        },
+        {
+            "person": "Sky",
+            "books": [
+                {
+                    "title": "L’Art d’avoir toujours raison",
+                    "author": "Arthur Schopenhauer",
+                    "link_amazon_book": "https://amzn.to/4h9rRJJ",
+                    "image": "https://m.media-amazon.com/images/I/412GnrE7s+L._SY522_.jpg"
+                }
+            ]
+        }
+    ]
+}
