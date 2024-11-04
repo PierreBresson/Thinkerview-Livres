@@ -1,0 +1,51 @@
+{
+    "people": [
+        {
+            "person": "Olivier Hamant",
+            "books": [
+                {
+                    "title": "La Part maudite",
+                    "author": "Georges Bataille",
+                    "link_amazon_book": "https://amzn.to/4fgYbta",
+                    "image": "https://m.media-amazon.com/images/I/41bikamekHL._SY522_.jpg"
+                },
+                {
+                    "title": "Les limites à la croissance",
+                    "author": "Dennis Meadows",
+                    "link_amazon_book": "https://amzn.to/4ehVRRh",
+                    "image": "https://m.media-amazon.com/images/I/61wSX+s8PNL._SY522_.jpg"
+                },
+                {
+                    "title": "Homo confort",
+                    "author": "Stefano Boni",
+                    "link_amazon_book": "https://amzn.to/4hy51f1",
+                    "image": "https://m.media-amazon.com/images/I/61tDDerVuTL._SY522_.jpg"
+                },
+                {
+                    "title": "Rendre le monde indisponible",
+                    "author": "Hartmut Rosa",
+                    "link_amazon_book": "https://amzn.to/3AsjMzo",
+                    "image": "https://m.media-amazon.com/images/I/61IRYqGF96L._SY522_.jpg"
+                },
+                {
+                    "title": "L'Origine des espèces",
+                    "author": "Charles Darwin",
+                    "link_amazon_book": "https://amzn.to/48ByFw2",
+                    "image": "https://m.media-amazon.com/images/I/61gJJq4YtTL._SY522_.jpg"
+                },
+                {
+                    "title": "Antidote au culte de la performance",
+                    "author": "Olivier Hamant",
+                    "link_amazon_book": "https://amzn.to/3C9WBKN",
+                    "image": "https://m.media-amazon.com/images/I/71C8NIzsqIL._SY522_.jpg"
+                },
+                {
+                    "title": "La Troisième voie du vivant",
+                    "author": "Olivier Hamant",
+                    "link_amazon_book": "https://amzn.to/3YU268j",
+                    "image": "https://m.media-amazon.com/images/I/71NauWcn3KL._SY522_.jpg"
+                }
+            ]
+        }
+    ]
+}

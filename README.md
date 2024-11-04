@@ -6,6 +6,41 @@
 
 Liste des recommandations lecture/films des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+### Guerre Civile en approche : État des Lieux à l'Extrême Droite ? Laurent Obertone
+> 24 Octobre 2024
+> [youtube](https://www.youtube.com/watch?v=NmyEqUOgD_U)
+
+Laurent Obertone
+- L'Homme en péril - Konrad Lorenz
+- Guerre - Laurent Obertone
+- Fables - Jean de La Fontaine
+- Mauvaises pensées et autres - Paul Valéry
+
+### Engrenage du chaos mondial à l'apocalypse ? Pierre Lellouche
+> 22 Octobre 2024
+> [youtube](https://www.youtube.com/watch?v=TpoO-RnOEmIs)
+
+Pierre Lellouche
+- Vassili Grossman - Oeuvre intégrale
+- Cavalerie Rouge - Isaac Babel
+- Les Âmes mortes - Nicolas Gogol
+- Zola - Oeuvre intégrale
+- Balzac - Oeuvre intégrale
+- Victor Hugo - Oeuvre intégrale
+
+### Survie dans le Chaos : La robustesse à l'épreuve ? Olivier Hamant
+> 18 Octobre 2024
+> [youtube](https://www.youtube.com/watch?v=JPW_m8JBl2Q)
+
+Olivier Hamant
+- La Part maudite - Georges Bataille
+- Les limites à la croissance - Dennis Meadows
+- Homo confort - Stefano Boni
+- Rendre le monde indisponible - Hartmut Rosa
+- L'origine des espèces - Charles Darwin
+- Antidote au culte de la performance - Olivier Hamant
+- La Troisième voie du vivant - Olivier Haman
+
 ### Activistes criminalisés : l’ultime signal d’un monde en déclin ? Lamya Essemlali
 > 8 Octobre 2024
 > [youtube](https://www.youtube.com/watch?v=lAeGrPFSL0Y&t=446s)

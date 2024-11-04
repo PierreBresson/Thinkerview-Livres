@@ -1,0 +1,45 @@
+{
+    "people": [
+        {
+            "person": "Pierre Lellouche",
+            "books": [
+                {
+                    "title": "Oeuvre intégrale",
+                    "author": "Vassili Grossman",
+                    "link_amazon_book": "https://amzn.to/48y069Q",
+                    "image": "https://m.media-amazon.com/images/I/71V+ClokPPL._SY522_.jpg"
+                },
+                {
+                    "title": "Cavalerie Rouge",
+                    "author": "Isaac Babel",
+                    "link_amazon_book": "https://amzn.to/4faJhVa",
+                    "image": "https://m.media-amazon.com/images/I/312P9BDrTdL.jpg"
+                },
+                {
+                    "title": "Les Âmes mortes",
+                    "author": "Nicolas Gogol",
+                    "link_amazon_book": "https://amzn.to/3UCsuSN",
+                    "image": "https://m.media-amazon.com/images/I/81vvIGn0O7L._SY522_.jpg"
+                },
+                {
+                    "title": "Oeuvre intégrale",
+                    "author": "Zola",
+                    "link_amazon_book": "https://amzn.to/3YRsO2y",
+                    "image": "https://m.media-amazon.com/images/I/81X-F1nE0IL._SY522_.jpg"
+                },
+                {
+                    "title": "Oeuvre intégrale",
+                    "author": "Balzac",
+                    "link_amazon_book": "https://amzn.to/3CoLugY",
+                    "image": "https://m.media-amazon.com/images/I/81jmppwxtSL._SY522_.jpg"
+                },
+                {
+                    "title": "Oeuvre intégrale",
+                    "author": "Victor Hugo",
+                    "link_amazon_book": "https://amzn.to/3CfTWiL",
+                    "image": "https://m.media-amazon.com/images/I/91BCkXN-0uL._SY522_.jpg"
+                }
+            ]
+        }
+    ]
+}
