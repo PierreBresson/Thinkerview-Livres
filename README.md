@@ -6,6 +6,42 @@
 
 Liste des recommandations lecture/films des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+### Dislocation de l'Europe : qui partira le premier ? Florian Philippot
+> 22 Novembre 2024
+> [youtube](https://www.youtube.com/watch?v=32OJhh95FZU)
+
+Florian Philippot
+- Mémoires de guerre et Mémoires d'espoir - Charles de Gaulle
+- Covid 19, ce que révèlent les chiffres officiels fin 2023 - Pierre Chaillot
+- L'ami américain - Éric Branca
+
+### La société rêvée d'Elon Musk : quel avenir ? Jean-Marc Jancovici, Philippe Bihouix
+> 14 Novembre 2024
+> [youtube](https://www.youtube.com/watch?v=6HB2WD96ByQ)
+
+Philippe Bihouix
+- L’argent - John Kenneth Galbraith
+- La Rançon du Machinisme - Gina Lombroso
+- Le troisième chimpanzé - Jared Diamond
+- Philippe Bihouix - Ressources: Un défi pour l'humanité
+
+Jean-Marc Jancovici
+- Être un chêne - Laurent Tillon
+- Les Fantômes de la nuit - Laurent Tillon
+- Féminicène - Véra Nikolski
+- De l'inégalité parmi les sociétés - Jared Diamond
+- Jean-Marc Jancovici - Le Monde sans fin, miracle énergétique et dérive climatique
+
+### Anticipations Géopolitiques : Les Médias font-ils encore leur Boulot ? Pascal Boniface
+> 13 Novembre 2024
+> [youtube](https://www.youtube.com/watch?v=k3cI5q8iQA8)
+
+Pascal Boniface
+- Le Labyrinthe des égarés - Amin Maalouf
+- Nexus - Yuval Noah Harari
+- Hell of Good Intentions - Stephen Walt
+- Géostratégix - Pascal Boniface
+
 ### Guerre Civile en approche : État des Lieux à l'Extrême Droite ? Laurent Obertone
 > 24 Octobre 2024
 > [youtube](https://www.youtube.com/watch?v=NmyEqUOgD_U)

@@ -1,0 +1,68 @@
+{
+    "people": [
+        {
+            "person": "Philippe Bihouix",
+            "books": [
+                {
+                    "title": "L’argent",
+                    "author": "John Kenneth Galbraith",
+                    "link_amazon_book": "https://amzn.to/4fMJSwJ",
+                    "image": "https://m.media-amazon.com/images/I/71feaIr+nlL._SY522_.jpg"
+                },
+                {
+                    "title": "La Rançon du Machinisme",
+                    "author": "Gina Lombroso",
+                    "link_amazon_book": "https://amzn.to/4eAeEas",
+                    "image": "https://m.media-amazon.com/images/I/61lu+5+g8WL._SY522_.jpg"
+                },
+                {
+                    "title": "Le troisième chimpanzé",
+                    "author": "Jared Diamond",
+                    "link_amazon_book": "https://amzn.to/3ALSgNz",
+                    "image": "https://m.media-amazon.com/images/I/91l1mEpUGML._SY522_.jpg"
+                },
+                {
+                    "title": "Ressources: Un défi pour l'humanité",
+                    "author": "Philippe Bihouix",
+                    "link_amazon_book": "https://amzn.to/4i87VYz",
+                    "image": "https://m.media-amazon.com/images/I/91U6c6Ex+XL._SY522_.jpg"
+                }
+            ]
+        },
+        {
+            "person": "Jean-Marc Jancovici",
+            "books": [
+                {
+                    "title": "Être un chêne",
+                    "author": "Laurent Tillon",
+                    "link_amazon_book": "https://amzn.to/4fR9urQ",
+                    "image": "https://m.media-amazon.com/images/I/61Z0zx3Q1QL._SY522_.jpg"
+                },
+                {
+                    "title": "Les Fantômes de la nuit",
+                    "author": "Laurent Tillon",
+                    "link_amazon_book": "https://amzn.to/4gbiYOT",
+                    "image": "https://m.media-amazon.com/images/I/61O5wJpDw1L._SY522_.jpg"
+                },
+                {
+                    "title": "Féminicène",
+                    "author": "Véra Nikolski",
+                    "link_amazon_book": "https://amzn.to/48SIPZn",
+                    "image": "https://m.media-amazon.com/images/I/61EPait8ghL._SY522_.jpg"
+                },
+                {
+                    "title": "De l'inégalité parmi les sociétés",
+                    "author": "Jared Diamond",
+                    "link_amazon_book": "https://amzn.to/3YWcdsT",
+                    "image": "https://m.media-amazon.com/images/I/71QkQf2uudL._SY522_.jpg"
+                },
+                {
+                    "title": "Le Monde sans fin, miracle énergétique et dérive climatique",
+                    "author": "Jean-Marc Jancovici",
+                    "link_amazon_book": "https://amzn.to/40MDLnj",
+                    "image": "https://m.media-amazon.com/images/I/91ERPyvcONL._SY522_.jpg"
+                }
+            ]
+        }
+    ]
+}

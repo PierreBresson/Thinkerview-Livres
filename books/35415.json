@@ -1,0 +1,27 @@
+{
+    "people": [
+        {
+            "person": "Florian Philippot",
+            "books": [
+                {
+                    "title": "Mémoires de guerre et Mémoires d'espoir",
+                    "author": "Charles de Gaulle",
+                    "link_amazon_book": "https://amzn.to/4hWw5VA",
+                    "image": "https://m.media-amazon.com/images/I/619HwD3DtoL._SY522_.jpg"
+                },
+                {
+                    "title": "Covid 19, ce que révèlent les chiffres officiels fin 2023",
+                    "author": "Pierre Chaillot",
+                    "link_amazon_book": "https://amzn.to/4i0X8iH",
+                    "image": "https://m.media-amazon.com/images/I/71LMZq-IWXL._SY522_.jpg"
+                },
+                {
+                    "title": "L'ami américain",
+                    "author": "Éric Branca",
+                    "link_amazon_book": "https://amzn.to/4g3hrdr",
+                    "image": "https://m.media-amazon.com/images/I/61rff3P9dkL._SY522_.jpg"
+                }
+            ]
+        }
+    ]
+}
