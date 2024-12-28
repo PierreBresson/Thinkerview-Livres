@@ -1,0 +1,79 @@
+{
+    "people": [
+        {
+            "person": "Paul Cassia",
+            "books": [
+                {
+                    "title": "1984",
+                    "author": "George Orwell",
+                    "link_amazon_book": "https://amzn.to/3HeBWV7",
+                    "image": "https://m.media-amazon.com/images/I/71Y9X7FYkcL._SY522_.jpg"
+                },
+                {
+                    "title": "La Corruption de la République",
+                    "author": "Yves Mény",
+                    "link_amazon_book": "https://amzn.to/3ZTB2q3",
+                    "image": "https://m.media-amazon.com/images/I/71l2A07nFjL._SY522_.jpg"
+                },
+                {
+                    "title": "La promesse De l'aube",
+                    "author": "Romain Gary",
+                    "link_amazon_book": "https://amzn.to/3PdA6YE",
+                    "image": "https://m.media-amazon.com/images/I/71Pdehb3ztL._SY522_.jpg"
+                }
+            ]
+        },
+        {
+            "person": "Inès Bernard",
+            "books": [
+                {
+                    "title": "Les Rapaces",
+                    "author": "Camille Vigogne Le Coat",
+                    "link_amazon_book": "https://amzn.to/4gPlISb",
+                    "image": "https://m.media-amazon.com/images/I/71aGAn5KeQL._SY522_.jpg"
+                },
+                {
+                    "title": "Résister à la corruption",
+                    "author": "Élise Van Beneden & Éric Alt",
+                    "link_amazon_book": "https://amzn.to/4hc6Ptx",
+                    "image": "https://m.media-amazon.com/images/I/71MSUGYujvL._SY522_.jpg"
+                },
+                {
+                    "title": "Auschwitz et après T1",
+                    "author": "Charlotte Delbo",
+                    "link_amazon_book": "https://amzn.to/40aFL7X",
+                    "image": "https://m.media-amazon.com/images/I/51oIgzV7qCL._SY522_.jpg"
+                },
+                {
+                    "title": "Auschwitz et après T2 & T3",
+                    "author": "Charlotte Delbo",
+                    "link_amazon_book": "https://amzn.to/4gxpSOW",
+                    "image": "https://m.media-amazon.com/images/I/81o7lSy3a-L._SY522_.jpg"
+                }
+            ]
+        },
+        {
+            "person": "Élise Van Beneden",
+            "books": [
+                {
+                    "title": "Le cavalier suédois",
+                    "author": "Leo Perutz",
+                    "link_amazon_book": "https://amzn.to/4gVKb8f",
+                    "image": "https://m.media-amazon.com/images/I/81BqR-QxZdL._SY522_.jpg"
+                },
+                {
+                    "title": "La Horde du Contrevent",
+                    "author": "Alain Damasio",
+                    "link_amazon_book": "https://amzn.to/3VS0IC3",
+                    "image": "https://m.media-amazon.com/images/I/81xxBCSH9eL._SY522_.jpg"
+                },
+                {
+                    "title": "Un Homme",
+                    "author": "Oriana Fallaci",
+                    "link_amazon_book": "https://amzn.to/49TOUVK",
+                    "image": "https://m.media-amazon.com/images/I/71jckJJsV2L._SY522_.jpg"
+                }
+            ]
+        }
+    ]
+}

@@ -6,6 +6,26 @@
 
 Liste des recommandations lecture/films des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+### France Corruption : Qui se partage les 120 milliards d'Euros chaque année ? Anticor
+> 11 Décembre 2024
+> [youtube](https://www.youtube.com/watch?v=GSpAeufEV_c)
+
+Paul Cassia
+- 1984 - George Orwell
+- La Corruption de la République - Yves Mény
+- La promesse De l'aube - Romain Gary
+
+Inès Bernard
+- Les Rapaces - Camille Vigogne Le Coat
+- Résister à la corruption -  Élise Van Beneden & Éric Alt
+- Auschwitz et après T1 - Charlotte Delbo
+- Auschwitz et après T2 & T3 - Charlotte Delbo
+
+Élise Van Beneden
+- Le cavalier suédois - Leo Perutz
+- La Horde du Contrevent - Alain Damasio
+- Un Homme - Oriana Fallaci
+
 ### France au Bord de la Faillite : Eric Coquerel Dévoile les Secrets Financiers ?
 > 1 Décembre 2024
 > [youtube](https://www.youtube.com/watch?v=DQC3ffpEeoE)
