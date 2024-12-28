@@ -1,0 +1,27 @@
+{
+    "people": [
+        {
+            "person": "Kemi Seba",
+            "books": [
+                {
+                    "title": "Philosophie de la panafricanité fondamentale",
+                    "author": "Kemi Seba",
+                    "link_amazon_book": "https://amzn.to/3ZlS5Sv",
+                    "image": "https://m.media-amazon.com/images/I/612gVCkbYyL._SY522_.jpg"
+                },
+                {
+                    "title": "Civilisation ou barbarie",
+                    "author": "Cheikh-Anta Diop",
+                    "link_amazon_book": "https://amzn.to/4fTRJZ2",
+                    "image": "https://m.media-amazon.com/images/I/31Qnox0wKPL.jpg"
+                },
+                {
+                    "title": "Discours sur le colonialisme",
+                    "author": "Aimé Césaire",
+                    "link_amazon_book": "https://amzn.to/3V6EP1y",
+                    "image": "https://m.media-amazon.com/images/I/51QaJGqCOWL._SY522_.jpg"
+                }
+            ]
+        }
+    ]
+}

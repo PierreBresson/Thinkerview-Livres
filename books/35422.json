@@ -1,0 +1,39 @@
+{
+    "people": [
+        {
+            "person": "Eric Coquerel",
+            "books": [
+                {
+                    "title": "L'Enfant",
+                    "author": "Jules Vallès",
+                    "link_amazon_book": "https://amzn.to/3ZwDS45",
+                    "image": "https://m.media-amazon.com/images/I/71Gy-PAD7GL._SY522_.jpg"
+                },
+                {
+                    "title": "Le Bachelier",
+                    "author": "Jules Vallès",
+                    "link_amazon_book": "https://amzn.to/3VWm8OP",
+                    "image": "https://m.media-amazon.com/images/I/71b4+TNwEJL._SY522_.jpg"
+                },
+                {
+                    "title": "L'insurgé",
+                    "author": "Jules Vallès",
+                    "link_amazon_book": "https://amzn.to/3ZwDZN3",
+                    "image": "https://m.media-amazon.com/images/I/51iU2WmqOOL._SY522_.jpg"
+                },
+                {
+                    "title": "Cent ans de solitude",
+                    "author": "Gabriel Garcia Marquez",
+                    "link_amazon_book": "https://amzn.to/49AU4pM",
+                    "image": "https://m.media-amazon.com/images/I/91dQd82Wx3L._SY522_.jpg"
+                },
+                {
+                    "title": "Voyage au bout de la nuit",
+                    "author": "Louis-Ferdinand Céline",
+                    "link_amazon_book": "https://amzn.to/48P4S1N",
+                    "image": "https://m.media-amazon.com/images/I/818yQICGeNL._SY522_.jpg"
+                }
+            ]
+        }
+    ]
+}
