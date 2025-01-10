@@ -6,6 +6,15 @@
 
 Liste des recommandations lecture/films des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+### Frexit : Le Destin de la France Face aux Dangers de l'Europe ? François Asselineau
+> 20 Décembre 2024
+> [youtube](https://www.youtube.com/watch?v=x8LptIHGww8)
+
+François Asselineau
+- C'était de Gaulle - Alain Peyrefitte
+- Les conséquences politiques de la paix - Jacques Bainville
+- Bhagavad-Gita - Vyasa
+
 ### France Corruption : Qui se partage les 120 milliards d'Euros chaque année ? Anticor
 > 11 Décembre 2024
 > [youtube](https://www.youtube.com/watch?v=GSpAeufEV_c)

@@ -1,0 +1,27 @@
+{
+    "people": [
+        {
+            "person": "François Asselineau",
+            "books": [
+                {
+                    "title": "C'était de Gaulle",
+                    "author": "Alain Peyrefitte",
+                    "link_amazon_book": "https://amzn.to/3VWSc58",
+                    "image": "https://m.media-amazon.com/images/I/41btkhuuTXL.jpg"
+                },
+                {
+                    "title": "Les conséquences politiques de la paix",
+                    "author": "Jacques Bainville",
+                    "link_amazon_book": "https://amzn.to/41Pjiyz",
+                    "image": "https://m.media-amazon.com/images/I/61P-T+oehjL._SY522_.jpg"
+                },
+                {
+                    "title": "Bhagavad-Gita",
+                    "author": "Vyasa",
+                    "link_amazon_book": "https://amzn.to/3ZW7doF",
+                    "image": "https://m.media-amazon.com/images/I/61kPeOF8R5L._SY522_.jpg"
+                }
+            ]
+        }
+    ]
+}
