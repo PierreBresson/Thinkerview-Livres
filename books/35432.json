@@ -1,0 +1,56 @@
+{
+    "people": [
+        {
+            "person": "Anaïs Voy-Gillis",
+            "books": [
+                {
+                    "title": "La Horde du Contrevent",
+                    "author": "Alain Damasio",
+                    "link_amazon_book": "https://amzn.to/3VS0IC3",
+                    "image": "https://m.media-amazon.com/images/I/81xxBCSH9eL._SY522_.jpg"
+                },
+                {
+                    "title": "Les villes invisibles",
+                    "author": "Italo Calvino",
+                    "link_amazon_book": "https://amzn.to/4gWrTnW",
+                    "image": "https://m.media-amazon.com/images/I/81s8CzXoJBL._SY522_.jpg"
+                },
+                {
+                    "title": "La renaissance industrielle",
+                    "author": " Pierre Musso",
+                    "link_amazon_book": "https://amzn.to/40zAgjI",
+                    "image": "https://m.media-amazon.com/images/I/41eW+vM5Z0L._SY522_.jpg"
+                },
+                {
+                    "title": "Fables de La Fontaine",
+                    "author": "Jean de La Fontaine",
+                    "link_amazon_book": "https://amzn.to/3PB9dhC",
+                    "image": "https://m.media-amazon.com/images/I/6116l0LU9DL._SY522_.jpg"
+                }
+            ]
+        },
+        {
+            "person": "Maroun Eddé",
+            "books": [
+                {
+                    "title": "Ces Messieurs de Lazard",
+                    "author": "Martine Orange",
+                    "link_amazon_book": "https://amzn.to/40Cyg9d",
+                    "image": "https://m.media-amazon.com/images/I/71eEfzHoC8L._SY522_.jpg"
+                },
+                {
+                    "title": "Les Nouveaux maîtres du monde",
+                    "author": "Jean Ziegler",
+                    "link_amazon_book": "https://amzn.to/3Wig0At",
+                    "image": "https://m.media-amazon.com/images/I/7124GEy9hwL._SY522_.jpg"
+                },
+                {
+                    "title": "La concurrence des victimes",
+                    "author": "Jean-Michel Chaumont",
+                    "link_amazon_book": "https://amzn.to/4ahrqtW",
+                    "image": "https://m.media-amazon.com/images/I/71SujtWQvdL._SY522_.jpg"
+                }
+            ]
+        }
+    ]
+}

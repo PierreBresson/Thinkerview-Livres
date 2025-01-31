@@ -1,0 +1,33 @@
+{
+    "people": [
+        {
+            "person": "David Guiraud",
+            "books": [
+                {
+                    "title": "Sur la télévision",
+                    "author": "Pierre Bourdieu",
+                    "link_amazon_book": "https://amzn.to/3EjUo0o",
+                    "image": "https://m.media-amazon.com/images/I/51qZb0IDu2L._SY522_.jpg"
+                },
+                {
+                    "title": "One Piece",
+                    "author": "Eiichiro Oda",
+                    "link_amazon_book": "https://amzn.to/3WGiKrC",
+                    "image": "https://m.media-amazon.com/images/I/71mwAvj3kQL._SY522_.jpg"
+                },
+                {
+                    "title": "Leur morale et la nôtre",
+                    "author": "Léon Trotsky",
+                    "link_amazon_book": "https://amzn.to/42AM6LO",
+                    "image": "https://m.media-amazon.com/images/I/41pYsBYmhaL.jpg"
+                },
+                {
+                    "title": "L'identité de la France",
+                    "author": "Fernand Braudel",
+                    "link_amazon_book": "https://amzn.to/3Q02xKa",
+                    "image": "https://m.media-amazon.com/images/I/61e5L0CnDfL._SY522_.jpg"
+                }
+            ]
+        }
+    ]
+}

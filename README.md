@@ -6,6 +6,40 @@
 
 Liste des recommandations lecture/films des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+### Où va la France ? David Guiraud
+> 30 Janvier 2025
+> [youtube](https://www.youtube.com/watch?v=Oo8-m8K_foY)
+
+David Guiraud
+- Sur la télévision - Pierre Bourdieu
+- One Piece - Eiichiro Oda
+- Leur morale et la nôtre - Léon Trotsky
+- L'identité de la France - Fernand Braudel
+
+### Espion : L'Homme qui en savait trop ? Marc Eichinger
+> 16 Janvier 2025
+> [youtube](https://www.youtube.com/watch?v=n0CQPKMyauw)
+
+Marc Eichinger
+- Eichmann à Jérusalem - Hannah Arendt
+- Biographie d'Albert Einstein - Laurent Seksik
+- Biographie de Spinoza - Steven Nadler
+
+### Frexit : La France en perdition : Pourquoi et à quoi s'attendre ? Anaïs Voy-Gillis et Maroun Eddé
+> 14 Janvier 2025
+> [youtube](https://www.youtube.com/watch?v=AwiO2ifU5QI)
+
+Anaïs Voy-Gillis
+- La Horde du Contrevent - Alain Damasio
+- Les villes invisibles - Italo Calvino
+- La renaissance industrielle
+- Fables de La Fontaine - Jean de La Fontaine
+
+Maroun Eddé
+- Ces Messieurs de Lazard - Martine Orange
+- Les Nouveaux maîtres du monde - Jean Ziegler
+- La concurrence des victimes - Jean-Michel Chaumont
+
 ### Frexit : Le Destin de la France Face aux Dangers de l'Europe ? François Asselineau
 > 20 Décembre 2024
 > [youtube](https://www.youtube.com/watch?v=x8LptIHGww8)

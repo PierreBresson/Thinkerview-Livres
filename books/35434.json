@@ -1,0 +1,27 @@
+{
+    "people": [
+        {
+            "person": "Marc Eichinger",
+            "books": [
+                {
+                    "title": "Eichmann à Jérusalem",
+                    "author": "Hannah Arendt",
+                    "link_amazon_book": "https://amzn.to/4jlKviL",
+                    "image": "https://m.media-amazon.com/images/I/81VaTEhm-gL._SY522_.jpg"
+                },
+                {
+                    "title": "Biographie d'Albert Einstein",
+                    "author": "Laurent Seksik",
+                    "link_amazon_book": "https://amzn.to/40jvsNY",
+                    "image": "https://m.media-amazon.com/images/I/81OC7UlwntL._SY522_.jpg"
+                },
+                {
+                    "title": "Biographie de Spinoza",
+                    "author": "Steven Nadler",
+                    "link_amazon_book": "https://amzn.to/4ap6ykM",
+                    "image": "https://m.media-amazon.com/images/I/71m8OkqEulL._SY522_.jpg"
+                }
+            ]
+        }
+    ]
+}
