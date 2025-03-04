@@ -6,6 +6,44 @@
 
 Liste des recommandations lecture/films des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+### Xavier Fontanet, Des Stratèges ou des Amateurs à la tête de l’État ?
+> 24 Février 2025
+> [youtube](https://www.youtube.com/watch?v=ewt9Gml0IPU)
+
+Xavier Fontanet
+- Du miracle en économie - Alain Peyrefitte
+- Steve Jobs - Walter Isaacson
+- Civilisation matérielle, économie et capitalisme (trilogie) - Fernand Braudel
+
+### Virginie Joron cogne l'UE, corrompue et en crise ?
+> 21 Février 2025
+> [youtube](https://www.youtube.com/watch?v=LQEBXqft7bg)
+
+Virginie Joron
+- Les nouveaux chiens de garde - Serge Halimi
+- Socrate, Jésus et Bouddha - Frédéric Lenoir
+- Tous vaccinés, tous protégés? - Christine Cotton
+- Victimes des vaccins covid 19 - Pierre Chaillot
+- Le réveil, 4 ans après - Christian Perronne
+- COVID-19: La Grande Réinitialisation - Klaus Schwab
+
+### Drogues : Les Camés et les Cramés de la Ripoublik ? Philippe Pujol
+> 6 Février 2025
+> [youtube](https://www.youtube.com/watch?v=XR3FjJrUZrw)
+
+Philippe Pujol
+- Les Enfants du Bronx - Adrian Nicole Leblanc
+- The Corner - David Simon
+- Sociologie de Marseille -  Michel Peraldi, Claire Duport, Michel Samson
+
+### Ambassadeur d'Iran sans filtre ? Mohammad Amin Nejad
+> 5 Février 2025
+> [youtube](https://www.youtube.com/watch?v=byA8gKMazs4)
+
+Mohammad Amin Nejad
+- Livre des Rois - Ferdowsi
+- Golestan - Saadi
+
 ### Où va la France ? David Guiraud
 > 30 Janvier 2025
 > [youtube](https://www.youtube.com/watch?v=Oo8-m8K_foY)

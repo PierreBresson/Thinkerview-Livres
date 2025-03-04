@@ -1,0 +1,27 @@
+{
+    "people": [
+        {
+            "person": "Philippe Pujol",
+            "books": [
+                {
+                    "title": "Les Enfants du Bronx",
+                    "author": "Adrian Nicole Leblanc",
+                    "link_amazon_book": "https://amzn.to/42MLylT",
+                    "image": "https://m.media-amazon.com/images/I/71BjXyF7jSL._SY522_.jpg"
+                },
+                {
+                    "title": "The Corner",
+                    "author": "David Simon",
+                    "link_amazon_book": "https://amzn.to/4jK3ILb",
+                    "image": "https://m.media-amazon.com/images/I/61ykQACI3yL._SY522_.jpg"
+                },
+                {
+                    "title": "Sociologie de Marseille",
+                    "author": "Michel Peraldi, Claire Duport, Michel Samson",
+                    "link_amazon_book": "https://amzn.to/3CJEXhz",
+                    "image": "https://m.media-amazon.com/images/I/61IBZ7+lQ0L._SY522_.jpg"
+                }
+            ]
+        }
+    ]
+}

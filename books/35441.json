@@ -1,0 +1,21 @@
+{
+    "people": [
+        {
+            "person": "Mohammad Amin Nejad",
+            "books": [
+                {
+                    "title": "Livre des Rois",
+                    "author": "Ferdowsi",
+                    "link_amazon_book": "https://amzn.to/4hqM3Xu",
+                    "image": "https://m.media-amazon.com/images/I/61Ap649MX4L._SY522_.jpg"
+                },
+                {
+                    "title": "Golestan",
+                    "author": "Saadi",
+                    "link_amazon_book": "https://amzn.to/4hIDuqC",
+                    "image": "https://m.media-amazon.com/images/I/51blSAS++9L._SY522_.jpg"
+                }
+            ]
+        }
+    ]
+}
