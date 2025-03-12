@@ -4,6 +4,12 @@
             "person": "Philippe Pujol",
             "books": [
                 {
+                    "title": "Cramés",
+                    "author": "Philippe Pujol",
+                    "link_amazon_book": "https://amzn.to/3DxXT3p",
+                    "image": "https://m.media-amazon.com/images/I/61qKcGK2gYL._SY522_.jpg"
+                },
+                {
                     "title": "Les Enfants du Bronx",
                     "author": "Adrian Nicole Leblanc",
                     "link_amazon_book": "https://amzn.to/42MLylT",

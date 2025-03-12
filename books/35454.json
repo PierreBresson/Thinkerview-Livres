@@ -1,0 +1,27 @@
+{
+    "people": [
+        {
+            "person": "Antoine Armand",
+            "books": [
+                {
+                    "title": "Terre des hommes",
+                    "author": "Antoine de Saint-Exupéry",
+                    "link_amazon_book": "https://amzn.to/4ikVGqV",
+                    "image": "https://m.media-amazon.com/images/I/81+aynv0kaL._SY522_.jpg"
+                },
+                {
+                    "title": "Parlons-nous tous la même langue?",
+                    "author": "Frédéric Dabi - Brice Soccol",
+                    "link_amazon_book": "https://amzn.to/3R6qDTK",
+                    "image": "https://m.media-amazon.com/images/I/71s5bI8B+OL._SY522_.jpg"
+                },
+                {
+                    "title": "Sans transition",
+                    "author": "Jean-Baptiste Fressoz",
+                    "link_amazon_book": "https://amzn.to/4bOB8on",
+                    "image": "https://m.media-amazon.com/images/I/81aNSVHThHL._SY522_.jpg"
+                }
+            ]
+        }
+    ]
+}

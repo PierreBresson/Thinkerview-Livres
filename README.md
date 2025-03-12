@@ -6,6 +6,26 @@
 
 Liste des recommandations lecture/films des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+### La république,les affaires, que peut encore faire le journalisme ? Marc Endeweld
+> 11 Mars 2025
+> [youtube](https://www.youtube.com/watch?v=gzlHOiqeQCY)
+
+Marc Endeweld
+- L'âge d'or de la corruption parlementaire - Jean-Yves Mollier
+- Les patrons de la presse nationale - Jean Stern - Olivier Tosas-Giro
+- L'empire de la douleur - Patrick Radden Keefe
+- La Tech - Olivier Alexandre
+- L'Inconnue de Dallas - Mary Haverstick
+
+### Ministre des Finances sans filtres ? Antoine Armand
+> 6 Mars 2025
+> [youtube](https://www.youtube.com/watch?v=5Ls70LOPBLc)
+
+Antoine Armand
+- Terre des hommes - Antoine de Saint-Exupéry
+- Parlons-nous tous la même langue ? Frédéric Dabi - Brice Soccol
+- Sans transition - Jean-Baptiste Fressoz
+
 ### Xavier Fontanet, Des Stratèges ou des Amateurs à la tête de l’État ?
 > 24 Février 2025
 > [youtube](https://www.youtube.com/watch?v=ewt9Gml0IPU)
