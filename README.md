@@ -6,6 +6,24 @@
 
 Liste des recommandations lecture/films des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+### François Ecalle : Le Déni Politique pour une Réalité qui Frappe ?
+> 17 Mars 2025
+> [youtube](https://www.youtube.com/watch?v=4VeVU5tG_pg)
+
+François Ecalle
+- De la démocratie en Amérique - Alexis de Tocqueville
+- L'Ancien Régime et la Révolution - Alexis de Tocqueville
+
+### Charles de Courson : Macron cauchemarde, la France résiste ?
+> 13 Mars 2025
+> [youtube](https://www.youtube.com/watch?v=hRa2qFpuUwQ)
+
+Charles de Courson
+- De la démocratie en Amérique - Alexis de Tocqueville
+- L'Ancien Régime et la Révolution - Alexis de Tocqueville
+- La Comédie Humaine - Honoré de Balzac
+- Les Aventures de Tintin, Intégrale - Hergé
+
 ### La république,les affaires, que peut encore faire le journalisme ? Marc Endeweld
 > 11 Mars 2025
 > [youtube](https://www.youtube.com/watch?v=gzlHOiqeQCY)

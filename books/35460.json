@@ -1,7 +1,7 @@
 {
     "people": [
         {
-            "person": "",
+            "person": "Charles de Courson",
             "books": [
                 {
                     "title": "De la démocratie en Amérique",
@@ -14,6 +14,18 @@
                     "author": "Alexis de Tocqueville",
                     "link_amazon_book": "https://amzn.to/4iyj6Jj",
                     "image": "https://m.media-amazon.com/images/I/914q30Np2zL._SY522_.jpg"
+                },
+                {
+                    "title": "La Comédie Humaine",
+                    "author": "Honoré de Balzac",
+                    "link_amazon_book": "https://amzn.to/4ixi0gX",
+                    "image": "https://m.media-amazon.com/images/I/61YrarehT+L._SY522_.jpg"
+                },
+                {
+                    "title": "Les Aventures de Tintin, Intégrale",
+                    "author": "Hergé",
+                    "link_amazon_book": "https://amzn.to/4iqdyR4",
+                    "image": "https://m.media-amazon.com/images/I/81hjG7u4wqL._SY522_.jpg"
                 }
             ]
         }

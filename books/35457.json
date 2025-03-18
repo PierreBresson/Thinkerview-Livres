@@ -1,0 +1,39 @@
+{
+    "people": [
+        {
+            "person": "Marc Endeweld",
+            "books": [
+                {
+                    "title": "L'âge d'or de la corruption parlementaire",
+                    "author": "Jean-Yves Mollier",
+                    "link_amazon_book": "https://amzn.to/4izp5xG",
+                    "image": "https://m.media-amazon.com/images/I/81DPIrYKJgL._SY522_.jpg"
+                },
+                {
+                    "title": "Les patrons de la presse nationale",
+                    "author": "Jean Stern - Olivier Tosas-Giro",
+                    "link_amazon_book": "https://amzn.to/43D4JPw",
+                    "image": "https://m.media-amazon.com/images/I/61vJ6S4bcbL._SY522_.jpg"
+                },
+                {
+                    "title": "L'empire de la douleur",
+                    "author": "Patrick Radden Keefe",
+                    "link_amazon_book": "https://amzn.to/3R2BgXL",
+                    "image": "https://m.media-amazon.com/images/I/51NilvZYkAL._SY522_.jpg"
+                },
+                {
+                    "title": "La Tech",
+                    "author": "Olivier Alexandre",
+                    "link_amazon_book": "https://amzn.to/3Dp25m1",
+                    "image": "https://m.media-amazon.com/images/I/81kA3Kw5HxL._SY522_.jpg"
+                },
+                {
+                    "title": "L'Inconnue de Dallas",
+                    "author": "Mary Haverstick",
+                    "link_amazon_book": "https://amzn.to/3DIO9mM",
+                    "image": "https://m.media-amazon.com/images/I/81uLsSSAamL._SY522_.jpg"
+                }
+            ]
+        }
+    ]
+}
