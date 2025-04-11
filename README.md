@@ -6,6 +6,26 @@
 
 Liste des recommandations lecture/films des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+Métadonnées, l'arme invisible, Sommes nous déjà tous fichés ? Alexis Roussel
+> 25 Mars 2025
+> [youtube](https://www.youtube.com/watch?v=DNKpou9EhaQ)
+
+Alexis Roussel
+- Petite Poucette - Michel Serres
+- The Sovereign Individual - James Dale Davidson
+- Confédéralisme démocratique - Abdullah Öcalan
+
+Reprendre le pouvoir ou finir esclaves ? Nicolas Dupont-Aignan
+> 25 Mars 2025
+> [youtube](https://www.youtube.com/watch?v=y1_I2iYUzlE)
+
+Nicolas Dupont-Aignan
+- Mémoires d'Hadrien - Marguerite Yourcenar
+- Lettres à la petite fille qui vient de naître - Patrice Franceschi
+- Les Fossoyeurs de la République - Mohamed Sifaoui
+- Les Géorgiques - Claude Simon
+- Mémoires - Raymond Aron
+
 ### François Ecalle : Le Déni Politique pour une Réalité qui Frappe ?
 > 17 Mars 2025
 > [youtube](https://www.youtube.com/watch?v=4VeVU5tG_pg)

@@ -1,0 +1,39 @@
+{
+    "people": [
+        {
+            "person": "Nicolas Dupont-Aignan",
+            "books": [
+                {
+                    "title": "Mémoires d'Hadrien",
+                    "author": "Marguerite Yourcenar",
+                    "link_amazon_book": "https://amzn.to/4j3rVLi",
+                    "image": "https://m.media-amazon.com/images/I/91I11BCCyZL._SY522_.jpg"
+                },
+                {
+                    "title": "Lettres à la petite fille qui vient de naître",
+                    "author": "Patrice Franceschi",
+                    "link_amazon_book": "https://amzn.to/3XvO9xp",
+                    "image": "https://m.media-amazon.com/images/I/61vVtv0Wt-L._SY522_.jpg"
+                },
+                {
+                    "title": "Les Fossoyeurs de la République",
+                    "author": "Mohamed Sifaoui",
+                    "link_amazon_book": "https://amzn.to/3Xv7zlX",
+                    "image": "https://m.media-amazon.com/images/I/41AxTFo-dxL.jpg"
+                },
+                {
+                    "title": "Les Géorgiques",
+                    "author": "Claude Simon",
+                    "link_amazon_book": "https://amzn.to/4kZmBdT",
+                    "image": "https://m.media-amazon.com/images/I/818nLf+efBL._SY522_.jpg"
+                },
+                {
+                    "title": "Mémoires",
+                    "author": "Raymond Aron",
+                    "link_amazon_book": "https://amzn.to/3FG4qK2",
+                    "image": "https://m.media-amazon.com/images/I/61FC3-bYpSL._SY522_.jpg"
+                }
+            ]
+        }
+    ]
+}

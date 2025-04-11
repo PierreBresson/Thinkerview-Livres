@@ -1,0 +1,27 @@
+{
+    "people": [
+        {
+            "person": "Alexis Roussel",
+            "books": [
+                {
+                    "title": "Petite Poucette",
+                    "author": "Michel Serres",
+                    "link_amazon_book": "https://amzn.to/3E1VJJs",
+                    "image": "https://m.media-amazon.com/images/I/6147TteHnhL._SY522_.jpg"
+                },
+                {
+                    "title": "The Sovereign Individual",
+                    "author": "James Dale Davidson",
+                    "link_amazon_book": "https://amzn.to/3RtCSKp",
+                    "image": "https://m.media-amazon.com/images/I/811BLWk2tcL._SY522_.jpg"
+                },
+                {
+                    "title": "Confédéralisme démocratique",
+                    "author": "Abdullah Öcalan",
+                    "link_amazon_book": "https://fr.anarchistlibraries.net/library/abdullah-ocalan-confederalisme-democratique",
+                    "image": "https://m.media-amazon.com/images/I/61hHZznTEUL._SY522_.jpg"
+                }
+            ]
+        }
+    ]
+}
