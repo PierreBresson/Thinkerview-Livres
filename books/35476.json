@@ -1,0 +1,27 @@
+{
+    "people": [
+        {
+            "person": "Alexandre Jardin",
+            "books": [
+                {
+                    "title": "Les Découvreurs",
+                    "author": "Daniel Boorstin",
+                    "link_amazon_book": "https://amzn.to/4cw6GQh",
+                    "image": "https://m.media-amazon.com/images/I/616JUU1KWjL._SY522_.jpg"
+                },
+                {
+                    "title": "Un thérapeute hors du commun:",
+                    "author": "Jay Haley",
+                    "link_amazon_book": "https://amzn.to/42wlqtQ",
+                    "image": "https://m.media-amazon.com/images/I/71Xz+lGkI6L._SY522_.jpg"
+                },
+                {
+                    "title": "Frédéric de Hohenstaufen",
+                    "author": "Jacques Benoist-Méchin",
+                    "link_amazon_book": "https://amzn.to/3Yw7nDj",
+                    "image": "https://m.media-amazon.com/images/I/71WySMBZXAL._SY522_.jpg"
+                }
+            ]
+        }
+    ]
+}

@@ -6,6 +6,24 @@
 
 Liste des recommandations lecture/films des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+La mort est dans le pré : Les dessous de l'élevage selon Ulysse Thevenon? 
+> 11 Avril 2025
+> [youtube](https://www.youtube.com/watch?v=5zlUi58u3ek)
+
+Ulysse Thevenon
+- Plutôt nourrir - Noémie Calais et Clément Osé
+- La Horde du Contrevent - Alain Damasio
+- Il n'y a plus personne - Noemie Alazard
+
+Prémices d'une insurrection : Les ZFE, étincelle d'un chaos social ? Alexandre Jardin
+> 3 Avril 2025
+> [youtube](https://www.youtube.com/watch?v=fuoooFw-nz0)
+
+Alexandre Jardin
+- Les Découvreurs - Daniel Boorstin
+- Un thérapeute hors du commun - Jay Haley
+- Frédéric de Hohenstaufen - Jacques Benoist-Méchin
+
 Métadonnées, l'arme invisible, Sommes nous déjà tous fichés ? Alexis Roussel
 > 25 Mars 2025
 > [youtube](https://www.youtube.com/watch?v=DNKpou9EhaQ)

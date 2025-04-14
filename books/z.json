@@ -1,0 +1,27 @@
+{
+    "people": [
+        {
+            "person": "Ulysse Thevenon",
+            "books": [
+                {
+                    "title": "Plutôt nourrir",
+                    "author": "Noémie Calais et Clément Osé",
+                    "link_amazon_book": "https://amzn.to/3Rjunl8",
+                    "image": "https://m.media-amazon.com/images/I/61EUuxB1N+L._SY522_.jpg"
+                },
+                {
+                    "title": "La Horde du Contrevent",
+                    "author": "Alain Damasio",
+                    "link_amazon_book": "https://amzn.to/3VS0IC3",
+                    "image": "https://m.media-amazon.com/images/I/81xxBCSH9eL._SY522_.jpg"
+                },
+                {
+                    "title": "Il n'y a plus personne",
+                    "author": "Noemie Alazard",
+                    "link_amazon_book": "https://encre.me/shop/item/356-Roman",
+                    "image": "https://app.encre.me/images/public/467139/big.webp"
+                }
+            ]
+        }
+    ]
+}
