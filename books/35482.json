@@ -1,0 +1,33 @@
+{
+    "people": [
+        {
+            "person": "Shane Parrish",
+            "books": [
+                {
+                    "title": "Penser avec clarté",
+                    "author": "Shane Parrish",
+                    "link_amazon_book": "https://amzn.to/4iCS0jL",
+                    "image": "https://f.media-amazon.com/images/I/61nxeKWgHkL._SY466_.jpg"
+                },
+                {
+                    "title": "Poor Charlie's Almanack",
+                    "author": "Charles T. Munger",
+                    "link_amazon_book": "https://amzn.to/42ACrV4",
+                    "image": "https://f.media-amazon.com/images/I/41zbjBwHgIL.jpg"
+                },
+                {
+                    "title": "Seeking wisdom",
+                    "author": "Peter Bevelin",
+                    "link_amazon_book": "https://amzn.to/4jQU6xA",
+                    "image": "https://f.media-amazon.com/images/I/61qbFGP2sFL._SY522_.jpg"
+                },
+                {
+                    "title": "Méditations",
+                    "author": "Marc Aurèle",
+                    "link_amazon_book": "https://amzn.to/3GBLTPC",
+                    "image": "https://f.media-amazon.com/images/I/71oDbjYpoGL._SY466_.jpg"
+                }
+            ]
+        }
+    ]
+}

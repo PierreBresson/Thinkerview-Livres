@@ -1,0 +1,27 @@
+{
+    "people": [
+        {
+            "person": "Caroline Galactéros",
+            "books": [
+                {
+                    "title": "Le grand échiquier",
+                    "author": "Zbigniew Brzezinski",
+                    "link_amazon_book": "https://amzn.to/42Ui57Z",
+                    "image": "https://f.media-amazon.com/images/I/51L+dfOnZ2L._SY522_.jpg"
+                },
+                {
+                    "title": "La Guerre hors limites",
+                    "author": "Qiao Liang, Wang Xiangsui, Quian Liang",
+                    "link_amazon_book": "https://amzn.to/4cTuhuq",
+                    "image": "https://f.media-amazon.com/images/I/81+pA9NNNNL._SY466_.jpg"
+                },
+                {
+                    "title": "Le mage du Kremlin",
+                    "author": "Giuliano da Empoli",
+                    "link_amazon_book": "https://amzn.to/3GBMroE",
+                    "image": "https://f.media-amazon.com/images/I/718idCs5tkL._SY522_.jpg"
+                }
+            ]
+        }
+    ]
+}

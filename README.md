@@ -6,6 +6,25 @@
 
 Liste des recommandations lecture/films des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+Comprendre le Gourou des Gourous de Wall Street ? Shane Parrish
+> 25 Avril 2025
+> [youtube](https://www.youtube.com/watch?v=-Me6_LYcKG0)
+
+Shane Parrish
+- Penser avec clarté - Shane Parrish
+- Poor Charlie's Almanack - Charles T. Munger
+- Seeking wisdom - Peter Bevelin
+- Méditations - Marc Aurèle
+
+Géopolitique, Guerres, Propagandes et PsyOps ? Caroline Galactéros
+> 15 Avril 2025
+> [youtube](https://www.youtube.com/watch?v=JI4AfaYq4fM)
+
+Caroline Galactéros
+- Le grand échiquier - Zbigniew Brzezinski
+- La Guerre hors limites - Qiao Liang, Wang Xiangsui, Quian Liang
+- Le mage du Kremlin - Giuliano da Empoli
+
 La mort est dans le pré : Les dessous de l'élevage selon Ulysse Thevenon? 
 > 11 Avril 2025
 > [youtube](https://www.youtube.com/watch?v=5zlUi58u3ek)
