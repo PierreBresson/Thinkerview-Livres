@@ -1,0 +1,39 @@
+{
+    "people": [
+        {
+            "person": "David Baverez",
+            "books": [
+                {
+                    "title": "De la Chine",
+                    "author": "Henry Kissinger",
+                    "link_amazon_book": "https://amzn.to/44CxHje",
+                    "image": "https://m.media-amazon.com/images/I/61cGrMzJYFL._SY522_.jpg"
+                },
+                {
+                    "title": "Dragon tactics",
+                    "author": "Sandrine Zerbib",
+                    "link_amazon_book": "https://amzn.to/3F3pp9I",
+                    "image": "https://m.media-amazon.com/images/I/61VlmbMaVTL._SY522_.jpg"
+                },
+                {
+                    "title": "La roulette chinoise",
+                    "author": "Desmond Shum",
+                    "link_amazon_book": "https://amzn.to/4kjGVFF",
+                    "image": "https://m.media-amazon.com/images/I/51MnfC7FwlL._SY522_.jpg"
+                },
+                {
+                    "title": "La connaissance inutile",
+                    "author": "Jean-François Revel",
+                    "link_amazon_book": "https://amzn.to/4mfTeEJ",
+                    "image": "https://m.media-amazon.com/images/I/61pBpSVM+qL._SY522_.jpg"
+                },
+                {
+                    "title": "Homo Cretinus",
+                    "author": "Olivier Postel-Vinay",
+                    "link_amazon_book": "https://amzn.to/43kTdXz",
+                    "image": "https://m.media-amazon.com/images/I/51XYpDlPvdL._SY522_.jpg"
+                }
+            ]
+        }
+    ]
+}

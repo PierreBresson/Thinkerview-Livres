@@ -6,6 +6,17 @@
 
 Liste des recommandations lecture/films des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+Guerre économique : l'Europe, charogne rongée à l'os ? David Baverez
+> 1 Mai 2025
+> [youtube](https://www.youtube.com/watch?v=8modwd3AP5s)
+
+David Baverez
+- De la Chine - Henry Kissinger
+- Dragon tactics - Sandrine Zerbib
+- La roulette chinoise - Desmond Shum
+- La connaissance inutile - Jean-François Revel
+- Homo Cretinus - Olivier Postel-Vinay
+
 Comprendre le Gourou des Gourous de Wall Street ? Shane Parrish
 > 25 Avril 2025
 > [youtube](https://www.youtube.com/watch?v=-Me6_LYcKG0)
