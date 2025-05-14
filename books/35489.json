@@ -1,0 +1,27 @@
+{
+    "people": [
+        {
+            "person": "Thomas D'Ansembourg",
+            "books": [
+                {
+                    "title": "Le chemin le moins fréquenté",
+                    "author": "Scott Peck",
+                    "link_amazon_book": "https://amzn.to/4j8yX13",
+                    "image": "https://m.media-amazon.com/images/I/61FFYZm-n+L._SY522_.jpg"
+                },
+                {
+                    "title": "Père manquant fils manqué",
+                    "author": "Guy Corneau",
+                    "link_amazon_book": "https://amzn.to/3YMwFNT",
+                    "image": "https://m.media-amazon.com/images/I/51llw18AnmL._SY522_.jpg"
+                },
+                {
+                    "title": "Le pouvoir du moment présent",
+                    "author": "Eckhart Tolle",
+                    "link_amazon_book": "https://amzn.to/44FBIn6",
+                    "image": "https://m.media-amazon.com/images/I/61rlFBxkt1L._SY522_.jpg"
+                }
+            ]
+        }
+    ]
+}

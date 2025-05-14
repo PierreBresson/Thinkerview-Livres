@@ -17,6 +17,15 @@ David Baverez
 - La connaissance inutile - Jean-François Revel
 - Homo Cretinus - Olivier Postel-Vinay
 
+Société et relations, et si on communiquait sans violence? Thomas D'Ansembourg 
+> 29 Avril 2025
+> [youtube](https://www.youtube.com/watch?v=0e47GkSwvIQ)
+
+Thomas D'Ansembourg
+- Le chemin le moins fréquenté - Scott Peck
+- Père manquant fils manqué - Guy Corneau
+- Le pouvoir du moment présent - Eckhart Tolle
+
 Comprendre le Gourou des Gourous de Wall Street ? Shane Parrish
 > 25 Avril 2025
 > [youtube](https://www.youtube.com/watch?v=-Me6_LYcKG0)
