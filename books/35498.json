@@ -1,0 +1,27 @@
+{
+    "people": [
+        {
+            "person": "Juan Branco",
+            "books": [
+                {
+                    "title": "Les Misérables",
+                    "author": "Victor Hugo",
+                    "link_amazon_book": "https://amzn.to/47F4dPv",
+                    "image": "https://m.media-amazon.com/images/I/71lxLN4vorL._SY522_.jpg"
+                },
+                {
+                    "title": "Les enfants Tanner",
+                    "author": "Robert Walser",
+                    "link_amazon_book": "https://amzn.to/3YTAAsa",
+                    "image": "https://m.media-amazon.com/images/I/81P1Md4V4-L._SY522_.jpg"
+                },
+                {
+                    "title": "Or noir",
+                    "author": "Matthieu Auzanneau",
+                    "link_amazon_book": "https://amzn.to/437Vnec",
+                    "image": "https://m.media-amazon.com/images/I/615bLwHhiZL._SY522_.jpg"
+                }
+            ]
+        }
+    ]
+}

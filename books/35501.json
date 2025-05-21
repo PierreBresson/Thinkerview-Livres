@@ -1,0 +1,21 @@
+{
+    "people": [
+        {
+            "person": "Sarah Knafo",
+            "books": [
+                {
+                    "title": "Belle du Seigneur",
+                    "author": "Albert Cohen",
+                    "link_amazon_book": "https://amzn.to/3GYO5AT",
+                    "image": "https://m.media-amazon.com/images/I/819SN3gLLPL._SY522_.jpg"
+                },
+                {
+                    "title": "Avril brisé",
+                    "author": "Ismaïl Kadaré",
+                    "link_amazon_book": "https://amzn.to/4drsSeI",
+                    "image": "https://m.media-amazon.com/images/I/81VKhw6K8tL._SY522_.jpg"
+                }
+            ]
+        }
+    ]
+}

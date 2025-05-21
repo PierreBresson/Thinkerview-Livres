@@ -6,6 +6,38 @@
 
 Liste des recommandations lecture/films des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+Sarah Knafo sans filtre : où va la France ?
+> 16 Mai 2025
+> [youtube](https://www.youtube.com/watch?v=2A82fN8ZeUs)
+
+Sarah Knafo
+- Belle du Seigneur - Albert Cohen
+- Avril brisé - Ismaïl Kadaré
+
+Juan Branco sans filtre ? Avant les présidentielles.
+> 12 Mai 2025
+> [youtube](https://www.youtube.com/watch?v=OJORL8TtRoc)
+
+Juan Branco
+- Les Misérables - Victor Hugo
+- Les enfants Tanner - Robert Walser
+- Or noir - Matthieu Auzanneau
+
+Urgences énergétiques, la réalité sans filtre ? P. Charlez, F. Perrin et N. Meilhan
+> 12 Mai 2025
+> [youtube](https://www.youtube.com/watch?v=JiL-IEDFd6Y)
+
+Philippe Charlez
+- Les illusionnistes - Géraldine Woessner & Erwan Seznec
+- Rien n'est joué - Jacques Lecomte
+- De Gaïa à l'IA - Jean-Paul Oury
+- Les dix commandements de la transition énergétique - Philippe Charlez
+
+Nicolas Meilhan
+- L'Âge des low tech - Philippe Bihouix
+- Les autres ne pensent pas comme nous - Maurice Gourdault-Montagne
+- Bienvenue en économie de guerre - David Baverez
+
 Guerre économique : l'Europe, charogne rongée à l'os ? David Baverez
 > 1 Mai 2025
 > [youtube](https://www.youtube.com/watch?v=8modwd3AP5s)

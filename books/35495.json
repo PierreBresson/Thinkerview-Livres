@@ -1,0 +1,56 @@
+{
+    "people": [
+        {
+            "person": "Philippe Charlez",
+            "books": [
+                {
+                    "title": "Les illusionnistes",
+                    "author": "Géraldine Woessner & Erwan Seznec",
+                    "link_amazon_book": "https://amzn.to/4jeKJXN",
+                    "image": "https://m.media-amazon.com/images/I/51VC+x6QFAL._SY522_.jpg"
+                },
+                {
+                    "title": "Rien n'est joué",
+                    "author": "Jacques Lecomte",
+                    "link_amazon_book": "https://amzn.to/437VFSk",
+                    "image": "https://m.media-amazon.com/images/I/51TmakOvL6L._SY522_.jpg"
+                },
+                {
+                    "title": "De Gaïa à l'IA",
+                    "author": "Jean-Paul Oury",
+                    "link_amazon_book": "https://amzn.to/4mpvjCL",
+                    "image": "https://m.media-amazon.com/images/I/61VKKlfE4-L._SY522_.jpg"
+                },
+                {
+                    "title": "Les dix commandements de la transition énergétique",
+                    "author": "Philippe Charlez",
+                    "link_amazon_book": "https://amzn.to/45imdl4",
+                    "image": "https://m.media-amazon.com/images/I/71pRGd1UayL._SY522_.jpg"
+                }
+            ]
+        },
+        {
+            "person": "Nicolas Meilhan",
+            "books": [
+                {
+                    "title": "L'Âge des low tech",
+                    "author": "Philippe Bihouix",
+                    "link_amazon_book": "https://amzn.to/3vsjsxK",
+                    "image": "https://m.media-amazon.com/images/I/81rb-8EHM8L._SY522_.jpg"
+                },
+                {
+                    "title": "Les autres ne pensent pas comme nous",
+                    "author": "Maurice Gourdault-Montagne",
+                    "link_amazon_book": "https://amzn.to/3YX2DHb",
+                    "image": "https://m.media-amazon.com/images/I/61vpWjdwwpL._SY522_.jpg"
+                },
+                {
+                    "title": "Bienvenue en économie de guerre",
+                    "author": "David Baverez",
+                    "link_amazon_book": "https://amzn.to/4dwwtbE",
+                    "image": "https://m.media-amazon.com/images/I/614Ik0XJMVL._SY522_.jpg"
+                }
+            ]
+        }
+    ]
+}
