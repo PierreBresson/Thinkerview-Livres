@@ -6,6 +6,42 @@
 
 Liste des recommandations lecture/films des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+Doit-on avoir peur de la Chine ? André Chieng
+> 27 Mai 2025
+> [youtube](https://www.youtube.com/watch?v=3CtQSvy5558)
+
+André Chieng
+- Figures de l'immanence - François Jullien
+- De la Chine - Henry Kissinger
+- L'Ancien Régime et la Révolution - Alexis de Tocqueville
+
+Énergie, face cachée de la monnaie ? Sébastien Gouspillou et Pierre Noizat
+> 27 Mai 2025
+> [youtube](https://www.youtube.com/watch?v=yBJS9ry3nmc)
+
+Sébastien Gouspillou
+- Ancien et Nouveau Testament - La Bible
+- L’énergie, face cachée de la monnaie - Pierre Noizat
+- Zadig - Voltaire
+
+Pierre Noizat
+- Le livre de la Voie et de la Vertu - Tao-Te-King
+- L'athéisme expliqué - Paul Desalmand
+- L'Internet de l'argent - Andreas M. Antonopoulos
+
+Électricité : Les prix vont-ils exploser ? André Merlin et Vincent Delahaye
+> 20 Mai 2025
+> [youtube](https://www.youtube.com/watch?v=4cECbyta92Y)
+
+André Merlin
+- Vingt mille lieues sous les mers - Jules Verne
+- Michel Strogoff - Jules Verne
+
+Vincent Delahaye
+- Mémoires - Raymond Aron
+- Le Premier Homme - Albert Camus
+- L'Archipel français - Jérôme Fourquet
+
 Sarah Knafo sans filtre : où va la France ?
 > 16 Mai 2025
 > [youtube](https://www.youtube.com/watch?v=2A82fN8ZeUs)

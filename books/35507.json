@@ -1,0 +1,50 @@
+{
+    "people": [
+        {
+            "person": "Sébastien Gouspillou",
+            "books": [
+                {
+                    "title": "Ancien et Nouveau Testament",
+                    "author": "La Bible",
+                    "link_amazon_book": "https://amzn.to/4jK9ACU",
+                    "image": "https://m.media-amazon.com/images/W/MEDIAX_1215821-T1/images/I/51UlqlxiLrL._SY522_.jpg"
+                },
+                {
+                    "title": "L’énergie, face cachée de la monnaie",
+                    "author": "Pierre Noizat",
+                    "link_amazon_book": "https://amzn.to/48dwj68",
+                    "image": "https://m.media-amazon.com/images/I/71XsoVMEw8L._SY522_.jpg"
+                },
+                {
+                    "title": "Zadig",
+                    "author": "Voltaire",
+                    "link_amazon_book": "https://amzn.to/4kC7AOk",
+                    "image": "https://m.media-amazon.com/images/W/MEDIAX_1215821-T1/images/I/71-B+1Dx-gL._SY522_.jpg"
+                }
+            ]
+        },
+        {
+            "person": "Pierre Noizat",
+            "books": [
+                {
+                    "title": "Le livre de la Voie et de la Vertu",
+                    "author": "Tao-Te-King",
+                    "link_amazon_book": "https://amzn.to/45eGYOL",
+                    "image": "https://m.media-amazon.com/images/W/MEDIAX_1215821-T1/images/I/71oyjlMLcVL._SY522_.jpg"
+                },
+                {
+                    "title": "L'athéisme expliqué",
+                    "author": "Paul Desalmand",
+                    "link_amazon_book": "https://amzn.to/4kyVwNL",
+                    "image": "https://m.media-amazon.com/images/W/MEDIAX_1215821-T1/images/I/51eh8m5cO-L._SY522_.jpg"
+                },
+                {
+                    "title": "L'Internet de l'argent",
+                    "author": "Andreas M. Antonopoulos",
+                    "link_amazon_book": "https://amzn.to/440xu7r",
+                    "image": "https://amzn.to/4jEeLUV"
+                }
+            ]
+        }
+    ]
+}
