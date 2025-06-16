@@ -1,0 +1,21 @@
+{
+    "people": [
+        {
+            "person": "Renaud Piarroux",
+            "books": [
+                {
+                    "title": "La Guerre des Mondes",
+                    "author": "H. G. Wells",
+                    "link_amazon_book": "https://amzn.to/403YMsk",
+                    "image": "https://m.media-amazon.com/images/I/71QbicG4VcL._SY522_.jpg"
+                },
+                {
+                    "title": "1493",
+                    "author": "Charles C. Mann",
+                    "link_amazon_book": "https://amzn.to/4kIDNDR",
+                    "image": "https://m.media-amazon.com/images/I/81dIC+F7SdL._SY522_.jpg"
+                }
+            ]
+        }
+    ]
+}

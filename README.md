@@ -6,6 +6,14 @@
 
 Liste des recommandations lecture/films des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+Géopolitique des épidémies. Renaud Piarroux
+> 12 Juin 2025
+> [youtube](https://www.youtube.com/watch?v=eRA5EdgvTQg)
+
+Renaud Piarroux
+- La Guerre des Mondes - H. G. Wells
+- 1493 - Charles C. Mann
+
 Doit-on avoir peur de la Chine ? André Chieng
 > 27 Mai 2025
 > [youtube](https://www.youtube.com/watch?v=3CtQSvy5558)
