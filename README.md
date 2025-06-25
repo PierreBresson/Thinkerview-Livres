@@ -6,8 +6,37 @@
 
 Liste des recommandations lecture/films des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+Iran nucléaire: Entre souveraineté, escalade et chaos mondial ? Mohammad Amin Nejad
+> 11 juin 2025
+> [youtube](https://www.youtube.com/watch?v=OZvBpZdrmaA)
+
+Mohammad Amin Nejad
+- Oeuvre intégrale - Fereshteh Molavi
+
+Diplomatie en déclin : Le diagnostic d'un d'ambassadeur ? Maurice Gourdault-Montagne
+> 11 juin 2025
+> [youtube](https://www.youtube.com/watch?v=L7GIS6Ol5-I)
+
+Maurice Gourdault-Montagne
+- De Staline à Hitler - Robert Coulondre
+- Mémoires du Prince de Ligne - Prince de Ligne
+- Le Monde d'hier - Stefan Zweig
+
+David Lisnard sans filtre : Où va la France ?
+> 10 juin 2025
+> [youtube](https://www.youtube.com/watch?v=0yIVUAptUAg)
+
+David Lisnard
+- Les Fleurs du Mal - Charles Baudelaire
+- 1984 - George Orwell
+- Oeuvre intégrale - René Goscinny
+- Arsène Lupin - Maurice Leblanc
+- Oeuvre intégrale - Léon Tolstoï
+- Oeuvre intégrale - Milan Kundera
+- San-Antonio - Frédéric Dard
+
 Géopolitique des épidémies. Renaud Piarroux
-> 12 Juin 2025
+> 5 Juin 2025
 > [youtube](https://www.youtube.com/watch?v=eRA5EdgvTQg)
 
 Renaud Piarroux

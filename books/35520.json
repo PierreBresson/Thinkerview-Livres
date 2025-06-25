@@ -1,0 +1,27 @@
+{
+    "people": [
+        {
+            "person": "Maurice Gourdault-Montagne",
+            "books": [
+                {
+                    "title": "De Staline à Hitler",
+                    "author": "Robert Coulondre",
+                    "link_amazon_book": "https://amzn.to/3HY8hDc",
+                    "image": "https://m.media-amazon.com/images/I/61sV-2R+DJL._SY522_.jpg"
+                },
+                {
+                    "title": "Mémoires du Prince de Ligne",
+                    "author": "Prince de Ligne",
+                    "link_amazon_book": "https://amzn.to/44bYctW",
+                    "image": "https://m.media-amazon.com/images/I/91DSuSrm+IL._SY522_.jpg"
+                },
+                {
+                    "title": "Le Monde d'hier",
+                    "author": "Stefan Zweig",
+                    "link_amazon_book": "https://amzn.to/4k8qLys",
+                    "image": "https://m.media-amazon.com/images/I/91R+EOfbsOL._SY522_.jpg"
+                }
+            ]
+        }
+    ]
+}

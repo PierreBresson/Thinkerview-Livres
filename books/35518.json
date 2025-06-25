@@ -1,0 +1,51 @@
+{
+    "people": [
+        {
+            "person": "David Lisnard",
+            "books": [
+                {
+                    "title": "Les Fleurs du Mal",
+                    "author": "Charles Baudelaire",
+                    "link_amazon_book": "https://amzn.to/4aWThPZ",
+                    "image": "https://m.media-amazon.com/images/I/61TsWlL-vBL._SY522_.jpg"
+                },
+                {
+                    "title": "1984",
+                    "author": "George Orwell",
+                    "link_amazon_book": "https://amzn.to/3HeBWV7",
+                    "image": "https://m.media-amazon.com/images/I/71Y9X7FYkcL._SY522_.jpg"
+                },
+                {
+                    "title": "Oeuvre intégrale",
+                    "author": "René Goscinny",
+                    "link_amazon_book": "https://amzn.to/4kVC65U",
+                    "image": "https://m.media-amazon.com/images/I/81Dirt03cbL._SY522_.jpg"
+                },
+                {
+                    "title": "Arsène Lupin",
+                    "author": "Maurice Leblanc",
+                    "link_amazon_book": "https://amzn.to/4kcqP06",
+                    "image": "https://m.media-amazon.com/images/I/61WXfdMXHmL._SY522_.jpg"
+                },
+                {
+                    "title": "Oeuvre intégrale",
+                    "author": "Léon Tolstoï",
+                    "link_amazon_book": "https://amzn.to/3G63gYQ",
+                    "image": "https://m.media-amazon.com/images/I/81QSZ9whwAL._SY522_.jpg"
+                },
+                {
+                    "title": "Oeuvre intégrale",
+                    "author": "Milan Kundera",
+                    "link_amazon_book": "https://amzn.to/4ni5cOH",
+                    "image": "https://m.media-amazon.com/images/I/71i4Cs25EoL._SY522_.jpg"
+                },
+                {
+                    "title": "San-Antonio",
+                    "author": "Frédéric Dard",
+                    "link_amazon_book": "https://amzn.to/3ZLb3C6",
+                    "image": "https://m.media-amazon.com/images/I/617fHD6fT9L._SY522_.jpg"
+                }
+            ]
+        }
+    ]
+}

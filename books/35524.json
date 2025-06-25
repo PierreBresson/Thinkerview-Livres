@@ -1,0 +1,15 @@
+{
+    "people": [
+        {
+            "person": "Mohammad Amin Nejad",
+            "books": [
+                {
+                    "title": "Oeuvre intégrale",
+                    "author": "Fereshteh Molavi",
+                    "link_amazon_book": "https://amzn.to/3TtLwd7",
+                    "image": "https://m.media-amazon.com/images/I/41VClTstd9L.jpg"
+                }
+            ]
+        }
+    ]
+}
