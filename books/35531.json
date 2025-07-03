@@ -1,0 +1,27 @@
+{
+    "people": [
+        {
+            "person": "Jérôme Clech",
+            "books": [
+                {
+                    "title": "Vers un monde univoque",
+                    "author": "Thomas Bauer",
+                    "link_amazon_book": "https://amzn.to/4kiTHDS",
+                    "image": "https://m.media-amazon.com/images/I/813f4IWGvLL._SY522_.jpg"
+                },
+                {
+                    "title": "La Cité aux murs incertains",
+                    "author": "Haruki Murakami",
+                    "link_amazon_book": "https://amzn.to/44d4TgB",
+                    "image": "https://m.media-amazon.com/images/I/715CoWI9N3L._SY522_.jpg"
+                },
+                {
+                    "title": "Yanaï",
+                    "author": "Jérome Clech",
+                    "link_amazon_book": "https://amzn.to/3Icqc9j",
+                    "image": "https://m.media-amazon.com/images/I/51ruKLlMOwL._SY522_.jpg"
+                }
+            ]
+        }
+    ]
+}

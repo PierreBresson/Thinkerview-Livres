@@ -6,6 +6,33 @@
 
 Liste des recommandations lecture/films des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+Juan Branco : Empoisonnement ?
+> 30 juin 2025
+> [youtube](https://www.youtube.com/watch?v=wMCaq5I4PJ0)
+
+Juan Branco
+- L'Art d'avoir toujours raison - Arthur Schopenhauer
+- Oeuvre intégrale - Rainer Maria Rilke
+- Oeuvre intégrale - Jean Racine
+
+Explosez l’Incertitude, Comment Penser l'Avenir en Profondeur ? Jérôme Clech
+> 24 juin 2025
+> [youtube](https://www.youtube.com/watch?v=0Nc9VHlw_Sg)
+
+Jérôme Clech
+- Vers un monde univoque - Thomas Bauer
+- La Cité aux murs incertains - Haruki Murakami
+- Yanaï - Jérome Clech
+
+L'Homme a besoin de passion pour exister. Marie Tabarly
+> 17 juin 2025
+> [youtube](https://www.youtube.com/watch?v=AAI7N7ipb6Q)
+
+Marie Tabarly
+- L'Odyssée de l'Endurance - Ernest Henry Shackleton
+- Ocean's songs - Olivier de Kersauson
+- Cavalcade océane - Marie Tabarly
+
 Iran nucléaire: Entre souveraineté, escalade et chaos mondial ? Mohammad Amin Nejad
 > 11 juin 2025
 > [youtube](https://www.youtube.com/watch?v=OZvBpZdrmaA)

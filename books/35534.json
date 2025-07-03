@@ -1,0 +1,33 @@
+{
+    "people": [
+        {
+            "person": "Juan Branco",
+            "books": [
+                {
+                    "title": "L'Art d'avoir toujours raison",
+                    "author": "Arthur Schopenhauer",
+                    "link_amazon_book": "https://amzn.to/3SqQyXO",
+                    "image": "https://m.media-amazon.com/images/I/412GnrE7s+L._SY466_.jpg"
+                },
+                {
+                    "title": "Le monde comme volonté et représentation",
+                    "author": "Arthur Schopenhauer",
+                    "link_amazon_book": "https://amzn.to/3I4B49t",
+                    "image": "https://m.media-amazon.com/images/I/91LJ9NjEOTL._SY522_.jpg"
+                },
+                {
+                    "title": "Oeuvre intégrale",
+                    "author": "Rainer Maria Rilke",
+                    "link_amazon_book": "https://amzn.to/4nxC3z6",
+                    "image": "https://m.media-amazon.com/images/I/71NNewF5AIL._SY522_.jpg"
+                },
+                {
+                    "title": "Oeuvre intégrale",
+                    "author": "Jean Racine",
+                    "link_amazon_book": "https://amzn.to/4lcl7wD",
+                    "image": "https://m.media-amazon.com/images/I/81cn6SOOq8L._SY522_.jpg"
+                }
+            ]
+        }
+    ]
+}

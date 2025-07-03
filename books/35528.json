@@ -1,0 +1,27 @@
+{
+    "people": [
+        {
+            "person": "Marie Tabarly",
+            "books": [
+                {
+                    "title": "L'Odyssée de l'Endurance",
+                    "author": "Ernest Henry Shackleton",
+                    "link_amazon_book": "https://amzn.to/4nxfRVM",
+                    "image": "https://m.media-amazon.com/images/I/816W5TOnHML._SY522_.jpg"
+                },
+                {
+                    "title": "Ocean's songs",
+                    "author": "Olivier de Kersauson",
+                    "link_amazon_book": "https://amzn.to/44loVnK",
+                    "image": "https://m.media-amazon.com/images/I/61oZGC2SSPL._SY522_.jpg"
+                },
+                {
+                    "title": "Cavalcade océane",
+                    "author": "Marie Tabarly",
+                    "link_amazon_book": "https://amzn.to/44zj9iB",
+                    "image": "https://m.media-amazon.com/images/I/71NjUfnPG9L._SY522_.jpg"
+                }
+            ]
+        }
+    ]
+}
