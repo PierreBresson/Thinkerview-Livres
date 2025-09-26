@@ -1,6 +1,6 @@
 # Thinkerview
 
-[Site officiel](https://www.thinkerview.com/) - chaines [Youtube](https://www.youtube.com/thinkerview), [Peertube](https://thinkerview.video/) et [CaptainFact](https://captainfact.io/s/Thinkerview)
+[Site Thinkerview](https://www.thinkerview.com/) - chaines [Youtube](https://www.youtube.com/thinkerview), [Peertube](https://thinkerview.video/) et [CaptainFact](https://captainfact.io/s/Thinkerview)
 
 ## Recommandations de lecture des invités
 
