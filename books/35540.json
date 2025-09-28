@@ -1,0 +1,21 @@
+{
+    "people": [
+        {
+            "person": "Marc Touati",
+            "books": [
+                {
+                    "title": "Ancien et Nouveau Testament",
+                    "author": "La Bible",
+                    "link_amazon_book": "https://amzn.to/4jK9ACU",
+                    "image": "https://m.media-amazon.com/images/I/51UlqlxiLrL._SY522_.jpg"
+                },
+                {
+                    "title": "Théorie générale",
+                    "author": "John Maynard Keynes",
+                    "link_amazon_book": "https://amzn.to/48Fe0sX",
+                    "image": "https://m.media-amazon.com/images/I/51R9pGOtMfL._SY522_.jpg"
+                }
+            ]
+        }
+    ]
+}

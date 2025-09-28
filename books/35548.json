@@ -1,0 +1,44 @@
+{
+    "people": [
+        {
+            "person": "Henri Proglio",
+            "books": [
+                {
+                    "title": "Oeuvre intégrale",
+                    "author": "Howard Philips LOVECRAFT",
+                    "link_amazon_book": "https://amzn.to/46WtabY",
+                    "image": "https://m.media-amazon.com/images/I/919zYfL6yXL._SY522_.jpg"
+                },
+                {
+                    "title": "Oeuvre intégrale",
+                    "author": "Isaac Asimov",
+                    "link_amazon_book": "https://amzn.to/3KmVviV",
+                    "image": "https://m.media-amazon.com/images/I/61q+GBfu9kL._SY522_.jpg"
+                }
+            ]
+        },
+        {
+            "person": "Bernard Accoyer",
+            "books": [
+                {
+                    "title": "À l'assaut du réel",
+                    "author": "Gérald Bronner",
+                    "link_amazon_book": "https://amzn.to/3Iy3CJ0",
+                    "image": "https://m.media-amazon.com/images/I/610c04gSx1L._SY522_.jpg"
+                },
+                {
+                    "title": "L'étranger",
+                    "author": "Albert Camus",
+                    "link_amazon_book": "https://amzn.to/3IzB2qI",
+                    "image": "https://m.media-amazon.com/images/I/8130inT26AL._SY522_.jpg"
+                },
+                {
+                    "title": "1984",
+                    "author": "George Orwell",
+                    "link_amazon_book": "https://amzn.to/48DM4Wl",
+                    "image": "https://m.media-amazon.com/images/I/81ubGDY08IS._SY522_.jpg"
+                }
+            ]
+        }
+    ]
+}
