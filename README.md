@@ -6,6 +6,56 @@
 
 Liste des recommandations lecture/films des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+Hacking, vie privée et Europe ? Bluetouff, Fabrice Epelboin et Brice Augras-ZaX
+> 17 Septembre 2025
+> [youtube](https://www.youtube.com/watch?v=ZL-XxW8VTx8)
+
+Bluetouff
+- Le Prince - Nicolas Machiavel
+- Le rêve d'un homme ridicule - Fiodor Mikhaïlovitch Dostoïevski
+
+Fabrice Epelboin
+- L'homme révolté - Albert Camus
+
+Le pays va-t-il s'effondrer ? Henri Proglio et Bernard Accoyer
+> 15 Septembre 2025
+> [youtube](https://www.youtube.com/watch?v=JN2zNkcy9ZA)
+
+Henri Proglio
+- Oeuvre intégrale - Howard Philips LOVECRAFT
+- Oeuvre intégrale - Isaac Asimov
+
+Bernard Accoyer
+- À l'assaut du réel - Gérald Bronner
+- L'étranger - Albert Camus
+- 1984 - George Orwell
+
+Jean-Philippe Tanguy sans filtres ?
+> 8 Septembre 2025
+> [youtube](https://www.youtube.com/watch?v=gJLIMGRTACQ)
+
+Jean-Philippe Tanguy
+- Mémoires d'Hadrien - Marguerite Yourcenar
+- Le Prince - Nicolas Machiavel
+- Mémoires de guerre - Charles de Gaulle
+
+Une catastrophe financière biblique à l'horizon ? Marc Touati
+> 3 Septembre 2025
+> [youtube](https://www.youtube.com/watch?v=AyMUu3wrcU8)
+
+Marc Touati
+- Ancien et Nouveau Testament - La Bible
+- Théorie générale - John Maynard Keynes
+
+Rima Hassan sans filtre ?
+> 2 Septembre 2025
+> [youtube](https://www.youtube.com/watch?v=K3UBNnpvxpw)
+
+Rima Hassan
+- Un État commun - Éric Hazan & Eyal Sivan
+- Israël-Palestine, la solution : un Etat - Ghada Karmi
+- Lettre à un ami juif - Ibrahim Souss
+
 Juan Branco : Empoisonnement ?
 > 30 juin 2025
 > [youtube](https://www.youtube.com/watch?v=wMCaq5I4PJ0)

@@ -1,0 +1,27 @@
+{
+    "people": [
+        {
+            "person": "Jean-Philippe Tanguy",
+            "books": [
+                {
+                    "title": "Mémoires d'Hadrien",
+                    "author": "Marguerite Yourcenar",
+                    "link_amazon_book": "https://amzn.to/48YZ9Xw",
+                    "image": "https://m.media-amazon.com/images/I/91dWQi-QWdL._SY522_.jpg"
+                },
+                {
+                    "title": "Le Prince",
+                    "author": "Nicolas Machiavel",
+                    "link_amazon_book": "https://amzn.to/3vqLtpq",
+                    "image": "https://m.media-amazon.com/images/I/71rymI-m0mL._SY522_.jpg"
+                },
+                {
+                    "title": "Mémoires de guerre",
+                    "author": "Charles de Gaulle",
+                    "link_amazon_book": "https://amzn.to/47FiDzi",
+                    "image": "https://m.media-amazon.com/images/I/61O8m00F9QL._SY522_.jpg"
+                }
+            ]
+        }
+    ]
+}

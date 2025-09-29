@@ -1,0 +1,27 @@
+{
+    "people": [
+        {
+            "person": "Rima Hassan",
+            "books": [
+                {
+                    "title": "Un État commun",
+                    "author": "Éric Hazan & Eyal Sivan",
+                    "link_amazon_book": "https://amzn.to/3VFaHKD",
+                    "image": "https://m.media-amazon.com/images/I/61zaxn1TjZL._SY522_.jpg"
+                },
+                {
+                    "title": "Israël-Palestine, la solution : un Etat",
+                    "author": "Ghada Karmi",
+                    "link_amazon_book": "https://amzn.to/48F77I1",
+                    "image": "https://m.media-amazon.com/images/I/51X0Ic+r85L._SY522_.jpg"
+                },
+                {
+                    "title": "Lettre à un ami juif",
+                    "author": "Ibrahim Souss",
+                    "link_amazon_book": "https://amzn.to/46u1hIk",
+                    "image": "https://m.media-amazon.com/images/I/41jhOvxY0hL.jpg"
+                }
+            ]
+        }
+    ]
+}
