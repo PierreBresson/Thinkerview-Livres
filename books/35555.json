@@ -1,0 +1,27 @@
+{
+    "people": [
+        {
+            "person": "Florence Bergeaud-Blackler",
+            "books": [
+                {
+                    "title": "Les mots, la mort, les sorts",
+                    "author": "Jeanne Favret-Saada",
+                    "link_amazon_book": "https://amzn.to/47twpbl",
+                    "image": "https://m.media-amazon.com/images/I/91Hx6xjLA3L._SY522_.jpg"
+                },
+                {
+                    "title": "Tristes tropiques",
+                    "author": "Claude Lévi-Strauss",
+                    "link_amazon_book": "https://amzn.to/4hMW02d",
+                    "image": "https://m.media-amazon.com/images/I/619Bl-oGTBL._SY522_.jpg"
+                },
+                {
+                    "title": "La sociologie de Erving Goffman",
+                    "author": "Erving Goffman",
+                    "link_amazon_book": "https://amzn.to/3Lv7jjC",
+                    "image": "https://m.media-amazon.com/images/I/51pHS5lVd+L._SY522_.jpg"
+                }
+            ]
+        }
+    ]
+}

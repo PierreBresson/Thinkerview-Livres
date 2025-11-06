@@ -1,0 +1,33 @@
+{
+    "people": [
+        {
+            "person": "Olivier Dubois",
+            "books": [
+                {
+                    "title": "Prisonnier du désert",
+                    "author": "Olivier Dubois",
+                    "link_amazon_book": "https://amzn.to/4qJTHkI",
+                    "image": "https://m.media-amazon.com/images/I/61quQgVnLQL._SY522_.jpg"
+                },
+                {
+                    "title": "Le grand jeu",
+                    "author": "Hopkirk Peter",
+                    "link_amazon_book": "https://amzn.to/47NJWJP",
+                    "image": "https://m.media-amazon.com/images/I/51n4I-IlC8L._SY522_.jpg"
+                },
+                {
+                    "title": "Cher pays de notre enfance",
+                    "author": "Benoît Collombat",
+                    "link_amazon_book": "https://amzn.to/4i66z0R",
+                    "image": "https://m.media-amazon.com/images/I/91T9i3qdhdL._SY522_.jpg"
+                },
+                {
+                    "title": "Madame St-Clair, reine de Harlem",
+                    "author": "Raphaël Confiant",
+                    "link_amazon_book": "https://amzn.to/4qNbwPO",
+                    "image": "https://m.media-amazon.com/images/I/81iUKb-0qcL._SY522_.jpg"
+                }
+            ]
+        }
+    ]
+}

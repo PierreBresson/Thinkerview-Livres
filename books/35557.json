@@ -1,0 +1,39 @@
+{
+    "people": [
+        {
+            "person": "Éric Sadin",
+            "books": [
+                {
+                    "title": "Le Désert de nous-mêmes",
+                    "author": "Eric Sadin",
+                    "link_amazon_book": "https://amzn.to/43kcNUt",
+                    "image": "https://m.media-amazon.com/images/I/519yHHSmgVL._SY522_.jpg"
+                },
+                {
+                    "title": "Penser à temps",
+                    "author": "Eric Sadin",
+                    "link_amazon_book": "https://amzn.to/481kNML",
+                    "image": "https://m.media-amazon.com/images/I/81yo3H2SUSL._SY522_.jpg"
+                },
+                {
+                    "title": "La Machine gouverne",
+                    "author": "Paul Valéry",
+                    "link_amazon_book": "https://amzn.to/4nLkGJY",
+                    "image": "https://m.media-amazon.com/images/I/61MzBaGSgkL._SY522_.jpg"
+                },
+                {
+                    "title": "Pourquoi je hais l'indifférence",
+                    "author": "Antonio Gramsci",
+                    "link_amazon_book": "https://amzn.to/497wfaW",
+                    "image": "https://m.media-amazon.com/images/I/81patOs70TL._SY522_.jpg"
+                },
+                {
+                    "title": "Spinoza, philosophie pratique",
+                    "author": "Gilles Deleuze",
+                    "link_amazon_book": "https://amzn.to/4hWGG3h",
+                    "image": "https://m.media-amazon.com/images/I/61o3Q2-ALKL._SY522_.jpg"
+                }
+            ]
+        }
+    ]
+}

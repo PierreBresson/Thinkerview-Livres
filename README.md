@@ -6,6 +6,36 @@
 
 Liste des recommandations lecture/films des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+Olivier Dubois : Otage des djihadistes, face à la mort pendant 2 ans.
+> 14 octobre 2025
+> [youtube](https://www.youtube.com/watch?v=6NAyskMTw3Y)
+
+Olivier Dubois
+- Prisonnier du désert - Olivier Dubois
+- Le grand jeu - Hopkirk Peter
+- Cher pays de notre enfance - Benoît Collombat
+- Madame St-Clair, reine de Harlem – Raphaël Confiant
+
+Éric Sadin : Intelligence artificielle : l’oubli de l’humanité, choc civilisationnel ?
+> 9 octobre 2025
+> [youtube](https://www.youtube.com/watch?v=T4ofzhiEkmE)
+
+Éric Sadin
+- Le Désert de nous-mêmes - Eric Sadin
+- Penser à temps - Eric Sadin
+- La Machine gouverne – Paul Valéry
+- Pourquoi je hais l'indifférence – Antonio Gramsci
+- Spinoza, philosophie pratique – Gilles Deleuze
+
+Florence Bergeaud-Blackler : Stratégie et influence religieuse.
+> 7 octobre 2025
+> [youtube](https://www.youtube.com/watch?v=AN98CFjpGuk)
+
+Florence Bergeaud-Blackler
+- Les mots, la mort, les sorts – Jeanne Favret-Saada
+- Tristes tropiques – Claude Lévi-Strauss
+- La sociologie de Erving Goffman - Erving Goffman
+
 Hacking, vie privée et Europe ? Bluetouff, Fabrice Epelboin et Brice Augras-ZaX
 > 17 Septembre 2025
 > [youtube](https://www.youtube.com/watch?v=ZL-XxW8VTx8)
