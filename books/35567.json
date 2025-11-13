@@ -1,0 +1,50 @@
+{
+    "people": [
+        {
+            "person": "Yves Bréchet",
+            "books": [
+                {
+                    "title": "L'Aventure de l'Encyclopédie",
+                    "author": "Robert Darnton",
+                    "link_amazon_book": "https://amzn.to/4qYvgQF",
+                    "image": "https://m.media-amazon.com/images/I/71U+Bx3NLRL._SY522_.jpg"
+                },
+                {
+                    "title": "Cours familier de philosophie politique",
+                    "author": "Pierre Manent",
+                    "link_amazon_book": "https://amzn.to/48diDd6",
+                    "image": "https://m.media-amazon.com/images/I/71jJSFoYH0L._SY522_.jpg"
+                },
+                {
+                    "title": "Chroniques des choses grandes et magnifiques",
+                    "author": "Alexandre Vialatte",
+                    "link_amazon_book": "https://amzn.to/3LF2JPR",
+                    "image": "https://m.media-amazon.com/images/I/41LAo7Hv24L.jpg"
+                }
+            ]
+        },
+        {
+            "person": "Louis Gallois",
+            "books": [
+                {
+                    "title": "La Maison vide",
+                    "author": "Laurent Mauvignier",
+                    "link_amazon_book": "https://amzn.to/4qWgtpH",
+                    "image": "https://m.media-amazon.com/images/I/61fhLz3hcHL._SY522_.jpg"
+                },
+                {
+                    "title": "L'humeur révolutionnaire",
+                    "author": "Robert Darnton",
+                    "link_amazon_book": "https://amzn.to/4oNeT83",
+                    "image": "https://m.media-amazon.com/images/I/71AH3xri-oL._SY522_.jpg"
+                },
+                {
+                    "title": "Vie et destin",
+                    "author": "Vassili Grossman",
+                    "link_amazon_book": "https://amzn.to/4qRpHU1",
+                    "image": "https://m.media-amazon.com/images/I/71o4oM5SMvL._SY522_.jpg"
+                }
+            ]
+        }
+    ]
+}

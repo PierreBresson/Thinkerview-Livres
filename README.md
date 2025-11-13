@@ -6,6 +6,38 @@
 
 Liste des recommandations lecture/films des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+Vous n'êtes que des pions pour eux ? Javier Blas
+> 30 octobre 2025
+> [youtube](https://www.youtube.com/watch?v=KbbDd8GAOBU)
+
+Javier Blas
+- The Prize - Daniel Yergin
+- Merchants of Grain - Dan Morgan
+- Biographie - Daniel Alman
+
+Dislocation de l’Union européenne ? François-Xavier Bellamy
+> 23 octobre 2025
+> [youtube](https://www.youtube.com/watch?v=Itc4VqlP1PY)
+
+François-Xavier Bellamy
+- Giovanni Falcone - Roberto Saviano
+- Le déclin du courage - Alexandre Soljenitsyne
+- Le savant et le politique - Max Weber
+
+Réindustrialisation : Y a-t-il un pilote dans l’avion ? Yves Bréchet & Louis Gallois
+> 22 octobre 2025
+> [youtube](https://www.youtube.com/watch?v=neE5TEMXcv0)
+
+Yves Bréchet
+- L'Aventure de l'Encyclopédie - Robert Darnton
+- Cours familier de philosophie politique - Pierre Manent
+- Chroniques des choses grandes et magnifiques - Alexandre Vialatte
+
+Louis Gallois
+- La Maison vide - Laurent Mauvignier
+- L'humeur révolutionnaire - Robert Darnton
+- Vie et destin - Vassili Grossman
+
 Olivier Dubois : Otage des djihadistes, face à la mort pendant 2 ans.
 > 14 octobre 2025
 > [youtube](https://www.youtube.com/watch?v=6NAyskMTw3Y)

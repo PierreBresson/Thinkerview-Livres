@@ -1,0 +1,27 @@
+{
+    "people": [
+        {
+            "person": "François-Xavier Bellamy",
+            "books": [
+                {
+                    "title": "Giovanni Falcone",
+                    "author": "Roberto Saviano",
+                    "link_amazon_book": "https://amzn.to/4pssh1x",
+                    "image": "https://m.media-amazon.com/images/I/71JkwKwDTYL._SY522_.jpg"
+                },
+                {
+                    "title": "Le déclin du courage",
+                    "author": "Alexandre Soljenitsyne",
+                    "link_amazon_book": "https://amzn.to/3XvNYkY",
+                    "image": "https://m.media-amazon.com/images/I/51DyEPp2lRL._SY522_.jpg"
+                },
+                {
+                    "title": "Le savant et le politique",
+                    "author": "Max Weber",
+                    "link_amazon_book": "https://amzn.to/3LACme0",
+                    "image": "https://m.media-amazon.com/images/I/61C5Gw07iqL._SY522_.jpg"
+                }
+            ]
+        }
+    ]
+}

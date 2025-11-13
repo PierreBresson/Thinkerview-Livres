@@ -1,0 +1,27 @@
+{
+    "people": [
+        {
+            "person": "Javier Blas",
+            "books": [
+                {
+                    "title": "The Prize",
+                    "author": "Daniel Yergin",
+                    "link_amazon_book": "https://amzn.to/482IhQK",
+                    "image": "https://m.media-amazon.com/images/I/51dL8CxVbOL.jpg"
+                },
+                {
+                    "title": "Merchants of Grain",
+                    "author": "Dan Morgan",
+                    "link_amazon_book": "https://amzn.to/4p0hjzK",
+                    "image": "https://m.media-amazon.com/images/I/91C1iQTkc5L._SY522_.jpg"
+                },
+                {
+                    "title": "Biographie",
+                    "author": "Daniel Alman",
+                    "link_amazon_book": "https://amzn.to/4nUD5nE",
+                    "image": "https://m.media-amazon.com/images/I/41CEClrF7bL.jpg"
+                }
+            ]
+        }
+    ]
+}
