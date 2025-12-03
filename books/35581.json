@@ -1,0 +1,27 @@
+{
+    "people": [
+        {
+            "person": "Natacha Polony",
+            "books": [
+                {
+                    "title": "L'Empire souterrain",
+                    "author": "Henry Farrell & Abraham Newman",
+                    "link_amazon_book": "https://amzn.to/48sxYFG",
+                    "image": "https://m.media-amazon.com/images/I/61zBurNItwL._SY522_.jpg"
+                },
+                {
+                    "title": "Le Capitalisme de l'apocalypse",
+                    "author": "Quinn Slobodian",
+                    "link_amazon_book": "https://amzn.to/3KwzuOX",
+                    "image": "https://m.media-amazon.com/images/I/51+JHyIH9lL.jpg"
+                },
+                {
+                    "title": "La Guerre du Péloponnèse",
+                    "author": "Thucydide",
+                    "link_amazon_book": "https://amzn.to/448MK2Z",
+                    "image": "https://m.media-amazon.com/images/I/81e5muE1WlL._SY522_.jpg"
+                }
+            ]
+        }
+    ]
+}

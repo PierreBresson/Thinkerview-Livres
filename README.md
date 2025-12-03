@@ -6,6 +6,24 @@
 
 Liste des recommandations lecture/films des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+ Virage stratégique invisible : La France abandonne nos Outre-mers ? Estelle Youssouffa
+> 24 Novembre 2025
+> [youtube](https://www.youtube.com/watch?v=LRnJeLC8EI8)
+
+Estelle Youssouffa
+- Saint-Germain ou la Négociation - Francis Walder
+- Les Fleurs du mal - Charles Baudelaire
+- La Terre chinoise - Pearl Buck
+
+Natacha Polony sans filtre.
+> 13 Novembre 2025
+> [youtube](https://www.youtube.com/watch?v=RYAL1TSFq2U)
+
+Natacha Polony
+- L'Empire souterrain - Henry Farrell & Abraham Newman
+- Le Capitalisme de l'apocalypse - Quinn Slobodian
+- La Guerre du Péloponnèse - Thucydide
+
 Vous n'êtes que des pions pour eux ? Javier Blas
 > 30 octobre 2025
 > [youtube](https://www.youtube.com/watch?v=KbbDd8GAOBU)

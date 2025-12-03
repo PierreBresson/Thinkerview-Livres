@@ -1,0 +1,27 @@
+{
+    "people": [
+        {
+            "person": "Estelle Youssouffa",
+            "books": [
+                {
+                    "title": "Saint-Germain ou la Négociation",
+                    "author": "Francis Walder",
+                    "link_amazon_book": "https://amzn.to/4pQh8rt",
+                    "image": "https://m.media-amazon.com/images/I/91c2swkjorL._SY522_.jpg"
+                },
+                {
+                    "title": "Les Fleurs du mal",
+                    "author": "Charles Baudelaire",
+                    "link_amazon_book": "https://amzn.to/3XxQI1u",
+                    "image": "https://m.media-amazon.com/images/I/71yKrZePdDL._SY522_.jpg"
+                },
+                {
+                    "title": "La Terre chinoise",
+                    "author": "Pearl Buck",
+                    "link_amazon_book": "https://amzn.to/4pffgbA",
+                    "image": "https://m.media-amazon.com/images/I/81dD70RNn5L._SY522_.jpg"
+                }
+            ]
+        }
+    ]
+}
