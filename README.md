@@ -6,7 +6,16 @@
 
 Liste des recommandations lecture/films des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
- Virage stratégique invisible : La France abandonne nos Outre-mers ? Estelle Youssouffa
+ Pierre-Guillaume Mercadal : Notre alimentation menacée, nos agriculteurs en péril ?
+> 27 Novembre 2025
+> [youtube](https://www.youtube.com/watch?v=eNHtKmtlLDM)
+
+Pierre-Guillaume Mercada
+- Lettre aux paysans - Jean Giono
+- La Ferme des animaux - George Orwell
+- L'Art de la Guerre - Sun Tzu
+
+Virage stratégique invisible : La France abandonne nos Outre-mers ? Estelle Youssouffa
 > 24 Novembre 2025
 > [youtube](https://www.youtube.com/watch?v=LRnJeLC8EI8)
 
