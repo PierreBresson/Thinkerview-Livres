@@ -1,0 +1,33 @@
+{
+    "people": [
+        {
+            "person": "Alexandre del Valle",
+            "books": [
+                {
+                    "title": "La crise de la conscience européenne",
+                    "author": "Paul Hazard",
+                    "link_amazon_book": "https://amzn.to/4s6P3Ou",
+                    "image": "https://m.media-amazon.com/images/I/71M3EwhI0RL._SY522_.jpg"
+                },
+                {
+                    "title": "Jihad Vs McWorld",
+                    "author": "Benjamin R Barber",
+                    "link_amazon_book": "https://amzn.to/4pIk89r",
+                    "image": "https://m.media-amazon.com/images/I/914pOW9Cq0L._SY522_.jpg"
+                },
+                {
+                    "title": "Le nouvel ordre post-occidental",
+                    "author": "Alexandre del Valle",
+                    "link_amazon_book": "https://amzn.to/44F6tYu",
+                    "image": "https://m.media-amazon.com/images/I/71KQcmhwDdL._SY522_.jpg"
+                },
+                {
+                    "title": "Le grand échiquier",
+                    "author": "Zbigniew Brzezinski",
+                    "link_amazon_book": "https://amzn.to/49kjVn6",
+                    "image": "https://m.media-amazon.com/images/I/51L+dfOnZ2L._SY522_.jpg"
+                }
+            ]
+        }
+    ]
+}

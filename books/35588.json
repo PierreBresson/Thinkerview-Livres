@@ -1,0 +1,27 @@
+{
+    "people": [
+        {
+            "person": "Thibault de Montbrial",
+            "books": [
+                {
+                    "title": "Le Bataillon du ciel",
+                    "author": "Joseph Kessel",
+                    "link_amazon_book": "https://amzn.to/3KFNNRH",
+                    "image": "https://m.media-amazon.com/images/I/81nfFtb7WTL._SY522_.jpg"
+                },
+                {
+                    "title": "La Pitié dangereuse",
+                    "author": "Stefan Zweig",
+                    "link_amazon_book": "https://amzn.to/48WSSgh",
+                    "image": "https://m.media-amazon.com/images/I/71YHepbMmaL._SY522_.jpg"
+                },
+                {
+                    "title": "L'étrange défaite",
+                    "author": "Marc Bloch",
+                    "link_amazon_book": "https://amzn.to/4qimwDV",
+                    "image": "https://m.media-amazon.com/images/I/71IUqz9tvhL._SY522_.jpg"
+                }
+            ]
+        }
+    ]
+}

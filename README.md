@@ -6,6 +6,25 @@
 
 Liste des recommandations lecture/films des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+France : Le scénario du pire plus proche que jamais ? Alexandre del Valle
+> 12 Décembre 2025
+> [youtube](https://www.youtube.com/watch?v=v-67JVP42bI)
+
+Guerre, comprendre et anticiper ? Alexandre del Valle
+- La crise de la conscience européenne - Paul Hazard
+- Jihad Vs McWorld - Benjamin R Barber
+- Le nouvel ordre post-occidental - Alexandre del Valle
+- Le grand échiquier - Zbigniew Brzezinski
+
+France : Le scénario du pire plus proche que jamais ? Thibault de Montbrial
+> 8 Décembre 2025
+> [youtube](https://www.youtube.com/watch?v=kqKxOiZUwXU)
+
+Thibault de Montbrial
+- Le Bataillon du ciel - Joseph Kessel
+- La Pitié dangereuse - Stefan Zweig
+- L'étrange défaite - Marc Bloch
+
  Pierre-Guillaume Mercadal : Notre alimentation menacée, nos agriculteurs en péril ?
 > 27 Novembre 2025
 > [youtube](https://www.youtube.com/watch?v=eNHtKmtlLDM)
