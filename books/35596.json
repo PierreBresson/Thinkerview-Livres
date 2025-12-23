@@ -1,0 +1,27 @@
+{
+    "people": [
+        {
+            "person": "Alain Juillet",
+            "books": [
+                {
+                    "title": "Le Petit Prince",
+                    "author": "Antoine de Saint-Exupéry",
+                    "link_amazon_book": "https://amzn.to/42l4iH2",
+                    "image": "https://m.media-amazon.com/images/I/717xpibjvxL._SY466_.jpg"
+                },
+                {
+                    "title": "L'Italien",
+                    "author": "Arturo Pérez-Reverte",
+                    "link_amazon_book": "https://amzn.to/4pOM0ZB",
+                    "image": "https://m.media-amazon.com/images/I/81NsNiCs8tL._SY522_.jpg"
+                },
+                {
+                    "title": "Nos chers alliés",
+                    "author": "Gilbert Gallerne",
+                    "link_amazon_book": "https://amzn.to/3L5QlII",
+                    "image": "https://m.media-amazon.com/images/I/41zeJHs8W7L.jpg"
+                }
+            ]
+        }
+    ]
+}
