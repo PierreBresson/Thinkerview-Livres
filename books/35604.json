@@ -1,0 +1,73 @@
+{
+    "people": [
+        {
+            "person": "Vincent Louault",
+            "books": [
+                {
+                    "title": "Petit traité des grandes vertus",
+                    "author": "André Comte-Sponville",
+                    "link_amazon_book": "https://amzn.to/4c6ca65",
+                    "image": "https://m.media-amazon.com/images/I/81-CLdv5I1L._SY522_.jpg"
+                },
+                {
+                    "title": "Cinq milliards en fumée",
+                    "author": "Pierre-Antoine Delhommais",
+                    "link_amazon_book": "https://amzn.to/4kh22cT",
+                    "image": "https://m.media-amazon.com/images/I/614rJHJQgSL._SY522_.jpg"
+                },
+                {
+                    "title": "Le Voyage d'Hector",
+                    "author": "François Lelord",
+                    "link_amazon_book": "https://amzn.to/4arCQgn",
+                    "image": "https://m.media-amazon.com/images/I/71rsenomJzL._SY522_.jpg"
+                }
+            ]
+        },
+        {
+            "person": "Fabien Bouglé",
+            "books": [
+                {
+                    "title": "Ravage",
+                    "author": "René Barjavel",
+                    "link_amazon_book": "https://amzn.to/4kdPUsX",
+                    "image": "https://m.media-amazon.com/images/I/41SySIvHNOL.jpg"
+                },
+                {
+                    "title": "Les illusionnistes",
+                    "author": "Géraldine Woessner",
+                    "link_amazon_book": "https://amzn.to/4aaaVQP",
+                    "image": "https://m.media-amazon.com/images/I/51VC+x6QFAL._SY522_.jpg"
+                },
+                {
+                    "title": "L'étrange débâcle",
+                    "author": "Henri Proglio",
+                    "link_amazon_book": "https://amzn.to/4qaYjyE",
+                    "image": "https://m.media-amazon.com/images/I/61kgIOJt8gL._SY522_.jpg"
+                }
+            ]
+        },
+        {
+            "person": "Nicolas Meilhan",
+            "books": [
+                {
+                    "title": "L'Âge des low tech",
+                    "author": "Philippe Bihouix",
+                    "link_amazon_book": "https://amzn.to/3vsjsxK",
+                    "image": "https://m.media-amazon.com/images/I/81rb-8EHM8L._SY522_.jpg"
+                },
+                {
+                    "title": "1997",
+                    "author": "Loïk Le Floch-Prigent",
+                    "link_amazon_book": "https://amzn.to/4anSp8R",
+                    "image": "https://static.fnac-static.com/multimedia/Images/FR/NR/20/d1/17/18338080/1507-1/tsp20241007114914/1997.jpg"
+                },
+                {
+                    "title": "Dissolution française",
+                    "author": "Olivier Marleix",
+                    "link_amazon_book": "https://amzn.to/4cbFS9I",
+                    "image": "https://m.media-amazon.com/images/I/51oo5+Tl9ML._SY522_.jpg"
+                }
+            ]
+        }
+    ]
+}

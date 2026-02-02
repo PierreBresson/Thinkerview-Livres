@@ -1,0 +1,21 @@
+{
+    "people": [
+        {
+            "person": "Juan Branco",
+            "books": [
+                {
+                    "title": "Evangile de Jesus Christ",
+                    "author": "Saint Matthieu",
+                    "link_amazon_book": "https://amzn.to/4kdCaP6",
+                    "image": "https://m.media-amazon.com/images/I/61H4WBjv+yL._SY522_.jpg"
+                },
+                {
+                    "title": "Voyage au bout de la nuit",
+                    "author": "Louis-Ferdinand Céline",
+                    "link_amazon_book": "https://amzn.to/48P4S1N",
+                    "image": "https://m.media-amazon.com/images/I/818yQICGeNL._SY522_.jpg"
+                }
+            ]
+        }
+    ]
+}

@@ -6,6 +6,51 @@
 
 Liste des recommandations lecture/films des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+Relever la tête et sauver le pays ? Jon de Lorraine 
+> 29 Janvier 2026
+> [youtube](https://www.youtube.com/watch?v=BGVJW7lMey0)
+
+Jon de Lorraine
+- Ancien et Nouveau Testament - La Bible
+- Mémoires de guerre - Charles de Gaulle
+- Madame Bovary - Gustave Flaubert
+
+Où va la France ? Jean Messiha
+> 15 Janvier 2026
+> [youtube](https://www.youtube.com/watch?v=w8vV6GsVe6s)
+
+Jean Messiha
+- Narcisse et Goldmund - Hermann Hesse
+- La Confession d'un enfant du siècle - Alfred de Musset
+- Confessions - Saint Augustin 
+
+Atteinte aux intérêts vitaux de la nation ? Vincent Louault, Fabien Bouglé et N. Meilhan
+> 12 Janvier 2026
+> [youtube](https://www.youtube.com/watch?v=GzAA9i8DkjM)
+
+Vincent Louault
+- Petit traité des grandes vertus - André Comte-Sponville
+- Cinq milliards en fumée - Pierre-Antoine Delhommais
+- Le Voyage d'Hector - François Lelord
+
+Fabien Bouglé
+- Ravage - René Barjavel
+- Les illusionnistes - Géraldine Woessner
+- L'étrange débâcle - Henri Proglio
+
+Nicolas Meilhan
+- L'Âge des low tech - Philippe Bihouix
+- 1997 - Loïk Le Floch-Prigent
+- Dissolution française - Olivier Marleix
+
+Juan Branco : Légitime Colère ?
+> 8 Janvier 2026
+> [youtube](https://www.youtube.com/watch?v=V34Y_fONxjI)
+
+Juan Branco
+- Evangile de Jesus Christ - Saint Matthieu
+- Voyage au bout de la nuit - Louis-Ferdinand Céline
+
 Ancien Patron de la DGSE sans filtres ? Alain Juillet
 > 18 Décembre 2025
 > [youtube](https://www.youtube.com/watch?v=C7u6NebjkcY)

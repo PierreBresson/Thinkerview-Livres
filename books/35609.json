@@ -1,0 +1,27 @@
+{
+    "people": [
+        {
+            "person": "Jean Messiha",
+            "books": [
+                {
+                    "title": "Narcisse et Goldmund",
+                    "author": "Hermann Hesse",
+                    "link_amazon_book": "https://amzn.to/4kcc7I7",
+                    "image": "https://m.media-amazon.com/images/I/81AwoO-Ik+L._SY522_.jpg"
+                },
+                {
+                    "title": "La Confession d'un enfant du siècle",
+                    "author": "Alfred de Musset",
+                    "link_amazon_book": "https://amzn.to/4qgFmej",
+                    "image": "https://m.media-amazon.com/images/I/815WtppjR0L._SY522_.jpg"
+                },
+                {
+                    "title": "Confessions",
+                    "author": "Saint Augustin",
+                    "link_amazon_book": "https://amzn.to/4a8dYcl",
+                    "image": "https://m.media-amazon.com/images/I/91Ap5f6oTqL._SY522_.jpg"
+                }
+            ]
+        }
+    ]
+}

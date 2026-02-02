@@ -1,0 +1,27 @@
+{
+    "people": [
+        {
+            "person": "Jon de Lorraine",
+            "books": [
+                {
+                    "title": "Ancien et Nouveau Testament",
+                    "author": "La Bible",
+                    "link_amazon_book": "https://amzn.to/4jK9ACU",
+                    "image": "https://m.media-amazon.com/images/I/51UlqlxiLrL._SY522_.jpg"
+                },
+                {
+                    "title": "Mémoires de guerre",
+                    "author": "Charles de Gaulle",
+                    "link_amazon_book": "https://amzn.to/47FiDzi",
+                    "image": "https://m.media-amazon.com/images/I/61O8m00F9QL._SY522_.jpg"
+                },
+                {
+                    "title": "Madame Bovary",
+                    "author": "Gustave Flaubert",
+                    "link_amazon_book": "https://amzn.to/4elwkYJ",
+                    "image": "https://m.media-amazon.com/images/I/71tETVwL7YL._SY522_.jpg"
+                }
+            ]
+        }
+    ]
+}
