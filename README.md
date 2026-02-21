@@ -7,6 +7,30 @@
 Liste des recommandations lecture/films des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
 Relever la tête et sauver le pays ? Jon de Lorraine 
+> 12 Février 2026
+> [youtube](https://www.youtube.com/watch?v=jN7FOk2lt2w)
+
+Jon de Lorraine
+- L'Art de la Guerre - Sun Tzu
+- Le Prince - Nicolas Machiavel
+- De la guerre - Carl von Clausewitz
+
+Guerre cognitive, castes, mensonges, effondrement. Frédéric Bascuñana et Alexis Poulin
+> 5 Février 2026
+> [youtube](https://www.youtube.com/watch?v=-Iu7_FUuU6I)
+
+Frédéric Bascuñana
+- Vers une écologie d'esprit - Gregory Bateson
+- Lettres à un jeune poète - Rainer Maria Rilke
+- Loin de moi - Clément Rosset
+
+Alexis Poulin
+- L'Homme sans qualités - Robert Musil
+- Sous le soleil de Satan - Georges Bernanos
+- Nous Autres - Eugène Zamiatine
+
+
+Relever la tête et sauver le pays ? Jon de Lorraine 
 > 29 Janvier 2026
 > [youtube](https://www.youtube.com/watch?v=BGVJW7lMey0)
 

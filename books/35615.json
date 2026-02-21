@@ -1,0 +1,50 @@
+{
+    "people": [
+        {
+            "person": "Frédéric Bascuñana",
+            "books": [
+                {
+                    "title": "Vers une écologie d'esprit",
+                    "author": "Gregory Bateson",
+                    "link_amazon_book": "https://amzn.to/4s9LJkZ",
+                    "image": "https://m.media-amazon.com/images/I/71ha29+Nx9L._SY522_.jpg"
+                },
+                {
+                    "title": "Lettres à un jeune poète",
+                    "author": "Rainer Maria Rilke",
+                    "link_amazon_book": "https://amzn.to/4qS1hZA",
+                    "image": "https://m.media-amazon.com/images/I/81wrRmpErpL._SY522_.jpg"
+                },
+                {
+                    "title": "Loin de moi",
+                    "author": "Clément Rosset",
+                    "link_amazon_book": "https://amzn.to/4c7WkrH",
+                    "image": "https://m.media-amazon.com/images/I/51YKonpiSrL._SY522_.jpg"
+                }
+            ]
+        },
+        {
+            "person": "Alexis Poulin",
+            "books": [
+                {
+                    "title": "L'Homme sans qualités",
+                    "author": "Robert Musil",
+                    "link_amazon_book": "https://amzn.to/4qQ0V5x",
+                    "image": "https://m.media-amazon.com/images/I/51MQaUVIP6L._SY522_.jpg"
+                },
+                {
+                    "title": "Sous le soleil de Satan",
+                    "author": "Georges Bernanos",
+                    "link_amazon_book": "https://amzn.to/4rwwoeg",
+                    "image": "https://m.media-amazon.com/images/I/61V4h0RGbpL._SY522_.jpg"
+                },
+                {
+                    "title": "Nous Autres",
+                    "author": "Eugène Zamiatine",
+                    "link_amazon_book": "https://amzn.to/3MVL6wc",
+                    "image": "https://m.media-amazon.com/images/I/91n4KEQILvL._SY522_.jpg"
+                }
+            ]
+        }
+    ]
+}
