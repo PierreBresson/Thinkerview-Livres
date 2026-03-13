@@ -1,0 +1,27 @@
+{
+    "people": [
+        {
+            "person": "Patrick Martin",
+            "books": [
+                {
+                    "title": "Quatrevingt-treize",
+                    "author": "Victor Hugo",
+                    "link_amazon_book": "https://amzn.to/40yhqsi",
+                    "image": "https://m.media-amazon.com/images/I/61vWRZvcP5L._SY522_.jpg"
+                },
+                {
+                    "title": "L'épopée d'un chef",
+                    "author": "Robert Belleret",
+                    "link_amazon_book": "https://amzn.to/3NwI0iy",
+                    "image": "https://m.media-amazon.com/images/I/61KV-+oHi0L._SY522_.jpg"
+                },
+                {
+                    "title": "Le roi Arthur",
+                    "author": "Dominique Bona",
+                    "link_amazon_book": "https://amzn.to/4bkPXPM",
+                    "image": "https://m.media-amazon.com/images/I/71QiYCNfDuL._SY522_.jpg"
+                }
+            ]
+        }
+    ]
+}

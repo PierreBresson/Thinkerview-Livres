@@ -1,0 +1,27 @@
+{
+    "people": [
+        {
+            "person": "Sarah Knafo",
+            "books": [
+                {
+                    "title": "Le Mal français",
+                    "author": "Alain Peyrefitte",
+                    "link_amazon_book": "https://amzn.to/4usS394",
+                    "image": "https://m.media-amazon.com/images/I/61GQiQWb0jL._SY522_.jpg"
+                },
+                {
+                    "title": "Le livre du rire et de l'oubli",
+                    "author": "Milan Kundera",
+                    "link_amazon_book": "https://amzn.to/4rsYB4M",
+                    "image": "https://m.media-amazon.com/images/I/71I-zvNyMtL._SY522_.jpg"
+                },
+                {
+                    "title": "La Comédie Humaine",
+                    "author": "Balzac",
+                    "link_amazon_book": "https://amzn.to/4lopENa",
+                    "image": "https://m.media-amazon.com/images/I/61YrarehT+L._SY522_.jpg"
+                }
+            ]
+        }
+    ]
+}

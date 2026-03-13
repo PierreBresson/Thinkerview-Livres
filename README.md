@@ -6,6 +6,39 @@
 
 Liste des recommandations lecture/films des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+IRAN face à l'escalade militaire majeure, le sort du Monde ? Mohammad Amin Nejad
+> 6 mars 2026
+> [youtube](https://www.youtube.com/watch?v=UrTlfksV5mI)
+
+Mohammad Amin Nejad
+- Oeuvre intégrale - Fereshteh Molavi
+
+Paris peut-elle encore être sauvée ? Sarah Knafo
+> 2 mars 2026
+> [youtube](https://www.youtube.com/watch?v=UrTlfksV5mI)
+
+Sarah Knafo
+- Le Mal français - Alain Peyrefitte
+- Le livre du rire et de l'oubli - Milan Kundera
+- La Comédie Humaine - Balzac
+
+L'Europe a peur, elle bâillonne ? Bluetouff et Nicolas Conquer
+> 26 février 2026
+> [youtube](https://www.youtube.com/watch?v=zdcr-svz0u4)
+
+Bluetooth
+- Traité théologico-politique - Spinoza
+- Cyberpunk - Asma Mhalla
+
+Le Patron des Patrons : Le MEDEF sans filtre ? Patrick Martin
+> 17 février 2026
+> [youtube](https://www.youtube.com/watch?v=zjWxDU0o43U)
+
+Patrick Martin
+- Quatrevingt-treize - Victor Hugo
+- L'épopée d'un chef - Robert Belleret
+- Le roi Arthur - Dominique Bona
+
 Relever la tête et sauver le pays ? Jon de Lorraine 
 > 12 Février 2026
 > [youtube](https://www.youtube.com/watch?v=jN7FOk2lt2w)
