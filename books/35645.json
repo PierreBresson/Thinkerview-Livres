@@ -1,0 +1,27 @@
+{
+    "people": [
+        {
+            "person": "Agnès Pannier-Runacher",
+            "books": [
+                {
+                    "title": "Les Hauts Parleurs",
+                    "author": "Alain Damasio",
+                    "link_amazon_book": "https://www.juriscom.net/documents/HautsParleurs.pdf",
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Alain_Damasio%2C_2019_%28cropped%29.JPG/500px-Alain_Damasio%2C_2019_%28cropped%29.JPG"
+                },
+                {
+                    "title": "Le Peuple contre la démocratie",
+                    "author": "Yascha Mounk",
+                    "link_amazon_book": "https://amzn.to/4dz9tLb",
+                    "image": "https://m.media-amazon.com/images/I/71W7043zcsL._SY522_.jpg"
+                },
+                {
+                    "title": "Les voies nouvelles du géomimétisme",
+                    "author": "Pierre Gilbert",
+                    "link_amazon_book": "https://amzn.to/4moiPf1",
+                    "image": "https://m.media-amazon.com/images/I/61EnvDtKu6L._SY522_.jpg"
+                }
+            ]
+        }
+    ]
+}

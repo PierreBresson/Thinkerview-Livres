@@ -1,0 +1,39 @@
+{
+    "people": [
+        {
+            "person": "Abby Martin",
+            "books": [
+                {
+                    "title": "Confessions of an Economic Hit Man",
+                    "author": "John Perkins",
+                    "link_amazon_book": "https://amzn.to/4c4xV5W",
+                    "image": "https://m.media-amazon.com/images/I/81OEF1RiBsL._SY522_.jpg"
+                },
+                {
+                    "title": "Blowback",
+                    "author": "Chalmers Johnson",
+                    "link_amazon_book": "https://amzn.to/4mh8YYk",
+                    "image": "https://m.media-amazon.com/images/I/91u2Ix2eieL._SY522_.jpg"
+                },
+                {
+                    "title": "Open Veins of Latin America",
+                    "author": "Eduardo Galeano",
+                    "link_amazon_book": "https://amzn.to/4mvTgZB",
+                    "image": "https://m.media-amazon.com/images/I/91mmZ4byfEL._SY522_.jpg"
+                },
+                {
+                    "title": "The Green Zone",
+                    "author": "Mike Davis",
+                    "link_amazon_book": "https://amzn.to/3OghI4n",
+                    "image": "https://m.media-amazon.com/images/I/712mretwWlL._SY522_.jpg"
+                },
+                {
+                    "title": "The End of Ice",
+                    "author": "Dahr Jamail",
+                    "link_amazon_book": "https://amzn.to/3Qw81j1",
+                    "image": "https://m.media-amazon.com/images/I/71qpqIPXh8L._SY522_.jpg"
+                }
+            ]
+        }
+    ]
+}

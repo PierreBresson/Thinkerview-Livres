@@ -1,0 +1,15 @@
+{
+    "people": [
+        {
+            "person": "Jean-Marc Jancovici",
+            "books": [
+                {
+                    "title": "De l'inégalité parmi les sociétés",
+                    "author": "Jared Diamond",
+                    "link_amazon_book": "https://amzn.to/4aT2U23",
+                    "image": "https://m.media-amazon.com/images/I/71QkQf2uudL._SY522_.jpg"
+                }
+            ]
+        }
+    ]
+}

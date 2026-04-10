@@ -6,6 +6,46 @@
 
 Liste des recommandations lecture/films des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+Stress test : Agnès Pannier-Runacher
+> 25 mars 2026
+> [youtube](https://www.youtube.com/watch?v=eEhCw-GRYHE)
+
+Agnès Pannier-Runacher
+- Les Hauts Parleurs - Alain Damasio
+- Le Peuple contre la démocratie - Yascha Mounk
+- Les voies nouvelles du géomimétisme - Pierre Gilbert
+
+La Guerre des Prix ? Le vrai coût de l’alimentation ? Olivier Mevel et Anthony Déchaux
+> 23 mars 2026
+> [youtube](https://www.youtube.com/watch?v=ljbhf_uuZp4)
+
+Olivier Mevel
+- Au Bonheur des dames - Emile Zola
+- L'étranger - Albert Camus
+- Le Rouge et le noir - Stendhal
+
+Anthony Déchaux
+- Martin Eden - Jack London
+- Les coulisses de la grande distribution - Christian Jacquiau 
+
+Effondrement de l’empire américain ? Abby Martin
+> 21 mars 2026
+> [youtube](https://www.youtube.com/watch?v=RuVHZ4rh4tU)
+
+Abby Martin
+- Confessions of an Economic Hit Man - John Perkins
+- Blowback - Chalmers Johnson
+- Open Veins of Latin America - Eduardo Galeano
+- The Green Zone - Mike Davis
+- The End of Ice - Dahr Jamail
+
+Crise pétrolière, effondrement, émeutes de la faim ? Jean-Marc Jancovici
+> 16 mars 2026
+> [youtube](https://www.youtube.com/watch?v=JmByobw2YWA)
+
+Jean-Marc Jancovici
+- De l'inégalité parmi les sociétés - Jared Diamond
+
 IRAN face à l'escalade militaire majeure, le sort du Monde ? Mohammad Amin Nejad
 > 6 mars 2026
 > [youtube](https://www.youtube.com/watch?v=UrTlfksV5mI)
