@@ -1,0 +1,27 @@
+{
+    "people": [
+        {
+            "person": "Akim Omiri",
+            "books": [
+                {
+                    "title": "Les dessous de la politique de l'Oncle Sam",
+                    "author": "Noam Chomsky",
+                    "link_amazon_book": "https://amzn.to/4tYOFl1",
+                    "image": "https://m.media-amazon.com/images/I/61OaNtSoSIL._SY522_.jpg"
+                },
+                {
+                    "title": "Fullmetal Alchemist",
+                    "author": "Hiromu Arakawa",
+                    "link_amazon_book": "https://amzn.to/4tiNTiV",
+                    "image": "https://m.media-amazon.com/images/I/61oPIyubtEL._SY522_.jpg"
+                },
+                {
+                    "title": "Naruto",
+                    "author": "Masashi Kishimoto",
+                    "link_amazon_book": "https://amzn.to/4sH3ojx",
+                    "image": "https://m.media-amazon.com/images/I/91cTr93aQ6L._SY522_.jpg"
+                }
+            ]
+        }
+    ]
+}

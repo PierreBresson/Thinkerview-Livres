@@ -6,6 +6,15 @@
 
 Liste des recommandations lecture/films des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+L'humour en temps de guerre ? Akim Omiri
+> 9 Avril 2026
+> [youtube](https://www.youtube.com/watch?v=DSxc3eVBwYk)
+
+Akim Omiri
+- Les dessous de la politique de l'Oncle Sam - Noam Chomsky
+- Fullmetal Alchemist - Hiromu Arakawa
+- Naruto - Masashi Kishimoto
+
 Stress test : Agnès Pannier-Runacher
 > 25 mars 2026
 > [youtube](https://www.youtube.com/watch?v=eEhCw-GRYHE)
