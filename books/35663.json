@@ -1,0 +1,27 @@
+{
+    "people": [
+        {
+            "person": "Charles Alloncle",
+            "books": [
+                {
+                    "title": "Le Ciel ouvert",
+                    "author": "Nicolas Mathieu",
+                    "link_amazon_book": "https://amzn.to/3RnrbYZ",
+                    "image": "https://m.media-amazon.com/images/I/71cyFIlswaL._SY522_.jpg"
+                },
+                {
+                    "title": "Les particules élémentaires",
+                    "author": "Michel Houellebecq",
+                    "link_amazon_book": "https://amzn.to/3RTsT4q",
+                    "image": "https://m.media-amazon.com/images/I/51xTHtrEubL._SY522_.jpg"
+                },
+                {
+                    "title": "Limonov",
+                    "author": "Emmanuel Carrère",
+                    "link_amazon_book": "https://amzn.to/42L5sg7",
+                    "image": "https://m.media-amazon.com/images/I/715QqaBkqmL._SY522_.jpg"
+                }
+            ]
+        }
+    ]
+}

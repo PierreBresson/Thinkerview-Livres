@@ -1,0 +1,38 @@
+{
+    "people": [
+        {
+            "person": "Olivier Lluansi",
+            "books": [
+                {
+                    "title": "Le continent de la douceur",
+                    "author": "Aurélien Bellanger",
+                    "link_amazon_book": "https://amzn.to/4tQj7NQ",
+                    "image": "https://m.media-amazon.com/images/I/81iGbSTV2kL._SY522_.jpg"
+                }
+            ]
+        },
+        {
+            "person": "Arnaud Montebourg",
+            "books": [
+                {
+                    "title": "Collusion",
+                    "author": "Luke Harding",
+                    "link_amazon_book": "https://amzn.to/4wOjwTS",
+                    "image": "https://m.media-amazon.com/images/I/71Pqxr7oYVL._SY522_.jpg"
+                },
+                {
+                    "title": "La France au miroir de l'Amérique",
+                    "author": "Aquilino Morelle",
+                    "link_amazon_book": "https://amzn.to/4wDZ8od",
+                    "image": "https://m.media-amazon.com/images/I/81c-QupTeuL._SY522_.jpg"
+                },
+                {
+                    "title": "Réindustrialiser : le défi d’une génération",
+                    "author": "Olivier Lluansi",
+                    "link_amazon_book": "https://amzn.to/4v2d7m8",
+                    "image": "https://m.media-amazon.com/images/I/71R40ZX+XWL._SY522_.jpg"
+                }
+            ]
+        }
+    ]
+}

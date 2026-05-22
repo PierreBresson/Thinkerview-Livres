@@ -6,6 +6,56 @@
 
 Liste des recommandations lecture/films des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+ La France bientôt ruinée par ses élites déconnectées ? Olivier Lluansi et Arnaud Montebourg
+> 12 mai 2026
+> [youtube](https://www.youtube.com/watch?v=q3KU2-L0cv4)
+
+Olivier Lluansi
+- Le continent de la douceur - Aurélien Bellanger
+
+Arnaud Montebourg
+- Collusion - Luke Harding
+- La France au miroir de l'Amérique - Aquilino Morelle
+- Réindustrialiser : le défi d’une génération - Olivier Lluansi
+
+Dossiers enterrés par la France et investigations ? Jean-Baptiste Rivoire
+> 6 mai 2026
+> [youtube](https://www.youtube.com/watch?v=dN6omRcGQP4)
+
+Jean-Baptiste Rivoire
+- Aucun
+
+Charles Alloncle : Audiovisuel Public, le rapport qu'on a voulu faire taire ?
+> 5 mai 2026
+> [youtube](https://www.youtube.com/watch?v=95xFL7_nRDk)
+
+Charles Alloncle
+- Le Ciel ouvert - Nicolas Mathieu
+- Les particules élémentaires - Michel Houellebecq
+- Limonov - Emmanuel Carrère
+
+Émeutes de la faim, périls pour la France ? Lydia et Claude Bourguignon
+> 21 avril 2026
+> [youtube](https://www.youtube.com/watch?v=rKfXU2JFcW8)
+
+Lydia Bourguignon
+- Le Désert de nous-mêmes - Eric Sadin
+- Trois - Valérie Perrin
+- Manifeste pour une agriculture durable - Lydia Bourguignon & Claude Bourguignon
+
+Claude Bourguignon
+- 1984 - George Orwell
+- Les Frères Karamazov - Fedor Mikhaïlovitch Dostoïevski
+- Le Prince - Nicolas Machiavel
+
+OVNI, Astrophysique : Jean-Pierre Petit sans filtres.
+> 16 avril 2026
+> [youtube](https://www.youtube.com/watch?v=EzL1_Kod9-w)
+
+Jean-Pierre Petit
+- Chroniques martiennes - Ray Bradbury
+- Fahrenheit 451 - Ray Bradbury
+
 L'humour en temps de guerre ? Akim Omiri
 > 9 Avril 2026
 > [youtube](https://www.youtube.com/watch?v=DSxc3eVBwYk)

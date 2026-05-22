@@ -1,0 +1,21 @@
+{
+    "people": [
+        {
+            "person": "Jean-Pierre Petit",
+            "books": [
+                {
+                    "title": "Chroniques martiennes",
+                    "author": "Ray Bradbury",
+                    "link_amazon_book": "https://amzn.to/4v1yi7Z",
+                    "image": "https://m.media-amazon.com/images/I/71EVkmklhyL._SY522_.jpg"
+                },
+                {
+                    "title": "Fahrenheit 451",
+                    "author": "Ray Bradbury",
+                    "link_amazon_book": "https://amzn.to/3Rnnse8",
+                    "image": "https://m.media-amazon.com/images/I/81XMLws5fiL._SY522_.jpg"
+                }
+            ]
+        }
+    ]
+}
