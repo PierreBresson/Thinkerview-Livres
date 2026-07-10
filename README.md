@@ -6,7 +6,45 @@
 
 Liste des recommandations lecture/films des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
- La France bientôt ruinée par ses élites déconnectées ? Olivier Lluansi et Arnaud Montebourg
+Fin définitive de l'énergie bon marché ? Francis Perrin
+> 16 Juin 2026
+> [youtube](https://www.youtube.com/watch?v=KK09dYN-YtI)
+
+Francis Perrin
+- Aucun livre
+
+I.A. : L'humanité va-t-elle survivre ? Gilles Babinet
+> 29 mai 2026
+> [youtube](https://www.youtube.com/watch?v=EWe2S68CKus)
+
+Gilles Babinet
+- L'individu, fin de parcours ? - Julien Gobin
+- Ma vie d'autiste - Grandin temple
+- Psychologie de l'inconscient - Carl Jung
+
+I.A. : Le choc de l’intime ? Laurent Alexandre et Alexandre Tsicopoulos
+> 28 mai 2026
+> [youtube](https://www.youtube.com/watch?v=PjnzI69A3X0)
+
+Laurent Alexandre
+- Le meilleur des mondes - Aldous Huxley
+- 1984 - George Orwell
+- Le Hasard et la Nécessité - Jacques Monod
+
+Alexandre Tsicopoulos
+- Ultra-intelligence - Aymeric ROUCHER
+- Nexus - Yuval Noah Harari
+
+Intelligence Artificielle : Notre humanité en péril ? Eric Sadin
+> 27 mai 2026
+> [youtube](https://www.youtube.com/watch?v=R6M1sUzsZUk)
+
+Eric Sadin
+- Les mots - Jean-Paul Sartre
+- À la recherche du temps perdu - Marcel Proust
+- Sur la télévision - Pierre Bourdieu
+
+La France bientôt ruinée par ses élites déconnectées ? Olivier Lluansi et Arnaud Montebourg
 > 12 mai 2026
 > [youtube](https://www.youtube.com/watch?v=q3KU2-L0cv4)
 

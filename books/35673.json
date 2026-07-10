@@ -1,0 +1,27 @@
+{
+    "people": [
+        {
+            "person": "Eric Sadin",
+            "books": [
+                {
+                    "title": "Les mots",
+                    "author": "Jean-Paul Sartre",
+                    "link_amazon_book": "https://amzn.to/3SS4o8A",
+                    "image": "https://m.media-amazon.com/images/I/71KwgAfJ0sL._SY522_.jpg"
+                },
+                {
+                    "title": "À la recherche du temps perdu",
+                    "author": "Marcel Prous",
+                    "link_amazon_book": "https://amzn.to/4wAKmOq",
+                    "image": "https://m.media-amazon.com/images/I/51SXZJQMPQL._SY522_.jpg"
+                },
+                {
+                    "title": "Sur la télévision",
+                    "author": "Pierre Bourdieu",
+                    "link_amazon_book": "https://amzn.to/4eVnyTz",
+                    "image": "https://m.media-amazon.com/images/I/51qZb0IDu2L._SY522_.jpg"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "people": [
+        {
+            "person": "Gilles Babinet",
+            "books": [
+                {
+                    "title": "L'individu, fin de parcours ?",
+                    "author": "Julien Gobin",
+                    "link_amazon_book": "https://amzn.to/4pb0weK",
+                    "image": "https://m.media-amazon.com/images/I/61h+sgimlhL._SY522_.jpg"
+                },
+                {
+                    "title": "Ma vie d'autiste",
+                    "author": "Grandin temple",
+                    "link_amazon_book": "https://amzn.to/4w7aujO",
+                    "image": "https://m.media-amazon.com/images/I/810NTr2xphL._SY522_.jpg"
+                },
+                {
+                    "title": "Psychologie de l'inconscient",
+                    "author": "Carl Jung",
+                    "link_amazon_book": "https://amzn.to/44lGRiI",
+                    "image": "https://m.media-amazon.com/images/I/81kLI0np12L._SY522_.jpg"
+                }
+            ]
+        }
+    ]
+}
