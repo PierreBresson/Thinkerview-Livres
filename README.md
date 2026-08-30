@@ -6,6 +6,33 @@
 
 Liste des recommandations lecture/films des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+Bruno Le Maire Sans Filtre 
+> 29 Juillet 2026
+> [youtube](https://www.youtube.com/watch?v=0QSlS8ifBbo)
+
+Bruno Le Maire
+- Le fil de l'épée - Charles de Gaulle
+- Maîtres anciens - Thomas Bernhard
+- Mémoires de Saint-Simon - Saint-Simon 
+
+Le Jour d'Après: la Révolution des Octets - Bluetouff, Alexis Roussel et Caroline Zorn
+> 6 Juillet 2026
+> [youtube](https://www.youtube.com/watch?v=IxivZdX4wmQ)
+
+Caroline Zorn
+- L'âme noire de la démocratie - Geoffroy de Lagasnerie
+
+Alexis Roussel
+- Bitcoin, la monnaie acéphale - Jacques Favier
+
+L'Euro et l’UE sont bientôt morts ? Préparez-vous ! Thomas Grjebine et Nicolas Meilhan
+> 1 Juillet 2026
+> [youtube](https://www.youtube.com/watch?v=f9_i3mYLFpA)
+
+Thomas Grjebine
+- Les Rois Maudits - Maurice Druon
+- Je voulais vivre - Adélaïde de Clermont-Tonnerre
+
 Fin définitive de l'énergie bon marché ? Francis Perrin
 > 16 Juin 2026
 > [youtube](https://www.youtube.com/watch?v=KK09dYN-YtI)

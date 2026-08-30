@@ -1,0 +1,21 @@
+{
+    "people": [
+        {
+            "person": "Thomas Grjebine",
+            "books": [
+                {
+                    "title": "Les Rois Maudits",
+                    "author": "Maurice Druon",
+                    "link_amazon_book": "https://amzn.to/4ck2MLx",
+                    "image": "https://m.media-amazon.com/images/I/71s20JSMwtL._SY522_.jpg"
+                },
+                {
+                    "title": "Je voulais vivre",
+                    "author": "Adélaïde de Clermont-Tonnerre",
+                    "link_amazon_book": "https://amzn.to/4qOwnTp",
+                    "image": "https://m.media-amazon.com/images/I/61Z2XeZlKtL._SY522_.jpg"
+                }
+            ]
+        }
+    ]
+}

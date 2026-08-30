@@ -1,0 +1,27 @@
+{
+    "people": [
+        {
+            "person": "Bruno Le Maire",
+            "books": [
+                {
+                    "title": "Le fil de l'épée",
+                    "author": "Charles de Gaulle",
+                    "link_amazon_book": "https://amzn.to/4zMnYE6",
+                    "image": "https://m.media-amazon.com/images/I/71Dof4+GGqL._SY522_.jpg"
+                },
+                {
+                    "title": "Maîtres anciens",
+                    "author": "Thomas Bernhard",
+                    "link_amazon_book": "https://m.media-amazon.com/images/I/71JZCaDFn6L._SY522_.jpg",
+                    "image": "https://amzn.to/45XLlwI"
+                },
+                {
+                    "title": "Mémoires de Saint-Simon",
+                    "author": "Saint-Simon",
+                    "link_amazon_book": "https://amzn.to/4xtwYMV",
+                    "image": "https://m.media-amazon.com/images/I/81QfaD+K4TL._SY522_.jpg"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "people": [
+        {
+            "person": "Caroline Zorn",
+            "books": [
+                {
+                    "title": "L'âme noire de la démocratie",
+                    "author": "Geoffroy de Lagasnerie",
+                    "link_amazon_book": "https://amzn.to/4h1BFYc",
+                    "image": "https://m.media-amazon.com/images/I/61+ClrijqEL._SY522_.jpg"
+                }
+            ]
+        },
+        {
+            "person": "Alexis Roussel",
+            "books": [
+                {
+                    "title": "Bitcoin, la monnaie acéphale",
+                    "author": "Jacques Favier",
+                    "link_amazon_book": "https://amzn.to/4yaBwHV",
+                    "image": "https://m.media-amazon.com/images/I/51Gztn3BHAL._SY522_.jpg"
+                }
+            ]
+        }
+    ]
+}
