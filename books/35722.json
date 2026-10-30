@@ -1,0 +1,15 @@
+{
+    "people": [
+        {
+            "person": "Charles Alloncle",
+            "books": [
+                {
+                    "title": "Connemara",
+                    "author": "Nicolas Mathieu",
+                    "link_amazon_book": "https://link.amazon/B0fpOebT0",
+                    "image": "https://m.media-amazon.com/images/I/61i2+SkdhPL._SY522_.jpg"
+                }
+            ]
+        }
+    ]
+}

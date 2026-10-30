@@ -1,0 +1,27 @@
+{
+    "people": [
+        {
+            "person": "David Baverez",
+            "books": [
+                {
+                    "title": "Pourquoi les pays font faillite",
+                    "author": "Ray Dalio",
+                    "link_amazon_book": "https://link.amazon/B00lYSUP2",
+                    "image": "https://m.media-amazon.com/images/I/716xkDna0BL._SX425_.jpg"
+                },
+                {
+                    "title": "L'ordre mondial en mutation",
+                    "author": "Ray Dalio",
+                    "link_amazon_book": "https://link.amazon/B0hMCjKa5",
+                    "image": "https://m.media-amazon.com/images/I/71OvXy3G1UL._SY522_.jpg"
+                },
+                {
+                    "title": "Les principes du succès",
+                    "author": "Ray Dalio",
+                    "link_amazon_book": "https://link.amazon/B097Yi7QZ",
+                    "image": "https://m.media-amazon.com/images/I/61xtMz-6l+L._SY522_.jpg"
+                }
+            ]
+        }
+    ]
+}

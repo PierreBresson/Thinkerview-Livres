@@ -1,0 +1,27 @@
+{
+    "people": [
+        {
+            "person": "Slobodan Despot",
+            "books": [
+                {
+                    "title": "Moby Dick",
+                    "author": "Herman Melville",
+                    "link_amazon_book": "https://link.amazon/B0iaHhiGk",
+                    "image": "https://m.media-amazon.com/images/I/51nRewtzUlL.jpg"
+                },
+                {
+                    "title": "L'abolition de l'homme",
+                    "author": "C.S. Lewis",
+                    "link_amazon_book": "https://link.amazon/B0hRcuafx",
+                    "image": "https://m.media-amazon.com/images/I/31Y9YwI7DRL._SY445_SX342_ML2_.jpg"
+                },
+                {
+                    "title": "Les Frères Karamazov",
+                    "author": "Fiodor Dostoïevski",
+                    "link_amazon_book": "https://amzn.to/3HCpAqh",
+                    "image": "https://m.media-amazon.com/images/I/81ITM7ECmRL._SY522_.jpg"
+                }
+            ]
+        }
+    ]
+}

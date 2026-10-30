@@ -1,0 +1,27 @@
+{
+    "people": [
+        {
+            "person": "Christophe Boutry",
+            "books": [
+                {
+                    "title": "What It Takes to Disappear",
+                    "author": "Michael Bazzell",
+                    "link_amazon_book": "https://link.amazon/B06SOT3QE",
+                    "image": "https://m.media-amazon.com/images/I/51xwVuDAO8L._SY522_.jpg"
+                },
+                {
+                    "title": "À la recherche du temps perdu",
+                    "author": "Marcel Proust",
+                    "link_amazon_book": "https://link.amazon/B06imLBlc",
+                    "image": "https://m.media-amazon.com/images/I/617QjWAWTHL._SY522_.jpg"
+                },
+                {
+                    "title": "Le mage du Kremlin",
+                    "author": "Giuliano da Empoli",
+                    "link_amazon_book": "https://link.amazon/B0f63QCU7",
+                    "image": "https://m.media-amazon.com/images/I/71JoX9rOJvL._SY522_.jpg"
+                }
+            ]
+        }
+    ]
+}

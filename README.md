@@ -6,6 +6,63 @@
 
 Liste des recommandations lecture/films des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+Black Bloc contre BlackRock, qui gagne ? David Baverez
+> 22 Octobre 2026
+> [youtube](https://www.youtube.com/watch?v=mfxK8OWRgL0)
+
+David Baverez
+- Pourquoi les pays font faillite - Ray Dalio
+- L'ordre mondial en mutation - Ray Dalio
+- Les principes du succès - Ray Dalio
+
+Propagande, Psyops et conséquences ? Slobodan Despot
+> 13 Octobre 2026
+> [youtube](https://www.youtube.com/watch?v=dGSUPmmSI_4)
+
+Slobodan Despot
+- Moby Dick - Herman Melville
+- L'abolition de l'homme - C.S. Lewis
+- Les Frères Karamazov - Fedor Mikhaïlovitch Dostoïevski
+
+La mafia de l'audiovisuel public ? Charles Alloncle
+> 7 Octobre 2026
+> [youtube](https://www.youtube.com/watch?v=jfTgi0D2i4g)
+
+Charles Alloncle
+- Connemara - Nicolas Mathieu
+- Michel Houellebecq
+
+L’arme d'immigration de masse ? Menace ou opportunité ? Arancha González
+> 6 Octobre 2026
+> [youtube](https://www.youtube.com/watch?v=YbfetXUmsQ8)
+
+Arancha González
+- Aucun livre
+
+Fuites de Données, Grand banditisme ? Christophe Boutry
+> 17 Septembre 2026
+> [youtube](https://www.youtube.com/watch?v=rxajCta1Pcw)
+
+Christophe Boutry
+- What It Takes to Disappear - Michael Bazzell
+- À la recherche du temps perdu - Marcel Proust
+- Le mage du Kremlin - Giuliano da Empoli
+
+Menace de guerre ou basculement de l'ordre mondial ?
+> 14 Septembre 2026
+> [youtube](https://www.youtube.com/watch?v=Mls6_9KOpqI)
+
+Dan Wang
+- The Art of Not Being Governed - James C. Scott
+- Le Rouge et le noir - Stendhal
+
+Guerre mondiale, l’échec de l’élite ? Juan Branco
+> 9 Septembre 2026
+> [youtube](https://www.youtube.com/watch?v=BwisLTtzSik)
+
+Juan Branco
+- Aucun livre
+
 Bruno Le Maire Sans Filtre 
 > 29 Juillet 2026
 > [youtube](https://www.youtube.com/watch?v=0QSlS8ifBbo)

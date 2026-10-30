@@ -1,0 +1,21 @@
+{
+    "people": [
+        {
+            "person": "Dan Wang",
+            "books": [
+                {
+                    "title": "The Art of Not Being Governed",
+                    "author": "James C. Scott",
+                    "link_amazon_book": "https://link.amazon/B0aaqY0Tw",
+                    "image": ""
+                },
+                {
+                    "title": "Le Rouge et le noir",
+                    "author": "Stendhal",
+                    "link_amazon_book": "https://link.amazon/B041KpKW3",
+                    "image": "https://m.media-amazon.com/images/I/81JnDJLC9rL._SY522_.jpg"
+                }
+            ]
+        }
+    ]
+}
