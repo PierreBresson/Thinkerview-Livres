@@ -1,0 +1,5006 @@
+[
+    {
+        "title": "Adieu à la croissance",
+        "author": "Jean Gadrey",
+        "link_amazon_book": "https://amzn.to/3ucyNCz",
+        "image": "https://m.media-amazon.com/images/I/41V6BWyZMJL._SY522_.jpg"
+    },
+    {
+        "title": "Pour vivre heureux, vivons égaux !",
+        "author": "Kate Pickett & Richard Wilkinson",
+        "link_amazon_book": "https://amzn.to/3ur3BPO",
+        "image": "https://m.media-amazon.com/images/I/51gsR9bDZpL._SY522_.jpg"
+    },
+    {
+        "title": "La dispute des économistes",
+        "author": "Gilles Raveaud",
+        "link_amazon_book": "https://amzn.to/49gkzzT",
+        "image": "https://m.media-amazon.com/images/I/61bPG+k6pkL._SY522_.jpg"
+    },
+    {
+        "title": "Achille Talon et l'archipel de Sanzunron",
+        "author": "Greg",
+        "link_amazon_book": "https://amzn.to/4bm2DFj",
+        "image": "https://m.media-amazon.com/images/I/71Z+W8f993L._SY522_.jpg"
+    },
+    {
+        "title": "Souriez, vous êtes Français !",
+        "author": "Bernard Maris",
+        "link_amazon_book": "https://amzn.to/4bqktak",
+        "image": "https://m.media-amazon.com/images/I/81LwDsjf7PL._SY522_.jpg"
+    },
+    {
+        "title": "Lettre ouverte aux socialistes",
+        "author": "Maurice Duverger",
+        "link_amazon_book": "https://amzn.to/3SpvLTs",
+        "image": "https://m.media-amazon.com/images/I/814THKRuzdL._SY522_.jpg"
+    },
+    {
+        "title": "La peste",
+        "author": "Albert Camus",
+        "link_amazon_book": "https://amzn.to/3HSd6dT",
+        "image": "https://m.media-amazon.com/images/I/61FqU895FsL._SY522_.jpg"
+    },
+    {
+        "title": "Le Hussard sur le toit",
+        "author": "Jean Giono",
+        "link_amazon_book": "https://amzn.to/3ubmaaV",
+        "image": "https://m.media-amazon.com/images/I/81M5pfiZnrL._SY522_.jpg"
+    },
+    {
+        "title": "Deadly River: Cholera and Cover-up in Post-Earthquake Haiti",
+        "author": "Ralph R. Frerichs",
+        "link_amazon_book": "https://amzn.to/42teihj",
+        "image": "https://m.media-amazon.com/images/I/61RwLFpO5tL._SY522_.jpg"
+    },
+    {
+        "title": "L'Identité de la France",
+        "author": "Fernand Braudel",
+        "link_amazon_book": "https://amzn.to/3Uqrodi",
+        "image": "https://m.media-amazon.com/images/I/41PRKYXJKNL.jpg"
+    },
+    {
+        "title": "Le Licite et l'Illicite en islam",
+        "author": "Youssef al-Qaradâwî",
+        "link_amazon_book": "https://www.librairie-sana.com/fr/le-hadith-livre/3042-le-licite-et-l-illicite-en-islam-sur-librairie-sana-9782909469188.html",
+        "image": "https://www.librairie-sana.com/1980-medium_default/le-licite-et-l-illicite-en-islam-sur-librairie-sana.jpg"
+    },
+    {
+        "title": "La trahison des clercs",
+        "author": "Julien Benda",
+        "link_amazon_book": "https://amzn.to/3wauLed",
+        "image": "https://m.media-amazon.com/images/I/61oVWUBtvRL._SY522_.jpg"
+    },
+    {
+        "title": "L’Avenir est notre affaire",
+        "author": "Denis de Rougemont",
+        "link_amazon_book": "https://amzn.to/3HM8zK4",
+        "image": "https://m.media-amazon.com/images/I/41PYzPeNtaL.jpg"
+    },
+    {
+        "title": "Hexis d'un soir",
+        "author": "Rodolphe de Maistre",
+        "link_amazon_book": "https://amzn.to/4bm8qut",
+        "image": "https://m.media-amazon.com/images/I/81wcc2lznRL._SY522_.jpg"
+    },
+    {
+        "title": "La civilisation du cocon",
+        "author": "Vincent Coquebert",
+        "link_amazon_book": "https://amzn.to/3Ort56D",
+        "image": "https://m.media-amazon.com/images/I/61ATsrqmnCL._SY522_.jpg"
+    },
+    {
+        "title": "Sars-CoV-2, aux origines du mal",
+        "author": "Brice Perrier",
+        "link_amazon_book": "https://amzn.to/3UrT29J",
+        "image": "https://m.media-amazon.com/images/I/81bmaO3EZCS._SY522_.jpg"
+    },
+    {
+        "title": "Penser en Chine",
+        "author": "Collectifs - Sous la direction d'Anne Cheng",
+        "link_amazon_book": "https://amzn.to/3Sp4Sir",
+        "image": "https://m.media-amazon.com/images/I/71f6z-jU9dL._SY522_.jpg"
+    },
+    {
+        "title": "Œuvres poétiques complètes",
+        "author": "Paul Verlaine",
+        "link_amazon_book": "https://amzn.to/3SLHbT1",
+        "image": "https://m.media-amazon.com/images/I/61KlqZ3E3zL._SY522_.jpg"
+    },
+    {
+        "title": "Oeuvre complète",
+        "author": "François-René de Chateaubriand",
+        "link_amazon_book": "https://amzn.to/49lar8t",
+        "image": "https://m.media-amazon.com/images/I/71sD27MTHWS._SY522_.jpg"
+    },
+    {
+        "title": "Insoumission française",
+        "author": "Sonia Mabrouk",
+        "link_amazon_book": "https://amzn.to/3HM8bex",
+        "image": "https://m.media-amazon.com/images/I/51i05nvkXZL._SY522_.jpg"
+    },
+    {
+        "title": "La peste",
+        "author": "Albert Camus",
+        "link_amazon_book": "https://amzn.to/49jsGeh",
+        "image": "https://m.media-amazon.com/images/I/61FqU895FsL._SY522_.jpg"
+    },
+    {
+        "title": "Blouses blanches et Gwenn ha Du: La grève oubliée des étudiants en médecine de Rennes",
+        "author": "Hugo Melchior",
+        "link_amazon_book": "https://www.leslibraires.fr/livre/18433806-blouses-blanches-et-gwenn-ha-du-la-greve-oubli--hugo-melchior-auto-edition",
+        "image": "https://cdn.leslibraires.fr/vKba-Vxn1BwVuW3-tL_jFaHGYf4NNqY5xOxi1rzWors/s:337:400/ODc5OTgxOA.webp"
+    },
+    {
+        "title": "Etouffer la révolte : La psychiatrie contre les Civil rights, une histoire du contrôle social",
+        "author": "Jonathan M. Metzl",
+        "link_amazon_book": "https://amzn.to/3SsGUTh",
+        "image": "https://m.media-amazon.com/images/I/71AEmpefr2L._SY522_.jpg"
+    },
+    {
+        "title": "Le Plan Marshall",
+        "author": "Benn Steil",
+        "link_amazon_book": "https://amzn.to/49dbUO2",
+        "image": "https://m.media-amazon.com/images/I/618bC3LWRqL._SY466_.jpg"
+    },
+    {
+        "title": "Sortir de l'impasse postcoloniale",
+        "author": "Philippe San Marco",
+        "link_amazon_book": "https://amzn.to/483qV3P",
+        "image": "https://m.media-amazon.com/images/I/81BVUfPIfyL._SY466_.jpg"
+    },
+    {
+        "title": "Paul Morand",
+        "author": "Pauline Dreyfus",
+        "link_amazon_book": "https://amzn.to/49z0O6n",
+        "image": "https://m.media-amazon.com/images/I/818rTfzhQWL._SY466_.jpg"
+    },
+    {
+        "title": "Les ors de la République",
+        "author": "Henri Bentégeat",
+        "link_amazon_book": "https://amzn.to/3HGszO9",
+        "image": "https://m.media-amazon.com/images/I/71jcwxL-rhL._SY466_.jpg"
+    },
+    {
+        "title": "Le Rivage des Syrtes",
+        "author": "Julien Gracq",
+        "link_amazon_book": "https://amzn.to/4biMyQE",
+        "image": "https://m.media-amazon.com/images/I/61QdDAllm8L._SY466_.jpg"
+    },
+    {
+        "title": "Un balcon en forêt",
+        "author": "Julien Gracq",
+        "link_amazon_book": "https://amzn.to/3SGh7by",
+        "image": "https://m.media-amazon.com/images/I/51MVz5DvJmL._SY466_.jpg"
+    },
+    {
+        "title": "Entrer en stratégie",
+        "author": "Vincent Desportes",
+        "link_amazon_book": "https://amzn.to/48VnnSu",
+        "image": "https://m.media-amazon.com/images/I/61c127JUzBL._SY466_.jpg"
+    },
+    {
+        "title": "Pour une socioanalyse du journalisme",
+        "author": "Alain Accardo",
+        "link_amazon_book": "https://amzn.to/48RSO0j",
+        "image": "https://m.media-amazon.com/images/I/61q0tWlVabL._SY466_.jpg"
+    },
+    {
+        "title": "Un jour dans notre vie",
+        "author": "David Fritz Goeppinger",
+        "link_amazon_book": "https://amzn.to/3w0lN3l",
+        "image": "https://m.media-amazon.com/images/I/61n1NhthMlL._SY466_.jpg"
+    },
+    {
+        "title": "Vice",
+        "author": "Laurent Chalumeau",
+        "link_amazon_book": "https://amzn.to/3ueN2GM",
+        "image": "https://m.media-amazon.com/images/I/51VGhRLIPIL._SY466_.jpg"
+    },
+    {
+        "title": "Terremer",
+        "author": "Ursula K. Le Guin",
+        "link_amazon_book": "https://amzn.to/3SnBfOo",
+        "image": "https://m.media-amazon.com/images/I/81u62lP7tuL._SY466_.jpg"
+    },
+    {
+        "title": "Surveiller et punir",
+        "author": "Michel Foucault",
+        "link_amazon_book": "https://amzn.to/3vQtrx2",
+        "image": "https://m.media-amazon.com/images/I/71ypC53ohWL._SY466_.jpg"
+    },
+    {
+        "title": "Histoire d'un allemand ",
+        "author": "Sébastian Haffner",
+        "link_amazon_book": "https://amzn.to/482Cusa",
+        "image": "https://m.media-amazon.com/images/I/61cdg8uiDvL._SY466_.jpg"
+    },
+    {
+        "title": "Oeuvre complète",
+        "author": "Jirô Taniguchi",
+        "link_amazon_book": "https://amzn.to/4bmi7cy",
+        "image": "https://m.media-amazon.com/images/I/716mEW8VG1L._SY466_.jpg"
+    },
+    {
+        "title": "De la certitude",
+        "author": "Ludwig Wittgenstein",
+        "link_amazon_book": "https://amzn.to/48W67N3",
+        "image": "https://m.media-amazon.com/images/I/31jqWy3HCLL._SY466_.jpg"
+    },
+    {
+        "title": "Martin Eden",
+        "author": "Jack London",
+        "link_amazon_book": "https://amzn.to/49gQH5W",
+        "image": "https://m.media-amazon.com/images/I/61kWOJcHerL._SY466_.jpg"
+    },
+    {
+        "title": "L'Imagination sociologique",
+        "author": "Charles Wright Mills",
+        "link_amazon_book": "https://amzn.to/4biYX71",
+        "image": "https://m.media-amazon.com/images/I/61AWddowhwL._SY466_.jpg"
+    },
+    {
+        "title": "Pour une spiritualité sans dieux",
+        "author": "Philippe Corcuff",
+        "link_amazon_book": "https://amzn.to/3SDNc3M",
+        "image": "https://m.media-amazon.com/images/I/41Z1Yf0t+RL._SY466_.jpg"
+    },
+    {
+        "title": "La grande confusion. Comment l'extrême-droite gagne la bataille des idées",
+        "author": "Philippe Corcuff",
+        "link_amazon_book": "https://amzn.to/42kYKfA",
+        "image": "https://m.media-amazon.com/images/I/41CREsp4dOL._SY466_.jpg"
+    },
+    {
+        "title": "Le Livre de l'intranquillité",
+        "author": "Fernando Pessoa",
+        "link_amazon_book": "https://amzn.to/3HE8gRy",
+        "image": "https://m.media-amazon.com/images/I/718FtTrwIKL._SY466_.jpg"
+    },
+    {
+        "title": "Malicroix",
+        "author": "Henri Bosco",
+        "link_amazon_book": "https://amzn.to/3HMrxQF",
+        "image": "https://m.media-amazon.com/images/I/8195BX1rINL._SY466_.jpg"
+    },
+    {
+        "title": "Rapport du GIEC",
+        "author": "IPCC",
+        "link_amazon_book": "https://www.ipcc.ch/languages-2/francais/publications/",
+        "image": "https://www.ipcc.ch/site/assets/uploads/2022/05/WGIII_AR6_cover-web-231x300.png"
+    },
+    {
+        "title": "Abondance et liberté",
+        "author": "Pierre Charbonnier",
+        "link_amazon_book": "https://amzn.to/47WNbMQ",
+        "image": "https://m.media-amazon.com/images/I/61pS8pZ+NlL._SY466_.jpg"
+    },
+    {
+        "title": "Maitriser l'empreinte carbone de la France",
+        "author": "Haut conseil pour le climat",
+        "link_amazon_book": "https://www.hautconseilclimat.fr/publications/maitriser-lempreinte-carbone-de-la-france/",
+        "image": "https://www.observatoireclimat-hautsdefrance.org/var/www/storage/images/mediatheque/observatoire-climat/images/couverture-ressources-docs/couv_rapport_hcc_empreinte_carbone/63562-1-fre-FR/Couv_rapport_HCC_empreinte_carbone.png"
+    },
+    {
+        "title": "Le Petit Prince",
+        "author": "Antoine de Saint-Exupéry",
+        "link_amazon_book": "https://amzn.to/42l4iH2",
+        "image": "https://m.media-amazon.com/images/I/717xpibjvxL._SY466_.jpg"
+    },
+    {
+        "title": "Déjeuners avec les talibans",
+        "author": "Jean-yves Berthault",
+        "link_amazon_book": "https://amzn.to/3vUwPqW",
+        "image": "https://m.media-amazon.com/images/I/517V5sQ-wxL._SY466_.jpg"
+    },
+    {
+        "title": "État du monde",
+        "author": "La Découverte",
+        "link_amazon_book": "https://www.cairn.info/collection-etat-du-monde.htm",
+        "image": "https://www.cairn.info/cover/width-204/DEC_EDM/DEC_BADIE_2021_01.jpg"
+    },
+    {
+        "title": "Ouïghours, pour en finir avec les Fake News",
+        "author": "Maxime Vivas",
+        "link_amazon_book": "https://amzn.to/3Uq1FBN",
+        "image": "https://m.media-amazon.com/images/I/51yLUt+lm6L._SY466_.jpg"
+    },
+    {
+        "title": "Metasploit: the penetration tester's guide",
+        "author": "Devon Kearns, David Kennedy, Mati Aharoni, Jim O'Gorman",
+        "link_amazon_book": "https://amzn.to/3Okxpog",
+        "image": "https://m.media-amazon.com/images/I/91920apJNBL._SY466_.jpg"
+    },
+    {
+        "title": "Petit traité de manipulation à l'usage des honnêtes gens",
+        "author": "Jean-Léon Beauvois et Vincent Joule",
+        "link_amazon_book": "https://amzn.to/3vJX2Z2",
+        "image": "https://m.media-amazon.com/images/I/71xWYitlsYL._SY466_.jpg"
+    },
+    {
+        "title": "Hacking: The Art of Exploitation",
+        "author": "Jon Erickson",
+        "link_amazon_book": "https://amzn.to/4bmluAb",
+        "image": "https://m.media-amazon.com/images/I/91UlU666haL._SY466_.jpg"
+    },
+    {
+        "title": "The Web Application Hacker's Handbook: Discovering and Exploiting Security Flaws",
+        "author": "Dafydd Stuttard, Marcus Pinto",
+        "link_amazon_book": "https://amzn.to/3ScVpKQ",
+        "image": "https://m.media-amazon.com/images/I/614xwfIg1DL._SY466_.jpg"
+    },
+    {
+        "title": "Wall Street à l’assaut de la démocratie",
+        "author": "Georges Ugeux",
+        "link_amazon_book": "https://amzn.to/3HHzJle",
+        "image": "https://m.media-amazon.com/images/I/61lBJgJ937L._SY522_.jpg"
+    },
+    {
+        "title": "La descente aux enfers de la finance",
+        "author": "Georges Ugeux",
+        "link_amazon_book": "https://amzn.to/3ubFF2Z",
+        "image": "https://m.media-amazon.com/images/I/61s8Z3JXJDL._SY522_.jpg"
+    },
+    {
+        "title": "La grande illusion",
+        "author": "Michel Barnier",
+        "link_amazon_book": "https://amzn.to/3SFqAPx",
+        "image": "https://m.media-amazon.com/images/I/6119zfUNhXL._SY522_.jpg"
+    },
+    {
+        "title": "L'anomalie",
+        "author": "Hervé Le Tellier",
+        "link_amazon_book": "https://amzn.to/3SEshOc",
+        "image": "https://m.media-amazon.com/images/I/81vimU4GY3L._SY522_.jpg"
+    },
+    {
+        "title": "La dernière chance du capitalisme",
+        "author": "Patrick Artus",
+        "link_amazon_book": "https://amzn.to/3UlVXAL",
+        "image": "https://m.media-amazon.com/images/I/4152JnUvfOS._SY445_SX342_.jpg"
+    },
+    {
+        "title": "The Code of Capital: How the Law Creates Wealth and Inequality",
+        "author": "Katarina Pistor",
+        "link_amazon_book": "https://amzn.to/48cW19D",
+        "image": "https://m.media-amazon.com/images/I/819o9tAxqkL._SY466_.jpg"
+    },
+    {
+        "title": "Le Vieil Homme et la Mer",
+        "author": "Ernest Hemingway",
+        "link_amazon_book": "https://amzn.to/3uhfyI0",
+        "image": "https://m.media-amazon.com/images/I/81WcA8f9DaL._SY522_.jpg"
+    },
+    {
+        "title": "De la guerre",
+        "author": "Carl von Clausewitz",
+        "link_amazon_book": "https://amzn.to/4bcyBUt",
+        "image": "https://m.media-amazon.com/images/I/61j80VQ4XZL._SY522_.jpg"
+    },
+    {
+        "title": "The Bear Went Over the Mountain",
+        "author": "Lester W. Grau",
+        "link_amazon_book": "https://amzn.to/3vRu9Kq",
+        "image": "https://m.media-amazon.com/images/I/91nFNHOoHXL._SY522_.jpg"
+    },
+    {
+        "title": "The Other Side of the Mountain",
+        "author": "Ali Jalali & Lester W. Grau",
+        "link_amazon_book": "https://amzn.to/3UmmPRj",
+        "image": "https://m.media-amazon.com/images/I/91R8zXtPslL._SY522_.jpg"
+    },
+    {
+        "title": "Mémoires d'outre-tombe",
+        "author": "François-René de Chateaubriand",
+        "link_amazon_book": "https://amzn.to/3NWSAwe",
+        "image": "https://m.media-amazon.com/images/I/31lO1vK4n9L.jpg"
+    },
+    {
+        "title": "Illusions perdues",
+        "author": "Honoré de Balzac",
+        "link_amazon_book": "https://amzn.to/49gAtK8",
+        "image": "https://m.media-amazon.com/images/I/61tZft4jWcL._SY522_.jpg"
+    },
+    {
+        "title": "Les origines de la France contemporaine",
+        "author": "Hippolyte Taine",
+        "link_amazon_book": "https://amzn.to/3OonXjr",
+        "image": "https://m.media-amazon.com/images/I/61WrHoXbzTS._SY522_.jpg"
+    },
+    {
+        "title": "La Semaine Sainte",
+        "author": "Louis Aragon",
+        "link_amazon_book": "https://amzn.to/4biHWKb",
+        "image": "https://m.media-amazon.com/images/I/91dLbzZiJ1L._SY522_.jpg"
+    },
+    {
+        "title": "L'Immeuble Yacoubian",
+        "author": "Alaa El Aswany",
+        "link_amazon_book": "https://amzn.to/3SDwAsW",
+        "image": "https://m.media-amazon.com/images/I/81FhLcBgFFL._SY522_.jpg"
+    },
+    {
+        "title": "Sur le controle de nos vies",
+        "author": "Noam Chomsky",
+        "link_amazon_book": "https://amzn.to/3SE99Qg",
+        "image": "https://m.media-amazon.com/images/I/81diItbQ01L._SY522_.jpg"
+    },
+    {
+        "title": "La Guerre hors limites",
+        "author": "Qiao Liang",
+        "link_amazon_book": "https://amzn.to/3ul1Xza",
+        "image": "https://m.media-amazon.com/images/I/81+pA9NNNNL._SY522_.jpg"
+    },
+    {
+        "title": "L'âge productiviste. Hégémonie prométhéenne, brèches et alternatives écologiques",
+        "author": "Serge Audier",
+        "link_amazon_book": "https://amzn.to/4bf0Q4J",
+        "image": "https://m.media-amazon.com/images/I/81ARlnz4TQL._SY522_.jpg"
+    },
+    {
+        "title": "Factfulness",
+        "author": "Hans Rosling",
+        "link_amazon_book": "https://amzn.to/4bm05qz",
+        "image": "https://m.media-amazon.com/images/I/51KZw4ssbIL._SY522_.jpg"
+    },
+    {
+        "title": "Outliers: The Story of Success",
+        "author": "Malcolm Gladwell",
+        "link_amazon_book": "https://amzn.to/3OMwBc3",
+        "image": "https://m.media-amazon.com/images/I/51qObBGYrrL._SY522_.jpg"
+    },
+    {
+        "title": "L'opportunité du Covid 19",
+        "author": "Raphaël Rossello",
+        "link_amazon_book": "https://amzn.to/3Opdcxt",
+        "image": "https://m.media-amazon.com/images/I/51sX2g2l8xL._SY522_.jpg"
+    },
+    {
+        "title": "Discours de la servitude volontaire",
+        "author": "Étienne de La Boétie",
+        "link_amazon_book": "https://amzn.to/3vE4qFu",
+        "image": "https://m.media-amazon.com/images/I/71IxtPo1KtL._SY522_.jpg"
+    },
+    {
+        "title": "La Fin de l'histoire et le Dernier Homme",
+        "author": "Francis Fukuyama",
+        "link_amazon_book": "https://amzn.to/3udvE5m",
+        "image": "https://m.media-amazon.com/images/I/71K2wYhNYsL._SY522_.jpg"
+    },
+    {
+        "title": "Le Bug humain",
+        "author": "Sébastien Bohler",
+        "link_amazon_book": "https://amzn.to/42kpBIF",
+        "image": "https://m.media-amazon.com/images/I/71KrEu5bmoL._SY522_.jpg"
+    },
+    {
+        "title": "L'Enracinement",
+        "author": "Simone Weil",
+        "link_amazon_book": "https://amzn.to/4bcwOPf",
+        "image": "https://m.media-amazon.com/images/I/81I8vqFsEPL._SY522_.jpg"
+    },
+    {
+        "title": "Communauté",
+        "author": "Martin Buber",
+        "link_amazon_book": "https://amzn.to/3HIw3jn",
+        "image": "https://m.media-amazon.com/images/I/71Dqm7n2WZL._SY522_.jpg"
+    },
+    {
+        "title": "Lti, la langue du IIIème Reich",
+        "author": "Victor Klemperer",
+        "link_amazon_book": "https://amzn.to/49f9XAD",
+        "image": "https://m.media-amazon.com/images/I/71JRX2O28oL._SY522_.jpg"
+    },
+    {
+        "title": "Oeuvre complète",
+        "author": "William Morris",
+        "link_amazon_book": "https://amzn.to/3vQaCdm",
+        "image": "https://m.media-amazon.com/images/I/51uH2HTgJKL.jpg"
+    },
+    {
+        "title": "Faire sécession : une politique de nous-mêmes",
+        "author": "Eric Sadin",
+        "link_amazon_book": "https://amzn.to/48UHqAI",
+        "image": "https://m.media-amazon.com/images/I/61DapyNdm9L._SY522_.jpg"
+    },
+    {
+        "title": "Influence et manipulation",
+        "author": "Robert Cialdini",
+        "link_amazon_book": "https://amzn.to/3U4UL4V",
+        "image": "https://m.media-amazon.com/images/I/61u5kXiO0xL._SY466_.jpg"
+    },
+    {
+        "title": "Principes du gouvernement représentatif",
+        "author": "Bernard Manin",
+        "link_amazon_book": "https://amzn.to/3vHPDtp",
+        "image": "https://m.media-amazon.com/images/I/71Z+QOZgLML._SY466_.jpg"
+    },
+    {
+        "title": "La Zone du Dehors",
+        "author": "Alain Damasio",
+        "link_amazon_book": "https://amzn.to/3HtF0Nk",
+        "image": "https://m.media-amazon.com/images/I/81ClXYWqZyL._SY466_.jpg"
+    },
+    {
+        "title": "Petit cours d'autodéfense intellectuelle",
+        "author": "Normand Baillargeon",
+        "link_amazon_book": "https://amzn.to/3Hq7g3c",
+        "image": "https://m.media-amazon.com/images/I/61rJmDazy4L._SY466_.jpg"
+    },
+    {
+        "title": "L'Art d'avoir toujours raison",
+        "author": "Arthur Schopenhauer",
+        "link_amazon_book": "https://amzn.to/3SqQyXO",
+        "image": "https://m.media-amazon.com/images/I/412GnrE7s+L._SY466_.jpg"
+    },
+    {
+        "title": "Système 1 / Système 2 : Les deux vitesses de la pensée",
+        "author": "Daniel Kahneman",
+        "link_amazon_book": "https://amzn.to/3SqlWG1",
+        "image": "https://m.media-amazon.com/images/I/61P9rCnogRL._SY466_.jpg"
+    },
+    {
+        "title": "Petit traité de manipulation à l'usage des honnêtes gens",
+        "author": "Jean-Léon Beauvois et Vincent Joule",
+        "link_amazon_book": "https://amzn.to/3vJX2Z2",
+        "image": "https://m.media-amazon.com/images/I/71xWYitlsYL._SY466_.jpg"
+    },
+    {
+        "title": "Le Pouvoir rhétorique",
+        "author": "Clément Viktorovitch",
+        "link_amazon_book": "https://amzn.to/3OaWqSt",
+        "image": "https://m.media-amazon.com/images/I/71+VbzsnYcL._SY466_.jpg"
+    },
+    {
+        "title": "Le Réel et son double",
+        "author": "Clément Rosset",
+        "link_amazon_book": "https://amzn.to/48InoJq",
+        "image": "https://m.media-amazon.com/images/I/91yzcIY4PNL._SY466_.jpg"
+    },
+    {
+        "title": "Le monde à la première personne",
+        "author": "Francis Wolff",
+        "link_amazon_book": "https://amzn.to/3Ht4U3N",
+        "image": "https://m.media-amazon.com/images/I/61Bm2+YdKFL._SY466_.jpg"
+    },
+    {
+        "title": "Le Mont Analogue",
+        "author": "René Daumal",
+        "link_amazon_book": "https://amzn.to/48Z4sGa",
+        "image": "https://m.media-amazon.com/images/I/51iGRLpUNDL._SY466_.jpg"
+    },
+    {
+        "title": "De la démocratie en Amérique",
+        "author": "Alexis de Tocqueville",
+        "link_amazon_book": "https://amzn.to/3Sr3Mny",
+        "image": "https://m.media-amazon.com/images/I/41QqmXzD4RL._SY466_.jpg"
+    },
+    {
+        "title": "Le pays qu'habitait Albert Einstein",
+        "author": "Etienne Klein",
+        "link_amazon_book": "https://amzn.to/47INWcb",
+        "image": "https://m.media-amazon.com/images/I/716Of86bRaL._SY466_.jpg"
+    },
+    {
+        "title": "L'Usage du monde",
+        "author": "Nicolas Bouvier",
+        "link_amazon_book": "https://amzn.to/426Pn2Z",
+        "image": "https://m.media-amazon.com/images/I/41UU7D5B8ZL._SY445_SX342_.jpg"
+    },
+    {
+        "title": "Guerre et Paix",
+        "author": "Léon Tolstoï",
+        "link_amazon_book": "https://amzn.to/3Hq6u6i",
+        "image": "https://m.media-amazon.com/images/I/51Y5VpT5UCL._SY466_.jpg"
+    },
+    {
+        "title": "Les Enfants Jéromine",
+        "author": "Ernst Wiechert",
+        "link_amazon_book": "https://amzn.to/49381Lk",
+        "image": "https://m.media-amazon.com/images/I/91xu2Ck-SGL._SY466_.jpg"
+    },
+    {
+        "title": "Qu'est-ce qu'une nation ?",
+        "author": "Ernest Renan",
+        "link_amazon_book": "https://amzn.to/3tSbrC5",
+        "image": "https://m.media-amazon.com/images/I/71b3uaqi6tL._SY466_.jpg"
+    },
+    {
+        "title": "Histoire de la guerre du Péloponnèse",
+        "author": "Thucydide",
+        "link_amazon_book": "https://amzn.to/3U9DXts",
+        "image": "https://m.media-amazon.com/images/I/81e5muE1WlL._SY466_.jpg"
+    },
+    {
+        "title": "Germinal",
+        "author": "Emile Zola",
+        "link_amazon_book": "https://m.media-amazon.com/images/I/81X-F1nE0IL._SY466_.jpg",
+        "image": "https://amzn.to/429vatj"
+    },
+    {
+        "title": "Minerais de sang",
+        "author": "Christophe Boltanski",
+        "link_amazon_book": "https://amzn.to/47IMHd1",
+        "image": "https://m.media-amazon.com/images/I/81UR-dFaZ1L._SY466_.jpg"
+    },
+    {
+        "title": "La Fin de la mégamachine: Sur les traces d'une civilisation en voie d'effondrement",
+        "author": "Fabian Scheidler",
+        "link_amazon_book": "https://amzn.to/491gyOX",
+        "image": "https://m.media-amazon.com/images/I/716yVHAxNsL._SY466_.jpg"
+    },
+    {
+        "title": "L'Intendance suivra ! De Gaulle et l'Économie",
+        "author": "Geoffroy Roux de Bézieux",
+        "link_amazon_book": "https://amzn.to/48HnTDw",
+        "image": "https://m.media-amazon.com/images/I/61cQB1QxpPL._SY466_.jpg"
+    },
+    {
+        "title": "Capitalisme et liberté",
+        "author": "Milton Friedman",
+        "link_amazon_book": "https://amzn.to/48BTyq2",
+        "image": "https://m.media-amazon.com/images/I/61L7ZHzFsIL._SY466_.jpg"
+    },
+    {
+        "title": "La Flotte fantôme: Le troisième conflit mondial est déjà là",
+        "author": "Peter W. Singer",
+        "link_amazon_book": "https://amzn.to/3S5Ifzm",
+        "image": "https://m.media-amazon.com/images/I/71zVw9UqJTL._SY466_.jpg"
+    },
+    {
+        "title": "L'Argent",
+        "author": "Charles Péguy",
+        "link_amazon_book": "https://amzn.to/48GXvKe",
+        "image": "https://m.media-amazon.com/images/I/513eQVue7pL._SY466_.jpg"
+    },
+    {
+        "title": "La Société de consommation",
+        "author": "Jean Baudrillard",
+        "link_amazon_book": "https://amzn.to/42b5Kfc",
+        "image": "https://m.media-amazon.com/images/I/81sTmjatw0L._SY466_.jpg"
+    },
+    {
+        "title": "La Chartreuse de Parme",
+        "author": "Stendhal",
+        "link_amazon_book": "https://amzn.to/3SrXFOP",
+        "image": "https://m.media-amazon.com/images/I/818KmgROmYL._SY466_.jpg"
+    },
+    {
+        "title": "The Limits to Growth",
+        "author": "Meadows",
+        "link_amazon_book": "https://amzn.to/3SryPj2",
+        "image": "https://m.media-amazon.com/images/I/51FWrUoBehL._SY466_.jpg"
+    },
+    {
+        "title": "De la démocratie en Amérique",
+        "author": "Alexis de Tocqueville",
+        "link_amazon_book": "https://amzn.to/3Sr3Mny",
+        "image": "https://m.media-amazon.com/images/I/41QqmXzD4RL._SY466_.jpg"
+    },
+    {
+        "title": "Malevil",
+        "author": "Robert Merle",
+        "link_amazon_book": "https://amzn.to/3ObDhjt",
+        "image": "https://m.media-amazon.com/images/I/81QlARq-YiL._SY466_.jpg"
+    },
+    {
+        "title": "Requiem pour une République",
+        "author": "Thomas Cantaloube",
+        "link_amazon_book": "https://amzn.to/3U4SmXX",
+        "image": "https://m.media-amazon.com/images/I/71DPamZQm7S._SY466_.jpg"
+    },
+    {
+        "title": "Mémoires impubliables",
+        "author": "Pierre Péan",
+        "link_amazon_book": "https://amzn.to/3U9lFsu",
+        "image": "https://m.media-amazon.com/images/I/716paoB-DGL._SY466_.jpg"
+    },
+    {
+        "title": "L'enfer numérique: Voyage au bout d'un Like",
+        "author": "Guillaume Pitron",
+        "link_amazon_book": "https://amzn.to/42a651m",
+        "image": "https://m.media-amazon.com/images/I/41vKdWZsq2L._SY466_.jpg"
+    },
+    {
+        "title": "L'ambigu monsieur Macron",
+        "author": "Marc Endeweld",
+        "link_amazon_book": "https://amzn.to/3SoAPsq",
+        "image": "https://m.media-amazon.com/images/I/61NvwouVzUL._SY466_.jpg"
+    },
+    {
+        "title": "Le Grand Manipulateur : Les Réseaux secrets de Macron",
+        "author": "Marc Endeweld",
+        "link_amazon_book": "https://amzn.to/3vJUR7N",
+        "image": "https://m.media-amazon.com/images/I/51q-T48lGhL._SY466_.jpg"
+    },
+    {
+        "title": "L'Emprise : La France sous influence",
+        "author": "Marc Endeweld",
+        "link_amazon_book": "https://amzn.to/48BTjeC",
+        "image": "https://m.media-amazon.com/images/I/818zEVZruBL._SY466_.jpg"
+    },
+    {
+        "title": "Sur le journalisme",
+        "author": "Joseph Pulitzer",
+        "link_amazon_book": "https://amzn.to/47Ioxzw",
+        "image": "https://m.media-amazon.com/images/I/41P5PkwlkCL._SY466_.jpg"
+    },
+    {
+        "title": "Terre d'ébène",
+        "author": "Albert Londres",
+        "link_amazon_book": "https://amzn.to/429nHKP",
+        "image": "https://m.media-amazon.com/images/I/A1+ku2ztGTL._SY466_.jpg"
+    },
+    {
+        "title": "Mémoires vives",
+        "author": "Edward Snowden",
+        "link_amazon_book": "https://amzn.to/47IoBPM",
+        "image": "https://m.media-amazon.com/images/I/71oIKff6doL._SY466_.jpg"
+    },
+    {
+        "title": "La Route",
+        "author": "Cormac McCarthy",
+        "link_amazon_book": "https://amzn.to/3vKEW9m",
+        "image": "https://m.media-amazon.com/images/I/71GgOIsdrFL._SY466_.jpg"
+    },
+    {
+        "title": "Beloved",
+        "author": "Toni Morrison",
+        "link_amazon_book": "https://amzn.to/3SuSYoE",
+        "image": "https://m.media-amazon.com/images/I/71oNhEW7qiL._SY466_.jpg"
+    },
+    {
+        "title": "Mémoire du feu",
+        "author": "Eduardo Galeano",
+        "link_amazon_book": "https://amzn.to/3SqGPRp",
+        "image": "https://m.media-amazon.com/images/I/71aJjKKkjVL._SY466_.jpg"
+    },
+    {
+        "title": "La fabrication de l'ennemi",
+        "author": "Pierre Conesa",
+        "link_amazon_book": "https://amzn.to/3Sq52ap",
+        "image": "https://m.media-amazon.com/images/I/514g1SWtLyL._SY466_.jpg"
+    },
+    {
+        "title": "L'idée de guerre juste",
+        "author": "Monique Canto-Sperber",
+        "link_amazon_book": "https://amzn.to/3HpRd5N",
+        "image": "https://m.media-amazon.com/images/I/61KR5NdP48L._SY466_.jpg"
+    },
+    {
+        "title": "Oeuvre complète",
+        "author": "Kamel Daoud",
+        "link_amazon_book": "https://amzn.to/3Hv6lPf",
+        "image": "https://m.media-amazon.com/images/I/91YuSoEyrvL._SY466_.jpg"
+    },
+    {
+        "title": "Une Suisse au-dessus de tout soupçon",
+        "author": "Jean Ziegler",
+        "link_amazon_book": "https://amzn.to/3Sr3gG8",
+        "image": "https://m.media-amazon.com/images/I/61tQ+m5K6HL._SY466_.jpg"
+    },
+    {
+        "title": "La Matrice",
+        "author": "Christophe Deloire",
+        "link_amazon_book": "https://amzn.to/3vLvnHh",
+        "image": "https://m.media-amazon.com/images/I/712yT9-Q-lL._SY466_.jpg"
+    },
+    {
+        "title": "Sans blessures apparentes",
+        "author": "Jean-Paul Mari",
+        "link_amazon_book": "https://amzn.to/3HtZV2E",
+        "image": "https://m.media-amazon.com/images/I/81sP2Tr7InL._SY466_.jpg"
+    },
+    {
+        "title": "Retour à Lemberg",
+        "author": "Philippe Sands",
+        "link_amazon_book": "https://amzn.to/3HMmAHX",
+        "image": "https://m.media-amazon.com/images/I/81KNuQSxOKL._SY466_.jpg"
+    },
+    {
+        "title": "L'Âge du capitalisme de surveillance",
+        "author": "Shoshana Zuboff",
+        "link_amazon_book": "https://amzn.to/3vJfdhz",
+        "image": "https://m.media-amazon.com/images/I/51WaaYgJsQL._SY466_.jpg"
+    },
+    {
+        "title": "La Fin de l'homme rouge",
+        "author": "Svetlana Alexievitch",
+        "link_amazon_book": "https://amzn.to/3SafrG4",
+        "image": "https://m.media-amazon.com/images/I/41v--UjGZ4L._SY466_.jpg"
+    },
+    {
+        "title": "Le traître et le néant",
+        "author": "Gérard Davet & Fabrice Lhomme",
+        "link_amazon_book": "https://amzn.to/48EAY0p",
+        "image": "https://m.media-amazon.com/images/I/61XKVFm+LgL._SY466_.jpg"
+    },
+    {
+        "title": "L'Emprise: La France sous influence",
+        "author": "Marc Endeweld",
+        "link_amazon_book": "https://amzn.to/47GiDyN",
+        "image": "https://m.media-amazon.com/images/I/818zEVZruBL._SY466_.jpg"
+    },
+    {
+        "title": "La Véritable Histoire des Gracques",
+        "author": "Christopher Bouix",
+        "link_amazon_book": "https://amzn.to/47HkT9a",
+        "image": "https://m.media-amazon.com/images/I/81dHwhbgTVL._SY466_.jpg"
+    },
+    {
+        "title": "The Limits to Growth",
+        "author": "Meadows",
+        "link_amazon_book": "https://amzn.to/3SryPj2",
+        "image": "https://m.media-amazon.com/images/I/51FWrUoBehL._SY466_.jpg"
+    },
+    {
+        "title": "L'Âge des low tech",
+        "author": "Philippe Bihouix",
+        "link_amazon_book": "https://amzn.to/3vsjsxK",
+        "image": "https://m.media-amazon.com/images/I/81rb-8EHM8L._SY522_.jpg"
+    },
+    {
+        "title": "Les quatre accords toltèques",
+        "author": "Miguel Ruiz",
+        "link_amazon_book": "https://amzn.to/42bzsR1",
+        "image": "https://m.media-amazon.com/images/I/615Hq44qv1L._SY466_.jpg"
+    },
+    {
+        "title": "La guerre du pétrole",
+        "author": "Mosley Leonard",
+        "link_amazon_book": "https://amzn.to/3tSjSxb",
+        "image": "https://m.media-amazon.com/images/I/71pfUIQiKDL._SY466_.jpg"
+    },
+    {
+        "title": "World Energy Outlook",
+        "author": "IEA",
+        "link_amazon_book": "https://www.iea.org/search?q=World%20Energy%20Outlook",
+        "image": "https://iea.imgix.net/951a67ca-f0b9-46f5-87a1-821c75579dfa/WEO2023_shutterstock_1439121134.jpg?auto=compress%2Cformat&fit=min&q=80&rect=2021%2C0%2C2499%2C3400&w=348&h=473&fit=crop&fm=jpg&q=70&auto=format"
+    },
+    {
+        "title": "Monthly Oil Market Report",
+        "author": "OPEP",
+        "link_amazon_book": "https://www.opec.org/opec_web/en/publications/338.htm",
+        "image": "https://www.opec.org/opec_web/static_files_project/images/content/MOMR%20Jan%202024%20115x139.png"
+    },
+    {
+        "title": "Sapiens : Une brève histoire de l'humanité",
+        "author": "Yuval Noah Harari",
+        "link_amazon_book": "https://amzn.to/48TeqJ4",
+        "image": "https://m.media-amazon.com/images/I/71d0caFaVfL._SY522_.jpg"
+    },
+    {
+        "title": "Homo Deus : Une brève histoire de l'avenir",
+        "author": "Yuval Noah Harari",
+        "link_amazon_book": "https://amzn.to/422iSmC",
+        "image": "https://m.media-amazon.com/images/I/71BjqUAFGpL._SY522_.jpg"
+    },
+    {
+        "title": "L'enfer des bonnes intentions",
+        "author": "Stephen Walt",
+        "link_amazon_book": "https://amzn.to/3S2eW0A",
+        "image": "https://m.media-amazon.com/images/I/71oxnPTR25L._SY522_.jpg"
+    },
+    {
+        "title": "Le premier XXIe siècle",
+        "author": "Jean-Marie Guéhenno",
+        "link_amazon_book": "https://amzn.to/3Hq56Rk",
+        "image": "https://m.media-amazon.com/images/I/6160Ns94miL._SY522_.jpg"
+    },
+    {
+        "title": "Oeuvre complète",
+        "author": "Henry Kissinger",
+        "link_amazon_book": "https://amzn.to/3vFV5Nc",
+        "image": "https://m.media-amazon.com/images/I/81IcoIaiR5L._SY522_.jpg"
+    },
+    {
+        "title": "Oeuvre complète",
+        "author": "Zbigniew Brzezinski",
+        "link_amazon_book": "https://amzn.to/48I8D9B",
+        "image": "https://m.media-amazon.com/images/I/51DC1KxPbSL._SY522_.jpg"
+    },
+    {
+        "title": "Oeuvre complète",
+        "author": "Hubert Védrine",
+        "link_amazon_book": "https://amzn.to/3Unrxyr",
+        "image": "https://m.media-amazon.com/images/I/613vke1UVKL._SY522_.jpg"
+    },
+    {
+        "title": "Oeuvre complète",
+        "author": "Gérard Chaliand",
+        "link_amazon_book": "https://amzn.to/3U5IFZ7",
+        "image": "https://m.media-amazon.com/images/I/611G-yoEMpL._SY522_.jpg"
+    },
+    {
+        "title": "De Gaulle et la Russie",
+        "author": "Alexandre Jevakhoff",
+        "link_amazon_book": "",
+        "image": ""
+    },
+    {
+        "title": "Géopolitique du Covid-19 : Ce que nous révèle la crise du Coronavirus",
+        "author": "Pascal Boniface",
+        "link_amazon_book": "https://amzn.to/48SQPc9",
+        "image": "https://m.media-amazon.com/images/I/61eh5rYe0YL._SY522_.jpg"
+    },
+    {
+        "title": "Géopolitique de l'intelligence artificielle",
+        "author": "Pascal Boniface",
+        "link_amazon_book": "https://amzn.to/48ZaHtG",
+        "image": "https://m.media-amazon.com/images/I/71VkxKd5WKL._SY522_.jpg"
+    },
+    {
+        "title": "Comprendre le monde : Les relations internationales expliquées à tous",
+        "author": "Pascal Boniface",
+        "link_amazon_book": "https://amzn.to/3Sop0kX",
+        "image": "https://m.media-amazon.com/images/I/81U9PI7HHDL._SY522_.jpg"
+    },
+    {
+        "title": "Le Rivage des Syrtes",
+        "author": "Julien Gracq",
+        "link_amazon_book": "https://amzn.to/4b4gPm0",
+        "image": "https://m.media-amazon.com/images/I/61QdDAllm8L._SY522_.jpg"
+    },
+    {
+        "title": "Les Bienveillantes",
+        "author": "Jonathan Littell",
+        "link_amazon_book": "https://amzn.to/47Kh0A6",
+        "image": "https://m.media-amazon.com/images/I/71k7Ff9VPsL._SY522_.jpg"
+    },
+    {
+        "title": "Oeuvre complète",
+        "author": "Proust",
+        "link_amazon_book": "https://amzn.to/4958ehp",
+        "image": "https://m.media-amazon.com/images/I/61oPc46FsSL._SY466_.jpg"
+    },
+    {
+        "title": "Oeuvre complète",
+        "author": "Georges Perec",
+        "link_amazon_book": "https://amzn.to/490kT5c",
+        "image": "https://m.media-amazon.com/images/I/81fVAiKSQeL._SY466_.jpg"
+    },
+    {
+        "title": "Oeuvre complète",
+        "author": "Céline Louis Ferdinand",
+        "link_amazon_book": "https://amzn.to/494o1N9",
+        "image": "https://m.media-amazon.com/images/I/716b9Jf6-zL._SY466_.jpg"
+    },
+    {
+        "title": "La Traque",
+        "author": "Sacha Filipenko",
+        "link_amazon_book": "https://amzn.to/3SqJVVq",
+        "image": "https://m.media-amazon.com/images/I/61btB5r9P5L._SY466_.jpg"
+    },
+    {
+        "title": "Un fils perdu",
+        "author": "Sacha Filipenko",
+        "link_amazon_book": "https://amzn.to/3SqJWZu",
+        "image": "https://m.media-amazon.com/images/I/51AiqkSjAiL._SY466_.jpg"
+    },
+    {
+        "title": "Croix rouges",
+        "author": "Sacha Filipenko",
+        "link_amazon_book": "https://amzn.to/3O7YMSj",
+        "image": "https://m.media-amazon.com/images/I/718VaMzollL._SY466_.jpg"
+    },
+    {
+        "title": "L'Homme qui plantait des arbres",
+        "author": "Jean Giono",
+        "link_amazon_book": "https://amzn.to/3tVvNKw",
+        "image": "https://m.media-amazon.com/images/I/81lYpqDipHL._SY522_.jpg"
+    },
+    {
+        "title": "Le Bug humain: Pourquoi notre cerveau nous pousse à détruire la planète et comment l'en empêcher",
+        "author": "Sébastien Bohler",
+        "link_amazon_book": "https://amzn.to/4aZKFZa",
+        "image": "https://m.media-amazon.com/images/I/71KrEu5bmoL._SY522_.jpg"
+    },
+    {
+        "title": "L'empreinte eau - Les faces cachées d'une ressource vitale",
+        "author": "Daniel Zimmer",
+        "link_amazon_book": "https://amzn.to/427j6ck",
+        "image": "https://m.media-amazon.com/images/I/61TFGddjROL._SY522_.jpg"
+    },
+    {
+        "title": "Voyage aux pays du coton",
+        "author": "Erik Orsenna",
+        "link_amazon_book": "https://amzn.to/424DsCP",
+        "image": "https://m.media-amazon.com/images/I/716prNqs2aL._SY522_.jpg"
+    },
+    {
+        "title": "L'Avenir de l'eau",
+        "author": "Erik Orsenna",
+        "link_amazon_book": "https://amzn.to/3RSrx6w",
+        "image": "https://m.media-amazon.com/images/I/813Kfr+oWOL._SY522_.jpg"
+    },
+    {
+        "title": "Oeuvre complète",
+        "author": "Marc-André Selosse",
+        "link_amazon_book": "https://amzn.to/3SlEOGi",
+        "image": "https://m.media-amazon.com/images/I/51ffg+RXjeL.jpg"
+    },
+    {
+        "title": "Sept pas vers l'enfer. Séparatisme islamique : les désarrois d'un officier de renseignement",
+        "author": "Alain Chouet",
+        "link_amazon_book": "https://amzn.to/47BmKMC",
+        "image": "https://m.media-amazon.com/images/I/611rAwC7NFL._SY522_.jpg"
+    },
+    {
+        "title": "L'interrogatoire",
+        "author": "Vladimir Volkoff",
+        "link_amazon_book": "https://amzn.to/427iwva",
+        "image": "https://m.media-amazon.com/images/I/51PgOqEPfCL.jpg"
+    },
+    {
+        "title": "Au coeur des services spéciaux",
+        "author": "Alain Chouet, Jean Guisnel",
+        "link_amazon_book": "https://amzn.to/3S3txc6",
+        "image": "https://m.media-amazon.com/images/I/51UtxBd65cL._SY522_.jpg"
+    },
+    {
+        "title": "Histoire politique des services secrets français",
+        "author": "Jean Guisnel, Roger Faligot et Rémi Kauffer",
+        "link_amazon_book": "https://amzn.to/48UTS2R",
+        "image": "https://m.media-amazon.com/images/I/61jzOQW2+fL._SY522_.jpg"
+    },
+    {
+        "title": "Histoire secrète de la DGSE",
+        "author": "Jean Guisnel",
+        "link_amazon_book": "https://amzn.to/48Sw9R1",
+        "image": "https://m.media-amazon.com/images/I/615Pt+-QP1L._SY522_.jpg"
+    },
+    {
+        "title": "Histoire secrète de la Ve République",
+        "author": "Jean Guisnel, Roger Faligot et Rémi Kauffer",
+        "link_amazon_book": "https://amzn.to/49dNB2H",
+        "image": "https://m.media-amazon.com/images/I/7145jAikrcL._SY522_.jpg"
+    },
+    {
+        "title": "Les Misérables",
+        "author": "Victor Hugo",
+        "link_amazon_book": "https://amzn.to/47F4dPv",
+        "image": "https://m.media-amazon.com/images/I/71lxLN4vorL._SY522_.jpg"
+    },
+    {
+        "title": "Le Comte de Monte-Cristo",
+        "author": "Alexandre Dumas",
+        "link_amazon_book": "https://amzn.to/3SjQ8m0",
+        "image": "https://m.media-amazon.com/images/I/71GJr24eaBL._SY522_.jpg"
+    },
+    {
+        "title": "Oeuvre complète",
+        "author": "Jules Verne",
+        "link_amazon_book": "https://amzn.to/3SkU5Hm",
+        "image": "https://m.media-amazon.com/images/I/81ZkSSXIGTL._SY522_.jpg"
+    },
+    {
+        "title": "Oeuvre complète",
+        "author": "Honoré de Balzac",
+        "link_amazon_book": "https://amzn.to/3SmE7wp",
+        "image": "https://m.media-amazon.com/images/I/61o3yzl3t-L._SY522_.jpg"
+    },
+    {
+        "title": "Alors monsieur Macron, heureux ?",
+        "author": "Michel Wieviorka",
+        "link_amazon_book": "https://amzn.to/3vAfJhH",
+        "image": "https://m.media-amazon.com/images/I/41-h-ExdltL.jpg"
+    },
+    {
+        "title": "La flotte fantôme",
+        "author": "P. W. Singer et August Cole",
+        "link_amazon_book": "https://amzn.to/3TWHqeR",
+        "image": "https://m.media-amazon.com/images/I/81JHk1ZjzEL._SY522_.jpg"
+    },
+    {
+        "title": "Control",
+        "author": "P. W. Singer et August Cole",
+        "link_amazon_book": "https://amzn.to/4aUrjo1",
+        "image": "https://m.media-amazon.com/images/I/71abXko6JVL._SY522_.jpg"
+    },
+    {
+        "title": "Gravé sur chrome",
+        "author": "William Gibson",
+        "link_amazon_book": "https://amzn.to/4b19ELq",
+        "image": "https://m.media-amazon.com/images/I/412wUoOKX5L.jpg"
+    },
+    {
+        "title": "Trilogie neuromantique",
+        "author": "William Gibson",
+        "link_amazon_book": "https://amzn.to/3RWvnvv",
+        "image": "https://m.media-amazon.com/images/I/41b8cEkj9IL.jpg"
+    },
+    {
+        "title": "The Peripheral",
+        "author": "William Gibson",
+        "link_amazon_book": "https://amzn.to/3S3khoB",
+        "image": "https://m.media-amazon.com/images/I/91HJV9vzbnL._SY522_.jpg"
+    },
+    {
+        "title": "Fahrenheit 451",
+        "author": "Ray Bradbury",
+        "link_amazon_book": "https://amzn.to/3HlQZwo",
+        "image": "https://m.media-amazon.com/images/I/71A7wpyXQOL._SY522_.jpg"
+    },
+    {
+        "title": "La Griffe du chien",
+        "author": "Don Winslow",
+        "link_amazon_book": "https://amzn.to/4aRZA7D",
+        "image": "https://m.media-amazon.com/images/I/711XJMjXKIL._SY522_.jpg"
+    },
+    {
+        "title": "Tempête rouge",
+        "author": "Tom Clancy",
+        "link_amazon_book": "https://amzn.to/3O10c0T",
+        "image": "https://m.media-amazon.com/images/I/71dzx1nQF2L._SY522_.jpg"
+    },
+    {
+        "title": "La flotte fantôme",
+        "author": "P. W. Singer et August Cole",
+        "link_amazon_book": "https://amzn.to/3TWHqeR",
+        "image": "https://m.media-amazon.com/images/I/81JHk1ZjzEL._SY522_.jpg"
+    },
+    {
+        "title": "Control",
+        "author": "P. W. Singer et August Cole",
+        "link_amazon_book": "https://amzn.to/4aUrjo1",
+        "image": "https://m.media-amazon.com/images/I/71abXko6JVL._SY522_.jpg"
+    },
+    {
+        "title": "Gravé sur chrome",
+        "author": "William Gibson",
+        "link_amazon_book": "https://amzn.to/4b19ELq",
+        "image": "https://m.media-amazon.com/images/I/412wUoOKX5L.jpg"
+    },
+    {
+        "title": "Trilogie neuromantique",
+        "author": "William Gibson",
+        "link_amazon_book": "https://amzn.to/3RWvnvv",
+        "image": "https://m.media-amazon.com/images/I/41b8cEkj9IL.jpg"
+    },
+    {
+        "title": "The Peripheral",
+        "author": "William Gibson",
+        "link_amazon_book": "https://amzn.to/3S3khoB",
+        "image": "https://m.media-amazon.com/images/I/91HJV9vzbnL._SY522_.jpg"
+    },
+    {
+        "title": "Fahrenheit 451",
+        "author": "Ray Bradbury",
+        "link_amazon_book": "https://amzn.to/3HlQZwo",
+        "image": "https://m.media-amazon.com/images/I/71A7wpyXQOL._SY522_.jpg"
+    },
+    {
+        "title": "La Griffe du chien",
+        "author": "Don Winslow",
+        "link_amazon_book": "https://amzn.to/4aRZA7D",
+        "image": "https://m.media-amazon.com/images/I/711XJMjXKIL._SY522_.jpg"
+    },
+    {
+        "title": "Tempête rouge",
+        "author": "Tom Clancy",
+        "link_amazon_book": "https://amzn.to/3O10c0T",
+        "image": "https://m.media-amazon.com/images/I/71dzx1nQF2L._SY522_.jpg"
+    },
+    {
+        "title": "L'insurrection qui vient",
+        "author": "Comité invisible",
+        "link_amazon_book": "https://amzn.to/3S1pxZN",
+        "image": "https://m.media-amazon.com/images/I/61ulFZIlEfL._SY522_.jpg"
+    },
+    {
+        "title": "Le Monde d'hier, souvenirs d'un Européen",
+        "author": "Stefan Zweig",
+        "link_amazon_book": "https://amzn.to/3RWA5tc",
+        "image": "https://m.media-amazon.com/images/I/91R+EOfbsOL._SY522_.jpg"
+    },
+    {
+        "title": "Petit traité de sobriété énergétique",
+        "author": "Barbara Nicoloso",
+        "link_amazon_book": "https://amzn.to/3vGHaGA",
+        "image": "https://m.media-amazon.com/images/I/91p2vhmOifL._SY522_.jpg"
+    },
+    {
+        "title": "Et Si... le monde d'après ne ressemblait pas au monde d'avant",
+        "author": "Alternatiba",
+        "link_amazon_book": "https://amzn.to/3OpV9aD",
+        "image": "https://m.media-amazon.com/images/I/71T9j1VHuRL._SY522_.jpg"
+    },
+    {
+        "title": "La Fabrique du monstre",
+        "author": "Philippe Pujol",
+        "link_amazon_book": "https://amzn.to/3Hi2GnH",
+        "image": "https://m.media-amazon.com/images/I/71zz2SLMhrL._SY522_.jpg"
+    },
+    {
+        "title": "L'Atlantide",
+        "author": "Pierre Benoit",
+        "link_amazon_book": "https://amzn.to/3vrUzCj",
+        "image": "https://m.media-amazon.com/images/I/61JvCQMpBdL._SY522_.jpg"
+    },
+    {
+        "title": "L'escadron blanc",
+        "author": "Joseph Peyré",
+        "link_amazon_book": "https://amzn.to/49by4Ar",
+        "image": "https://m.media-amazon.com/images/I/41CKkZbuNlL.jpg"
+    },
+    {
+        "title": "La Piste oubliée",
+        "author": "Roger Frison-Roche",
+        "link_amazon_book": "https://amzn.to/3RUTKcV",
+        "image": "https://m.media-amazon.com/images/I/51fxXtczTIL._SY522_.jpg"
+    },
+    {
+        "title": "Eichmann à Jérusalem",
+        "author": "Hannah Arendt",
+        "link_amazon_book": "https://amzn.to/3SiDuE4",
+        "image": "https://m.media-amazon.com/images/I/81VaTEhm-gL._SY522_.jpg"
+    },
+    {
+        "title": "La Mémoire, l'Histoire, l'Oubli",
+        "author": "Paul Ricœur",
+        "link_amazon_book": "https://amzn.to/3TUApLy",
+        "image": "https://m.media-amazon.com/images/I/7169Djc3zcL._SY522_.jpg"
+    },
+    {
+        "title": "Chroniques algeriennes 1939-1958",
+        "author": "Albert Camus",
+        "link_amazon_book": "https://amzn.to/3tRSJKF",
+        "image": "https://m.media-amazon.com/images/I/91bVjj13zPL._SY522_.jpg"
+    },
+    {
+        "title": "Le Singe nu",
+        "author": "Desmond Morris",
+        "link_amazon_book": "https://amzn.to/3HjbNo5",
+        "image": "https://m.media-amazon.com/images/I/714eehvPZgL._SY522_.jpg"
+    },
+    {
+        "title": "Bitch: A Revolutionary Guide to Sex, Evolution and the Female Animal",
+        "author": "Lucy Cooke",
+        "link_amazon_book": "https://amzn.to/3Hjly5W",
+        "image": "https://m.media-amazon.com/images/I/818gXmB50wL._SY522_.jpg"
+    },
+    {
+        "title": "NASH. La maladie de la malbouffe",
+        "author": "Dominique Lannes",
+        "link_amazon_book": "https://amzn.to/4aTeYk2",
+        "image": "https://m.media-amazon.com/images/I/61QK6nA4EdS._SY522_.jpg"
+    },
+    {
+        "title": "Cochonneries",
+        "author": "Guillaume Coudray",
+        "link_amazon_book": "https://amzn.to/48Jt9q2",
+        "image": "https://m.media-amazon.com/images/I/61r11lrLehL._SY522_.jpg"
+    },
+    {
+        "title": "Algues vertes, l'histoire interdite",
+        "author": "Inès Léraud",
+        "link_amazon_book": "https://amzn.to/47Ih2sw",
+        "image": "https://m.media-amazon.com/images/I/71PHcztnADL._SY522_.jpg"
+    },
+    {
+        "title": "La malbouffe contre-attaque",
+        "author": "Christophe Brusset",
+        "link_amazon_book": "https://amzn.to/48uq79x",
+        "image": "https://m.media-amazon.com/images/I/61NQXP9ND7L._SY522_.jpg"
+    },
+    {
+        "title": "Les Années",
+        "author": "Annie Ernaux",
+        "link_amazon_book": "https://amzn.to/4aTfApQ",
+        "image": "https://m.media-amazon.com/images/I/719cbMTJSwL._SY522_.jpg"
+    },
+    {
+        "title": "Un homme, un vrai",
+        "author": "Tom Wolfe",
+        "link_amazon_book": "https://amzn.to/3tQWUGG",
+        "image": "https://m.media-amazon.com/images/I/71cuhMijiLL._SY522_.jpg"
+    },
+    {
+        "title": "La société ingouvernable",
+        "author": "Grégoire Chamayou",
+        "link_amazon_book": "https://amzn.to/3tRSy1X",
+        "image": "https://m.media-amazon.com/images/I/812FYQQ1DfL._SY522_.jpg"
+    },
+    {
+        "title": "Le Colonel Chabert",
+        "author": "Honoré de Balzac",
+        "link_amazon_book": "https://m.media-amazon.com/images/I/81KD2MEQRuL._SY522_.jpg",
+        "image": "https://m.media-amazon.com/images/I/81KD2MEQRuL._SY522_.jpg"
+    },
+    {
+        "title": "Questions de sociologie",
+        "author": "Pierre Bourdieu",
+        "link_amazon_book": "https://amzn.to/3HhDc9Z",
+        "image": "https://m.media-amazon.com/images/I/31FgphcBFML.jpg"
+    },
+    {
+        "title": "Composer un monde en commun. Une théologie politique de l'anthropocène",
+        "author": "Gaël Giraud",
+        "link_amazon_book": "https://amzn.to/4aTeOt0",
+        "image": "https://m.media-amazon.com/images/I/718ZiFLH2zL._SY522_.jpg"
+    },
+    {
+        "title": "La rivoluzione dolce della transizione ecologica",
+        "author": "Gaël Giraud",
+        "link_amazon_book": "https://amzn.to/48wdNWh",
+        "image": "https://m.media-amazon.com/images/I/71B8JC2tIgL._SY522_.jpg"
+    },
+    {
+        "title": "Au commencement était...",
+        "author": "David Graeber & David Wengrow",
+        "link_amazon_book": "https://amzn.to/41XRm9M",
+        "image": "https://m.media-amazon.com/images/I/41+ZEkjBpsL._SY522_.jpg"
+    },
+    {
+        "title": "The Age of Sustainability - Just Transitions in a Complex World",
+        "author": "Mark Swilling",
+        "link_amazon_book": "https://amzn.to/48weBKt",
+        "image": "https://m.media-amazon.com/images/I/91gkauiwiNL._SY522_.jpg"
+    },
+    {
+        "title": "Actifs fossiles, les nouveaux subprimes ?",
+        "author": "Institut Rousseau",
+        "link_amazon_book": "https://institut-rousseau.fr/actifs-fossiles-les-nouveaux-subprimes/",
+        "image": "https://cdn-ikpnn.nitrocdn.com/wdkBNLqiKJVglMVGtADQVuqHLXEhlHdx/assets/images/optimized/rev-2d40058/institut-rousseau.fr/wp-content/uploads/2021/06/couv_fossiles-1.png"
+    },
+    {
+        "title": "Demain - La fin de l'insouciance ?",
+        "author": "Raphaël Rossello",
+        "link_amazon_book": "https://amzn.to/3SrZAnL",
+        "image": "https://m.media-amazon.com/images/I/51uEsciLJYL._SY522_.jpg"
+    },
+    {
+        "title": "La Fin de l'histoire et le dernier homme",
+        "author": "Francis Fukuyama",
+        "link_amazon_book": "https://amzn.to/3SjiWeG",
+        "image": "https://m.media-amazon.com/images/I/71K2wYhNYsL._SY522_.jpg"
+    },
+    {
+        "title": "Discours de la servitude volontaire",
+        "author": "Étienne de La Boétie",
+        "link_amazon_book": "https://amzn.to/3vE4qFu",
+        "image": "https://m.media-amazon.com/images/I/71IxtPo1KtL._SY522_.jpg"
+    },
+    {
+        "title": "L'histoire De Christophe Colomb Attribué À Son Fils Fernand",
+        "author": " Henry Harrisse, Avezac",
+        "link_amazon_book": "https://amzn.to/48yTkjl",
+        "image": "https://m.media-amazon.com/images/I/61A2JER8YbL._SY522_.jpg"
+    },
+    {
+        "title": "Souriez, vous êtes Français !",
+        "author": "Bernard Maris",
+        "link_amazon_book": "https://amzn.to/3U0anXs",
+        "image": "https://m.media-amazon.com/images/I/81LwDsjf7PL._SY522_.jpg"
+    },
+    {
+        "title": "Adieu à la croissance",
+        "author": "Jean Gadrey",
+        "link_amazon_book": "https://amzn.to/47FLTWh",
+        "image": "https://m.media-amazon.com/images/I/41V6BWyZMJL._SY522_.jpg"
+    },
+    {
+        "title": "Energies, Fake or not ? Construire notre avenir et décarboner notre énergie sans fake new",
+        "author": "Maxence Cordiez",
+        "link_amazon_book": "https://amzn.to/3U6WjLs",
+        "image": "https://m.media-amazon.com/images/I/713JYQKq-lL._SY522_.jpg"
+    },
+    {
+        "title": "Relocaliser, Fake or not ? Penser la relocalisation de la production en France sans fake news",
+        "author": "Jérôme Cuny",
+        "link_amazon_book": "https://amzn.to/48RWFtB",
+        "image": "https://m.media-amazon.com/images/I/714k9G-LLuL._SY522_.jpg"
+    },
+    {
+        "title": "Voyage au bout de la nuit",
+        "author": "Louis-Ferdinand Céline",
+        "link_amazon_book": "https://amzn.to/48P4S1N",
+        "image": "https://m.media-amazon.com/images/I/818yQICGeNL._SY522_.jpg"
+    },
+    {
+        "title": "What is the What",
+        "author": "Dave Eggers",
+        "link_amazon_book": "https://amzn.to/48U8jEi",
+        "image": "https://m.media-amazon.com/images/I/81iPeqsSevL._SY522_.jpg"
+    },
+    {
+        "title": "T.A.Z.: The Temporary Autonomous Zone",
+        "author": "Hakim Bey",
+        "link_amazon_book": "https://amzn.to/48Cqf6L",
+        "image": "https://m.media-amazon.com/images/I/71XLCbLRGnL._SY522_.jpg"
+    },
+    {
+        "title": "Histoire globale de la France coloniale",
+        "author": "Collectif",
+        "link_amazon_book": "https://amzn.to/3O1Fqy7",
+        "image": "https://m.media-amazon.com/images/I/51N7ruKZ4XL._SY522_.jpg"
+    },
+    {
+        "title": "Has the West Lost It?: A Provocation",
+        "author": "Kishore Mahbubani",
+        "link_amazon_book": "https://amzn.to/3tRa3PX",
+        "image": "https://m.media-amazon.com/images/I/71iKzqqtgwL._SY522_.jpg"
+    },
+    {
+        "title": "Offshore",
+        "author": "Renaud Van Ruymbeke",
+        "link_amazon_book": "https://m.media-amazon.com/images/I/716G9AUtV2L._SY522_.jpg",
+        "image": "https://amzn.to/47zHDYB"
+    },
+    {
+        "title": "Le livre de l'intranquillité",
+        "author": "Fernando Pessoa",
+        "link_amazon_book": "https://amzn.to/3vzohFH",
+        "image": "https://m.media-amazon.com/images/I/718FtTrwIKL._SY522_.jpg"
+    },
+    {
+        "title": "Les Frères Karamazov",
+        "author": "Fiodor Dostoïevski",
+        "link_amazon_book": "https://amzn.to/3HCpAqh",
+        "image": "https://m.media-amazon.com/images/I/81ITM7ECmRL._SY522_.jpg"
+    },
+    {
+        "title": "Le Gang de la clef à molette",
+        "author": "Edward Abbey",
+        "link_amazon_book": "https://amzn.to/3SrjAqB",
+        "image": "https://m.media-amazon.com/images/I/417Jn++5BvL.jpg"
+    },
+    {
+        "title": "La terre demeure",
+        "author": "George R. Stewart",
+        "link_amazon_book": "https://amzn.to/48MBKYQ",
+        "image": "https://m.media-amazon.com/images/I/81FuTV1N5JL._SY522_.jpg"
+    },
+    {
+        "title": "La Guerre éternelle",
+        "author": "Joe Haldeman",
+        "link_amazon_book": "https://amzn.to/3NZkIPe",
+        "image": "https://m.media-amazon.com/images/I/61sCtKgLd3L._SY522_.jpg"
+    },
+    {
+        "title": "L'Âge des low tech",
+        "author": "Philippe Bihouix",
+        "link_amazon_book": "https://amzn.to/3vsjsxK",
+        "image": "https://m.media-amazon.com/images/I/81rb-8EHM8L._SY522_.jpg"
+    },
+    {
+        "title": "Le monde sans fin",
+        "author": "Jean-Marc Jancovici & Christophe Blain",
+        "link_amazon_book": "https://amzn.to/4aSsFQh",
+        "image": "https://m.media-amazon.com/images/I/91ERPyvcONL._SY522_.jpg"
+    },
+    {
+        "title": "Ravage",
+        "author": "René Barjavel",
+        "link_amazon_book": "https://amzn.to/4aYpEOy",
+        "image": "https://m.media-amazon.com/images/I/81sL3Cjm3HL._SY522_.jpg"
+    },
+    {
+        "title": "Deux siècles de rhétorique réactionnaire",
+        "author": "Albert Hirschman",
+        "link_amazon_book": "https://amzn.to/48QeCce",
+        "image": "https://m.media-amazon.com/images/I/61aDJ3XpCHL._SY522_.jpg"
+    },
+    {
+        "title": "Brève histoire de l'euphorie financière",
+        "author": "Kenneth Galbraith",
+        "link_amazon_book": "https://amzn.to/3TYHCKH",
+        "image": "https://m.media-amazon.com/images/I/41pF3IsPZtL.jpg"
+    },
+    {
+        "title": "Cher connard",
+        "author": "Virginie Despentes",
+        "link_amazon_book": "https://amzn.to/3TXd7EI",
+        "image": "https://m.media-amazon.com/images/I/817C2n9uEqL._SY522_.jpg"
+    },
+    {
+        "title": "Belle du Seigneur",
+        "author": "Albert Cohen",
+        "link_amazon_book": "https://amzn.to/3tIxKdj",
+        "image": "https://m.media-amazon.com/images/I/819SN3gLLPL._SY522_.jpg"
+    },
+    {
+        "title": "Le Bateau ivre",
+        "author": "Arthur Rimbaud",
+        "link_amazon_book": "https://amzn.to/3vxLoR5",
+        "image": "https://m.media-amazon.com/images/I/51fUTsUvQWL.jpg"
+    },
+    {
+        "title": "Où atterrir ? Comment s'orienter en politique",
+        "author": "Bruno Latour",
+        "link_amazon_book": "https://amzn.to/3vxLqIH",
+        "image": "https://m.media-amazon.com/images/I/51EIF0o+cvL._SY522_.jpg"
+    },
+    {
+        "title": "Vie et Destin",
+        "author": "Vassili Grossman",
+        "link_amazon_book": "https://amzn.to/3SfbIIw",
+        "image": "https://m.media-amazon.com/images/I/61jW9Yt3LGL._SY522_.jpg"
+    },
+    {
+        "title": "Quatrevingt-treize",
+        "author": "Victor Hugo",
+        "link_amazon_book": "https://amzn.to/3SeJsFV",
+        "image": "https://m.media-amazon.com/images/I/81QX4Yw2ikL._SY522_.jpg"
+    },
+    {
+        "title": "Crépuscule de la France d'en haut",
+        "author": "Christophe Guilluy",
+        "link_amazon_book": "https://amzn.to/48MBj0E",
+        "image": "https://m.media-amazon.com/images/I/71oqlWhxbUL._SY522_.jpg"
+    },
+    {
+        "title": "L'Ancien Testament",
+        "author": "La Bible",
+        "link_amazon_book": "https://amzn.to/41UgTRj",
+        "image": "https://m.media-amazon.com/images/I/81mCp2MheRL._SY522_.jpg"
+    },
+    {
+        "title": "Le Rouge et le Noir",
+        "author": "Stendhal",
+        "link_amazon_book": "https://amzn.to/41XgOfG",
+        "image": "https://m.media-amazon.com/images/I/812K3JHs8EL._SY522_.jpg"
+    },
+    {
+        "title": "L'Interprétation du rêve",
+        "author": "Sigmund Freud",
+        "link_amazon_book": "https://amzn.to/3RVlM81",
+        "image": "https://m.media-amazon.com/images/I/614BvFz6jYL._SY522_.jpg"
+    },
+    {
+        "title": "L'Ancien Testament",
+        "author": "La Bible",
+        "link_amazon_book": "https://amzn.to/41UgTRj",
+        "image": "https://m.media-amazon.com/images/I/81mCp2MheRL._SY522_.jpg"
+    },
+    {
+        "title": "Le Rouge et le Noir",
+        "author": "Stendhal",
+        "link_amazon_book": "https://amzn.to/41XgOfG",
+        "image": "https://m.media-amazon.com/images/I/812K3JHs8EL._SY522_.jpg"
+    },
+    {
+        "title": "L'Interprétation du rêve",
+        "author": "Sigmund Freud",
+        "link_amazon_book": "https://amzn.to/3RVlM81",
+        "image": "https://m.media-amazon.com/images/I/614BvFz6jYL._SY522_.jpg"
+    },
+    {
+        "title": "La France dans le noir",
+        "author": "Hervé Machenaud",
+        "link_amazon_book": "https://amzn.to/48yd3zL",
+        "image": "https://m.media-amazon.com/images/I/4189KPKxenL._SY522_.jpg"
+    },
+    {
+        "title": "Lettres à un jeune poète",
+        "author": "Rainer Maria Rilke",
+        "link_amazon_book": "https://amzn.to/3TZpqRc",
+        "image": "https://m.media-amazon.com/images/I/81wrRmpErpL._SY522_.jpg"
+    },
+    {
+        "title": "Regards sur le monde actuel",
+        "author": "Paul Valéry",
+        "link_amazon_book": "https://amzn.to/47tW8Ny",
+        "image": "https://m.media-amazon.com/images/I/91rnXbThfUL._SY522_.jpg"
+    },
+    {
+        "title": "L'Enracinement",
+        "author": "Simone Weil",
+        "link_amazon_book": "https://amzn.to/48wQdIS",
+        "image": "https://m.media-amazon.com/images/I/7188Ktkcn7L._SY522_.jpg"
+    },
+    {
+        "title": "Le jour où la Chine va gagner",
+        "author": "Kishore Mahbubani",
+        "link_amazon_book": "https://amzn.to/3S0w4DU",
+        "image": "https://m.media-amazon.com/images/I/51wbgJOQIVL._SY522_.jpg"
+    },
+    {
+        "title": "Oeuvre complète",
+        "author": "Isaac Asimov",
+        "link_amazon_book": "https://amzn.to/49aNQeT",
+        "image": "https://m.media-amazon.com/images/I/71WqQIgV-TL._SY522_.jpg"
+    },
+    {
+        "title": "Oeuvre complète",
+        "author": "Ray Bradbury",
+        "link_amazon_book": "https://amzn.to/48MBcCg",
+        "image": "https://m.media-amazon.com/images/I/81XPB01nZ7L._SY522_.jpg"
+    },
+    {
+        "title": "Le Grand Meaulnes",
+        "author": "Alain-Fournier",
+        "link_amazon_book": "https://amzn.to/3tGUJpb",
+        "image": "https://m.media-amazon.com/images/I/81gmUjAdcrL._SY522_.jpg"
+    },
+    {
+        "title": "Les Encycliques",
+        "author": "Pape François",
+        "link_amazon_book": "https://amzn.to/3TYu0yX",
+        "image": "https://m.media-amazon.com/images/I/612kTZ3b1ML._SY522_.jpg"
+    },
+    {
+        "title": "Livres sur la flore",
+        "author": "Gaston Bonnier",
+        "link_amazon_book": "https://amzn.to/3Sddnyf",
+        "image": "https://m.media-amazon.com/images/I/61CN+PRqAZL._SY522_.jpg"
+    },
+    {
+        "title": "Avant que nature meure",
+        "author": "Jean Dorst",
+        "link_amazon_book": "https://amzn.to/48HiSuu",
+        "image": "https://m.media-amazon.com/images/I/61celhXObTL._SY522_.jpg"
+    },
+    {
+        "title": "Printemps silencieux",
+        "author": "Rachel Carson",
+        "link_amazon_book": "https://amzn.to/3vynmoT",
+        "image": "https://m.media-amazon.com/images/I/81gMb02cfbL._SY522_.jpg"
+    },
+    {
+        "title": "Les Racines du ciel",
+        "author": "Romain Gary",
+        "link_amazon_book": "https://amzn.to/4aR1dCu",
+        "image": "https://m.media-amazon.com/images/I/81kmbuY1-EL._SY522_.jpg"
+    },
+    {
+        "title": "Pourquoi ne faisons-nous rien pendant que la maison brûle ?",
+        "author": "Claude Bourguignon et Lydia Bourguignon",
+        "link_amazon_book": "https://amzn.to/4aSgd2Y",
+        "image": "https://m.media-amazon.com/images/I/711lAP6L+DL._SY522_.jpg"
+    },
+    {
+        "title": "Le Quai de Wigan",
+        "author": "George Orwell",
+        "link_amazon_book": "https://amzn.to/3U1j4Az",
+        "image": "https://m.media-amazon.com/images/I/91iDblR8OPL._SY522_.jpg"
+    },
+    {
+        "title": "Paradis sous terre",
+        "author": "Alain Deneault et William Sacher",
+        "link_amazon_book": "https://amzn.to/3S3A9Ye",
+        "image": "https://m.media-amazon.com/images/I/61gyic02iNL._SY522_.jpg"
+    },
+    {
+        "title": "La Contamination du monde",
+        "author": "François Jarrige et Thomas Le Roux",
+        "link_amazon_book": "https://amzn.to/3HgT10J",
+        "image": "https://m.media-amazon.com/images/I/71ik4cd4ZuL._SY522_.jpg"
+    },
+    {
+        "title": "L'Homme en guerre",
+        "author": "Philippe Masson",
+        "link_amazon_book": "https://amzn.to/48tEbA4",
+        "image": "https://m.media-amazon.com/images/I/51bsCapcSBS._SY522_.jpg"
+    },
+    {
+        "title": "Combattre en dictature",
+        "author": "Jean-Luc Leleu",
+        "link_amazon_book": "https://amzn.to/3tMTWD3",
+        "image": "https://m.media-amazon.com/images/I/61WMHgdacRL._SY522_.jpg"
+    },
+    {
+        "title": "Les abeilles grises",
+        "author": "Andreï Kourkov",
+        "link_amazon_book": "https://amzn.to/4aR2olk",
+        "image": "https://m.media-amazon.com/images/I/61d6IzuBCXL._SY522_.jpg"
+    },
+    {
+        "title": "Le Premier Homme",
+        "author": "Albert Camus",
+        "link_amazon_book": "https://amzn.to/48tZMIl",
+        "image": "https://m.media-amazon.com/images/I/81rwEMFTvhL._SY522_.jpg"
+    },
+    {
+        "title": "Civilisation matérielle, économie et capitalisme",
+        "author": "Fernand Braudel",
+        "link_amazon_book": "https://amzn.to/3Si89kV",
+        "image": "https://m.media-amazon.com/images/I/91US1fjd3KL._SX679_.jpg"
+    },
+    {
+        "title": "Mémoires d'outre-tombe",
+        "author": "François-René de Chateaubriand",
+        "link_amazon_book": "https://amzn.to/3NWSAwe",
+        "image": "https://m.media-amazon.com/images/I/31lO1vK4n9L.jpg"
+    },
+    {
+        "title": "Le Mémorial de Sainte-Hélène",
+        "author": "Emmanuel de Las Cases",
+        "link_amazon_book": "https://amzn.to/48vsgle",
+        "image": "https://m.media-amazon.com/images/I/71eeLN7PaVL._SY522_.jpg"
+    },
+    {
+        "title": "Brutalisme",
+        "author": "Achille Mbembe",
+        "link_amazon_book": "https://amzn.to/3HiBLbi",
+        "image": "https://m.media-amazon.com/images/I/61hl7wqV7gL._SY522_.jpg"
+    },
+    {
+        "title": "Oeuvre complète",
+        "author": "Vandana Shiva",
+        "link_amazon_book": "https://amzn.to/3vEypwG",
+        "image": "https://m.media-amazon.com/images/I/617Mmg+sx0L._SY522_.jpg"
+    },
+    {
+        "title": "Nous, fils d'Eichmann",
+        "author": "Günther Anders",
+        "link_amazon_book": "https://amzn.to/41TNiaw",
+        "image": "https://m.media-amazon.com/images/I/71uhGagRY3L._SY522_.jpg"
+    },
+    {
+        "title": "Pourquoi la guerre ?",
+        "author": "Albert Einstein et Sigmund Freud",
+        "link_amazon_book": "https://amzn.to/3Sgcwg8",
+        "image": "https://m.media-amazon.com/images/I/71sPg5D8M2L._SY522_.jpg"
+    },
+    {
+        "title": "La Métamorphose",
+        "author": "Franz Kafka",
+        "link_amazon_book": "https://amzn.to/48AeDkH",
+        "image": "https://m.media-amazon.com/images/I/61TZhDqyulL._SY522_.jpg"
+    },
+    {
+        "title": "Pensées",
+        "author": "Blaise Pascal",
+        "link_amazon_book": "https://amzn.to/41THfD2",
+        "image": "https://m.media-amazon.com/images/I/71AAqkieMaL._SY522_.jpg"
+    },
+    {
+        "title": "De la démocratie en Amérique",
+        "author": "Alexis De Tocqueville",
+        "link_amazon_book": "https://amzn.to/3UfBCNR",
+        "image": "https://m.media-amazon.com/images/I/41QqmXzD4RL.jpg"
+    },
+    {
+        "title": "La Science au cœur de nos vies",
+        "author": "Maurice Tubiana",
+        "link_amazon_book": "https://amzn.to/3TUdsbd",
+        "image": "https://m.media-amazon.com/images/I/81m5Nap+S6L._SY522_.jpg"
+    },
+    {
+        "title": "L'énergie durable: Pas que du vent !",
+        "author": "David J. C. MacKay",
+        "link_amazon_book": "https://amzn.to/3tOUMiy",
+        "image": "https://m.media-amazon.com/images/I/510C32gPHdL._SY522_.jpg"
+    },
+    {
+        "title": "Une longue route pour m'unir au chant français",
+        "author": "François Cheng",
+        "link_amazon_book": "https://amzn.to/3tPiYRR",
+        "image": "https://m.media-amazon.com/images/I/71TYESn0laL._SY522_.jpg"
+    },
+    {
+        "title": "Sois jeune et tais-toi",
+        "author": "Salomé Saqué",
+        "link_amazon_book": "https://amzn.to/41U9RvY",
+        "image": "https://m.media-amazon.com/images/I/71JS5pf7wBL._SY522_.jpg"
+    },
+    {
+        "title": "Perdre la Terre",
+        "author": "Nathaniel Rich",
+        "link_amazon_book": "https://amzn.to/47wWOlh",
+        "image": "https://m.media-amazon.com/images/I/91uRUb5py7L._SY522_.jpg"
+    },
+    {
+        "title": "Climat: Une enquête de la revue La Pensée écologique",
+        "author": "Hervé Le Treut et Jean Jouzel",
+        "link_amazon_book": "https://amzn.to/41XEyQS",
+        "image": "https://m.media-amazon.com/images/I/61lH5eyP-rL._SY522_.jpg"
+    },
+    {
+        "title": "Diplomatie",
+        "author": "Henry Kissinger",
+        "link_amazon_book": "https://amzn.to/3Hngopf",
+        "image": "https://m.media-amazon.com/images/I/81IcoIaiR5L._SY522_.jpg"
+    },
+    {
+        "title": "La terre est plate",
+        "author": "Thomas Friedman",
+        "link_amazon_book": "https://amzn.to/3HcJUyd",
+        "image": "https://m.media-amazon.com/images/I/51Uk3bYFRhL.jpg"
+    },
+    {
+        "title": "Les Fleurs du Mal",
+        "author": "Charles Baudelaire",
+        "link_amazon_book": "https://amzn.to/4aWThPZ",
+        "image": "https://m.media-amazon.com/images/I/61TsWlL-vBL._SY522_.jpg"
+    },
+    {
+        "title": "Le Prince",
+        "author": "Nicolas Machiavel",
+        "link_amazon_book": "https://amzn.to/3vqLtpq",
+        "image": "https://m.media-amazon.com/images/I/71rymI-m0mL._SY522_.jpg"
+    },
+    {
+        "title": "Saint-Germain ou la Négociation",
+        "author": "Francis Walder",
+        "link_amazon_book": "https://amzn.to/48yvnZM",
+        "image": "https://m.media-amazon.com/images/I/91Xnv0fa3vL._SY522_.jpg"
+    },
+    {
+        "title": "La Grande Extension",
+        "author": "Jean-David Zeitoun",
+        "link_amazon_book": "https://amzn.to/3HlVTJy",
+        "image": "https://m.media-amazon.com/images/I/71RtvM0uGHL._SY522_.jpg"
+    },
+    {
+        "title": "Le Suicide de l'espèce",
+        "author": "Jean-David Zeitoun",
+        "link_amazon_book": "https://amzn.to/3Hhb6Mg",
+        "image": "https://m.media-amazon.com/images/I/71zSMmKxiUL._SY522_.jpg"
+    },
+    {
+        "title": "L’Énergie du déni",
+        "author": "Vincent Mignerot",
+        "link_amazon_book": "https://amzn.to/41TMvq4",
+        "image": "https://m.media-amazon.com/images/I/61xlxgQnWgL._SY522_.jpg"
+    },
+    {
+        "title": "La maison",
+        "author": "J. Patrick Lewis et Roberto Innocenti",
+        "link_amazon_book": "https://amzn.to/3Hhbbj2",
+        "image": "https://m.media-amazon.com/images/I/A1jnqLpLFRL._SY522_.jpg"
+    },
+    {
+        "title": "La prospective stratégique",
+        "author": "Jérôme Clech",
+        "link_amazon_book": "https://amzn.to/48wKOkZ",
+        "image": "https://m.media-amazon.com/images/I/61K3K45HE+L._SY522_.jpg"
+    },
+    {
+        "title": "La Crise de l'Esprit",
+        "author": "Paul Valéry",
+        "link_amazon_book": "https://amzn.to/48sDl6z",
+        "image": "https://m.media-amazon.com/images/I/61nCt+dnXtL._SY522_.jpg"
+    },
+    {
+        "title": "La liberté de l'esprit",
+        "author": "Paul Valéry",
+        "link_amazon_book": "https://amzn.to/3RYOIMA",
+        "image": "https://m.media-amazon.com/images/I/51cYKX2vKEL._SY522_.jpg"
+    },
+    {
+        "title": "Les mots et les choses",
+        "author": "Michel Foucault",
+        "link_amazon_book": "https://amzn.to/3vBRxvC",
+        "image": "https://m.media-amazon.com/images/I/714fTnMCUQL._SY522_.jpg"
+    },
+    {
+        "title": "Ralentir ou périr",
+        "author": "Timothée Parrique",
+        "link_amazon_book": "https://amzn.to/48OFZU2",
+        "image": "https://m.media-amazon.com/images/I/81S8rCRpvaL._SY522_.jpg"
+    },
+    {
+        "title": "Homo confort",
+        "author": "Stefano Boni",
+        "link_amazon_book": "https://amzn.to/48SLocr",
+        "image": "https://m.media-amazon.com/images/I/61tDDerVuTL._SY522_.jpg"
+    },
+    {
+        "title": "Accélération",
+        "author": "Hartmut Rosa",
+        "link_amazon_book": "https://amzn.to/48tzvdu",
+        "image": "https://m.media-amazon.com/images/I/61k6rDc6K6L._SY522_.jpg"
+    },
+    {
+        "title": "Résonance",
+        "author": "Hartmut Rosa",
+        "link_amazon_book": "https://amzn.to/3RRTUBT",
+        "image": "https://m.media-amazon.com/images/I/61RBwwq2JxL._SY522_.jpg"
+    },
+    {
+        "title": "Oeuvre complète",
+        "author": "René Dumont",
+        "link_amazon_book": "https://amzn.to/3HegTlN",
+        "image": "https://m.media-amazon.com/images/I/71abkZ7-zFL._SY522_.jpg"
+    },
+    {
+        "title": "Oeuvre complète",
+        "author": "Ivan Illich",
+        "link_amazon_book": "https://amzn.to/48OJrhs",
+        "image": "https://m.media-amazon.com/images/I/71Jm+SQwkxL._SY522_.jpg"
+    },
+    {
+        "title": "Oeuvre complète",
+        "author": "André Gorz",
+        "link_amazon_book": "https://amzn.to/48Tw0wL",
+        "image": "https://m.media-amazon.com/images/I/71L37D5kKnL._SY522_.jpg"
+    },
+    {
+        "title": "Génocides tropicaux",
+        "author": "Mike Davis",
+        "link_amazon_book": "https://amzn.to/41VFK7i",
+        "image": "https://m.media-amazon.com/images/I/61u6yu28nPS._SY522_.jpg"
+    },
+    {
+        "title": "La société ingouvernable",
+        "author": "Grégoire Chamayou",
+        "link_amazon_book": "https://amzn.to/3RSBh0B",
+        "image": "https://m.media-amazon.com/images/I/812FYQQ1DfL._SY522_.jpg"
+    },
+    {
+        "title": "Surveiller et punir",
+        "author": "Michel Foucault",
+        "link_amazon_book": "https://amzn.to/3HegrUD",
+        "image": "https://m.media-amazon.com/images/I/71ypC53ohWL._SY522_.jpg"
+    },
+    {
+        "title": "On ne dissout pas un soulèvement",
+        "author": "Collectif",
+        "link_amazon_book": "https://amzn.to/3HfMWl7",
+        "image": "https://m.media-amazon.com/images/I/918tDiwKY1L._SY522_.jpg"
+    },
+    {
+        "title": "Reprendre la terre aux machines",
+        "author": "L'Atelier Paysan",
+        "link_amazon_book": "https://amzn.to/3tPeRVV",
+        "image": "https://m.media-amazon.com/images/I/81Bdg497YVL._SY522_.jpg"
+    },
+    {
+        "title": "La guerre des pauvres",
+        "author": "Éric Vuillard",
+        "link_amazon_book": "https://amzn.to/3SjlklG",
+        "image": "https://m.media-amazon.com/images/I/61CXXrvLvhL._SY522_.jpg"
+    },
+    {
+        "title": "Oeuvre complète",
+        "author": "Carl von Clausewitz",
+        "link_amazon_book": "https://amzn.to/499cWe7",
+        "image": "https://m.media-amazon.com/images/I/61j80VQ4XZL._SY522_.jpg"
+    },
+    {
+        "title": "Les apprentis sorciers",
+        "author": "Alexandra Henrion-Caude",
+        "link_amazon_book": "https://amzn.to/3tZyx9D",
+        "image": "https://m.media-amazon.com/images/I/71egWIzAtiL._SY522_.jpg"
+    },
+    {
+        "title": "Ménon",
+        "author": "Platon",
+        "link_amazon_book": "https://amzn.to/3RXcokb",
+        "image": "https://m.media-amazon.com/images/I/71QK1OiUs3L._SY522_.jpg"
+    },
+    {
+        "title": "Dans la dèche à Paris et à Londres",
+        "author": "George Orwel",
+        "link_amazon_book": "https://amzn.to/3vznHb2",
+        "image": "https://m.media-amazon.com/images/I/71-U4khdzFL._SY522_.jpg"
+    },
+    {
+        "title": "Œuvres complètes",
+        "author": "René Char",
+        "link_amazon_book": "https://m.media-amazon.com/images/I/51AB4N82IdL._SY522_.jpg",
+        "image": "https://amzn.to/41WF3e7"
+    },
+    {
+        "title": "Dans la Zone verte: les américains à Bagdad",
+        "author": "Rajiv Chandrasekaran",
+        "link_amazon_book": "https://amzn.to/4aQgm74",
+        "image": "https://m.media-amazon.com/images/I/61De2RneWhL._SY522_.jpg"
+    },
+    {
+        "title": "Nous avons le plaisir de vous informer que, demain, nous serons tués avec nos familles",
+        "author": "Philip Gourevitch",
+        "link_amazon_book": "https://amzn.to/3RWB2l7",
+        "image": "https://m.media-amazon.com/images/I/81HFozQ8JWL._SY522_.jpg"
+    },
+    {
+        "title": "Thumpa À l'ombre des arbres",
+        "author": "Esther Duflo",
+        "link_amazon_book": "https://amzn.to/3HmzxYp",
+        "image": "https://m.media-amazon.com/images/I/81uHlxqHtTL._SX679_.jpg"
+    },
+    {
+        "title": "Imeuni et Tsongai La belle affaire !",
+        "author": "Esther Duflo",
+        "link_amazon_book": "https://amzn.to/3TSdlx1",
+        "image": "https://m.media-amazon.com/images/I/717SjpZjj3L._SX679_.jpg"
+    },
+    {
+        "title": "Seleni Pas touche au potager !",
+        "author": "Esther Duflo",
+        "link_amazon_book": "https://amzn.to/3TXfUhs",
+        "image": "https://m.media-amazon.com/images/I/71UPHcg6MAL._SX679_.jpg"
+    },
+    {
+        "title": "Une histoire populaire des États-Unis",
+        "author": "Howard Zinn",
+        "link_amazon_book": "https://amzn.to/3TVeFz0",
+        "image": "https://m.media-amazon.com/images/I/61oPYGo69gL._SY522_.jpg"
+    },
+    {
+        "title": "Robe de marié",
+        "author": "Pierre Lemaitre",
+        "link_amazon_book": "https://amzn.to/3SfyXC7",
+        "image": "https://m.media-amazon.com/images/I/71V0cwg2VTL._SY522_.jpg"
+    },
+    {
+        "title": "Mémoires de guerre",
+        "author": "Charles de Gaulle",
+        "link_amazon_book": "https://amzn.to/47FiDzi",
+        "image": "https://m.media-amazon.com/images/I/61O8m00F9QL._SY522_.jpg"
+    },
+    {
+        "title": "De l'inégalité parmi les sociétés",
+        "author": "Jared Diamond",
+        "link_amazon_book": "https://amzn.to/4aT2U23",
+        "image": "https://m.media-amazon.com/images/I/51bI6KYHkTL._SY522_.jpg"
+    },
+    {
+        "title": "Les limites à la croissance",
+        "author": "Dennis Meadows, Donella Meadows et Jørgen Randers",
+        "link_amazon_book": "https://amzn.to/3tV2kjK",
+        "image": "https://m.media-amazon.com/images/I/61wSX+s8PNL._SY522_.jpg"
+    },
+    {
+        "title": "Le meilleur des mondes",
+        "author": "Aldous Huxley",
+        "link_amazon_book": "https://amzn.to/48PZjAk",
+        "image": "https://m.media-amazon.com/images/I/71iZzLwuZML._SY522_.jpg"
+    },
+    {
+        "title": "1984",
+        "author": "George Orwell",
+        "link_amazon_book": "https://amzn.to/3HeBWV7",
+        "image": "https://m.media-amazon.com/images/I/71Y9X7FYkcL._SY522_.jpg"
+    },
+    {
+        "title": "La guerre des intelligences à l'heure de ChatGPT",
+        "author": "Laurent Alexandre",
+        "link_amazon_book": "https://amzn.to/47sAFV3",
+        "image": "https://m.media-amazon.com/images/I/61uXX4rlO3L._SY522_.jpg"
+    },
+    {
+        "title": "Si Rome n'avait pas chuté",
+        "author": "Raphaël Doan",
+        "link_amazon_book": "https://amzn.to/3HgaZjV",
+        "image": "https://m.media-amazon.com/images/I/617EfiQ3R6L._SY522_.jpg"
+    },
+    {
+        "title": "Faites mieux",
+        "author": "Jean-Luc Mélenchon",
+        "link_amazon_book": "https://amzn.to/47y0G5A",
+        "image": "https://m.media-amazon.com/images/I/61PmbQRF7iL._SY522_.jpg"
+    },
+    {
+        "title": "Vendredi ou les Limbes du Pacifique",
+        "author": "Michel Tournier",
+        "link_amazon_book": "https://amzn.to/3vx31Aj",
+        "image": "https://m.media-amazon.com/images/I/91Qe9fet5zL._SY522_.jpg"
+    },
+    {
+        "title": "L'Idéologie allemande",
+        "author": "Friedrich Engels et Karl Marx",
+        "link_amazon_book": "https://amzn.to/3tYMtRc",
+        "image": "https://m.media-amazon.com/images/I/71SPMlJIBsL._SY522_.jpg"
+    },
+    {
+        "title": "Le Berceau du chat",
+        "author": "Kurt Vonnegut",
+        "link_amazon_book": "https://amzn.to/3Sdxlsv",
+        "image": "https://m.media-amazon.com/images/I/41MXnn2nToL.jpg"
+    },
+    {
+        "title": "Abattoir 5: Ou la Croisade des enfants",
+        "author": "Kurt Vonnegut",
+        "link_amazon_book": "https://amzn.to/41SlnYI",
+        "image": "https://m.media-amazon.com/images/I/71cMr9K1daL._SY522_.jpg"
+    },
+    {
+        "title": "Cycle de Fondation",
+        "author": "Isaac Asimov",
+        "link_amazon_book": "https://amzn.to/3O09XMD",
+        "image": "https://m.media-amazon.com/images/I/71hHEeSi48L._AC_UL320_.jpg"
+    },
+    {
+        "title": "Blade Runner",
+        "author": "Philip K. Dick",
+        "link_amazon_book": "https://amzn.to/3RTbrJO",
+        "image": "https://m.media-amazon.com/images/I/81Of1boLjFL._SY522_.jpg"
+    },
+    {
+        "title": "Technocratisme : les grands corps à la dérive",
+        "author": "Alexandre Moatti",
+        "link_amazon_book": "https://amzn.to/4aUoR0L",
+        "image": "https://m.media-amazon.com/images/I/81mcb2umjnL._SY522_.jpg"
+    },
+    {
+        "title": "Les Elites en France. Grands corps et grandes écoles",
+        "author": "Ezra Suleiman",
+        "link_amazon_book": "https://amzn.to/3U2j0jU",
+        "image": "https://m.media-amazon.com/images/I/71bTbNHH4-L._SY522_.jpg"
+    },
+    {
+        "title": "Humain, posthumain",
+        "author": "Dominique Lecourt",
+        "link_amazon_book": "https://amzn.to/3NXbh35",
+        "image": "https://m.media-amazon.com/images/I/511WONT3qhL._SY522_.jpg"
+    },
+    {
+        "title": "Mémoires d'outre-tombe",
+        "author": "François-René de Chateaubriand",
+        "link_amazon_book": "https://amzn.to/3NWSAwe",
+        "image": "https://m.media-amazon.com/images/I/31lO1vK4n9L.jpg"
+    },
+    {
+        "title": "Diplomatie",
+        "author": "Henry Kissinger",
+        "link_amazon_book": "https://amzn.to/41R566k",
+        "image": "https://m.media-amazon.com/images/I/81IcoIaiR5L._SY522_.jpg"
+    },
+    {
+        "title": "Dictionnaire amoureux de la géopolitique",
+        "author": "Hubert Vedrine",
+        "link_amazon_book": "https://amzn.to/3HeVMzy",
+        "image": "https://m.media-amazon.com/images/I/61Ana2a30ML._SY522_.jpg"
+    },
+    {
+        "title": "En finir avec le règne de l'illusion financière",
+        "author": "Jacques de Larosière",
+        "link_amazon_book": "https://amzn.to/3tNaydP",
+        "image": "https://m.media-amazon.com/images/I/618Co6oP57L._SY522_.jpg"
+    },
+    {
+        "title": "En finir avec le règne de l'illusion financière",
+        "author": "Jacques de Larosière",
+        "link_amazon_book": "https://amzn.to/3tNaydP",
+        "image": "https://m.media-amazon.com/images/I/618Co6oP57L._SY522_.jpg"
+    },
+    {
+        "title": "Le Vol d'Icare",
+        "author": "Raymond Queneau",
+        "link_amazon_book": "https://amzn.to/48KBaek",
+        "image": "https://m.media-amazon.com/images/I/81Kb7OHI0VL._SY522_.jpg"
+    },
+    {
+        "title": "Nous étions seuls",
+        "author": "Gérard Araud",
+        "link_amazon_book": "https://amzn.to/3RRyeph",
+        "image": "https://m.media-amazon.com/images/I/71F7NljIycL._SY522_.jpg"
+    },
+    {
+        "title": "Andre Darrigade, le Landais volant",
+        "author": "Jacques Olivier Boudon",
+        "link_amazon_book": "https://amzn.to/41QauXj",
+        "image": "https://m.media-amazon.com/images/I/41wRucq2oYL.jpg"
+    },
+    {
+        "title": "Les mémoires d'Herbert Hoover",
+        "author": "Herbert Hoover",
+        "link_amazon_book": "https://amzn.to/48PWMWS",
+        "image": "https://m.media-amazon.com/images/I/61MzaXklPuL._SY522_.jpg"
+    },
+    {
+        "title": "L’Obsolescence de l’homme",
+        "author": "Günther Anders",
+        "link_amazon_book": "https://amzn.to/3S9dDhO",
+        "image": "https://m.media-amazon.com/images/I/91HiSzTJpaL._SY522_.jpg"
+    },
+    {
+        "title": "L'homme révolté",
+        "author": "Albert Camus",
+        "link_amazon_book": "https://amzn.to/3H9x9Et",
+        "image": "https://m.media-amazon.com/images/I/81mGlfigybL._SY522_.jpg"
+    },
+    {
+        "title": "Le Bilan de l'intelligence",
+        "author": "Paul Valéry",
+        "link_amazon_book": "https://amzn.to/3H74YGa",
+        "image": "https://m.media-amazon.com/images/I/61Ww6rdXfML._SY522_.jpg"
+    },
+    {
+        "title": "Notre Jeunesse",
+        "author": "Charles Péguy",
+        "link_amazon_book": "https://amzn.to/3HaXu4W",
+        "image": "https://m.media-amazon.com/images/I/81lKApUtvvL._SY522_.jpg"
+    },
+    {
+        "title": "Combien de temps ça va durer ?",
+        "author": "François Lenglet",
+        "link_amazon_book": "https://amzn.to/3TRgtJt",
+        "image": "https://m.media-amazon.com/images/I/61hcEzXxH8L._SY522_.jpg"
+    },
+    {
+        "title": "Rien ne va, mais...",
+        "author": "François Lenglet",
+        "link_amazon_book": "https://amzn.to/3H72rvE",
+        "image": "https://m.media-amazon.com/images/I/61Onz-h2gvL._SY522_.jpg"
+    },
+    {
+        "title": "La guerre des empires: Chine contre États-Unis",
+        "author": "François Lenglet",
+        "link_amazon_book": "https://amzn.to/3TSzdZ0",
+        "image": "https://m.media-amazon.com/images/I/61RDLlrl1-L._SX679_.jpg"
+    },
+    {
+        "title": "Le quatrième tournant: Ce que les cycles de l'histoire nous enseignent sur l'avenir de notre société",
+        "author": "William Strauss et Neil Howe",
+        "link_amazon_book": "https://amzn.to/3S88BSz",
+        "image": "https://m.media-amazon.com/images/I/71-m0fnjj-L._SY522_.jpg"
+    },
+    {
+        "title": "Capitalisme et pulsion de mort",
+        "author": "Bernard Maris et Gilles Dostaler",
+        "link_amazon_book": "https://amzn.to/3S9yIZh",
+        "image": "https://m.media-amazon.com/images/I/81fVMy+FqxL._SY522_.jpg"
+    },
+    {
+        "title": "The Great Demographic Reversal",
+        "author": "Charles Goodhart et Manoj Pradhan",
+        "link_amazon_book": "https://amzn.to/48DvsL2",
+        "image": "https://m.media-amazon.com/images/I/61XydHkgs3L._SY522_.jpg"
+    },
+    {
+        "title": "De Gaulle: Une certaine idée de la France",
+        "author": "Julian Jackson",
+        "link_amazon_book": "https://amzn.to/4aXqtqO",
+        "image": "https://m.media-amazon.com/images/I/613LPr33TcL._SY522_.jpg"
+    },
+    {
+        "title": "Les livres sur la France",
+        "author": "Franz-Olivier Giesbert",
+        "link_amazon_book": "https://amzn.to/424soG5",
+        "image": "https://m.media-amazon.com/images/I/41F1RsHX4HL.jpg"
+    },
+    {
+        "title": "Plastique bashing",
+        "author": "Joseph Tayefeh",
+        "link_amazon_book": "https://amzn.to/47FVNaN",
+        "image": "https://m.media-amazon.com/images/I/61-YZ+HAQOL._SY522_.jpg"
+    },
+    {
+        "title": "Guerre de l'énergie: Au coeur du nouveau conflit mondial",
+        "author": "Fabien Bouglé",
+        "link_amazon_book": "https://amzn.to/48oWw19",
+        "image": "https://m.media-amazon.com/images/I/71zbKAdRMML._SY522_.jpg"
+    },
+    {
+        "title": "L'Ukraine et le basculement du monde",
+        "author": "François Martin",
+        "link_amazon_book": "https://amzn.to/48JyX2Q",
+        "image": "https://m.media-amazon.com/images/I/41Wlbgp5ESL.jpg"
+    },
+    {
+        "title": "Le Monde sans fin, miracle énergétique et dérive climatique",
+        "author": "Christophe Blain et Jean-Marc Jancovici",
+        "link_amazon_book": "https://amzn.to/48nZKSu",
+        "image": "https://m.media-amazon.com/images/I/91ERPyvcONL._SY522_.jpg"
+    },
+    {
+        "title": "État des lieux du salafisme en France",
+        "author": "Pierre Conesa",
+        "link_amazon_book": "https://amzn.to/41QSwnm",
+        "image": "https://m.media-amazon.com/images/I/51yHV+V1ExL._SY522_.jpg"
+    },
+    {
+        "title": "La Tyrannie de la pénitence Poche",
+        "author": "Pascal Bruckner",
+        "link_amazon_book": "https://amzn.to/3SFh8g0",
+        "image": "https://m.media-amazon.com/images/I/A1U6PumkTUL._SY466_.jpg"
+    },
+    {
+        "title": "Une histoire du conflit politique",
+        "author": "Julia Cagé et Thomas Piketty",
+        "link_amazon_book": "https://amzn.to/4aMkAwf",
+        "image": "https://m.media-amazon.com/images/I/71f3oeekbsL._SY522_.jpg"
+    },
+    {
+        "title": "Le vote FN au village",
+        "author": "Violaine Girard",
+        "link_amazon_book": "https://amzn.to/41Sv1KL",
+        "image": "https://m.media-amazon.com/images/I/41sLMK+8fJL.jpg"
+    },
+    {
+        "title": "Affluence and Influence",
+        "author": "Martin Gilens",
+        "link_amazon_book": "https://amzn.to/3S91Yyn",
+        "image": "https://m.media-amazon.com/images/I/814V45p6NUL._SY522_.jpg"
+    },
+    {
+        "title": "Democracy in America?",
+        "author": "Benjamin I. Page et Martin Gilens",
+        "link_amazon_book": "https://amzn.to/3vxxga9",
+        "image": "https://m.media-amazon.com/images/I/71-SZNglDdL._SY522_.jpg"
+    },
+    {
+        "title": "Oeuvre complète",
+        "author": "Annie Ernaux",
+        "link_amazon_book": "https://amzn.to/47ozOVt",
+        "image": "https://m.media-amazon.com/images/I/71qjM7MGYXL._SY522_.jpg"
+    },
+    {
+        "title": "Une histoire du conflit politique",
+        "author": "Julia Cagé et Thomas Piketty",
+        "link_amazon_book": "https://amzn.to/4aMkAwf",
+        "image": "https://m.media-amazon.com/images/I/71f3oeekbsL._SY522_.jpg"
+    },
+    {
+        "title": "Le Père Goriot",
+        "author": "Honoré de Balzac",
+        "link_amazon_book": "https://amzn.to/3tIjPDQ",
+        "image": "https://m.media-amazon.com/images/I/81jmppwxtSL._SY522_.jpg"
+    },
+    {
+        "title": "La volonté et la fortune",
+        "author": "Carlos Fuentes",
+        "link_amazon_book": "https://amzn.to/48JxbyI",
+        "image": "https://m.media-amazon.com/images/I/61nt-SDXmLL._SY522_.jpg"
+    },
+    {
+        "title": "Le Ministère du futur",
+        "author": "Kim Stanley Robinson",
+        "link_amazon_book": "https://amzn.to/3H70PSC",
+        "image": "https://m.media-amazon.com/images/I/81-PfHBWXvL._SY522_.jpg"
+    },
+    {
+        "title": "Le Livre Vert",
+        "author": "Projet CLIMATOR",
+        "link_amazon_book": "https://librairie.ademe.fr/changement-climatique-et-energie/3893-changement-climatique-agriculture-et-foret-en-france-simulations-d-impacts-sur-les-principales-especes.html",
+        "image": "https://www.adaptation-changement-climatique.gouv.fr/sites/cracc/files/styles/l480/public/images/2021/03/86423_img-climator-150.png?itok=JHOR5TMA"
+    },
+    {
+        "title": "Refonder l'agriculture à l'heure de l'Anthropocène",
+        "author": "Bertrand Valiorgue",
+        "link_amazon_book": "https://amzn.to/48IkIvm",
+        "image": "https://m.media-amazon.com/images/I/81DPTaE3APL._SY466_.jpg"
+    },
+    {
+        "title": "Géopolitique du blé",
+        "author": "Sébastien Abis",
+        "link_amazon_book": "https://amzn.to/42a4QPK",
+        "image": "https://m.media-amazon.com/images/I/71Wpi0yX2hL._SY466_.jpg"
+    },
+    {
+        "title": "Algorithmes : la bombe à retardement",
+        "author": "Cathy O'Neil",
+        "link_amazon_book": "https://amzn.to/3U6ZYsW",
+        "image": "https://m.media-amazon.com/images/I/71jUOuEOmVL._SY522_.jpg"
+    },
+    {
+        "title": "Toxic Data: Comment les réseaux manipulent nos opinions",
+        "author": " David Chavalarias",
+        "link_amazon_book": "https://amzn.to/3SdJCfj",
+        "image": "https://m.media-amazon.com/images/I/61QGxbE8zcL._SY522_.jpg"
+    },
+    {
+        "title": "Dream Machine: ou comment j'ai failli vendre mon âme à l'intelligence artificielle",
+        "author": "Appupen et Laurent Daudet",
+        "link_amazon_book": "https://amzn.to/3Saexct",
+        "image": "https://m.media-amazon.com/images/I/71KHpOU0quL._SY522_.jpg"
+    },
+    {
+        "title": "L'âge de diamant ou le Manuel illustré d'éducation à l'usage de filles",
+        "author": "Neal Stephenson",
+        "link_amazon_book": "https://amzn.to/4b4nk8J",
+        "image": "https://m.media-amazon.com/images/I/81goDtVcRhL._SY522_.jpg"
+    },
+    {
+        "title": "La culture du narcissisme : La vie américaine à un âge de déclin des espérances",
+        "author": "Christopher Lasch",
+        "link_amazon_book": "https://amzn.to/3SwuB9U",
+        "image": "https://m.media-amazon.com/images/I/61UOQWpqccL._SY522_.jpg"
+    },
+    {
+        "title": "Voyage au centre du malaise français: L'antiracisme et le roman national",
+        "author": "Paul Yonnet",
+        "link_amazon_book": "https://amzn.to/3vP9l6u",
+        "image": "https://m.media-amazon.com/images/I/61YJpzF60VL._SY522_.jpg"
+    },
+    {
+        "title": "Fascination du djihad: Fureurs islamistes et défaite de la paix",
+        "author": "Gabriel Martinez-Gros",
+        "link_amazon_book": "https://amzn.to/3Svxo2Z",
+        "image": "https://m.media-amazon.com/images/I/51CjUHon6kL._SY522_.jpg"
+    },
+    {
+        "title": "Nos grands défis du XXIe siècle : Énergie et immigration",
+        "author": "Charles-henri Gallois",
+        "link_amazon_book": "https://amzn.to/3OxoYpx",
+        "image": "https://m.media-amazon.com/images/I/61SKr7edjBL._SY522_.jpg"
+    },
+    {
+        "title": "La Vérité vous rendra libre",
+        "author": "Charles Gave",
+        "link_amazon_book": "https://amzn.to/3HH2i2v",
+        "image": "https://m.media-amazon.com/images/I/513JpwgqAwL._SY522_.jpg"
+    },
+    {
+        "title": "Les Frères Karamazov",
+        "author": "Fedor Mikhaïlovitch Dostoïevski",
+        "link_amazon_book": "https://amzn.to/3SJzb4A",
+        "image": "https://m.media-amazon.com/images/I/81ITM7ECmRL._SY522_.jpg"
+    },
+    {
+        "title": "Le Secret de l'Occident",
+        "author": "David Cosandey",
+        "link_amazon_book": "https://amzn.to/49gxvoO",
+        "image": "https://m.media-amazon.com/images/I/613abunKi4L._SY522_.jpg"
+    },
+    {
+        "title": "L'étrange suicide de l'Europe",
+        "author": "Douglas Murray",
+        "link_amazon_book": "https://amzn.to/3HPX7Nr",
+        "image": "https://m.media-amazon.com/images/I/81ergnpqGKL._SY522_.jpg"
+    },
+    {
+        "title": "Les Essais",
+        "author": "Michel de Montaigne",
+        "link_amazon_book": "https://amzn.to/493a8PR",
+        "image": "https://m.media-amazon.com/images/I/81hU7Ze-PuL._SY522_.jpg"
+    },
+    {
+        "title": "La Côte sauvage",
+        "author": "Jean-René Huguenin",
+        "link_amazon_book": "https://amzn.to/48TwoeW",
+        "image": "https://m.media-amazon.com/images/I/71QYVjnqmHL._SY522_.jpg"
+    },
+    {
+        "title": "Journal",
+        "author": "Jean-René Huguenin",
+        "link_amazon_book": "https://amzn.to/49mGkh1",
+        "image": "https://m.media-amazon.com/images/I/51QUHlM05AL.jpg"
+    },
+    {
+        "title": "Dictionnaire amoureux",
+        "author": "Plon (Éditeur)",
+        "link_amazon_book": "https://amzn.to/3uoLSsg",
+        "image": "https://m.media-amazon.com/images/I/51p3l1Cv5wL._SY522_.jpg"
+    },
+    {
+        "title": "Les Rêveries du promeneur solitaire",
+        "author": "Jean-Jacques Rousseau",
+        "link_amazon_book": "https://amzn.to/3SnrnEu",
+        "image": "https://m.media-amazon.com/images/I/61z1F2YXY7L._SY522_.jpg"
+    },
+    {
+        "title": "Smonk: ou la ville des veuves",
+        "author": "Tom Franklin",
+        "link_amazon_book": "https://amzn.to/3OobSL5",
+        "image": "https://m.media-amazon.com/images/I/41uczv6eW-L.jpg"
+    },
+    {
+        "title": "Les Indes fourbes",
+        "author": "Alain Ayroles",
+        "link_amazon_book": "https://amzn.to/4biTFsh",
+        "image": "https://m.media-amazon.com/images/I/81aeYl0TpDL._SY522_.jpg"
+    },
+    {
+        "title": "À la recherche du temps perdu",
+        "author": "Marcel Proust",
+        "link_amazon_book": "https://amzn.to/3UmDT9J",
+        "image": "https://m.media-amazon.com/images/I/617QjWAWTHL._SY522_.jpg"
+    },
+    {
+        "title": "Blueberry",
+        "author": "Oeuvre complète",
+        "link_amazon_book": "https://amzn.to/482CSXM",
+        "image": "https://m.media-amazon.com/images/I/915c5bmQqML._SY522_.jpg"
+    },
+    {
+        "title": "Mémoires d'Hadrien",
+        "author": "Marguerite Yourcenar",
+        "link_amazon_book": "https://amzn.to/48YZ9Xw",
+        "image": "https://m.media-amazon.com/images/I/91dWQi-QWdL._SY522_.jpg"
+    },
+    {
+        "title": "Françafrique : Le plus long scandale de la République",
+        "author": "François-Xavier Verschave",
+        "link_amazon_book": "https://amzn.to/3UZPfRk",
+        "image": "https://m.media-amazon.com/images/I/81jhaydGwRL._SY522_.jpg"
+    },
+    {
+        "title": "Soundjata, ou, L'épopée mandingue",
+        "author": "Tamsir Niane Djibril",
+        "link_amazon_book": "https://amzn.to/3T35eLQ",
+        "image": "https://m.media-amazon.com/images/I/61bRLDPIhnL._SY522_.jpg"
+    },
+    {
+        "title": "Histoire des Mandingues de l'Ouest : Le Royaume du Gabou",
+        "author": "Djibril Tamsir Niane",
+        "link_amazon_book": "https://amzn.to/3wvMz3K",
+        "image": "https://m.media-amazon.com/images/I/41PL0Or-DKL.jpg"
+    },
+    {
+        "title": "Le Premier Rasta",
+        "author": "Hélène Lee",
+        "link_amazon_book": "https://amzn.to/49MlSpY",
+        "image": "https://m.media-amazon.com/images/I/51bK+kzwblL.jpg"
+    },
+    {
+        "title": "La longue route",
+        "author": "Bernard Moitessier",
+        "link_amazon_book": "https://amzn.to/3TtTdRn",
+        "image": "https://m.media-amazon.com/images/I/610TK5kBguL._SY522_.jpg"
+    },
+    {
+        "title": "Jours barbares: Une vie de surf",
+        "author": "William Finnegan",
+        "link_amazon_book": "https://amzn.to/3UUnJF0",
+        "image": "https://m.media-amazon.com/images/I/81jPlzc4UIL._SY522_.jpg"
+    },
+    {
+        "title": "Eric Tabarly",
+        "author": "Oeuvre complète",
+        "link_amazon_book": "https://amzn.to/3wEvSmZ",
+        "image": "https://m.media-amazon.com/images/I/715dXa47T6L._SY522_.jpg"
+    },
+    {
+        "title": "Nourrir sans dévaster: Petit précis de mondialisation",
+        "author": "Julien Denormandie & Érik Orsenna",
+        "link_amazon_book": "https://amzn.to/433bAQg",
+        "image": "https://m.media-amazon.com/images/I/51cEHa1y6lL._SY522_.jpg"
+    },
+    {
+        "title": "Les fleurs d'Ulysse",
+        "author": "Jacques Trémolet de Villers",
+        "link_amazon_book": "https://amzn.to/3v46xlL",
+        "image": "https://m.media-amazon.com/images/I/41ymAe9ZIrL.jpg"
+    },
+    {
+        "title": "Historiquement correct",
+        "author": "Jean Sévillia",
+        "link_amazon_book": "https://amzn.to/3wApo8y",
+        "image": "https://m.media-amazon.com/images/I/61nm5ZaN2BL._SY522_.jpg"
+    },
+    {
+        "title": "La philosophie devenue folle: Le genre, l'animal, la mort",
+        "author": "Jean-François Braunstein",
+        "link_amazon_book": "https://amzn.to/3SUp38a",
+        "image": "https://m.media-amazon.com/images/I/7193KQTnwJL._SY522_.jpg"
+    },
+    {
+        "title": "Climat, la part d'incertitude",
+        "author": "Steven Koonin",
+        "link_amazon_book": "https://amzn.to/3T1ITOR",
+        "image": "https://m.media-amazon.com/images/I/71twzHXlxoL._SY522_.jpg"
+    },
+    {
+        "title": "Théorie générale de l'emploi, de l'intérêt et de la monnaie",
+        "author": "John Maynard Keynes",
+        "link_amazon_book": "https://amzn.to/3wCiPlX",
+        "image": "https://m.media-amazon.com/images/I/51R9pGOtMfL._SY522_.jpg"
+    },
+    {
+        "title": "Le Père Goriot",
+        "author": "Honoré de Balzac",
+        "link_amazon_book": "https://amzn.to/3wKhYiV",
+        "image": "https://m.media-amazon.com/images/I/81jmppwxtSL._SY522_.jpg"
+    },
+    {
+        "title": "Le Nom de la rose",
+        "author": "Umberto Eco",
+        "link_amazon_book": "https://amzn.to/3IjEaTF",
+        "image": "https://m.media-amazon.com/images/I/81W6mh0rv1L._SY522_.jpg"
+    },
+    {
+        "title": "Yemen 62-69 : De la révolution sauvage à la trêve des guerriers",
+        "author": "Claude Deffarge & Gordian Troeller",
+        "link_amazon_book": "https://amzn.to/4atwFFE",
+        "image": "https://m.media-amazon.com/images/I/51oQkJV+IpL.jpg"
+    },
+    {
+        "title": "La mouvance zaydite dans le Yémen contemporain: Une modernisation avortée",
+        "author": "Samy Dorlian",
+        "link_amazon_book": "https://amzn.to/43uCEYN",
+        "image": "https://m.media-amazon.com/images/I/81-znOa5jZL._SY522_.jpg"
+    },
+    {
+        "title": "Le Yémen: De l'Arabie heureuse à la guerre",
+        "author": "Laurent Bonnefoy",
+        "link_amazon_book": "https://amzn.to/3x9zdut",
+        "image": "https://m.media-amazon.com/images/I/91+xYev9scL._SY522_.jpg"
+    },
+    {
+        "title": "Ward",
+        "author": "Sonallah Ibrahim",
+        "link_amazon_book": "https://amzn.to/4cJzPYb",
+        "image": "https://m.media-amazon.com/images/I/418+wFNV4DL.jpg"
+    },
+    {
+        "title": "White paper Bitcoin",
+        "author": "Satoshi Nakamoto",
+        "link_amazon_book": "https://bitcoin.org/files/bitcoin-paper/bitcoin_fr.pdf",
+        "image": "https://m.media-amazon.com/images/I/51M5SKw943L.jpg"
+    },
+    {
+        "title": "Les ingénieurs du chaos",
+        "author": "Giuliano da Empoli",
+        "link_amazon_book": "https://amzn.to/3IQ5WY6",
+        "image": "https://m.media-amazon.com/images/I/61MPvEO7qqL._SY522_.jpg"
+    },
+    {
+        "title": "Saint-Elme",
+        "author": "Serge Lehman",
+        "link_amazon_book": "https://amzn.to/3PDrA5P",
+        "image": "https://m.media-amazon.com/images/I/81WIHxLbzwL._SY522_.jpg"
+    },
+    {
+        "title": "L’homme révolté",
+        "author": "Albert Camus",
+        "link_amazon_book": "https://amzn.to/49n057H",
+        "image": "https://m.media-amazon.com/images/I/81mGlfigybL._SY522_.jpg"
+    },
+    {
+        "title": "Le premier homme",
+        "author": "Albert Camus",
+        "link_amazon_book": "https://amzn.to/3vEMWci",
+        "image": "https://m.media-amazon.com/images/I/81rwEMFTvhL._SY522_.jpg"
+    },
+    {
+        "title": "Les Grands cimetières sous la lune",
+        "author": "Georges Bernanos",
+        "link_amazon_book": "https://amzn.to/3vDdIlc",
+        "image": "https://m.media-amazon.com/images/I/61NZ8TleitL._SY522_.jpg"
+    },
+    {
+        "title": "Mémoires d'Outre-tombe",
+        "author": "François-René vicomte de Chateaubriand",
+        "link_amazon_book": "https://amzn.to/4aISH7P",
+        "image": "https://m.media-amazon.com/images/I/31lO1vK4n9L.jpg"
+    },
+    {
+        "title": "Cycle de la Culture",
+        "author": "Iain M. Banks",
+        "link_amazon_book": "https://amzn.to/3TJVk2a",
+        "image": "https://m.media-amazon.com/images/I/81fOhKH+yjL._SY522_.jpg"
+    },
+    {
+        "title": "Le savant et le politque",
+        "author": "Max Weber",
+        "link_amazon_book": "https://amzn.to/3PUDWXc",
+        "image": "https://m.media-amazon.com/images/I/61C5Gw07iqL._SY522_.jpg"
+    },
+    {
+        "title": "Arca",
+        "author": "Romain Benassaya",
+        "link_amazon_book": "https://amzn.to/4anc8Dp",
+        "image": "https://m.media-amazon.com/images/I/617EuS6PsTL._SY522_.jpg"
+    },
+    {
+        "title": "La captive du temps perdu",
+        "author": "Vernor Vinge",
+        "link_amazon_book": "https://amzn.to/4cN3ek4",
+        "image": "https://m.media-amazon.com/images/I/81yymJHO-gL._SY522_.jpg"
+    },
+    {
+        "title": "Camus, notre rempart",
+        "author": "Hubert Védrine",
+        "link_amazon_book": "https://amzn.to/3xxMoWc",
+        "image": "https://m.media-amazon.com/images/I/61fA30LsQWL._SY466_.jpg"
+    },
+    {
+        "title": "Grands diplomates",
+        "author": "Hubert Védrine",
+        "link_amazon_book": "https://amzn.to/3UdPJ5B",
+        "image": "https://m.media-amazon.com/images/I/613vke1UVKL._SY466_.jpg"
+    },
+    {
+        "title": "Dictionnaire amoureux de la géopolitique",
+        "author": "Hubert Védrine",
+        "link_amazon_book": "https://amzn.to/3vRv4uP",
+        "image": "https://m.media-amazon.com/images/I/61Ana2a30ML._SY466_.jpg"
+    },
+    {
+        "title": "Le Procès Pétain: Vichy face à ses juges",
+        "author": "Julian Jackson",
+        "link_amazon_book": "https://amzn.to/3vNlvgq",
+        "image": "https://m.media-amazon.com/images/I/714txXTmzZL._SY466_.jpg"
+    },
+    {
+        "title": "Le Desastre De Pavie",
+        "author": "Jean Giono",
+        "link_amazon_book": "https://amzn.to/3W04DxT",
+        "image": "https://m.media-amazon.com/images/I/81l-N5yAToL._SY466_.jpg"
+    },
+    {
+        "title": "L'écologiste sceptique",
+        "author": "Bjørn Lomborg",
+        "link_amazon_book": "https://amzn.to/44XMGm0",
+        "image": "https://m.media-amazon.com/images/I/61g5qELuaCL._SY425_.jpg"
+    },
+    {
+        "title": "The Population Explosion",
+        "author": "Paul Ralph Ehrlich",
+        "link_amazon_book": "https://amzn.to/3WRg6jI",
+        "image": "https://m.media-amazon.com/images/I/91awNTIVboL._SY425_.jpg"
+    },
+    {
+        "title": "La vérité vous rendra libre",
+        "author": "Charles Gave",
+        "link_amazon_book": "https://amzn.to/44T6Mxt",
+        "image": "https://m.media-amazon.com/images/I/513JpwgqAwL._SY425_.jpg"
+    },
+    {
+        "title": "Perdre la Terre",
+        "author": "Nathaniel Rich",
+        "link_amazon_book": "https://amzn.to/3UOvIBF",
+        "image": "https://m.media-amazon.com/images/I/91uRUb5py7L._SY425_.jpg"
+    },
+    {
+        "title": "Climat: Une enquête de la revue La Pensée écologique",
+        "author": "Jean Jouzel & Hervé Le Treut",
+        "link_amazon_book": "https://amzn.to/3UShe3F",
+        "image": "https://m.media-amazon.com/images/I/61lH5eyP-rL._SY425_.jpg"
+    },
+    {
+        "title": "32h ! La semaine de 4 jours, c'est possible",
+        "author": "Pierre Larrouturou",
+        "link_amazon_book": "https://amzn.to/3WJnKfU",
+        "image": "https://m.media-amazon.com/images/I/51-B-RoTXbL._SY342_.jpg"
+    },
+    {
+        "title": "L'État d'Israël contre les Juifs",
+        "author": "Sylvain Cypel",
+        "link_amazon_book": "https://amzn.to/3Vb1vy7",
+        "image": "https://m.media-amazon.com/images/I/71-GJVJFOZL._SY522_.jpg"
+    },
+    {
+        "title": "Une occupation civile",
+        "author": "Rafi Segal & Eyal Weizman",
+        "link_amazon_book": "https://amzn.to/3yvtY90",
+        "image": "https://m.media-amazon.com/images/I/51F2YV2H10L.jpg"
+    },
+    {
+        "title": "L'Homme qui aimait les chiens",
+        "author": "Leonardo Padura",
+        "link_amazon_book": "https://amzn.to/3V7YVsO",
+        "image": "https://m.media-amazon.com/images/I/61ev2qF9KYL._SY522_.jpg"
+    },
+    {
+        "title": "Palestine, un peuple qui ne veut pas mourir",
+        "author": "Alain Gresh",
+        "link_amazon_book": "https://amzn.to/3VbXQQT",
+        "image": "https://m.media-amazon.com/images/I/41L088xFaXL.jpg"
+    },
+    {
+        "title": "Peuple juif ou problème juif ?",
+        "author": "Maxime Rodinson",
+        "link_amazon_book": "https://amzn.to/4bqe0vx",
+        "image": "https://m.media-amazon.com/images/I/711oCgDornL._SY522_.jpg"
+    },
+    {
+        "title": "L’Orientalisme",
+        "author": "Edward Said",
+        "link_amazon_book": "https://amzn.to/3yutIr3 ",
+        "image": "https://m.media-amazon.com/images/I/71hq1UAEikL._SY522_.jpg"
+    },
+    {
+        "title": "Manifeste du Parti communiste",
+        "author": "Karl Marx",
+        "link_amazon_book": "https://amzn.to/44ODqR7",
+        "image": "https://m.media-amazon.com/images/I/718PNdOJB4L._SY522_.jpg"
+    },
+    {
+        "title": "Les Identités meurtrières - Amin Maalouf",
+        "author": "",
+        "link_amazon_book": "https://amzn.to/4bdnDg6",
+        "image": "https://m.media-amazon.com/images/I/81p74vi5jJL._SY522_.jpg"
+    },
+    {
+        "title": "La vie devant soi",
+        "author": "Romain Gary",
+        "link_amazon_book": "https://amzn.to/3XqwIyU",
+        "image": "https://m.media-amazon.com/images/I/81ZcBwoEwoL._SY522_.jpg"
+    },
+    {
+        "title": "Comment faire tomber un dictateur quand on est seul, tout petit, et sans armes",
+        "author": " Srdja Popovic",
+        "link_amazon_book": "https://amzn.to/3XsmP3V",
+        "image": "https://m.media-amazon.com/images/I/41R2+VhmCCL.jpg"
+    },
+    {
+        "title": "Cyrano de Bergerac",
+        "author": "Edmond Rostand",
+        "link_amazon_book": "https://amzn.to/45wVPSU",
+        "image": "https://m.media-amazon.com/images/I/71EHskEJGWL._SY522_.jpg"
+    },
+    {
+        "title": "Le Seigneur des Anneaux",
+        "author": "John Ronald Reuel Tolkien",
+        "link_amazon_book": "https://amzn.to/3XmDUfw",
+        "image": "https://m.media-amazon.com/images/I/71SM1QXCImL._SY522_.jpg"
+    },
+    {
+        "title": "Madame Bovary",
+        "author": "Gustave Flaubert",
+        "link_amazon_book": "https://amzn.to/4elwkYJ",
+        "image": "https://m.media-amazon.com/images/I/71tETVwL7YL._SY522_.jpg"
+    },
+    {
+        "title": "La parole donnée",
+        "author": "Jean Lassalle",
+        "link_amazon_book": "https://amzn.to/3L8vAZD",
+        "image": "https://m.media-amazon.com/images/I/61qnG8RvxIL._SY522_.jpg"
+    },
+    {
+        "title": "Aurore ou crépuscule Résistons !",
+        "author": "Jean Lassalle",
+        "link_amazon_book": "https://amzn.to/45sEavw",
+        "image": "https://m.media-amazon.com/images/I/71Qb02Z3MEL._SY522_.jpg"
+    },
+    {
+        "title": "La france authentique",
+        "author": "Jean Lassalle",
+        "link_amazon_book": "https://amzn.to/3z91iTK",
+        "image": "https://m.media-amazon.com/images/I/61prxCu02fL._SY522_.jpg"
+    },
+    {
+        "title": "Immigration : le grand déni",
+        "author": "François Heran",
+        "link_amazon_book": "https://amzn.to/4b84pbJ",
+        "image": "https://m.media-amazon.com/images/I/51i5RpC8l9L._SY522_.jpg"
+    },
+    {
+        "title": "La Formule de Dieu",
+        "author": "José Rodrigues Dos Santos",
+        "link_amazon_book": "https://amzn.to/3VQqfw9",
+        "image": "https://m.media-amazon.com/images/I/61UOFVbQeUL._SY522_.jpg"
+    },
+    {
+        "title": "L'enfer numérique",
+        "author": "Guillaume Pitron",
+        "link_amazon_book": "https://amzn.to/3VN9x0o",
+        "image": "https://m.media-amazon.com/images/I/41vKdWZsq2L._SY522_.jpg"
+    },
+    {
+        "title": "Family and Jihadism",
+        "author": "Farhad Khosrokhavar",
+        "link_amazon_book": "https://amzn.to/4bentFo",
+        "image": "https://m.media-amazon.com/images/I/917GP74FGgL._SY425_.jpg"
+    },
+    {
+        "title": "Les formes élémentaires de la vie religieuse",
+        "author": "Émile Durkheim",
+        "link_amazon_book": "https://amzn.to/3XzrgtA",
+        "image": "https://m.media-amazon.com/images/I/61bi7WI4-mL._SY425_.jpg"
+    },
+    {
+        "title": "L'éthique protestante et l'esprit du capitalisme",
+        "author": "Max Weber",
+        "link_amazon_book": "https://amzn.to/3RDp5Bv",
+        "image": "https://m.media-amazon.com/images/I/61bWt9ENgGL._SY466_.jpg"
+    },
+    {
+        "title": "Oeuvre complète",
+        "author": "Martin Heidegger",
+        "link_amazon_book": "https://amzn.to/4cpyjcu",
+        "image": "https://m.media-amazon.com/images/I/714ispFxNQL._AC_UL320_.jpg"
+    },
+    {
+        "title": "Oeuvre complète",
+        "author": "Marcel Proust",
+        "link_amazon_book": "https://amzn.to/3zdb9rG",
+        "image": "https://m.media-amazon.com/images/I/61oPc46FsSL._AC_UL320_.jpg"
+    },
+    {
+        "title": "Oeuvre complète",
+        "author": "Louis-Ferdinand Céline",
+        "link_amazon_book": "https://amzn.to/4cwFX4L",
+        "image": "https://m.media-amazon.com/images/I/61F2oi-FabL._AC_UL320_.jpg"
+    },
+    {
+        "title": "Un silence religieux",
+        "author": "Jean Birnbaum",
+        "link_amazon_book": "https://amzn.to/4bbLrRt",
+        "image": "https://m.media-amazon.com/images/I/51opWm1kFxL._SY425_.jpg"
+    },
+    {
+        "title": "La Tyrannie de la pénitence",
+        "author": "Pascal Bruckner",
+        "link_amazon_book": "https://amzn.to/3VP3gRT",
+        "image": "https://m.media-amazon.com/images/I/A1U6PumkTUL._SY466_.jpg"
+    },
+    {
+        "title": "Du mensonge à la violence",
+        "author": "Anna Arendt",
+        "link_amazon_book": "https://amzn.to/4c8ON9g",
+        "image": "https://m.media-amazon.com/images/I/71flDMhuhsL._SY466_.jpg"
+    },
+    {
+        "title": "Hacks, Leaks, and Revelations",
+        "author": "Micah Lee",
+        "link_amazon_book": "https://amzn.to/4dWrd0v",
+        "image": "https://f.media-amazon.com/images/I/81COy4dc7TL._SY522_.jpg"
+    },
+    {
+        "title": "Black list",
+        "author": "Kristina Borjesson",
+        "link_amazon_book": "https://amzn.to/3Bafnkx",
+        "image": "https://f.media-amazon.com/images/I/81XQhD0QzIL._SY522_.jpg"
+    },
+    {
+        "title": "Informer n'est pas un délit",
+        "author": "Collectif",
+        "link_amazon_book": "https://amzn.to/3MIT6wY",
+        "image": "https://f.media-amazon.com/images/I/81f9nqWc26L._SY522_.jpg"
+    },
+    {
+        "title": "Crime et châtiment",
+        "author": "Fédor Dostoïevski",
+        "link_amazon_book": "https://amzn.to/3ZHhp6i",
+        "image": "https://m.media-amazon.com/images/I/61k7CCTL6NL._SY522_.jpg"
+    },
+    {
+        "title": "Les Misérables",
+        "author": "Victor Hugo",
+        "link_amazon_book": "https://amzn.to/4dhNTac",
+        "image": "https://m.media-amazon.com/images/I/71Omg6rrbrL._SY522_.jpg"
+    },
+    {
+        "title": "Voyage au bout de la nuit",
+        "author": "Louis-Ferdinand Céline",
+        "link_amazon_book": "https://amzn.to/47KZOfm",
+        "image": "https://m.media-amazon.com/images/I/818yQICGeNL._SY522_.jpg"
+    },
+    {
+        "title": "La route de la servitude",
+        "author": "Friedrich Hayek",
+        "link_amazon_book": "https://amzn.to/3NuamXe",
+        "image": "https://m.media-amazon.com/images/I/5168S6fJSPL._SY522_.jpg"
+    },
+    {
+        "title": "Broken Money",
+        "author": "Lyn Alden",
+        "link_amazon_book": "https://amzn.to/407y3vK",
+        "image": "https://m.media-amazon.com/images/I/710ji5I+EiL._SY522_.jpg"
+    },
+    {
+        "title": "Bitcoin & cryptomonnaies faciles",
+        "author": "Alexandre Stachtchenko",
+        "link_amazon_book": "https://amzn.to/4f3Y5o3",
+        "image": "https://m.media-amazon.com/images/I/61VRfIjQtKL._SY522_.jpg"
+    },
+    {
+        "title": "La monnaie",
+        "author": "Bruno Colmant",
+        "link_amazon_book": "https://amzn.to/4dWiN8d",
+        "image": "https://m.media-amazon.com/images/I/61e4djJLRLL._SY522_.jpg"
+    },
+    {
+        "title": "Aphorismes sur la sagesse dans la vie",
+        "author": "Arthur Schopenhauer",
+        "link_amazon_book": "https://amzn.to/3Yptn38",
+        "image": "https://m.media-amazon.com/images/I/716GgVDcyBL._SY522_.jpg"
+    },
+    {
+        "title": "En finir avec le règne de l'illusion financière",
+        "author": "Jacques de Larosière",
+        "link_amazon_book": "https://amzn.to/4eSpZ6L",
+        "image": "https://m.media-amazon.com/images/I/618Co6oP57L._SY522_.jpg"
+    },
+    {
+        "title": "Bitcoin, La monnaie acéphale",
+        "author": "Jacques Favier & Adli Takkal Bataille",
+        "link_amazon_book": "https://amzn.to/3YsRFth",
+        "image": "https://m.media-amazon.com/images/I/51C-4P16UyL._SY522_.jpg"
+    },
+    {
+        "title": "L’énergie, face cachée de la monnaie",
+        "author": "Pierre Noizat",
+        "link_amazon_book": "https://amzn.to/48dwj68",
+        "image": "https://m.media-amazon.com/images/I/71XsoVMEw8L._SY522_.jpg"
+    },
+    {
+        "title": "L’Art d’avoir toujours raison",
+        "author": "Arthur Schopenhauer",
+        "link_amazon_book": "https://amzn.to/4h9rRJJ",
+        "image": "https://m.media-amazon.com/images/I/412GnrE7s+L._SY522_.jpg"
+    },
+    {
+        "title": "Le Château",
+        "author": "Franz Kafka",
+        "link_amazon_book": "https://amzn.to/4eL6SeF",
+        "image": "https://m.media-amazon.com/images/I/71RzJevnAnL._SY522_.jpg"
+    },
+    {
+        "title": "Dracula",
+        "author": "Bram Stoker",
+        "link_amazon_book": "https://amzn.to/40c2hOj",
+        "image": "https://m.media-amazon.com/images/I/61HIh69oXnL._SY522_.jpg"
+    },
+    {
+        "title": "Oeuvre complète",
+        "author": "Günther Anders",
+        "link_amazon_book": "https://amzn.to/3NANC7H",
+        "image": "https://m.media-amazon.com/images/I/91HiSzTJpaL._SY522_.jpg"
+    },
+    {
+        "title": "Les Nouvelles Promesses des psychotropes",
+        "author": "Michael Pollan",
+        "link_amazon_book": "https://amzn.to/3U985Ez",
+        "image": "https://m.media-amazon.com/images/I/61U3IcqtG0L._SY522_.jpg"
+    },
+    {
+        "title": "Sapiens",
+        "author": "Yuval Noah Harari",
+        "link_amazon_book": "https://amzn.to/409xIsO",
+        "image": "https://m.media-amazon.com/images/I/71d0caFaVfL._SY522_.jpg"
+    },
+    {
+        "title": "La soif de l'essentiel",
+        "author": "Reza Moghaddassi",
+        "link_amazon_book": "https://amzn.to/4hnH3U3",
+        "image": "https://m.media-amazon.com/images/I/8124YNImoZL._SY522_.jpg"
+    },
+    {
+        "title": "La Part maudite",
+        "author": "Georges Bataille",
+        "link_amazon_book": "https://amzn.to/4fgYbta",
+        "image": "https://m.media-amazon.com/images/I/41bikamekHL._SY522_.jpg"
+    },
+    {
+        "title": "Les limites à la croissance",
+        "author": "Dennis Meadows",
+        "link_amazon_book": "https://amzn.to/4ehVRRh",
+        "image": "https://m.media-amazon.com/images/I/61wSX+s8PNL._SY522_.jpg"
+    },
+    {
+        "title": "Homo confort",
+        "author": "Stefano Boni",
+        "link_amazon_book": "https://amzn.to/4hy51f1",
+        "image": "https://m.media-amazon.com/images/I/61tDDerVuTL._SY522_.jpg"
+    },
+    {
+        "title": "Rendre le monde indisponible",
+        "author": "Hartmut Rosa",
+        "link_amazon_book": "https://amzn.to/3AsjMzo",
+        "image": "https://m.media-amazon.com/images/I/61IRYqGF96L._SY522_.jpg"
+    },
+    {
+        "title": "L'Origine des espèces",
+        "author": "Charles Darwin",
+        "link_amazon_book": "https://amzn.to/48ByFw2",
+        "image": "https://m.media-amazon.com/images/I/61gJJq4YtTL._SY522_.jpg"
+    },
+    {
+        "title": "Antidote au culte de la performance",
+        "author": "Olivier Hamant",
+        "link_amazon_book": "https://amzn.to/3C9WBKN",
+        "image": "https://m.media-amazon.com/images/I/71C8NIzsqIL._SY522_.jpg"
+    },
+    {
+        "title": "La Troisième voie du vivant",
+        "author": "Olivier Hamant",
+        "link_amazon_book": "https://amzn.to/3YU268j",
+        "image": "https://m.media-amazon.com/images/I/71NauWcn3KL._SY522_.jpg"
+    },
+    {
+        "title": "Oeuvre intégrale",
+        "author": "Vassili Grossman",
+        "link_amazon_book": "https://amzn.to/48y069Q",
+        "image": "https://m.media-amazon.com/images/I/71V+ClokPPL._SY522_.jpg"
+    },
+    {
+        "title": "Cavalerie Rouge",
+        "author": "Isaac Babel",
+        "link_amazon_book": "https://amzn.to/4faJhVa",
+        "image": "https://m.media-amazon.com/images/I/312P9BDrTdL.jpg"
+    },
+    {
+        "title": "Les Âmes mortes",
+        "author": "Nicolas Gogol",
+        "link_amazon_book": "https://amzn.to/3UCsuSN",
+        "image": "https://m.media-amazon.com/images/I/81vvIGn0O7L._SY522_.jpg"
+    },
+    {
+        "title": "Oeuvre intégrale",
+        "author": "Zola",
+        "link_amazon_book": "https://amzn.to/3YRsO2y",
+        "image": "https://m.media-amazon.com/images/I/81X-F1nE0IL._SY522_.jpg"
+    },
+    {
+        "title": "Oeuvre intégrale",
+        "author": "Balzac",
+        "link_amazon_book": "https://amzn.to/3CoLugY",
+        "image": "https://m.media-amazon.com/images/I/81jmppwxtSL._SY522_.jpg"
+    },
+    {
+        "title": "Oeuvre intégrale",
+        "author": "Victor Hugo",
+        "link_amazon_book": "https://amzn.to/3CfTWiL",
+        "image": "https://m.media-amazon.com/images/I/91BCkXN-0uL._SY522_.jpg"
+    },
+    {
+        "title": "L'Homme en péril",
+        "author": "Konrad Lorenz",
+        "link_amazon_book": "https://amzn.to/4fazkH9",
+        "image": "https://m.media-amazon.com/images/I/41b7FYYZtWL.jpg"
+    },
+    {
+        "title": "Guerre",
+        "author": "Laurent Obertone",
+        "link_amazon_book": "https://amzn.to/40wZTBT",
+        "image": "https://m.media-amazon.com/images/I/81oNBw5c7cL._SY522_.jpg"
+    },
+    {
+        "title": "Fables",
+        "author": "Jean de La Fontaine",
+        "link_amazon_book": "https://amzn.to/3YQExhE",
+        "image": "https://m.media-amazon.com/images/I/61p3a0xzkeL._SY522_.jpg"
+    },
+    {
+        "title": "Mauvaises pensées et autres",
+        "author": "Paul Valéry",
+        "link_amazon_book": "https://amzn.to/3Asiuo8",
+        "image": "https://m.media-amazon.com/images/I/71fB6I-BeML._SY522_.jpg"
+    },
+    {
+        "title": "Le Labyrinthe des égarés",
+        "author": "Amin Maalouf",
+        "link_amazon_book": "https://amzn.to/3OfeIll",
+        "image": "https://m.media-amazon.com/images/I/819gwxbvw3L._SY522_.jpg"
+    },
+    {
+        "title": "Nexus",
+        "author": "Yuval Noah Harari",
+        "link_amazon_book": "https://amzn.to/40TMzrw",
+        "image": "https://m.media-amazon.com/images/I/61gS+TgcmnL._SY522_.jpg"
+    },
+    {
+        "title": "Hell of Good Intentions",
+        "author": "Stephen Walt",
+        "link_amazon_book": "https://amzn.to/3ZcQoH9",
+        "image": "https://m.media-amazon.com/images/I/71oxnPTR25L._SY522_.jpg"
+    },
+    {
+        "title": "Géostratégix",
+        "author": "Pascal Boniface",
+        "link_amazon_book": "https://amzn.to/3ObY06i",
+        "image": "https://m.media-amazon.com/images/I/71ScMa7VVcL._SY522_.jpg"
+    },
+    {
+        "title": "L’argent",
+        "author": "John Kenneth Galbraith",
+        "link_amazon_book": "https://amzn.to/4fMJSwJ",
+        "image": "https://m.media-amazon.com/images/I/71feaIr+nlL._SY522_.jpg"
+    },
+    {
+        "title": "La Rançon du Machinisme",
+        "author": "Gina Lombroso",
+        "link_amazon_book": "https://amzn.to/4eAeEas",
+        "image": "https://m.media-amazon.com/images/I/61lu+5+g8WL._SY522_.jpg"
+    },
+    {
+        "title": "Le troisième chimpanzé",
+        "author": "Jared Diamond",
+        "link_amazon_book": "https://amzn.to/3ALSgNz",
+        "image": "https://m.media-amazon.com/images/I/91l1mEpUGML._SY522_.jpg"
+    },
+    {
+        "title": "Ressources: Un défi pour l'humanité",
+        "author": "Philippe Bihouix",
+        "link_amazon_book": "https://amzn.to/4i87VYz",
+        "image": "https://m.media-amazon.com/images/I/91U6c6Ex+XL._SY522_.jpg"
+    },
+    {
+        "title": "Être un chêne",
+        "author": "Laurent Tillon",
+        "link_amazon_book": "https://amzn.to/4fR9urQ",
+        "image": "https://m.media-amazon.com/images/I/61Z0zx3Q1QL._SY522_.jpg"
+    },
+    {
+        "title": "Les Fantômes de la nuit",
+        "author": "Laurent Tillon",
+        "link_amazon_book": "https://amzn.to/4gbiYOT",
+        "image": "https://m.media-amazon.com/images/I/61O5wJpDw1L._SY522_.jpg"
+    },
+    {
+        "title": "Féminicène",
+        "author": "Véra Nikolski",
+        "link_amazon_book": "https://amzn.to/48SIPZn",
+        "image": "https://m.media-amazon.com/images/I/61EPait8ghL._SY522_.jpg"
+    },
+    {
+        "title": "De l'inégalité parmi les sociétés",
+        "author": "Jared Diamond",
+        "link_amazon_book": "https://amzn.to/3YWcdsT",
+        "image": "https://m.media-amazon.com/images/I/71QkQf2uudL._SY522_.jpg"
+    },
+    {
+        "title": "Le Monde sans fin, miracle énergétique et dérive climatique",
+        "author": "Jean-Marc Jancovici",
+        "link_amazon_book": "https://amzn.to/40MDLnj",
+        "image": "https://m.media-amazon.com/images/I/91ERPyvcONL._SY522_.jpg"
+    },
+    {
+        "title": "Mémoires de guerre et Mémoires d'espoir",
+        "author": "Charles de Gaulle",
+        "link_amazon_book": "https://amzn.to/4hWw5VA",
+        "image": "https://m.media-amazon.com/images/I/619HwD3DtoL._SY522_.jpg"
+    },
+    {
+        "title": "Covid 19, ce que révèlent les chiffres officiels fin 2023",
+        "author": "Pierre Chaillot",
+        "link_amazon_book": "https://amzn.to/4i0X8iH",
+        "image": "https://m.media-amazon.com/images/I/71LMZq-IWXL._SY522_.jpg"
+    },
+    {
+        "title": "L'ami américain",
+        "author": "Éric Branca",
+        "link_amazon_book": "https://amzn.to/4g3hrdr",
+        "image": "https://m.media-amazon.com/images/I/61rff3P9dkL._SY522_.jpg"
+    },
+    {
+        "title": "Philosophie de la panafricanité fondamentale",
+        "author": "Kemi Seba",
+        "link_amazon_book": "https://amzn.to/3ZlS5Sv",
+        "image": "https://m.media-amazon.com/images/I/612gVCkbYyL._SY522_.jpg"
+    },
+    {
+        "title": "Civilisation ou barbarie",
+        "author": "Cheikh-Anta Diop",
+        "link_amazon_book": "https://amzn.to/4fTRJZ2",
+        "image": "https://m.media-amazon.com/images/I/31Qnox0wKPL.jpg"
+    },
+    {
+        "title": "Discours sur le colonialisme",
+        "author": "Aimé Césaire",
+        "link_amazon_book": "https://amzn.to/3V6EP1y",
+        "image": "https://m.media-amazon.com/images/I/51QaJGqCOWL._SY522_.jpg"
+    },
+    {
+        "title": "L'Enfant",
+        "author": "Jules Vallès",
+        "link_amazon_book": "https://amzn.to/3ZwDS45",
+        "image": "https://m.media-amazon.com/images/I/71Gy-PAD7GL._SY522_.jpg"
+    },
+    {
+        "title": "Le Bachelier",
+        "author": "Jules Vallès",
+        "link_amazon_book": "https://amzn.to/3VWm8OP",
+        "image": "https://m.media-amazon.com/images/I/71b4+TNwEJL._SY522_.jpg"
+    },
+    {
+        "title": "L'insurgé",
+        "author": "Jules Vallès",
+        "link_amazon_book": "https://amzn.to/3ZwDZN3",
+        "image": "https://m.media-amazon.com/images/I/51iU2WmqOOL._SY522_.jpg"
+    },
+    {
+        "title": "Cent ans de solitude",
+        "author": "Gabriel Garcia Marquez",
+        "link_amazon_book": "https://amzn.to/49AU4pM",
+        "image": "https://m.media-amazon.com/images/I/91dQd82Wx3L._SY522_.jpg"
+    },
+    {
+        "title": "Voyage au bout de la nuit",
+        "author": "Louis-Ferdinand Céline",
+        "link_amazon_book": "https://amzn.to/48P4S1N",
+        "image": "https://m.media-amazon.com/images/I/818yQICGeNL._SY522_.jpg"
+    },
+    {
+        "title": "1984",
+        "author": "George Orwell",
+        "link_amazon_book": "https://amzn.to/3HeBWV7",
+        "image": "https://m.media-amazon.com/images/I/71Y9X7FYkcL._SY522_.jpg"
+    },
+    {
+        "title": "La Corruption de la République",
+        "author": "Yves Mény",
+        "link_amazon_book": "https://amzn.to/3ZTB2q3",
+        "image": "https://m.media-amazon.com/images/I/71l2A07nFjL._SY522_.jpg"
+    },
+    {
+        "title": "La promesse De l'aube",
+        "author": "Romain Gary",
+        "link_amazon_book": "https://amzn.to/3PdA6YE",
+        "image": "https://m.media-amazon.com/images/I/71Pdehb3ztL._SY522_.jpg"
+    },
+    {
+        "title": "Les Rapaces",
+        "author": "Camille Vigogne Le Coat",
+        "link_amazon_book": "https://amzn.to/4gPlISb",
+        "image": "https://m.media-amazon.com/images/I/71aGAn5KeQL._SY522_.jpg"
+    },
+    {
+        "title": "Résister à la corruption",
+        "author": "Élise Van Beneden & Éric Alt",
+        "link_amazon_book": "https://amzn.to/4hc6Ptx",
+        "image": "https://m.media-amazon.com/images/I/71MSUGYujvL._SY522_.jpg"
+    },
+    {
+        "title": "Auschwitz et après T1",
+        "author": "Charlotte Delbo",
+        "link_amazon_book": "https://amzn.to/40aFL7X",
+        "image": "https://m.media-amazon.com/images/I/51oIgzV7qCL._SY522_.jpg"
+    },
+    {
+        "title": "Auschwitz et après T2 & T3",
+        "author": "Charlotte Delbo",
+        "link_amazon_book": "https://amzn.to/4gxpSOW",
+        "image": "https://m.media-amazon.com/images/I/81o7lSy3a-L._SY522_.jpg"
+    },
+    {
+        "title": "Le cavalier suédois",
+        "author": "Leo Perutz",
+        "link_amazon_book": "https://amzn.to/4gVKb8f",
+        "image": "https://m.media-amazon.com/images/I/81BqR-QxZdL._SY522_.jpg"
+    },
+    {
+        "title": "La Horde du Contrevent",
+        "author": "Alain Damasio",
+        "link_amazon_book": "https://amzn.to/3VS0IC3",
+        "image": "https://m.media-amazon.com/images/I/81xxBCSH9eL._SY522_.jpg"
+    },
+    {
+        "title": "Un Homme",
+        "author": "Oriana Fallaci",
+        "link_amazon_book": "https://amzn.to/49TOUVK",
+        "image": "https://m.media-amazon.com/images/I/71jckJJsV2L._SY522_.jpg"
+    },
+    {
+        "title": "C'était de Gaulle",
+        "author": "Alain Peyrefitte",
+        "link_amazon_book": "https://amzn.to/3VWSc58",
+        "image": "https://m.media-amazon.com/images/I/41btkhuuTXL.jpg"
+    },
+    {
+        "title": "Les conséquences politiques de la paix",
+        "author": "Jacques Bainville",
+        "link_amazon_book": "https://amzn.to/41Pjiyz",
+        "image": "https://m.media-amazon.com/images/I/61P-T+oehjL._SY522_.jpg"
+    },
+    {
+        "title": "Bhagavad-Gita",
+        "author": "Vyasa",
+        "link_amazon_book": "https://amzn.to/3ZW7doF",
+        "image": "https://m.media-amazon.com/images/I/61kPeOF8R5L._SY522_.jpg"
+    },
+    {
+        "title": "La Horde du Contrevent",
+        "author": "Alain Damasio",
+        "link_amazon_book": "https://amzn.to/3VS0IC3",
+        "image": "https://m.media-amazon.com/images/I/81xxBCSH9eL._SY522_.jpg"
+    },
+    {
+        "title": "Les villes invisibles",
+        "author": "Italo Calvino",
+        "link_amazon_book": "https://amzn.to/4gWrTnW",
+        "image": "https://m.media-amazon.com/images/I/81s8CzXoJBL._SY522_.jpg"
+    },
+    {
+        "title": "La renaissance industrielle",
+        "author": " Pierre Musso",
+        "link_amazon_book": "https://amzn.to/40zAgjI",
+        "image": "https://m.media-amazon.com/images/I/41eW+vM5Z0L._SY522_.jpg"
+    },
+    {
+        "title": "Fables de La Fontaine",
+        "author": "Jean de La Fontaine",
+        "link_amazon_book": "https://amzn.to/3PB9dhC",
+        "image": "https://m.media-amazon.com/images/I/6116l0LU9DL._SY522_.jpg"
+    },
+    {
+        "title": "Ces Messieurs de Lazard",
+        "author": "Martine Orange",
+        "link_amazon_book": "https://amzn.to/40Cyg9d",
+        "image": "https://m.media-amazon.com/images/I/71eEfzHoC8L._SY522_.jpg"
+    },
+    {
+        "title": "Les Nouveaux maîtres du monde",
+        "author": "Jean Ziegler",
+        "link_amazon_book": "https://amzn.to/3Wig0At",
+        "image": "https://m.media-amazon.com/images/I/7124GEy9hwL._SY522_.jpg"
+    },
+    {
+        "title": "La concurrence des victimes",
+        "author": "Jean-Michel Chaumont",
+        "link_amazon_book": "https://amzn.to/4ahrqtW",
+        "image": "https://m.media-amazon.com/images/I/71SujtWQvdL._SY522_.jpg"
+    },
+    {
+        "title": "Eichmann à Jérusalem",
+        "author": "Hannah Arendt",
+        "link_amazon_book": "https://amzn.to/4jlKviL",
+        "image": "https://m.media-amazon.com/images/I/81VaTEhm-gL._SY522_.jpg"
+    },
+    {
+        "title": "Biographie d'Albert Einstein",
+        "author": "Laurent Seksik",
+        "link_amazon_book": "https://amzn.to/40jvsNY",
+        "image": "https://m.media-amazon.com/images/I/81OC7UlwntL._SY522_.jpg"
+    },
+    {
+        "title": "Biographie de Spinoza",
+        "author": "Steven Nadler",
+        "link_amazon_book": "https://amzn.to/4ap6ykM",
+        "image": "https://m.media-amazon.com/images/I/71m8OkqEulL._SY522_.jpg"
+    },
+    {
+        "title": "Sur la télévision",
+        "author": "Pierre Bourdieu",
+        "link_amazon_book": "https://amzn.to/3EjUo0o",
+        "image": "https://m.media-amazon.com/images/I/51qZb0IDu2L._SY522_.jpg"
+    },
+    {
+        "title": "One Piece",
+        "author": "Eiichiro Oda",
+        "link_amazon_book": "https://amzn.to/3WGiKrC",
+        "image": "https://m.media-amazon.com/images/I/71mwAvj3kQL._SY522_.jpg"
+    },
+    {
+        "title": "Leur morale et la nôtre",
+        "author": "Léon Trotsky",
+        "link_amazon_book": "https://amzn.to/42AM6LO",
+        "image": "https://m.media-amazon.com/images/I/41pYsBYmhaL.jpg"
+    },
+    {
+        "title": "L'identité de la France",
+        "author": "Fernand Braudel",
+        "link_amazon_book": "https://amzn.to/3Q02xKa",
+        "image": "https://m.media-amazon.com/images/I/61e5L0CnDfL._SY522_.jpg"
+    },
+    {
+        "title": "Livre des Rois",
+        "author": "Ferdowsi",
+        "link_amazon_book": "https://amzn.to/4hqM3Xu",
+        "image": "https://m.media-amazon.com/images/I/61Ap649MX4L._SY522_.jpg"
+    },
+    {
+        "title": "Golestan",
+        "author": "Saadi",
+        "link_amazon_book": "https://amzn.to/4hIDuqC",
+        "image": "https://m.media-amazon.com/images/I/51blSAS++9L._SY522_.jpg"
+    },
+    {
+        "title": "Cramés",
+        "author": "Philippe Pujol",
+        "link_amazon_book": "https://amzn.to/3DxXT3p",
+        "image": "https://m.media-amazon.com/images/I/61qKcGK2gYL._SY522_.jpg"
+    },
+    {
+        "title": "Les Enfants du Bronx",
+        "author": "Adrian Nicole Leblanc",
+        "link_amazon_book": "https://amzn.to/42MLylT",
+        "image": "https://m.media-amazon.com/images/I/71BjXyF7jSL._SY522_.jpg"
+    },
+    {
+        "title": "The Corner",
+        "author": "David Simon",
+        "link_amazon_book": "https://amzn.to/4jK3ILb",
+        "image": "https://m.media-amazon.com/images/I/61ykQACI3yL._SY522_.jpg"
+    },
+    {
+        "title": "Sociologie de Marseille",
+        "author": "Michel Peraldi, Claire Duport, Michel Samson",
+        "link_amazon_book": "https://amzn.to/3CJEXhz",
+        "image": "https://m.media-amazon.com/images/I/61IBZ7+lQ0L._SY522_.jpg"
+    },
+    {
+        "title": "Les nouveaux chiens de garde",
+        "author": "Serge Halimi",
+        "link_amazon_book": "https://amzn.to/3QxOxay",
+        "image": "https://m.media-amazon.com/images/I/418sD+H5KcL._SY522_.jpg"
+    },
+    {
+        "title": "Socrate, Jésus et Bouddha",
+        "author": "Frédéric Lenoir",
+        "link_amazon_book": "https://amzn.to/3DdlFkQ",
+        "image": "https://m.media-amazon.com/images/I/71HW4Xdb-EL._SY522_.jpg"
+    },
+    {
+        "title": "Tous vaccinés, tous protégés?",
+        "author": "Christine Cotton",
+        "link_amazon_book": "https://amzn.to/4hRFY6u",
+        "image": "https://m.media-amazon.com/images/I/61qlVNY5ODL._SY522_.jpg"
+    },
+    {
+        "title": "Victimes des vaccins covid 19",
+        "author": "Pierre Chaillot",
+        "link_amazon_book": "https://amzn.to/4i650iF",
+        "image": "https://m.media-amazon.com/images/I/71YI12zn9CL._SY522_.jpg"
+    },
+    {
+        "title": "Le réveil, 4 ans après",
+        "author": "Christian Perronne",
+        "link_amazon_book": "https://amzn.to/3CT8hCz",
+        "image": "https://m.media-amazon.com/images/I/611aB+VbqaL._SY522_.jpg"
+    },
+    {
+        "title": "COVID-19: La Grande Réinitialisation",
+        "author": "Klaus Schwab",
+        "link_amazon_book": "https://amzn.to/4gTC7oo",
+        "image": "https://m.media-amazon.com/images/I/615vOMOl4RL._SY522_.jpg"
+    },
+    {
+        "title": "Du miracle en économie",
+        "author": "Alain Peyrefitte",
+        "link_amazon_book": "https://amzn.to/4gZaMBc",
+        "image": "https://m.media-amazon.com/images/I/61vDP3pnPyL._SY522_.jpg"
+    },
+    {
+        "title": "Steve Jobs",
+        "author": "Walter Isaacson",
+        "link_amazon_book": "https://amzn.to/4k6YXeS",
+        "image": "https://m.media-amazon.com/images/I/71mmowWE5iL._SY522_.jpg"
+    },
+    {
+        "title": "Civilisation matérielle, économie et capitalisme - Tome 1",
+        "author": "Fernand Braudel",
+        "link_amazon_book": "https://amzn.to/41vBvko",
+        "image": "https://m.media-amazon.com/images/I/71lpHOYNSYL._SY522_.jpg"
+    },
+    {
+        "title": "Civilisation matérielle, économie et capitalisme - Tome 2",
+        "author": "Fernand Braudel",
+        "link_amazon_book": "https://amzn.to/4kgQyWc",
+        "image": "https://m.media-amazon.com/images/I/81sXNqYztrL._SY522_.jpg"
+    },
+    {
+        "title": "Civilisation matérielle, économie et capitalisme - Tome 3",
+        "author": "Fernand Braudel",
+        "link_amazon_book": "https://amzn.to/3QzBiXa",
+        "image": "https://m.media-amazon.com/images/I/81yG9AxRtbL._SY522_.jpg"
+    },
+    {
+        "title": "Terre des hommes",
+        "author": "Antoine de Saint-Exupéry",
+        "link_amazon_book": "https://amzn.to/4ikVGqV",
+        "image": "https://m.media-amazon.com/images/I/81+aynv0kaL._SY522_.jpg"
+    },
+    {
+        "title": "Parlons-nous tous la même langue?",
+        "author": "Frédéric Dabi - Brice Soccol",
+        "link_amazon_book": "https://amzn.to/3R6qDTK",
+        "image": "https://m.media-amazon.com/images/I/71s5bI8B+OL._SY522_.jpg"
+    },
+    {
+        "title": "Sans transition",
+        "author": "Jean-Baptiste Fressoz",
+        "link_amazon_book": "https://amzn.to/4bOB8on",
+        "image": "https://m.media-amazon.com/images/I/81aNSVHThHL._SY522_.jpg"
+    },
+    {
+        "title": "L'âge d'or de la corruption parlementaire",
+        "author": "Jean-Yves Mollier",
+        "link_amazon_book": "https://amzn.to/4izp5xG",
+        "image": "https://m.media-amazon.com/images/I/81DPIrYKJgL._SY522_.jpg"
+    },
+    {
+        "title": "Les patrons de la presse nationale",
+        "author": "Jean Stern - Olivier Tosas-Giro",
+        "link_amazon_book": "https://amzn.to/43D4JPw",
+        "image": "https://m.media-amazon.com/images/I/61vJ6S4bcbL._SY522_.jpg"
+    },
+    {
+        "title": "L'empire de la douleur",
+        "author": "Patrick Radden Keefe",
+        "link_amazon_book": "https://amzn.to/3R2BgXL",
+        "image": "https://m.media-amazon.com/images/I/51NilvZYkAL._SY522_.jpg"
+    },
+    {
+        "title": "La Tech",
+        "author": "Olivier Alexandre",
+        "link_amazon_book": "https://amzn.to/3Dp25m1",
+        "image": "https://m.media-amazon.com/images/I/81kA3Kw5HxL._SY522_.jpg"
+    },
+    {
+        "title": "L'Inconnue de Dallas",
+        "author": "Mary Haverstick",
+        "link_amazon_book": "https://amzn.to/3DIO9mM",
+        "image": "https://m.media-amazon.com/images/I/81uLsSSAamL._SY522_.jpg"
+    },
+    {
+        "title": "De la démocratie en Amérique",
+        "author": "Alexis de Tocqueville",
+        "link_amazon_book": "https://amzn.to/4bCjpAz",
+        "image": "https://m.media-amazon.com/images/I/61ChPuYPYSL._SY522_.jpg"
+    },
+    {
+        "title": "L'Ancien Régime et la Révolution",
+        "author": "Alexis de Tocqueville",
+        "link_amazon_book": "https://amzn.to/4iyj6Jj",
+        "image": "https://m.media-amazon.com/images/I/914q30Np2zL._SY522_.jpg"
+    },
+    {
+        "title": "La Comédie Humaine",
+        "author": "Honoré de Balzac",
+        "link_amazon_book": "https://amzn.to/4ixi0gX",
+        "image": "https://m.media-amazon.com/images/I/61YrarehT+L._SY522_.jpg"
+    },
+    {
+        "title": "Les Aventures de Tintin, Intégrale",
+        "author": "Hergé",
+        "link_amazon_book": "https://amzn.to/4iqdyR4",
+        "image": "https://m.media-amazon.com/images/I/81hjG7u4wqL._SY522_.jpg"
+    },
+    {
+        "title": "De la démocratie en Amérique",
+        "author": "Alexis de Tocqueville",
+        "link_amazon_book": "https://amzn.to/4bCjpAz",
+        "image": "https://m.media-amazon.com/images/I/61ChPuYPYSL._SY522_.jpg"
+    },
+    {
+        "title": "L'Ancien Régime et la Révolution",
+        "author": "Alexis de Tocqueville",
+        "link_amazon_book": "https://amzn.to/4iyj6Jj",
+        "image": "https://m.media-amazon.com/images/I/914q30Np2zL._SY522_.jpg"
+    },
+    {
+        "title": "Mémoires d'Hadrien",
+        "author": "Marguerite Yourcenar",
+        "link_amazon_book": "https://amzn.to/4j3rVLi",
+        "image": "https://m.media-amazon.com/images/I/91I11BCCyZL._SY522_.jpg"
+    },
+    {
+        "title": "Lettres à la petite fille qui vient de naître",
+        "author": "Patrice Franceschi",
+        "link_amazon_book": "https://amzn.to/3XvO9xp",
+        "image": "https://m.media-amazon.com/images/I/61vVtv0Wt-L._SY522_.jpg"
+    },
+    {
+        "title": "Les Fossoyeurs de la République",
+        "author": "Mohamed Sifaoui",
+        "link_amazon_book": "https://amzn.to/3Xv7zlX",
+        "image": "https://m.media-amazon.com/images/I/41AxTFo-dxL.jpg"
+    },
+    {
+        "title": "Les Géorgiques",
+        "author": "Claude Simon",
+        "link_amazon_book": "https://amzn.to/4kZmBdT",
+        "image": "https://m.media-amazon.com/images/I/818nLf+efBL._SY522_.jpg"
+    },
+    {
+        "title": "Mémoires",
+        "author": "Raymond Aron",
+        "link_amazon_book": "https://amzn.to/3FG4qK2",
+        "image": "https://m.media-amazon.com/images/I/61FC3-bYpSL._SY522_.jpg"
+    },
+    {
+        "title": "Petite Poucette",
+        "author": "Michel Serres",
+        "link_amazon_book": "https://amzn.to/3E1VJJs",
+        "image": "https://m.media-amazon.com/images/I/6147TteHnhL._SY522_.jpg"
+    },
+    {
+        "title": "The Sovereign Individual",
+        "author": "James Dale Davidson",
+        "link_amazon_book": "https://amzn.to/3RtCSKp",
+        "image": "https://m.media-amazon.com/images/I/811BLWk2tcL._SY522_.jpg"
+    },
+    {
+        "title": "Confédéralisme démocratique",
+        "author": "Abdullah Öcalan",
+        "link_amazon_book": "https://fr.anarchistlibraries.net/library/abdullah-ocalan-confederalisme-democratique",
+        "image": "https://m.media-amazon.com/images/I/61hHZznTEUL._SY522_.jpg"
+    },
+    {
+        "title": "Les Découvreurs",
+        "author": "Daniel Boorstin",
+        "link_amazon_book": "https://amzn.to/4cw6GQh",
+        "image": "https://m.media-amazon.com/images/I/616JUU1KWjL._SY522_.jpg"
+    },
+    {
+        "title": "Un thérapeute hors du commun:",
+        "author": "Jay Haley",
+        "link_amazon_book": "https://amzn.to/42wlqtQ",
+        "image": "https://m.media-amazon.com/images/I/71Xz+lGkI6L._SY522_.jpg"
+    },
+    {
+        "title": "Frédéric de Hohenstaufen",
+        "author": "Jacques Benoist-Méchin",
+        "link_amazon_book": "https://amzn.to/3Yw7nDj",
+        "image": "https://m.media-amazon.com/images/I/71WySMBZXAL._SY522_.jpg"
+    },
+    {
+        "title": "Le grand échiquier",
+        "author": "Zbigniew Brzezinski",
+        "link_amazon_book": "https://amzn.to/42Ui57Z",
+        "image": "https://f.media-amazon.com/images/I/51L+dfOnZ2L._SY522_.jpg"
+    },
+    {
+        "title": "La Guerre hors limites",
+        "author": "Qiao Liang, Wang Xiangsui, Quian Liang",
+        "link_amazon_book": "https://amzn.to/4cTuhuq",
+        "image": "https://f.media-amazon.com/images/I/81+pA9NNNNL._SY466_.jpg"
+    },
+    {
+        "title": "Le mage du Kremlin",
+        "author": "Giuliano da Empoli",
+        "link_amazon_book": "https://amzn.to/3GBMroE",
+        "image": "https://f.media-amazon.com/images/I/718idCs5tkL._SY522_.jpg"
+    },
+    {
+        "title": "Penser avec clarté",
+        "author": "Shane Parrish",
+        "link_amazon_book": "https://amzn.to/4iCS0jL",
+        "image": "https://f.media-amazon.com/images/I/61nxeKWgHkL._SY466_.jpg"
+    },
+    {
+        "title": "Poor Charlie's Almanack",
+        "author": "Charles T. Munger",
+        "link_amazon_book": "https://amzn.to/42ACrV4",
+        "image": "https://f.media-amazon.com/images/I/41zbjBwHgIL.jpg"
+    },
+    {
+        "title": "Seeking wisdom",
+        "author": "Peter Bevelin",
+        "link_amazon_book": "https://amzn.to/4jQU6xA",
+        "image": "https://f.media-amazon.com/images/I/61qbFGP2sFL._SY522_.jpg"
+    },
+    {
+        "title": "Méditations",
+        "author": "Marc Aurèle",
+        "link_amazon_book": "https://amzn.to/3GBLTPC",
+        "image": "https://f.media-amazon.com/images/I/71oDbjYpoGL._SY466_.jpg"
+    },
+    {
+        "title": "Le chemin le moins fréquenté",
+        "author": "Scott Peck",
+        "link_amazon_book": "https://amzn.to/4j8yX13",
+        "image": "https://m.media-amazon.com/images/I/61FFYZm-n+L._SY522_.jpg"
+    },
+    {
+        "title": "Père manquant fils manqué",
+        "author": "Guy Corneau",
+        "link_amazon_book": "https://amzn.to/3YMwFNT",
+        "image": "https://m.media-amazon.com/images/I/51llw18AnmL._SY522_.jpg"
+    },
+    {
+        "title": "Le pouvoir du moment présent",
+        "author": "Eckhart Tolle",
+        "link_amazon_book": "https://amzn.to/44FBIn6",
+        "image": "https://m.media-amazon.com/images/I/61rlFBxkt1L._SY522_.jpg"
+    },
+    {
+        "title": "De la Chine",
+        "author": "Henry Kissinger",
+        "link_amazon_book": "https://amzn.to/44CxHje",
+        "image": "https://m.media-amazon.com/images/I/61cGrMzJYFL._SY522_.jpg"
+    },
+    {
+        "title": "Dragon tactics",
+        "author": "Sandrine Zerbib",
+        "link_amazon_book": "https://amzn.to/3F3pp9I",
+        "image": "https://m.media-amazon.com/images/I/61VlmbMaVTL._SY522_.jpg"
+    },
+    {
+        "title": "La roulette chinoise",
+        "author": "Desmond Shum",
+        "link_amazon_book": "https://amzn.to/4kjGVFF",
+        "image": "https://m.media-amazon.com/images/I/51MnfC7FwlL._SY522_.jpg"
+    },
+    {
+        "title": "La connaissance inutile",
+        "author": "Jean-François Revel",
+        "link_amazon_book": "https://amzn.to/4mfTeEJ",
+        "image": "https://m.media-amazon.com/images/I/61pBpSVM+qL._SY522_.jpg"
+    },
+    {
+        "title": "Homo Cretinus",
+        "author": "Olivier Postel-Vinay",
+        "link_amazon_book": "https://amzn.to/43kTdXz",
+        "image": "https://m.media-amazon.com/images/I/51XYpDlPvdL._SY522_.jpg"
+    },
+    {
+        "title": "Les illusionnistes",
+        "author": "Géraldine Woessner & Erwan Seznec",
+        "link_amazon_book": "https://amzn.to/4jeKJXN",
+        "image": "https://m.media-amazon.com/images/I/51VC+x6QFAL._SY522_.jpg"
+    },
+    {
+        "title": "Rien n'est joué",
+        "author": "Jacques Lecomte",
+        "link_amazon_book": "https://amzn.to/437VFSk",
+        "image": "https://m.media-amazon.com/images/I/51TmakOvL6L._SY522_.jpg"
+    },
+    {
+        "title": "De Gaïa à l'IA",
+        "author": "Jean-Paul Oury",
+        "link_amazon_book": "https://amzn.to/4mpvjCL",
+        "image": "https://m.media-amazon.com/images/I/61VKKlfE4-L._SY522_.jpg"
+    },
+    {
+        "title": "Les dix commandements de la transition énergétique",
+        "author": "Philippe Charlez",
+        "link_amazon_book": "https://amzn.to/45imdl4",
+        "image": "https://m.media-amazon.com/images/I/71pRGd1UayL._SY522_.jpg"
+    },
+    {
+        "title": "L'Âge des low tech",
+        "author": "Philippe Bihouix",
+        "link_amazon_book": "https://amzn.to/3vsjsxK",
+        "image": "https://m.media-amazon.com/images/I/81rb-8EHM8L._SY522_.jpg"
+    },
+    {
+        "title": "Les autres ne pensent pas comme nous",
+        "author": "Maurice Gourdault-Montagne",
+        "link_amazon_book": "https://amzn.to/3YX2DHb",
+        "image": "https://m.media-amazon.com/images/I/61vpWjdwwpL._SY522_.jpg"
+    },
+    {
+        "title": "Bienvenue en économie de guerre",
+        "author": "David Baverez",
+        "link_amazon_book": "https://amzn.to/4dwwtbE",
+        "image": "https://m.media-amazon.com/images/I/614Ik0XJMVL._SY522_.jpg"
+    },
+    {
+        "title": "Les Misérables",
+        "author": "Victor Hugo",
+        "link_amazon_book": "https://amzn.to/47F4dPv",
+        "image": "https://m.media-amazon.com/images/I/71lxLN4vorL._SY522_.jpg"
+    },
+    {
+        "title": "Les enfants Tanner",
+        "author": "Robert Walser",
+        "link_amazon_book": "https://amzn.to/3YTAAsa",
+        "image": "https://m.media-amazon.com/images/I/81P1Md4V4-L._SY522_.jpg"
+    },
+    {
+        "title": "Or noir",
+        "author": "Matthieu Auzanneau",
+        "link_amazon_book": "https://amzn.to/437Vnec",
+        "image": "https://m.media-amazon.com/images/I/615bLwHhiZL._SY522_.jpg"
+    },
+    {
+        "title": "Belle du Seigneur",
+        "author": "Albert Cohen",
+        "link_amazon_book": "https://amzn.to/3GYO5AT",
+        "image": "https://m.media-amazon.com/images/I/819SN3gLLPL._SY522_.jpg"
+    },
+    {
+        "title": "Avril brisé",
+        "author": "Ismaïl Kadaré",
+        "link_amazon_book": "https://amzn.to/4drsSeI",
+        "image": "https://m.media-amazon.com/images/I/81VKhw6K8tL._SY522_.jpg"
+    },
+    {
+        "title": "Vingt mille lieues sous les mers",
+        "author": "Jules Verne",
+        "link_amazon_book": "https://amzn.to/3SMp8Ly",
+        "image": "https://m.media-amazon.com/images/W/MEDIAX_1215821-T1/images/I/91d0MPVV0qL._SY522_.jpg"
+    },
+    {
+        "title": "Michel Strogoff",
+        "author": "Jules Verne",
+        "link_amazon_book": "https://amzn.to/4dZ2ppo",
+        "image": "https://m.media-amazon.com/images/W/MEDIAX_1215821-T1/images/I/91drVmeVZ6L._SY522_.jpg"
+    },
+    {
+        "title": "Mémoires",
+        "author": "Raymond Aron",
+        "link_amazon_book": "https://amzn.to/3FG4qK2",
+        "image": "https://m.media-amazon.com/images/I/61FC3-bYpSL._SY522_.jpg"
+    },
+    {
+        "title": "Le Premier Homme",
+        "author": "Albert Camus",
+        "link_amazon_book": "https://amzn.to/48tZMIl",
+        "image": "https://m.media-amazon.com/images/I/81rwEMFTvhL._SY522_.jpg"
+    },
+    {
+        "title": "L'Archipel français",
+        "author": "Jérôme Fourquet",
+        "link_amazon_book": "https://amzn.to/4jGaOz7",
+        "image": "https://m.media-amazon.com/images/W/MEDIAX_1215821-T1/images/I/61xZCGnIU8L._SY522_.jpg"
+    },
+    {
+        "title": "Ancien et Nouveau Testament",
+        "author": "La Bible",
+        "link_amazon_book": "https://amzn.to/4jK9ACU",
+        "image": "https://m.media-amazon.com/images/I/51UlqlxiLrL._SY522_.jpg"
+    },
+    {
+        "title": "L’énergie, face cachée de la monnaie",
+        "author": "Pierre Noizat",
+        "link_amazon_book": "https://amzn.to/48dwj68",
+        "image": "https://m.media-amazon.com/images/I/71XsoVMEw8L._SY522_.jpg"
+    },
+    {
+        "title": "Zadig",
+        "author": "Voltaire",
+        "link_amazon_book": "https://amzn.to/4kC7AOk",
+        "image": "https://m.media-amazon.com/images/W/MEDIAX_1215821-T1/images/I/71-B+1Dx-gL._SY522_.jpg"
+    },
+    {
+        "title": "Le livre de la Voie et de la Vertu",
+        "author": "Tao-Te-King",
+        "link_amazon_book": "https://amzn.to/45eGYOL",
+        "image": "https://m.media-amazon.com/images/W/MEDIAX_1215821-T1/images/I/71oyjlMLcVL._SY522_.jpg"
+    },
+    {
+        "title": "L'athéisme expliqué",
+        "author": "Paul Desalmand",
+        "link_amazon_book": "https://amzn.to/4kyVwNL",
+        "image": "https://m.media-amazon.com/images/W/MEDIAX_1215821-T1/images/I/51eh8m5cO-L._SY522_.jpg"
+    },
+    {
+        "title": "L'Internet de l'argent",
+        "author": "Andreas M. Antonopoulos",
+        "link_amazon_book": "https://amzn.to/440xu7r",
+        "image": "https://m.media-amazon.com/images/W/MEDIAX_1215821-T1/images/I/51tWSz1YwpL._SY522_.jpg"
+    },
+    {
+        "title": "Figures de l'immanence",
+        "author": "François Jullien",
+        "link_amazon_book": "https://amzn.to/3SMdMaj",
+        "image": "https://m.media-amazon.com/images/W/MEDIAX_1215821-T1/images/I/41jC0nfV9JL.jpg"
+    },
+    {
+        "title": "De la Chine",
+        "author": "Henry Kissinger",
+        "link_amazon_book": "https://amzn.to/44CxHje",
+        "image": "https://m.media-amazon.com/images/I/61cGrMzJYFL._SY522_.jpg"
+    },
+    {
+        "title": "L'Ancien Régime et la Révolution",
+        "author": "Alexis de Tocqueville",
+        "link_amazon_book": "https://amzn.to/4iyj6Jj",
+        "image": "https://m.media-amazon.com/images/I/914q30Np2zL._SY522_.jpg"
+    },
+    {
+        "title": "La Guerre des Mondes",
+        "author": "H. G. Wells",
+        "link_amazon_book": "https://amzn.to/403YMsk",
+        "image": "https://m.media-amazon.com/images/I/71QbicG4VcL._SY522_.jpg"
+    },
+    {
+        "title": "1493",
+        "author": "Charles C. Mann",
+        "link_amazon_book": "https://amzn.to/4kIDNDR",
+        "image": "https://m.media-amazon.com/images/I/81dIC+F7SdL._SY522_.jpg"
+    },
+    {
+        "title": "Les Fleurs du Mal",
+        "author": "Charles Baudelaire",
+        "link_amazon_book": "https://amzn.to/4aWThPZ",
+        "image": "https://m.media-amazon.com/images/I/61TsWlL-vBL._SY522_.jpg"
+    },
+    {
+        "title": "1984",
+        "author": "George Orwell",
+        "link_amazon_book": "https://amzn.to/3HeBWV7",
+        "image": "https://m.media-amazon.com/images/I/71Y9X7FYkcL._SY522_.jpg"
+    },
+    {
+        "title": "Oeuvre intégrale",
+        "author": "René Goscinny",
+        "link_amazon_book": "https://amzn.to/4kVC65U",
+        "image": "https://m.media-amazon.com/images/I/81Dirt03cbL._SY522_.jpg"
+    },
+    {
+        "title": "Arsène Lupin",
+        "author": "Maurice Leblanc",
+        "link_amazon_book": "https://amzn.to/4kcqP06",
+        "image": "https://m.media-amazon.com/images/I/61WXfdMXHmL._SY522_.jpg"
+    },
+    {
+        "title": "Oeuvre intégrale",
+        "author": "Léon Tolstoï",
+        "link_amazon_book": "https://amzn.to/3G63gYQ",
+        "image": "https://m.media-amazon.com/images/I/81QSZ9whwAL._SY522_.jpg"
+    },
+    {
+        "title": "Oeuvre intégrale",
+        "author": "Milan Kundera",
+        "link_amazon_book": "https://amzn.to/4ni5cOH",
+        "image": "https://m.media-amazon.com/images/I/71i4Cs25EoL._SY522_.jpg"
+    },
+    {
+        "title": "San-Antonio",
+        "author": "Frédéric Dard",
+        "link_amazon_book": "https://amzn.to/3ZLb3C6",
+        "image": "https://m.media-amazon.com/images/I/617fHD6fT9L._SY522_.jpg"
+    },
+    {
+        "title": "De Staline à Hitler",
+        "author": "Robert Coulondre",
+        "link_amazon_book": "https://amzn.to/3HY8hDc",
+        "image": "https://m.media-amazon.com/images/I/61sV-2R+DJL._SY522_.jpg"
+    },
+    {
+        "title": "Mémoires du Prince de Ligne",
+        "author": "Prince de Ligne",
+        "link_amazon_book": "https://amzn.to/44bYctW",
+        "image": "https://m.media-amazon.com/images/I/91DSuSrm+IL._SY522_.jpg"
+    },
+    {
+        "title": "Le Monde d'hier",
+        "author": "Stefan Zweig",
+        "link_amazon_book": "https://amzn.to/4k8qLys",
+        "image": "https://m.media-amazon.com/images/I/91R+EOfbsOL._SY522_.jpg"
+    },
+    {
+        "title": "Oeuvre intégrale",
+        "author": "Fereshteh Molavi",
+        "link_amazon_book": "https://amzn.to/3TtLwd7",
+        "image": "https://m.media-amazon.com/images/I/41VClTstd9L.jpg"
+    },
+    {
+        "title": "L'Odyssée de l'Endurance",
+        "author": "Ernest Henry Shackleton",
+        "link_amazon_book": "https://amzn.to/4nxfRVM",
+        "image": "https://m.media-amazon.com/images/I/816W5TOnHML._SY522_.jpg"
+    },
+    {
+        "title": "Ocean's songs",
+        "author": "Olivier de Kersauson",
+        "link_amazon_book": "https://amzn.to/44loVnK",
+        "image": "https://m.media-amazon.com/images/I/61oZGC2SSPL._SY522_.jpg"
+    },
+    {
+        "title": "Cavalcade océane",
+        "author": "Marie Tabarly",
+        "link_amazon_book": "https://amzn.to/44zj9iB",
+        "image": "https://m.media-amazon.com/images/I/71NjUfnPG9L._SY522_.jpg"
+    },
+    {
+        "title": "Vers un monde univoque",
+        "author": "Thomas Bauer",
+        "link_amazon_book": "https://amzn.to/4kiTHDS",
+        "image": "https://m.media-amazon.com/images/I/813f4IWGvLL._SY522_.jpg"
+    },
+    {
+        "title": "La Cité aux murs incertains",
+        "author": "Haruki Murakami",
+        "link_amazon_book": "https://amzn.to/44d4TgB",
+        "image": "https://m.media-amazon.com/images/I/715CoWI9N3L._SY522_.jpg"
+    },
+    {
+        "title": "Yanaï",
+        "author": "Jérome Clech",
+        "link_amazon_book": "https://amzn.to/3Icqc9j",
+        "image": "https://m.media-amazon.com/images/I/51ruKLlMOwL._SY522_.jpg"
+    },
+    {
+        "title": "L'Art d'avoir toujours raison",
+        "author": "Arthur Schopenhauer",
+        "link_amazon_book": "https://amzn.to/3SqQyXO",
+        "image": "https://m.media-amazon.com/images/I/412GnrE7s+L._SY466_.jpg"
+    },
+    {
+        "title": "Le monde comme volonté et représentation",
+        "author": "Arthur Schopenhauer",
+        "link_amazon_book": "https://amzn.to/3I4B49t",
+        "image": "https://m.media-amazon.com/images/I/91LJ9NjEOTL._SY522_.jpg"
+    },
+    {
+        "title": "Oeuvre intégrale",
+        "author": "Rainer Maria Rilke",
+        "link_amazon_book": "https://amzn.to/4nxC3z6",
+        "image": "https://m.media-amazon.com/images/I/71NNewF5AIL._SY522_.jpg"
+    },
+    {
+        "title": "Oeuvre intégrale",
+        "author": "Jean Racine",
+        "link_amazon_book": "https://amzn.to/4lcl7wD",
+        "image": "https://m.media-amazon.com/images/I/81cn6SOOq8L._SY522_.jpg"
+    },
+    {
+        "title": "Un État commun",
+        "author": "Éric Hazan & Eyal Sivan",
+        "link_amazon_book": "https://amzn.to/3VFaHKD",
+        "image": "https://m.media-amazon.com/images/I/61zaxn1TjZL._SY522_.jpg"
+    },
+    {
+        "title": "Israël-Palestine, la solution : un Etat",
+        "author": "Ghada Karmi",
+        "link_amazon_book": "https://amzn.to/48F77I1",
+        "image": "https://m.media-amazon.com/images/I/51X0Ic+r85L._SY522_.jpg"
+    },
+    {
+        "title": "Lettre à un ami juif",
+        "author": "Ibrahim Souss",
+        "link_amazon_book": "https://amzn.to/46u1hIk",
+        "image": "https://m.media-amazon.com/images/I/41jhOvxY0hL.jpg"
+    },
+    {
+        "title": "Ancien et Nouveau Testament",
+        "author": "La Bible",
+        "link_amazon_book": "https://amzn.to/4jK9ACU",
+        "image": "https://m.media-amazon.com/images/I/51UlqlxiLrL._SY522_.jpg"
+    },
+    {
+        "title": "Théorie générale",
+        "author": "John Maynard Keynes",
+        "link_amazon_book": "https://amzn.to/48Fe0sX",
+        "image": "https://m.media-amazon.com/images/I/51R9pGOtMfL._SY522_.jpg"
+    },
+    {
+        "title": "Mémoires d'Hadrien",
+        "author": "Marguerite Yourcenar",
+        "link_amazon_book": "https://amzn.to/48YZ9Xw",
+        "image": "https://m.media-amazon.com/images/I/91dWQi-QWdL._SY522_.jpg"
+    },
+    {
+        "title": "Le Prince",
+        "author": "Nicolas Machiavel",
+        "link_amazon_book": "https://amzn.to/3vqLtpq",
+        "image": "https://m.media-amazon.com/images/I/71rymI-m0mL._SY522_.jpg"
+    },
+    {
+        "title": "Mémoires de guerre",
+        "author": "Charles de Gaulle",
+        "link_amazon_book": "https://amzn.to/47FiDzi",
+        "image": "https://m.media-amazon.com/images/I/61O8m00F9QL._SY522_.jpg"
+    },
+    {
+        "title": "Oeuvre intégrale",
+        "author": "Howard Philips LOVECRAFT",
+        "link_amazon_book": "https://amzn.to/46WtabY",
+        "image": "https://m.media-amazon.com/images/I/919zYfL6yXL._SY522_.jpg"
+    },
+    {
+        "title": "Oeuvre intégrale",
+        "author": "Isaac Asimov",
+        "link_amazon_book": "https://amzn.to/3KmVviV",
+        "image": "https://m.media-amazon.com/images/I/61q+GBfu9kL._SY522_.jpg"
+    },
+    {
+        "title": "À l'assaut du réel",
+        "author": "Gérald Bronner",
+        "link_amazon_book": "https://amzn.to/3Iy3CJ0",
+        "image": "https://m.media-amazon.com/images/I/610c04gSx1L._SY522_.jpg"
+    },
+    {
+        "title": "L'étranger",
+        "author": "Albert Camus",
+        "link_amazon_book": "https://amzn.to/3IzB2qI",
+        "image": "https://m.media-amazon.com/images/I/8130inT26AL._SY522_.jpg"
+    },
+    {
+        "title": "1984",
+        "author": "George Orwell",
+        "link_amazon_book": "https://amzn.to/48DM4Wl",
+        "image": "https://m.media-amazon.com/images/I/81ubGDY08IS._SY522_.jpg"
+    },
+    {
+        "title": "Le Prince",
+        "author": "Nicolas Machiavel",
+        "link_amazon_book": "https://amzn.to/3vqLtpq",
+        "image": "https://m.media-amazon.com/images/I/71rymI-m0mL._SY522_.jpg"
+    },
+    {
+        "title": "Le rêve d'un homme ridicule",
+        "author": "Fiodor Mikhaïlovitch Dostoïevski",
+        "link_amazon_book": "https://amzn.to/4nSAf2U",
+        "image": "https://m.media-amazon.com/images/I/91i9sac84LL._SY522_.jpg"
+    },
+    {
+        "title": "L'homme révolté",
+        "author": "Albert Camus",
+        "link_amazon_book": "https://amzn.to/3H9x9Et",
+        "image": "https://m.media-amazon.com/images/I/81mGlfigybL._SY522_.jpg"
+    },
+    {
+        "title": "Les mots, la mort, les sorts",
+        "author": "Jeanne Favret-Saada",
+        "link_amazon_book": "https://amzn.to/47twpbl",
+        "image": "https://m.media-amazon.com/images/I/91Hx6xjLA3L._SY522_.jpg"
+    },
+    {
+        "title": "Tristes tropiques",
+        "author": "Claude Lévi-Strauss",
+        "link_amazon_book": "https://amzn.to/4hMW02d",
+        "image": "https://m.media-amazon.com/images/I/619Bl-oGTBL._SY522_.jpg"
+    },
+    {
+        "title": "La sociologie de Erving Goffman",
+        "author": "Erving Goffman",
+        "link_amazon_book": "https://amzn.to/3Lv7jjC",
+        "image": "https://m.media-amazon.com/images/I/51pHS5lVd+L._SY522_.jpg"
+    },
+    {
+        "title": "Le Désert de nous-mêmes",
+        "author": "Eric Sadin",
+        "link_amazon_book": "https://amzn.to/43kcNUt",
+        "image": "https://m.media-amazon.com/images/I/519yHHSmgVL._SY522_.jpg"
+    },
+    {
+        "title": "Penser à temps",
+        "author": "Eric Sadin",
+        "link_amazon_book": "https://amzn.to/481kNML",
+        "image": "https://m.media-amazon.com/images/I/81yo3H2SUSL._SY522_.jpg"
+    },
+    {
+        "title": "La Machine gouverne",
+        "author": "Paul Valéry",
+        "link_amazon_book": "https://amzn.to/4nLkGJY",
+        "image": "https://m.media-amazon.com/images/I/61MzBaGSgkL._SY522_.jpg"
+    },
+    {
+        "title": "Pourquoi je hais l'indifférence",
+        "author": "Antonio Gramsci",
+        "link_amazon_book": "https://amzn.to/497wfaW",
+        "image": "https://m.media-amazon.com/images/I/81patOs70TL._SY522_.jpg"
+    },
+    {
+        "title": "Spinoza, philosophie pratique",
+        "author": "Gilles Deleuze",
+        "link_amazon_book": "https://amzn.to/4hWGG3h",
+        "image": "https://m.media-amazon.com/images/I/61o3Q2-ALKL._SY522_.jpg"
+    },
+    {
+        "title": "Prisonnier du désert",
+        "author": "Olivier Dubois",
+        "link_amazon_book": "https://amzn.to/4qJTHkI",
+        "image": "https://m.media-amazon.com/images/I/61quQgVnLQL._SY522_.jpg"
+    },
+    {
+        "title": "Le grand jeu",
+        "author": "Hopkirk Peter",
+        "link_amazon_book": "https://amzn.to/47NJWJP",
+        "image": "https://m.media-amazon.com/images/I/51n4I-IlC8L._SY522_.jpg"
+    },
+    {
+        "title": "Cher pays de notre enfance",
+        "author": "Benoît Collombat",
+        "link_amazon_book": "https://amzn.to/4i66z0R",
+        "image": "https://m.media-amazon.com/images/I/91T9i3qdhdL._SY522_.jpg"
+    },
+    {
+        "title": "Madame St-Clair, reine de Harlem",
+        "author": "Raphaël Confiant",
+        "link_amazon_book": "https://amzn.to/4qNbwPO",
+        "image": "https://m.media-amazon.com/images/I/81iUKb-0qcL._SY522_.jpg"
+    },
+    {
+        "title": "L'Aventure de l'Encyclopédie",
+        "author": "Robert Darnton",
+        "link_amazon_book": "https://amzn.to/4qYvgQF",
+        "image": "https://m.media-amazon.com/images/I/71U+Bx3NLRL._SY522_.jpg"
+    },
+    {
+        "title": "Cours familier de philosophie politique",
+        "author": "Pierre Manent",
+        "link_amazon_book": "https://amzn.to/48diDd6",
+        "image": "https://m.media-amazon.com/images/I/71jJSFoYH0L._SY522_.jpg"
+    },
+    {
+        "title": "Chroniques des choses grandes et magnifiques",
+        "author": "Alexandre Vialatte",
+        "link_amazon_book": "https://amzn.to/3LF2JPR",
+        "image": "https://m.media-amazon.com/images/I/41LAo7Hv24L.jpg"
+    },
+    {
+        "title": "La Maison vide",
+        "author": "Laurent Mauvignier",
+        "link_amazon_book": "https://amzn.to/4qWgtpH",
+        "image": "https://m.media-amazon.com/images/I/61fhLz3hcHL._SY522_.jpg"
+    },
+    {
+        "title": "L'humeur révolutionnaire",
+        "author": "Robert Darnton",
+        "link_amazon_book": "https://amzn.to/4oNeT83",
+        "image": "https://m.media-amazon.com/images/I/71AH3xri-oL._SY522_.jpg"
+    },
+    {
+        "title": "Vie et destin",
+        "author": "Vassili Grossman",
+        "link_amazon_book": "https://amzn.to/4qRpHU1",
+        "image": "https://m.media-amazon.com/images/I/71o4oM5SMvL._SY522_.jpg"
+    },
+    {
+        "title": "Giovanni Falcone",
+        "author": "Roberto Saviano",
+        "link_amazon_book": "https://amzn.to/4pssh1x",
+        "image": "https://m.media-amazon.com/images/I/71JkwKwDTYL._SY522_.jpg"
+    },
+    {
+        "title": "Le déclin du courage",
+        "author": "Alexandre Soljenitsyne",
+        "link_amazon_book": "https://amzn.to/3XvNYkY",
+        "image": "https://m.media-amazon.com/images/I/51DyEPp2lRL._SY522_.jpg"
+    },
+    {
+        "title": "Le savant et le politique",
+        "author": "Max Weber",
+        "link_amazon_book": "https://amzn.to/3LACme0",
+        "image": "https://m.media-amazon.com/images/I/61C5Gw07iqL._SY522_.jpg"
+    },
+    {
+        "title": "The Prize",
+        "author": "Daniel Yergin",
+        "link_amazon_book": "https://amzn.to/482IhQK",
+        "image": "https://m.media-amazon.com/images/I/51dL8CxVbOL.jpg"
+    },
+    {
+        "title": "Merchants of Grain",
+        "author": "Dan Morgan",
+        "link_amazon_book": "https://amzn.to/4p0hjzK",
+        "image": "https://m.media-amazon.com/images/I/91C1iQTkc5L._SY522_.jpg"
+    },
+    {
+        "title": "Biographie",
+        "author": "Daniel Alman",
+        "link_amazon_book": "https://amzn.to/4nUD5nE",
+        "image": "https://m.media-amazon.com/images/I/41CEClrF7bL.jpg"
+    },
+    {
+        "title": "L'Empire souterrain",
+        "author": "Henry Farrell & Abraham Newman",
+        "link_amazon_book": "https://amzn.to/48sxYFG",
+        "image": "https://m.media-amazon.com/images/I/61zBurNItwL._SY522_.jpg"
+    },
+    {
+        "title": "Le Capitalisme de l'apocalypse",
+        "author": "Quinn Slobodian",
+        "link_amazon_book": "https://amzn.to/3KwzuOX",
+        "image": "https://m.media-amazon.com/images/I/51+JHyIH9lL.jpg"
+    },
+    {
+        "title": "La Guerre du Péloponnèse",
+        "author": "Thucydide",
+        "link_amazon_book": "https://amzn.to/448MK2Z",
+        "image": "https://m.media-amazon.com/images/I/81e5muE1WlL._SY522_.jpg"
+    },
+    {
+        "title": "Saint-Germain ou la Négociation",
+        "author": "Francis Walder",
+        "link_amazon_book": "https://amzn.to/4pQh8rt",
+        "image": "https://m.media-amazon.com/images/I/91c2swkjorL._SY522_.jpg"
+    },
+    {
+        "title": "Les Fleurs du mal",
+        "author": "Charles Baudelaire",
+        "link_amazon_book": "https://amzn.to/3XxQI1u",
+        "image": "https://m.media-amazon.com/images/I/71yKrZePdDL._SY522_.jpg"
+    },
+    {
+        "title": "La Terre chinoise",
+        "author": "Pearl Buck",
+        "link_amazon_book": "https://amzn.to/4pffgbA",
+        "image": "https://m.media-amazon.com/images/I/81dD70RNn5L._SY522_.jpg"
+    },
+    {
+        "title": "Lettre aux paysans",
+        "author": "Jean Giono",
+        "link_amazon_book": "https://amzn.to/44vcMhb",
+        "image": "https://m.media-amazon.com/images/I/61o3csdWD3L._SY522_.jpg"
+    },
+    {
+        "title": "La Ferme des animaux",
+        "author": "George Orwell",
+        "link_amazon_book": "https://amzn.to/4rXDTeP",
+        "image": "https://m.media-amazon.com/images/I/719numWG6hL._SY522_.jpg"
+    },
+    {
+        "title": "L'Art de la Guerre",
+        "author": "Sun Tzu",
+        "link_amazon_book": "https://amzn.to/4amZmHT",
+        "image": "https://m.media-amazon.com/images/I/510ZQNsN9oL._SY522_.jpg"
+    },
+    {
+        "title": "Le Bataillon du ciel",
+        "author": "Joseph Kessel",
+        "link_amazon_book": "https://amzn.to/3KFNNRH",
+        "image": "https://m.media-amazon.com/images/I/81nfFtb7WTL._SY522_.jpg"
+    },
+    {
+        "title": "La Pitié dangereuse",
+        "author": "Stefan Zweig",
+        "link_amazon_book": "https://amzn.to/48WSSgh",
+        "image": "https://m.media-amazon.com/images/I/71YHepbMmaL._SY522_.jpg"
+    },
+    {
+        "title": "L'étrange défaite",
+        "author": "Marc Bloch",
+        "link_amazon_book": "https://amzn.to/4qimwDV",
+        "image": "https://m.media-amazon.com/images/I/71IUqz9tvhL._SY522_.jpg"
+    },
+    {
+        "title": "La crise de la conscience européenne",
+        "author": "Paul Hazard",
+        "link_amazon_book": "https://amzn.to/4s6P3Ou",
+        "image": "https://m.media-amazon.com/images/I/71M3EwhI0RL._SY522_.jpg"
+    },
+    {
+        "title": "Jihad Vs McWorld",
+        "author": "Benjamin R Barber",
+        "link_amazon_book": "https://amzn.to/4pIk89r",
+        "image": "https://m.media-amazon.com/images/I/914pOW9Cq0L._SY522_.jpg"
+    },
+    {
+        "title": "Le nouvel ordre post-occidental",
+        "author": "Alexandre del Valle",
+        "link_amazon_book": "https://amzn.to/44F6tYu",
+        "image": "https://m.media-amazon.com/images/I/71KQcmhwDdL._SY522_.jpg"
+    },
+    {
+        "title": "Le grand échiquier",
+        "author": "Zbigniew Brzezinski",
+        "link_amazon_book": "https://amzn.to/49kjVn6",
+        "image": "https://m.media-amazon.com/images/I/51L+dfOnZ2L._SY522_.jpg"
+    },
+    {
+        "title": "Le Petit Prince",
+        "author": "Antoine de Saint-Exupéry",
+        "link_amazon_book": "https://amzn.to/42l4iH2",
+        "image": "https://m.media-amazon.com/images/I/717xpibjvxL._SY466_.jpg"
+    },
+    {
+        "title": "L'Italien",
+        "author": "Arturo Pérez-Reverte",
+        "link_amazon_book": "https://amzn.to/4pOM0ZB",
+        "image": "https://m.media-amazon.com/images/I/81NsNiCs8tL._SY522_.jpg"
+    },
+    {
+        "title": "Nos chers alliés",
+        "author": "Gilbert Gallerne",
+        "link_amazon_book": "https://amzn.to/3L5QlII",
+        "image": "https://m.media-amazon.com/images/I/41zeJHs8W7L.jpg"
+    },
+    {
+        "title": "Evangile de Jesus Christ",
+        "author": "Saint Matthieu",
+        "link_amazon_book": "https://amzn.to/4kdCaP6",
+        "image": "https://m.media-amazon.com/images/I/61H4WBjv+yL._SY522_.jpg"
+    },
+    {
+        "title": "Voyage au bout de la nuit",
+        "author": "Louis-Ferdinand Céline",
+        "link_amazon_book": "https://amzn.to/48P4S1N",
+        "image": "https://m.media-amazon.com/images/I/818yQICGeNL._SY522_.jpg"
+    },
+    {
+        "title": "Petit traité des grandes vertus",
+        "author": "André Comte-Sponville",
+        "link_amazon_book": "https://amzn.to/4c6ca65",
+        "image": "https://m.media-amazon.com/images/I/81-CLdv5I1L._SY522_.jpg"
+    },
+    {
+        "title": "Cinq milliards en fumée",
+        "author": "Pierre-Antoine Delhommais",
+        "link_amazon_book": "https://amzn.to/4kh22cT",
+        "image": "https://m.media-amazon.com/images/I/614rJHJQgSL._SY522_.jpg"
+    },
+    {
+        "title": "Le Voyage d'Hector",
+        "author": "François Lelord",
+        "link_amazon_book": "https://amzn.to/4arCQgn",
+        "image": "https://m.media-amazon.com/images/I/71rsenomJzL._SY522_.jpg"
+    },
+    {
+        "title": "Ravage",
+        "author": "René Barjavel",
+        "link_amazon_book": "https://amzn.to/4kdPUsX",
+        "image": "https://m.media-amazon.com/images/I/41SySIvHNOL.jpg"
+    },
+    {
+        "title": "Les illusionnistes",
+        "author": "Géraldine Woessner",
+        "link_amazon_book": "https://amzn.to/4aaaVQP",
+        "image": "https://m.media-amazon.com/images/I/51VC+x6QFAL._SY522_.jpg"
+    },
+    {
+        "title": "L'étrange débâcle",
+        "author": "Henri Proglio",
+        "link_amazon_book": "https://amzn.to/4qaYjyE",
+        "image": "https://m.media-amazon.com/images/I/61kgIOJt8gL._SY522_.jpg"
+    },
+    {
+        "title": "L'Âge des low tech",
+        "author": "Philippe Bihouix",
+        "link_amazon_book": "https://amzn.to/3vsjsxK",
+        "image": "https://m.media-amazon.com/images/I/81rb-8EHM8L._SY522_.jpg"
+    },
+    {
+        "title": "1997",
+        "author": "Loïk Le Floch-Prigent",
+        "link_amazon_book": "https://amzn.to/4anSp8R",
+        "image": "https://static.fnac-static.com/multimedia/Images/FR/NR/20/d1/17/18338080/1507-1/tsp20241007114914/1997.jpg"
+    },
+    {
+        "title": "Dissolution française",
+        "author": "Olivier Marleix",
+        "link_amazon_book": "https://amzn.to/4cbFS9I",
+        "image": "https://m.media-amazon.com/images/I/51oo5+Tl9ML._SY522_.jpg"
+    },
+    {
+        "title": "Narcisse et Goldmund",
+        "author": "Hermann Hesse",
+        "link_amazon_book": "https://amzn.to/4kcc7I7",
+        "image": "https://m.media-amazon.com/images/I/81AwoO-Ik+L._SY522_.jpg"
+    },
+    {
+        "title": "La Confession d'un enfant du siècle",
+        "author": "Alfred de Musset",
+        "link_amazon_book": "https://amzn.to/4qgFmej",
+        "image": "https://m.media-amazon.com/images/I/815WtppjR0L._SY522_.jpg"
+    },
+    {
+        "title": "Confessions",
+        "author": "Saint Augustin",
+        "link_amazon_book": "https://amzn.to/4a8dYcl",
+        "image": "https://m.media-amazon.com/images/I/91Ap5f6oTqL._SY522_.jpg"
+    },
+    {
+        "title": "Ancien et Nouveau Testament",
+        "author": "La Bible",
+        "link_amazon_book": "https://amzn.to/4jK9ACU",
+        "image": "https://m.media-amazon.com/images/I/51UlqlxiLrL._SY522_.jpg"
+    },
+    {
+        "title": "Mémoires de guerre",
+        "author": "Charles de Gaulle",
+        "link_amazon_book": "https://amzn.to/47FiDzi",
+        "image": "https://m.media-amazon.com/images/I/61O8m00F9QL._SY522_.jpg"
+    },
+    {
+        "title": "Madame Bovary",
+        "author": "Gustave Flaubert",
+        "link_amazon_book": "https://amzn.to/4elwkYJ",
+        "image": "https://m.media-amazon.com/images/I/71tETVwL7YL._SY522_.jpg"
+    },
+    {
+        "title": "Vers une écologie d'esprit",
+        "author": "Gregory Bateson",
+        "link_amazon_book": "https://amzn.to/4s9LJkZ",
+        "image": "https://m.media-amazon.com/images/I/71ha29+Nx9L._SY522_.jpg"
+    },
+    {
+        "title": "Lettres à un jeune poète",
+        "author": "Rainer Maria Rilke",
+        "link_amazon_book": "https://amzn.to/4qS1hZA",
+        "image": "https://m.media-amazon.com/images/I/81wrRmpErpL._SY522_.jpg"
+    },
+    {
+        "title": "Loin de moi",
+        "author": "Clément Rosset",
+        "link_amazon_book": "https://amzn.to/4c7WkrH",
+        "image": "https://m.media-amazon.com/images/I/51YKonpiSrL._SY522_.jpg"
+    },
+    {
+        "title": "L'Homme sans qualités",
+        "author": "Robert Musil",
+        "link_amazon_book": "https://amzn.to/4qQ0V5x",
+        "image": "https://m.media-amazon.com/images/I/51MQaUVIP6L._SY522_.jpg"
+    },
+    {
+        "title": "Sous le soleil de Satan",
+        "author": "Georges Bernanos",
+        "link_amazon_book": "https://amzn.to/4rwwoeg",
+        "image": "https://m.media-amazon.com/images/I/61V4h0RGbpL._SY522_.jpg"
+    },
+    {
+        "title": "Nous Autres",
+        "author": "Eugène Zamiatine",
+        "link_amazon_book": "https://amzn.to/3MVL6wc",
+        "image": "https://m.media-amazon.com/images/I/91n4KEQILvL._SY522_.jpg"
+    },
+    {
+        "title": "L'Art de la Guerre",
+        "author": "Sun Tzu",
+        "link_amazon_book": "https://amzn.to/4amZmHT",
+        "image": "https://m.media-amazon.com/images/I/510ZQNsN9oL._SY522_.jpg"
+    },
+    {
+        "title": "Le Prince",
+        "author": "Nicolas Machiavel",
+        "link_amazon_book": "https://amzn.to/3vqLtpq",
+        "image": "https://m.media-amazon.com/images/I/71rymI-m0mL._SY522_.jpg"
+    },
+    {
+        "title": "De la guerre",
+        "author": "Carl von Clausewitz",
+        "link_amazon_book": "https://amzn.to/4bcyBUt",
+        "image": "https://m.media-amazon.com/images/I/61j80VQ4XZL._SY522_.jpg"
+    },
+    {
+        "title": "Quatrevingt-treize",
+        "author": "Victor Hugo",
+        "link_amazon_book": "https://amzn.to/40yhqsi",
+        "image": "https://m.media-amazon.com/images/I/61vWRZvcP5L._SY522_.jpg"
+    },
+    {
+        "title": "L'épopée d'un chef",
+        "author": "Robert Belleret",
+        "link_amazon_book": "https://amzn.to/3NwI0iy",
+        "image": "https://m.media-amazon.com/images/I/61KV-+oHi0L._SY522_.jpg"
+    },
+    {
+        "title": "Le roi Arthur",
+        "author": "Dominique Bona",
+        "link_amazon_book": "https://amzn.to/4bkPXPM",
+        "image": "https://m.media-amazon.com/images/I/71QiYCNfDuL._SY522_.jpg"
+    },
+    {
+        "title": "Traité théologico-politique",
+        "author": "Spinoza",
+        "link_amazon_book": "https://amzn.to/3NydHrO",
+        "image": "https://m.media-amazon.com/images/I/61R-fUjnKfL._SY522_.jpg"
+    },
+    {
+        "title": "Cyberpunk",
+        "author": "Asma Mhalla",
+        "link_amazon_book": "https://amzn.to/4uoZT3q",
+        "image": "https://m.media-amazon.com/images/I/81yX30t9G5L._SY522_.jpg"
+    },
+    {
+        "title": "Le Mal français",
+        "author": "Alain Peyrefitte",
+        "link_amazon_book": "https://amzn.to/4usS394",
+        "image": "https://m.media-amazon.com/images/I/61GQiQWb0jL._SY522_.jpg"
+    },
+    {
+        "title": "Le livre du rire et de l'oubli",
+        "author": "Milan Kundera",
+        "link_amazon_book": "https://amzn.to/4rsYB4M",
+        "image": "https://m.media-amazon.com/images/I/71I-zvNyMtL._SY522_.jpg"
+    },
+    {
+        "title": "La Comédie Humaine",
+        "author": "Balzac",
+        "link_amazon_book": "https://amzn.to/4lopENa",
+        "image": "https://m.media-amazon.com/images/I/61YrarehT+L._SY522_.jpg"
+    },
+    {
+        "title": "Oeuvre intégrale",
+        "author": "Fereshteh Molavi",
+        "link_amazon_book": "https://amzn.to/3TtLwd7",
+        "image": "https://m.media-amazon.com/images/I/41VClTstd9L.jpg"
+    },
+    {
+        "title": "De l'inégalité parmi les sociétés",
+        "author": "Jared Diamond",
+        "link_amazon_book": "https://amzn.to/4aT2U23",
+        "image": "https://m.media-amazon.com/images/I/71QkQf2uudL._SY522_.jpg"
+    },
+    {
+        "title": "Confessions of an Economic Hit Man",
+        "author": "John Perkins",
+        "link_amazon_book": "https://amzn.to/4c4xV5W",
+        "image": "https://m.media-amazon.com/images/I/81OEF1RiBsL._SY522_.jpg"
+    },
+    {
+        "title": "Blowback",
+        "author": "Chalmers Johnson",
+        "link_amazon_book": "https://amzn.to/4mh8YYk",
+        "image": "https://m.media-amazon.com/images/I/91u2Ix2eieL._SY522_.jpg"
+    },
+    {
+        "title": "Open Veins of Latin America",
+        "author": "Eduardo Galeano",
+        "link_amazon_book": "https://amzn.to/4mvTgZB",
+        "image": "https://m.media-amazon.com/images/I/91mmZ4byfEL._SY522_.jpg"
+    },
+    {
+        "title": "The Green Zone",
+        "author": "Mike Davis",
+        "link_amazon_book": "https://amzn.to/3OghI4n",
+        "image": "https://m.media-amazon.com/images/I/712mretwWlL._SY522_.jpg"
+    },
+    {
+        "title": "The End of Ice",
+        "author": "Dahr Jamail",
+        "link_amazon_book": "https://amzn.to/3Qw81j1",
+        "image": "https://m.media-amazon.com/images/I/71qpqIPXh8L._SY522_.jpg"
+    },
+    {
+        "title": "Au Bonheur des dames",
+        "author": "Emile Zola",
+        "link_amazon_book": "https://amzn.to/3QgxDAp",
+        "image": "https://m.media-amazon.com/images/I/614YodzcJ-L._SY522_.jpg"
+    },
+    {
+        "title": "L'étranger",
+        "author": "Albert Camus",
+        "link_amazon_book": "https://amzn.to/3IzB2qI",
+        "image": "https://m.media-amazon.com/images/I/8130inT26AL._SY522_.jpg"
+    },
+    {
+        "title": "Le Rouge et le noir",
+        "author": "Stendhal",
+        "link_amazon_book": "https://amzn.to/4c1gxPz",
+        "image": "https://m.media-amazon.com/images/I/81JnDJLC9rL._SY522_.jpg"
+    },
+    {
+        "title": "Martin Eden",
+        "author": "Jack London",
+        "link_amazon_book": "https://amzn.to/49gQH5W",
+        "image": "https://m.media-amazon.com/images/I/61kWOJcHerL._SY466_.jpg"
+    },
+    {
+        "title": "Les coulisses de la grande distribution",
+        "author": "Christian Jacquiau ",
+        "link_amazon_book": "https://amzn.to/4tCjEDt",
+        "image": "https://m.media-amazon.com/images/I/61ZGm82kB2L._SY522_.jpg"
+    },
+    {
+        "title": "Les Hauts Parleurs",
+        "author": "Alain Damasio",
+        "link_amazon_book": "https://www.juriscom.net/documents/HautsParleurs.pdf",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Alain_Damasio%2C_2019_%28cropped%29.JPG/500px-Alain_Damasio%2C_2019_%28cropped%29.JPG"
+    },
+    {
+        "title": "Le Peuple contre la démocratie",
+        "author": "Yascha Mounk",
+        "link_amazon_book": "https://amzn.to/4dz9tLb",
+        "image": "https://m.media-amazon.com/images/I/71W7043zcsL._SY522_.jpg"
+    },
+    {
+        "title": "Les voies nouvelles du géomimétisme",
+        "author": "Pierre Gilbert",
+        "link_amazon_book": "https://amzn.to/4moiPf1",
+        "image": "https://m.media-amazon.com/images/I/61EnvDtKu6L._SY522_.jpg"
+    },
+    {
+        "title": "Les dessous de la politique de l'Oncle Sam",
+        "author": "Noam Chomsky",
+        "link_amazon_book": "https://amzn.to/4tYOFl1",
+        "image": "https://m.media-amazon.com/images/I/61OaNtSoSIL._SY522_.jpg"
+    },
+    {
+        "title": "Fullmetal Alchemist",
+        "author": "Hiromu Arakawa",
+        "link_amazon_book": "https://amzn.to/4tiNTiV",
+        "image": "https://m.media-amazon.com/images/I/61oPIyubtEL._SY522_.jpg"
+    },
+    {
+        "title": "Naruto",
+        "author": "Masashi Kishimoto",
+        "link_amazon_book": "https://amzn.to/4sH3ojx",
+        "image": "https://m.media-amazon.com/images/I/91cTr93aQ6L._SY522_.jpg"
+    },
+    {
+        "title": "Chroniques martiennes",
+        "author": "Ray Bradbury",
+        "link_amazon_book": "https://amzn.to/4v1yi7Z",
+        "image": "https://m.media-amazon.com/images/I/71EVkmklhyL._SY522_.jpg"
+    },
+    {
+        "title": "Fahrenheit 451",
+        "author": "Ray Bradbury",
+        "link_amazon_book": "https://amzn.to/3Rnnse8",
+        "image": "https://m.media-amazon.com/images/I/81XMLws5fiL._SY522_.jpg"
+    },
+    {
+        "title": "Le Désert de nous-mêmes",
+        "author": "Eric Sadin",
+        "link_amazon_book": "https://amzn.to/4nE4zPS",
+        "image": "https://m.media-amazon.com/images/I/519yHHSmgVL._SY522_.jpg"
+    },
+    {
+        "title": "Trois",
+        "author": "Valérie Perrin",
+        "link_amazon_book": "https://amzn.to/3PVJQuv",
+        "image": "https://m.media-amazon.com/images/I/81ygRNNPdCL._SY522_.jpg"
+    },
+    {
+        "title": "Manifeste pour une agriculture durable",
+        "author": "Lydia Bourguignon & Claude Bourguignon",
+        "link_amazon_book": "https://amzn.to/4uJnXhr",
+        "image": "https://m.media-amazon.com/images/I/51t1qLjGCZL._SY522_.jpg"
+    },
+    {
+        "title": "1984",
+        "author": "George Orwell",
+        "link_amazon_book": "https://amzn.to/3HeBWV7",
+        "image": "https://m.media-amazon.com/images/I/71Y9X7FYkcL._SY522_.jpg"
+    },
+    {
+        "title": "Les Frères Karamazov",
+        "author": "Fedor Mikhaïlovitch Dostoïevski",
+        "link_amazon_book": "https://amzn.to/4usHEd6",
+        "image": "https://m.media-amazon.com/images/I/81ITM7ECmRL._SY522_.jpg"
+    },
+    {
+        "title": "Le Prince",
+        "author": "Nicolas Machiavel",
+        "link_amazon_book": "https://amzn.to/3vqLtpq",
+        "image": "https://m.media-amazon.com/images/I/71rymI-m0mL._SY522_.jpg"
+    },
+    {
+        "title": "Le Ciel ouvert",
+        "author": "Nicolas Mathieu",
+        "link_amazon_book": "https://amzn.to/3RnrbYZ",
+        "image": "https://m.media-amazon.com/images/I/71cyFIlswaL._SY522_.jpg"
+    },
+    {
+        "title": "Les particules élémentaires",
+        "author": "Michel Houellebecq",
+        "link_amazon_book": "https://amzn.to/3RTsT4q",
+        "image": "https://m.media-amazon.com/images/I/51xTHtrEubL._SY522_.jpg"
+    },
+    {
+        "title": "Limonov",
+        "author": "Emmanuel Carrère",
+        "link_amazon_book": "https://amzn.to/42L5sg7",
+        "image": "https://m.media-amazon.com/images/I/715QqaBkqmL._SY522_.jpg"
+    },
+    {
+        "title": "Le continent de la douceur",
+        "author": "Aurélien Bellanger",
+        "link_amazon_book": "https://amzn.to/4tQj7NQ",
+        "image": "https://m.media-amazon.com/images/I/81iGbSTV2kL._SY522_.jpg"
+    },
+    {
+        "title": "Collusion",
+        "author": "Luke Harding",
+        "link_amazon_book": "https://amzn.to/4wOjwTS",
+        "image": "https://m.media-amazon.com/images/I/71Pqxr7oYVL._SY522_.jpg"
+    },
+    {
+        "title": "La France au miroir de l'Amérique",
+        "author": "Aquilino Morelle",
+        "link_amazon_book": "https://amzn.to/4wDZ8od",
+        "image": "https://m.media-amazon.com/images/I/81c-QupTeuL._SY522_.jpg"
+    },
+    {
+        "title": "Réindustrialiser : le défi d’une génération",
+        "author": "Olivier Lluansi",
+        "link_amazon_book": "https://amzn.to/4v2d7m8",
+        "image": "https://m.media-amazon.com/images/I/71R40ZX+XWL._SY522_.jpg"
+    },
+    {
+        "title": "Les mots",
+        "author": "Jean-Paul Sartre",
+        "link_amazon_book": "https://amzn.to/3SS4o8A",
+        "image": "https://m.media-amazon.com/images/I/71KwgAfJ0sL._SY522_.jpg"
+    },
+    {
+        "title": "À la recherche du temps perdu",
+        "author": "Marcel Prous",
+        "link_amazon_book": "https://amzn.to/4wAKmOq",
+        "image": "https://m.media-amazon.com/images/I/51SXZJQMPQL._SY522_.jpg"
+    },
+    {
+        "title": "Sur la télévision",
+        "author": "Pierre Bourdieu",
+        "link_amazon_book": "https://amzn.to/4eVnyTz",
+        "image": "https://m.media-amazon.com/images/I/51qZb0IDu2L._SY522_.jpg"
+    },
+    {
+        "title": "Le meilleur des mondes",
+        "author": "Aldous Huxley",
+        "link_amazon_book": "https://amzn.to/3Ttm5v9",
+        "image": "https://m.media-amazon.com/images/I/71iZzLwuZML._SY522_.jpg"
+    },
+    {
+        "title": "1984",
+        "author": "George Orwell",
+        "link_amazon_book": "https://amzn.to/3HeBWV7",
+        "image": "https://m.media-amazon.com/images/I/71Y9X7FYkcL._SY522_.jpg"
+    },
+    {
+        "title": "Le Hasard et la Nécessité",
+        "author": "Jacques Monod",
+        "link_amazon_book": "https://amzn.to/44oDNlX",
+        "image": "https://m.media-amazon.com/images/I/61iWK8q+i+L._SY522_.jpg"
+    },
+    {
+        "title": "Ultra-intelligence",
+        "author": "Aymeric ROUCHER",
+        "link_amazon_book": "https://amzn.to/4wV5LlF",
+        "image": "https://m.media-amazon.com/images/I/71OWHo80e5L._SY522_.jpg"
+    },
+    {
+        "title": "Nexus",
+        "author": "Yuval Noah Harari",
+        "link_amazon_book": "https://amzn.to/3SV38RZ",
+        "image": "https://m.media-amazon.com/images/I/61gS+TgcmnL._SY522_.jpg"
+    },
+    {
+        "title": "L'individu, fin de parcours ?",
+        "author": "Julien Gobin",
+        "link_amazon_book": "https://amzn.to/4pb0weK",
+        "image": "https://m.media-amazon.com/images/I/61h+sgimlhL._SY522_.jpg"
+    },
+    {
+        "title": "Ma vie d'autiste",
+        "author": "Grandin temple",
+        "link_amazon_book": "https://amzn.to/4w7aujO",
+        "image": "https://m.media-amazon.com/images/I/810NTr2xphL._SY522_.jpg"
+    },
+    {
+        "title": "Psychologie de l'inconscient",
+        "author": "Carl Jung",
+        "link_amazon_book": "https://amzn.to/44lGRiI",
+        "image": "https://m.media-amazon.com/images/I/81kLI0np12L._SY522_.jpg"
+    },
+    {
+        "title": "Les Rois Maudits",
+        "author": "Maurice Druon",
+        "link_amazon_book": "https://amzn.to/4ck2MLx",
+        "image": "https://m.media-amazon.com/images/I/71s20JSMwtL._SY522_.jpg"
+    },
+    {
+        "title": "Je voulais vivre",
+        "author": "Adélaïde de Clermont-Tonnerre",
+        "link_amazon_book": "https://amzn.to/4qOwnTp",
+        "image": "https://m.media-amazon.com/images/I/61Z2XeZlKtL._SY522_.jpg"
+    },
+    {
+        "title": "L'âme noire de la démocratie",
+        "author": "Geoffroy de Lagasnerie",
+        "link_amazon_book": "https://amzn.to/4h1BFYc",
+        "image": "https://m.media-amazon.com/images/I/61+ClrijqEL._SY522_.jpg"
+    },
+    {
+        "title": "Bitcoin, la monnaie acéphale",
+        "author": "Jacques Favier",
+        "link_amazon_book": "https://amzn.to/4yaBwHV",
+        "image": "https://m.media-amazon.com/images/I/51Gztn3BHAL._SY522_.jpg"
+    },
+    {
+        "title": "Le fil de l'épée",
+        "author": "Charles de Gaulle",
+        "link_amazon_book": "https://amzn.to/4zMnYE6",
+        "image": "https://m.media-amazon.com/images/I/71Dof4+GGqL._SY522_.jpg"
+    },
+    {
+        "title": "Maîtres anciens",
+        "author": "Thomas Bernhard",
+        "link_amazon_book": "https://amzn.to/45XLlwI",
+        "image": "https://m.media-amazon.com/images/I/71JZCaDFn6L._SY522_.jpg"
+    },
+    {
+        "title": "Mémoires de Saint-Simon",
+        "author": "Saint-Simon",
+        "link_amazon_book": "https://amzn.to/4xtwYMV",
+        "image": "https://m.media-amazon.com/images/I/81QfaD+K4TL._SY522_.jpg"
+    },
+    {
+        "title": "The Art of Not Being Governed",
+        "author": "James C. Scott",
+        "link_amazon_book": "https://link.amazon/B0aaqY0Tw",
+        "image": ""
+    },
+    {
+        "title": "Le Rouge et le noir",
+        "author": "Stendhal",
+        "link_amazon_book": "https://link.amazon/B041KpKW3",
+        "image": "https://m.media-amazon.com/images/I/81JnDJLC9rL._SY522_.jpg"
+    },
+    {
+        "title": "What It Takes to Disappear",
+        "author": "Michael Bazzell",
+        "link_amazon_book": "https://link.amazon/B06SOT3QE",
+        "image": "https://m.media-amazon.com/images/I/51xwVuDAO8L._SY522_.jpg"
+    },
+    {
+        "title": "À la recherche du temps perdu",
+        "author": "Marcel Proust",
+        "link_amazon_book": "https://link.amazon/B06imLBlc",
+        "image": "https://m.media-amazon.com/images/I/617QjWAWTHL._SY522_.jpg"
+    },
+    {
+        "title": "Le mage du Kremlin",
+        "author": "Giuliano da Empoli",
+        "link_amazon_book": "https://link.amazon/B0f63QCU7",
+        "image": "https://m.media-amazon.com/images/I/71JoX9rOJvL._SY522_.jpg"
+    },
+    {
+        "title": "Connemara",
+        "author": "Nicolas Mathieu",
+        "link_amazon_book": "https://link.amazon/B0fpOebT0",
+        "image": "https://m.media-amazon.com/images/I/61i2+SkdhPL._SY522_.jpg"
+    },
+    {
+        "title": "Moby Dick",
+        "author": "Herman Melville",
+        "link_amazon_book": "https://link.amazon/B0iaHhiGk",
+        "image": "https://m.media-amazon.com/images/I/51nRewtzUlL.jpg"
+    },
+    {
+        "title": "L'abolition de l'homme",
+        "author": "C.S. Lewis",
+        "link_amazon_book": "https://link.amazon/B0hRcuafx",
+        "image": "https://m.media-amazon.com/images/I/31Y9YwI7DRL._SY445_SX342_ML2_.jpg"
+    },
+    {
+        "title": "Les Frères Karamazov",
+        "author": "Fiodor Dostoïevski",
+        "link_amazon_book": "https://amzn.to/3HCpAqh",
+        "image": "https://m.media-amazon.com/images/I/81ITM7ECmRL._SY522_.jpg"
+    },
+    {
+        "title": "Pourquoi les pays font faillite",
+        "author": "Ray Dalio",
+        "link_amazon_book": "https://link.amazon/B00lYSUP2",
+        "image": "https://m.media-amazon.com/images/I/716xkDna0BL._SX425_.jpg"
+    },
+    {
+        "title": "L'ordre mondial en mutation",
+        "author": "Ray Dalio",
+        "link_amazon_book": "https://link.amazon/B0hMCjKa5",
+        "image": "https://m.media-amazon.com/images/I/71OvXy3G1UL._SY522_.jpg"
+    },
+    {
+        "title": "Les principes du succès",
+        "author": "Ray Dalio",
+        "link_amazon_book": "https://link.amazon/B097Yi7QZ",
+        "image": "https://m.media-amazon.com/images/I/61xtMz-6l+L._SY522_.jpg"
+    }
+]
